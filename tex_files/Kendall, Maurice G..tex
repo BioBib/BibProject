@@ -1,4 +1,35 @@
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Kendall, Maurice G.
 
+@inwebcollection{kendall__maurice_g:12,
+year={2003},
+author={O'Connor, J. J. and Robertson, E. F.},
+title={{M}aurice {G}eorge {K}endall},
+note={MacTutor biography},
+}
+
+@incollection{kendall__maurice_g:11,
+year={2005},
+author={Altman, D. G.},
+title={{K}endall, {M}aurice {G}eorge},
+crossref={booktitle:encyclopedia-of-biostatistics},
+}
+
+@incollection{kendall__maurice_g:10,
+year={2006},
+author={Anonymous},
+title={{U}ntitled},
+year={2006},
+crossref={booktitle:encyclopedia-of-statistical-sciences},
+}
+\end{filecontents}
+
+\begin{document}
 
 \subsection*{Honors}
 \Honor{1944}{IMS Fellow}
@@ -6,3 +37,10 @@
 \Honor{1968}{Guy Medal in Gold}
 \Honor{1970}{British Academy, Fellow}
 \Honor{1974}{Knighted}
+
+
+\subsection*{Biographies}
+\Biography{kendall__maurice_g:12}
+\Biography{kendall__maurice_g:11}
+\Biography{kendall__maurice_g:10}
+\end{document}

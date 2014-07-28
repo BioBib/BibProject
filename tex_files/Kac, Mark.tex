@@ -1,7 +1,47 @@
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Kac, Mark
 
+@misc{kac__mark:280356,
+year={1985},
+author={Anonymous},
+title={{U}ntitled},
+}
+
+@article{kac__mark:20,
+year={1990},
+author={McKean, H. P.},
+title={{M}ark {K}ac, {A}ugust 16, 1914-{O}ctober 25, 1984},
+journal={Biographical Memoirs},
+pages={214-235},
+publisher={National Academies Press},
+}
+
+@inwebcollection{kac__mark:21,
+year={1998},
+author={O'Connor, J. J. and Robertson, E. F.},
+title={{M}ark {K}ac},
+note={MacTutor biography},
+}
+
+@article{kac__mark:9,
+year={1985},
+author={Anonymous},
+title={{U}ntitled},
+journal={IMS Bulletin},
+pages={75},
+volume={14},
+}
+\end{filecontents}
+
+\begin{document}
 
 \subsection*{Education}
-\Degree{1937}{Ph.D.}{University of Lw&oacute;w}{http://genealogy.math.ndsu.nodak.edu/id.php?id=17851}
+\Degree{1937}{Ph.D.}{University of Lw\'{o}w}{http://genealogy.math.ndsu.nodak.edu/id.php?id=17851}
 
 
 \subsection*{Honors}
@@ -15,3 +55,14 @@
 \Honor{1978}{Wald Lecturer}
 \Honor{1981}{The Royal Netherlands Academy of Arts and Sciences, Foreign Member}
 \Honor{1982}{IMS President}
+
+
+\subsection*{Biographies}
+\Biography{kac__mark:280356}
+\Biography{kac__mark:20}
+\Biography{kac__mark:21}
+
+
+\subsection*{Death Notice}
+\DeathNotice{kac__mark:9}
+\end{document}

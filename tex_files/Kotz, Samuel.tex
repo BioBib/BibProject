@@ -1,4 +1,37 @@
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Kotz, Samuel
 
+@misc{kotz__samuel:165290,
+year={2010},
+author={Anonymous},
+title={{U}ntitled},
+}
+
+@article{kotz__samuel:7,
+year={2010},
+author={Nadarajah, S.},
+title={{S}amuel {K}otz, 1930-2010},
+journal={IMS Bulletin},
+pages={6},
+volume={39(6)},
+}
+\end{filecontents}
+
+\begin{document}
 
 \subsection*{Honors}
 \Honor{1974}{IMS Fellow}
+
+
+\subsection*{Obituary}
+\Obituary{kotz__samuel:165290}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{kotz__samuel:7}
+\end{document}

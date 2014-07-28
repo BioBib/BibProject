@@ -1,4 +1,29 @@
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Friedman, Milton
 
+@incollection{friedman__milton:15,
+year={2008},
+author={Boianovsky, M.},
+title={{F}riedman, {M}ilton},
+crossref={booktitle:international-encyclopedia-of-the-social-sciences},
+}
+
+@article{friedman__milton:7,
+year={2007},
+author={Stigler, S.},
+title={{M}ilton {F}riedman, 1912-2006},
+journal={IMS Bulletin},
+pages={8},
+volume={36(2)},
+}
+\end{filecontents}
+
+\begin{document}
 
 \subsection*{Honors}
 \Honor{1943}{IMS Fellow}
@@ -9,3 +34,12 @@
 \Honor{1976}{Nobel Prize in Economic Sciences}
 \Honor{1988}{National Medal of Science}
 \Honor{1988}{Presidential Medal of Freedom}
+
+
+\subsection*{Biography}
+\Biography{friedman__milton:15}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{friedman__milton:7}
+\end{document}

@@ -1,4 +1,38 @@
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Arcones, Miguel A.
 
+@article{arcones__miguel_a:9,
+year={2010},
+author={Anonymous},
+title={{M}ath professor {A}rcones dies},
+journal={Inside Binghamton University},
+volume={31(18)},
+}
+
+@article{arcones__miguel_a:10,
+year={2010},
+author={Anonymous},
+title={{U}ntitled},
+journal={Bernoulli News},
+volume={17(1)},
+}
+\end{filecontents}
+
+\begin{document}
 
 \subsection*{Honors}
 \Honor{2008}{IMS Fellow}
+
+
+\subsection*{Obituary}
+\Obituary{arcones__miguel_a:9}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{arcones__miguel_a:10}
+\end{document}

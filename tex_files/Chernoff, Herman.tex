@@ -1,4 +1,20 @@
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Chernoff, Herman
 
+@inwebcollection{chernoff__herman:12,
+year={2006},
+author={O'Connor, J. J. and Robertson, E. F.},
+title={{H}erman {C}hernoff},
+note={MacTutor biography},
+}
+\end{filecontents}
+
+\begin{document}
 
 \subsection*{Education}
 \Degree{1948}{Ph.D.}{Brown University}{Studentization in Testing of Hypotheses}{http://genealogy.math.ndsu.nodak.edu/id.php?id=14275}
@@ -13,3 +29,8 @@
 \Honor{1980}{National Academy of Sciences, Member}
 \Honor{1987}{Samuel S. Wilks Award}
 \Honor{1989}{Rietz Lecturer}
+
+
+\subsection*{Biography}
+\Biography{chernoff__herman:12}
+\end{document}

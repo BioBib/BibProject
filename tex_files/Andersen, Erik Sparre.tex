@@ -1,4 +1,37 @@
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Andersen, Erik Sparre
 
+@misc{andersen__erik_sparre:11,
+year={year?},
+author={Anonymous},
+title={{E}rik {S}parre {A}ndersen},
+booktitle={Dansk {B}iografisk {L}eksikon},
+}
+
+@article{andersen__erik_sparre:8,
+year={2003},
+author={Anonymous},
+title={{U}ntitled},
+journal={Notices Amer. Math. Soc.},
+pages={705},
+}
+
+@misc{andersen__erik_sparre:9,
+year={2004},
+author={Johansen, S.},
+title={{E}rik {S}parre {A}ndersen, 1919-2003},
+author={Johansen, {S}.},
+title={Erik {S}parre {A}ndersen, 1919-2003},
+year={2004},
+}
+\end{filecontents}
+
+\begin{document}
 
 \subsection*{Education}
 \Degree{1995}{Ph.D.}{Lund University}{Algebraic and Analytic Properties of Groups of Holomorphic Automorphisms of C^n}{http://genealogy.math.ndsu.nodak.edu/id.php?id=44835}
@@ -6,3 +39,16 @@
 
 \subsection*{Honors}
 \Honor{1988}{IMS Fellow}
+
+
+\subsection*{Biography}
+\Biography{andersen__erik_sparre:11}
+
+
+\subsection*{Death Notice}
+\DeathNotice{andersen__erik_sparre:8}
+
+
+\subsection*{Obituary}
+\Obituary{andersen__erik_sparre:9}
+\end{document}

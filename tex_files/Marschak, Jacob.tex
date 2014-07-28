@@ -1,6 +1,42 @@
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Marschak, Jacob
 
+@article{marschak__jacob:10,
+year={1991},
+author={Arrow, K. J.},
+title={{J}acob {M}arschak, {J}uly 23, 1898-{J}uly 27, 1977},
+journal={Biographical Memoirs},
+pages={128-146},
+publisher={National Academies Press},
+}
+
+@article{marschak__jacob:7,
+year={1978},
+author={Anonymous},
+title={{U}ntitled},
+journal={IMS Bulletin},
+pages={329},
+volume={7},
+}
+\end{filecontents}
+
+\begin{document}
 
 \subsection*{Honors}
 \Honor{1953}{IMS Fellow}
 \Honor{1961}{American Academy of Arts and Sciences, Fellow}
 \Honor{1973}{National Academy of Sciences, Member}
+
+
+\subsection*{Biography}
+\Biography{marschak__jacob:10}
+
+
+\subsection*{Death Notice}
+\DeathNotice{marschak__jacob:7}
+\end{document}

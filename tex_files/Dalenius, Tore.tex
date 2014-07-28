@@ -1,4 +1,44 @@
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Dalenius, Tore
 
+@misc{dalenius__tore:100302,
+year={2002},
+author={Anonymous},
+title={{U}ntitled},
+}
+
+@misc{dalenius__tore:453645,
+year={2002},
+author={Anonymous},
+title={{U}ntitled},
+}
+
+@article{dalenius__tore:9,
+year={2002},
+author={Lyberg, L. and Christianson, A.},
+title={{T}ore {E}lon {D}alenius, 1917-2002},
+journal={The Survey Statistician},
+pages={4-5},
+volume={46},
+}
+\end{filecontents}
+
+\begin{document}
 
 \subsection*{Honors}
 \Honor{1960}{IMS Fellow}
+
+
+\subsection*{Obituary}
+\Obituary{dalenius__tore:100302}
+
+
+\subsection*{Memorials}
+\InMemoriam{dalenius__tore:453645}
+\InMemoriam{dalenius__tore:9}
+\end{document}

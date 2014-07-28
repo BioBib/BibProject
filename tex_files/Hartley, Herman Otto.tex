@@ -1,5 +1,37 @@
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Hartley, Herman Otto
 
+@article{hartley__h_o:10,
+year={2005},
+author={Smith, W. B.},
+title={{H}. {O}. {H}artley (1912-1980): {R}evered and remembered},
+journal={Amstat News},
+pages={10-11},
+volume={Sept. 2005},
+}
+
+@incollection{hartley__h_o:9,
+year={2006},
+author={Anonymous},
+title={{U}ntitled},
+year={2006},
+crossref={booktitle:encyclopedia-of-statistical-sciences},
+}
+\end{filecontents}
+
+\begin{document}
 
 \subsection*{Honors}
 \Honor{1949}{IMS Fellow}
 \Honor{1973}{Samuel S. Wilks Award}
+
+
+\subsection*{Biographies}
+\Biography{hartley__h_o:10}
+\Biography{hartley__h_o:9}
+\end{document}

@@ -1,4 +1,33 @@
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Kruskal, William H.
 
+@inwebcollection{kruskal__william_h:14,
+year={2006},
+author={O'Connor, J. J. and Robertson, E. F.},
+title={{W}illiam {H}enry {K}ruskal},
+note={MacTutor biography},
+}
+
+@misc{kruskal__william_h:952830,
+year={2005},
+author={Anonymous},
+title={{U}ntitled},
+}
+
+@article{kruskal__william_h:9,
+year={2005},
+author={Anonymous},
+title={{U}ntitled},
+journal={The University of Chicago News Office},
+}
+\end{filecontents}
+
+\begin{document}
 
 \subsection*{Education}
 \Degree{1955}{Ph.D.}{Columbia University}{http://genealogy.math.ndsu.nodak.edu/id.php?id=58995}
@@ -10,3 +39,16 @@
 \Honor{1973}{American Academy of Arts and Sciences, Fellow}
 \Honor{1978}{R. A. Fisher Lecturer}
 \Honor{1978}{Samuel S. Wilks Award}
+
+
+\subsection*{Biography}
+\Biography{kruskal__william_h:14}
+
+
+\subsection*{Death Notice}
+\DeathNotice{kruskal__william_h:952830}
+
+
+\subsection*{Obituary}
+\Obituary{kruskal__william_h:9}
+\end{document}

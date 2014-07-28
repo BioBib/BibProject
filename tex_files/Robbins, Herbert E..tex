@@ -1,4 +1,34 @@
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Robbins, Herbert E.
 
+@incollection{robbins__herbert_e:15,
+year={2008},
+author={Page, W.},
+title={{H}erbert {R}obbins},
+pages={281-297},
+crossref={booktitle:mathematical-people-profiles-and-interviews},
+}
+
+@inwebcollection{robbins__herbert_e:16,
+year={2010},
+author={O'Connor, J. J. and Robertson, E. F.},
+title={{H}erbert {E}llis {R}obbins},
+note={MacTutor biography},
+}
+
+@misc{robbins__herbert_e:217028,
+year={2001},
+author={Anonymous},
+title={{U}ntitled},
+}
+\end{filecontents}
+
+\begin{document}
 
 \subsection*{Education}
 \Degree{1938}{Ph.D.}{Harvard University}{On the Classification of the Maps of a 2-Complex into a Space}{http://genealogy.math.ndsu.nodak.edu/id.php?id=7781}
@@ -13,3 +43,13 @@
 \Honor{1975}{American Academy of Arts and Sciences, Fellow}
 \Honor{1982}{Neyman Lecturer}
 \Honor{1993}{R. A. Fisher Lecturer}
+
+
+\subsection*{Biographies}
+\Biography{robbins__herbert_e:15}
+\Biography{robbins__herbert_e:16}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{robbins__herbert_e:217028}
+\end{document}

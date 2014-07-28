@@ -1,4 +1,28 @@
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Girshick, Meyer A.
 
+@incollection{girshick__meyer_a:9,
+year={1968},
+author={Arrow, K. J.},
+title={{G}irshick, {M}eyer {A}.},
+crossref={booktitle:international-encyclopedia-of-the-social-sciences},
+}
+
+@incollection{girshick__meyer_a:10,
+year={1978},
+author={Arrow, K. J.},
+title={{G}irshick, {M}eyer {A}.},
+pages={398-399},
+crossref={booktitle:international-encyclopedia-of-statistics},
+}
+\end{filecontents}
+
+\begin{document}
 
 \subsection*{Education}
 \Degree{1947}{Ph.D.}{Columbia University}{Contributions to the Theory of Sequential Analysis}{http://genealogy.math.ndsu.nodak.edu/id.php?id=42961}
@@ -7,3 +31,9 @@
 \subsection*{Honors}
 \Honor{1943}{IMS Fellow}
 \Honor{1952}{IMS President}
+
+
+\subsection*{Biographies}
+\Biography{girshick__meyer_a:9}
+\Biography{girshick__meyer_a:10}
+\end{document}

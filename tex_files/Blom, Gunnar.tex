@@ -1,4 +1,28 @@
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Blom, Gunnar
 
+@book{blom__gunnar:7,
+year={1985},
+author={Anonymous},
+title={{U}ntitled},
+}
+
+@article{blom__gunnar:8,
+year={2004},
+author={Lanke, J.},
+title={{G}unnar {B}lom},
+journal={IMS Bulletin},
+pages={10},
+volume={33(2)},
+}
+\end{filecontents}
+
+\begin{document}
 
 \subsection*{Education}
 \Degree{1958}{Ph.D.}{Stockholm University}{Statistical Estimates and Transformed Beta-variables}{http://genealogy.math.ndsu.nodak.edu/id.php?id=44719}
@@ -6,3 +30,12 @@
 
 \subsection*{Honors}
 \Honor{1965}{IMS Fellow}
+
+
+\subsection*{Festschrift}
+\Festschrift{blom__gunnar:7}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{blom__gunnar:8}
+\end{document}

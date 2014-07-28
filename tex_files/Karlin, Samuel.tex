@@ -1,4 +1,29 @@
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Karlin, Samuel
 
+@inwebcollection{karlin__samuel:15,
+year={2008},
+author={O'Connor, J. J. and Robertson, E. F.},
+title={{S}amuel {K}arlin},
+note={MacTutor biography},
+}
+
+@article{karlin__samuel:7,
+year={2008},
+author={Olshen, R. and Singer, B.},
+title={{S}amuel {K}arlin, 1924-2007},
+journal={IMS Bulletin},
+pages={14-15},
+volume={37(4)},
+}
+\end{filecontents}
+
+\begin{document}
 
 \subsection*{Education}
 \Degree{1947}{Ph.D.}{Princeton University}{Independent Functions}{http://genealogy.math.ndsu.nodak.edu/id.php?id=8105}
@@ -14,3 +39,12 @@
 \Honor{1987}{John von Neumann Theory Prize}
 \Honor{1989}{National Medal of Science}
 \Honor{1995}{American Philosophical Society, Member}
+
+
+\subsection*{Biography}
+\Biography{karlin__samuel:15}
+
+
+\subsection*{Obituary}
+\Obituary{karlin__samuel:7}
+\end{document}

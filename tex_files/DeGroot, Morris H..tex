@@ -1,4 +1,29 @@
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for DeGroot, Morris H.
 
+@incollection{degroot__morris_h:9,
+year={2006},
+author={Bayarri, M. J. and Fienberg, S. E.},
+title={{D}e{G}root, {M}orris {H}.},
+crossref={booktitle:encyclopedia-of-statistical-sciences},
+}
+
+@article{degroot__morris_h:8,
+year={1989},
+author={Eddy, W. F. and Lehoczky, J. P.},
+title={{M}orris {H}erman {D}e{G}root, 1931-1989},
+journal={IMS Bulletin},
+pages={537},
+volume={18},
+}
+\end{filecontents}
+
+\begin{document}
 
 \subsection*{Education}
 \Degree{1958}{Ph.D.}{The University of Chicago}{Unbiased Sequential Estimation of a Probability}{http://genealogy.math.ndsu.nodak.edu/id.php?id=35420}
@@ -7,3 +32,12 @@
 \subsection*{Honors}
 \Honor{1968}{IMS Fellow}
 \Honor{1987}{IMS Medallion Lecturer}
+
+
+\subsection*{Biography}
+\Biography{degroot__morris_h:9}
+
+
+\subsection*{Obituary}
+\Obituary{degroot__morris_h:8}
+\end{document}

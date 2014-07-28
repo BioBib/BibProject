@@ -1,5 +1,33 @@
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Wishart, John
 
+@misc{wishart__john:8,
+year={2002},
+author={Anonymous},
+title={{U}ntitled},
+}
+
+@inwebcollection{wishart__john:9,
+year={2003},
+author={O'Connor, J. J. and Robertson, E. F.},
+title={{J}ohn {W}ishart},
+note={MacTutor biography},
+}
+\end{filecontents}
+
+\begin{document}
 
 \subsection*{Honors}
 \Honor{1931}{The Royal Society of Edinburgh, Fellow}
 \Honor{1947}{IMS Fellow}
+
+
+\subsection*{Biographies}
+\Biography{wishart__john:8}
+\Biography{wishart__john:9}
+\end{document}

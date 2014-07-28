@@ -1,4 +1,25 @@
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for James, Alan Treleven
 
+@misc{james__alan_t-1,
+year={2014},
+author={Anonymous},
+title={{P}rofessor {A}lan {T}releven {J}ames (1924-2013): {B}iographical {N}ote},
+}
+
+@misc{james__alan_t-2,
+year={2014},
+author={Anonymous},
+title={{P}rofessor {A}lan {T}releven {J}ames (1924-2013): {P}apers 1950-2013},
+}
+\end{filecontents}
+
+\begin{document}
 
 \subsection*{Education}
 \Degree{1953}{Ph.D.}{Princeton University}{Group Methods in Normal Multivariate Distribution Theory}{http://genealogy.math.ndsu.nodak.edu/id.php?id=15108}
@@ -6,3 +27,12 @@
 
 \subsection*{Honors}
 \Honor{1960}{IMS Fellow}
+
+
+\subsection*{Biography}
+\Biography{james__alan_t-1}
+
+
+\subsection*{Archive}
+\Archive{james__alan_t-2}
+\end{document}

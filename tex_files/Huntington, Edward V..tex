@@ -1,10 +1,41 @@
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Huntington, Edward V.
 
+@inwebcollection{huntington__edward_v:11,
+year={2000},
+author={O'Connor, J. J. and Robertson, E. F.},
+title={{E}dward {V}ermilye {H}untington},
+note={MacTutor biography},
+}
+
+@incollection{huntington__edward_v:10,
+year={2008},
+author={Boas, R. P. Jr.},
+title={{H}untington, {E}dward {V}ermilye},
+pages={570},
+volume={6},
+crossref={booktitle:complete-dictionary-of-scientific-biography},
+}
+\end{filecontents}
+
+\begin{document}
 
 \subsection*{Education}
-\Degree{1901}{Ph.D.}{Universit&auml;t Stra&szlig;burg}{&Uuml;ber die Grund-Operationen an absoluten und complexen Gr&ouml;ssen in geometrischer Behandlung}{http://genealogy.math.ndsu.nodak.edu/id.php?id=65993}
+\Degree{1901}{Ph.D.}{Universit\"{a}t Stra\ssburg}{\"{U}ber die Grund-Operationen an absoluten und complexen Gr\"{o}ssen in geometrischer Behandlung}{http://genealogy.math.ndsu.nodak.edu/id.php?id=65993}
 
 
 \subsection*{Honors}
 \Honor{1913}{American Academy of Arts and Sciences, Fellow}
 \Honor{1933}{American Philosophical Society, Member}
 \Honor{before 1943}{IMS Fellow}
+
+
+\subsection*{Biographies}
+\Biography{huntington__edward_v:11}
+\Biography{huntington__edward_v:10}
+\end{document}
