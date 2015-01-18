@@ -97,15 +97,15 @@ The contents are accessible anywhere via a `git clone` and `git pull`,
 or this could be automated (as with the process described in this
 note).
 
-## Reminder of Webpage for testing
+## Reminder of Webpage for testing for IMS members
 
 http://ims.metameso.org/ is a webpage that can be used by IMS members
 to test their TeX files and see the generated HTML.
 
-## One further thing to mention about testing
+## One further thing to mention about testing for the IMS editor
 
-For testing purposes, feel free to run these commands to scan and
-update without waiting 24 hours:
+For testing purposes, feel free to run these commands to run the scan
+and update process without waiting 24 hours:
 
 ```
 ssh jim@li311-58.members.linode.com
