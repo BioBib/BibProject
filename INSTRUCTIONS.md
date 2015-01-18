@@ -95,7 +95,12 @@ included in the `./new_html_files` directory.  The intention is that
 the contents of this directory can be used directly in the IMS site.
 The contents are accessible anywhere via a `git clone` and `git pull`,
 or this could be automated (as with the process described in this
-note)
+note).
+
+## Reminder of Webpage for testing
+
+http://ims.metameso.org/ is a webpage that can be used by IMS members
+to test their TeX files and see the generated HTML.
 
 ## One further thing to mention about testing
 
