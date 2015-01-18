@@ -102,7 +102,7 @@ note)
 For testing purposes, feel free to run these commands to scan and
 update without waiting 24 hours:
 
-``
+```
 ssh jim@li311-58.members.linode.com
 cd /bibserver/
 python ./ims_legacy/scan-and-update.py
