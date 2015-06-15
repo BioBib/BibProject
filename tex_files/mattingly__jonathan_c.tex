@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Mattingly, Jonathan C.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Mattingly, Jonathan C.}
+\ID{mattingly__jonathan_c}
+\AltID{mattingly__jonathan}
+
+
+
+\Homepage{http://www.math.duke.edu/~jonm}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:mattingly.jonathan-c}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/465156}{Microsoft Academic: Mattingly, Jonathan C.}
+
+
+\subsection*{Honors}
+\Honor{2012}{IMS Fellow}{For his many contributions to stochastic analysis, including the study of stochastically forced Navier Stokes equations, to chemical reaction networks and to topics in evolutionary biology}
+\end{document}

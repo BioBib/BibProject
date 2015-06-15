@@ -1,0 +1,54 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Stein, Charles M.
+
+@article{stein__charles_m:10,
+year={2010},
+author={Chen, L. and Loh, W.-L.},
+title={{C}harles {S}tein honored on 90th birthday},
+journal={IMS Bulletin},
+pages={11},
+volume={39(6)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Stein, Charles M.}
+\ID{stein__charles_m}
+\AltID{stein__charles}
+
+\DisplayName{Stein, Charles}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=166815}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:stein.charles-m}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=13645}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/47736145}{Microsoft Academic: Charles M. Stein}
+\Profile{http://academic.research.microsoft.com/Author/45255744}{Microsoft Academic: Charles M. Stein}
+
+
+\subsection*{Education}
+\Degree{1953}{Ph.D.}{Columbia University}[A Two-Sample Test for a Linear hypothesis Having Power Independent of the Variance]<http://genealogy.math.ndsu.nodak.edu/id.php?id=13645>
+
+
+\subsection*{Honors}
+\Honor{1948}{IMS Fellow}
+\Honor{1961}{Wald Lecturer}
+\Honor{1975}{National Academy of Sciences, Member}
+\Honor{1975}{Rietz Lecturer}
+\Honor{1984}{Neyman Lecturer}
+
+
+\subsection*{Biography}
+\Biography{stein__charles_m:10}
+\end{document}

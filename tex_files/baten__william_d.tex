@@ -1,0 +1,58 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Baten, William Dowell
+
+@article{baten__william_d:8,
+year={1974},
+author={Anonymous},
+title={{U}ntitled},
+journal={IMS Bulletin},
+pages={144},
+volume={3},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Baten, William Dowell} \Deceased
+\ID{baten__william_d}
+\AltID{baten__william}
+
+\DisplayName{Baten, William D.}
+
+
+\DOB{1892-07-23}
+\DOD{1974-04-04}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=410039}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:baten.william-dowell}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=5287}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18749722}{Microsoft Academic: Baten, William Dowell}
+\Profile{http://um2017.org/faculty-history/faculty/william-dowell-baten}{profile University of Michigan, Faculty History Project}
+
+
+\subsection*{Education}
+\Degree{1929}{Ph.D.}{University of Michigan}[Theorems Concerning Probability]<http://genealogy.math.ndsu.nodak.edu/id.php?id=5287>
+
+
+\subsection*{Career}
+\Position{1928-1936}{Assistant Professor of Mathematics}{ University of Michigan}
+
+
+\subsection*{Honors}
+\Honor{before 1943}{IMS Fellow}
+
+
+\subsection*{Death Notice}
+\DeathNotice{baten__william_d:8}
+\end{document}

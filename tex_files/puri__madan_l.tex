@@ -1,0 +1,52 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Puri, Madan L.
+
+@incollection{puri__madan_l:6,
+year={2006},
+author={O'Connor, J. J. and Robertson, E. F.},
+title={{M}adan {L}al {P}uri},
+addendum={MacTutor biography},
+url={http://www-history.mcs.st-andrews.ac.uk/Biographies/Puri.html},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Puri, Madan L.}
+\ID{puri__madan_l}
+\AltID{puri__madan}
+
+
+
+\Homepage{http://www.ecampus.com/madan-lal-puri-selected-collected-works/bk/9789067643870}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=142760}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:puri.madan-lal}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=11326}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/54154220}{Microsoft Academic: Puri, Madan Lal}
+\Profile{http://academic.research.microsoft.com/Author/18765502}{Microsoft Academic: Puri, L. Madan}
+\Profile{http://academic.research.microsoft.com/Author/12404030}{Microsoft Academic: Puri, Madan Lal}
+
+
+\subsection*{Education}
+\Degree{1962}{Ph.D.}{University of California, Berkeley}[Asymptotic Efficiency of a Class of C-Sample Tests]<http://genealogy.math.ndsu.nodak.edu/id.php?id=11326>
+
+
+\subsection*{Honors}
+\Honor{1970}{IMS Fellow}
+
+
+\subsection*{Biography}
+\Biography{puri__madan_l:6}
+\end{document}

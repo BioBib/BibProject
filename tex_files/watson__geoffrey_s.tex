@@ -1,0 +1,53 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Watson, Geoffrey S.
+
+@article{watson__geoffrey_s:9,
+year={1998},
+author={Mardia, K. V.},
+title={{U}ntitled},
+journal={IMS Bulletin},
+pages={140-141},
+volume={27},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Watson, Geoffrey S.} \Deceased
+\ID{watson__geoffrey_s}
+\AltID{watson__geoffrey}
+
+
+
+\DOB{1921-12-03}
+\DOD{1998-01-03}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=180905}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:watson.geoffrey-s}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=11242}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12760224}{Microsoft Academic: Watson, Geoffrey S.}
+\Profile{http://academic.research.microsoft.com/Author/50788644}{Microsoft Academic: Watson, George S.}
+
+
+\subsection*{Education}
+\Degree{1952}{Ph.D.}{North Carolina State University}[Serial Correlation in Regression Analysis.]<http://genealogy.math.ndsu.nodak.edu/id.php?id=11242>
+
+
+\subsection*{Honors}
+\Honor{1958}{IMS Fellow}
+
+
+\subsection*{Obituary}
+\Obituary{watson__geoffrey_s:9}
+\end{document}

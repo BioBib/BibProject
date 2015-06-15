@@ -1,0 +1,27 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for den Hollander, W. Th. Frank
+\end{filecontents}
+
+\begin{document}
+
+\Name{den Hollander, W. Th. Frank}
+\ID{den_hollander__frank}
+\AltID{den_hollander__w
+
+}
+
+\DisplayName{den Hollander, Frank}
+
+
+\subsection*{Honors}
+\Honor{2013}{IMS Fellow}{For research in probability and mathematical physics, and especially large deviation theory}
+\end{document}

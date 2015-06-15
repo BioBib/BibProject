@@ -1,0 +1,52 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Gurland, John
+
+@article{gurland__john:7,
+year={1998},
+author={Clayton, M.},
+title={{J}ohn {G}urland},
+journal={IMS Bulletin},
+pages={4-6},
+volume={27},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Gurland, John} \Deceased
+\ID{gurland__john}
+
+
+
+
+\DOB{1917-01-06}
+\DOD{1997-11-19}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=204739}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:gurland.john}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=34603}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12392255}{Microsoft Academic: Gurland, John}
+
+
+\subsection*{Education}
+\Degree{1948}{Ph.D.}{University of California, Berkeley}[I. "Asymptotically Normal Estimates" II. "Inversion Formulae for the Distribution of Ratios"]<http://genealogy.math.ndsu.nodak.edu/id.php?id=34603>
+
+
+\subsection*{Honors}
+\Honor{1965}{IMS Fellow}
+
+
+\subsection*{Obituary}
+\Obituary{gurland__john:7}
+\end{document}

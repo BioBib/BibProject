@@ -1,0 +1,40 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Welsh, Alan H.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Welsh, Alan H.}
+\ID{welsh__alan_h}
+\AltID{welsh__alan}
+
+\DisplayName{Welsh, Alan}
+
+
+\Homepage{http://wwwmaths.anu.edu.au/~welastat/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=193603}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:welsh.alan-h}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=57253}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12542981}{Microsoft Academic: Welsh, Alan H.}
+
+
+\subsection*{Education}
+\Degree{1984}{Ph.D.}{Australian National University}[Some Problems in Adaptive Estimation]<http://genealogy.math.ndsu.nodak.edu/id.php?id=57253>
+
+
+\subsection*{Honors}
+\Honor{1990}{IMS Fellow}
+\Honor{2007}{Australian Academy of Science, Fellow}
+\end{document}

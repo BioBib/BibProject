@@ -1,0 +1,73 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Anderson, Theodore W., Jr.
+
+@article{anderson__theodore_w:13,
+year={2009},
+author={Hansen, P. R. and Lai, T. L. and Velu, R.},
+title={{C}onference given in honor of {T}. {W}. {A}nderson},
+journal={Amstat News},
+pages={43},
+volume={Aug. 2009},
+}
+
+@article{anderson__theodore_w:14,
+year={2009},
+author={Hansen, P. R. and Lai, T. L. and Velu, R.},
+title={{C}onference in {E}conomics and {S}tatistics, in honor of {T}. {W}. {A}nderson{'}s 90th birthday},
+journal={IMS Bulletin},
+pages={7},
+volume={38(1)},
+url={http://statweb.stanford.edu/~ckirby/ted/conference/Birthday2008},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Anderson, Theodore W., Jr.}
+\ID{anderson__theodore_w}
+\AltID{anderson__theodore}
+
+\DisplayName{Anderson, Theodore W.}
+
+
+\Homepage{http://statweb.stanford.edu/~ckirby/ted/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=25845}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:anderson.theodore-w}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=83137}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/10566443}{Microsoft Academic: Anderson, Theodore W.}
+\Profile{https://statistics.stanford.edu/people/theodore-w-anderson}{Stanford Statistics}
+\Profile{http://www-stat.stanford.edu/~ckirby/ted/CV.pdf}{CV}
+\Profile{http://statweb.stanford.edu/~ckirby/ted/bibliography.pdf}{Publication List}
+\Profile{http://statweb.stanford.edu/~ckirby/ted/papers/}{Publication List}
+
+
+\subsection*{Education}
+\Degree{1945}{Ph.D.}{Princeton University}[The Non-Central Wishart Distribution and Its Application to Problems in Multivariate Statistics]<http://genealogy.math.ndsu.nodak.edu/id.php?id=83137>
+
+
+\subsection*{Honors}
+\Honor{1947}{IMS Fellow}
+\Honor{1963}{IMS President}
+\Honor{1974}{American Academy of Arts and Sciences, Fellow}
+\Honor{1976}{National Academy of Sciences, Member}
+\Honor{1982}{Wald Lecturer}
+\Honor{1985}{R. A. Fisher Lecturer}
+\Honor{1988}{Samuel S. Wilks Award}
+
+
+\subsection*{Biographies}
+\Biography{anderson__theodore_w:13}
+\Biography{anderson__theodore_w:14}
+\end{document}

@@ -1,0 +1,48 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Federer, Walter T.
+
+@article{federer__walter_t:8,
+year={2008},
+author={McCulloch, C. and Hedayat, S. and Wells, M.},
+title={{W}alter {F}ederer, 1915-2008},
+journal={IMS Bulletin},
+pages={13},
+volume={37(10)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Federer, Walter T.} \Deceased
+\ID{federer__walter_t}
+\AltID{federer__walter}
+
+
+
+\DOB{1915-08-23}
+\DOD{2008-04-14}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=65600}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:federer.walter-theodore}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/18013771}{Microsoft Academic: Federer, Walter T.}
+\Profile{http://academic.research.microsoft.com/Author/55186813}{Microsoft Academic: Federer, Walter T.}
+
+
+\subsection*{Honors}
+\Honor{1967}{IMS Fellow}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{federer__walter_t:8}
+\end{document}

@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Claeskens, Gerda
+\end{filecontents}
+
+\begin{document}
+
+\Name{Claeskens, Gerda}
+\ID{claeskens__gerda}
+
+
+
+
+\Homepage{http://www.econ.kuleuven.be/public/ndbaf45/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:claeskens.gerda}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/1108513}{Microsoft Academic: Claeskens, Gerda}
+
+
+\subsection*{Honors}
+\Honor{2012}{IMS Fellow}{For outstanding contributions to nonparametric and semiparametric regression, model selection and model assessment}
+\end{document}

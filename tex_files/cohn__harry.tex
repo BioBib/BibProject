@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Cohn, Harry
+\end{filecontents}
+
+\begin{document}
+
+\Name{Cohn, Harry}
+\ID{cohn__harry}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=50375}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:cohn.harry}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=90804}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12604311}{Microsoft Academic: Cohn, Harry}
+
+
+\subsection*{Education}
+\Degree{year?}{Ph.D.}{University of Bucharest}<http://genealogy.math.ndsu.nodak.edu/id.php?id=90804>
+
+
+\subsection*{Honors}
+\Honor{1988}{IMS Fellow}
+\end{document}

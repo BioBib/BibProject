@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Pitt, Loren D.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Pitt, Loren D.}
+\ID{pitt__loren_d}
+\AltID{pitt__loren}
+
+
+
+\Homepage{http://people.virginia.edu/~ldp/home.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=140095}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:pitt.loren-d}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=7782}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/5294211}{Microsoft Academic: Loren D. Pitt}
+\Profile{http://academic.research.microsoft.com/Author/51876997}{Microsoft Academic: Loren D. Pitt}
+
+
+\subsection*{Education}
+\Degree{1967}{Ph.D.}{Princeton University}[Two Problems in Markov Processes. Extending the Life Span of Markov Processes. Products of Markovian Semi-Groups]<http://genealogy.math.ndsu.nodak.edu/id.php?id=7782>
+
+
+\subsection*{Honors}
+\Honor{1987}{IMS Fellow}
+\end{document}

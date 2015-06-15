@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Goodman, Victor W.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Goodman, Victor W.}
+\ID{goodman__victor_w}
+\AltID{goodman__victor}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=75320}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:goodman.victor-w}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=10268}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/8936118}{Microsoft Academic: Goodman, Victor}
+
+
+\subsection*{Education}
+\Degree{1970}{Ph.D.}{Cornell University}[Regularity Properties of Harmonic Functions on Hilbert Space]<http://genealogy.math.ndsu.nodak.edu/id.php?id=10268>
+
+
+\subsection*{Honors}
+\Honor{1992}{IMS Fellow}
+\end{document}

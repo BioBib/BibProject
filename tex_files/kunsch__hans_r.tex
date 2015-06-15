@@ -1,0 +1,42 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Künsch, Hans R.
+\end{filecontents}
+
+\begin{document}
+
+\Name{K\"{u}nsch, Hans R.}
+\ID{kunsch__hans_r}
+\AltID{kunsch__hans
+
+}
+
+
+
+\DOB{1951-10-17}
+
+
+\Homepage{http://stat.ethz.ch/~kuensch/}
+\Homepage{http://stat.ethz.ch/~kuensch/papers/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=108015}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:kunsch.hans-rudolf}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/10891035}{Microsoft Academic: Hans-Rudolf Kunsch (Hans-Rudolf K\"{u}nsch)}
+\Profile{http://academic.research.microsoft.com/Author/12492756}{Microsoft Academic: Hans R. Kunsch (Hans R. K\"{u}nsch)}
+
+
+\subsection*{Honors}
+\Honor{2000}{IMS Fellow}{For contributions to probability theory and theoretical statistics, particularly the development of properties of Markov random fields and Gibbs distributions, and other aspects of spatial statistics; to robust methods for time series; to the bootstrap, especially block-based bootstrap methods for time series; and to properties of long-range dependent time series; and for services to the profession, particularly his work as an Editor of The Annals of Statistics and, as Associate Editor for periods starting in 1987}
+\Honor{2002}{IMS Medallion Lecturer}
+\Honor{2013}{IMS President}
+\end{document}

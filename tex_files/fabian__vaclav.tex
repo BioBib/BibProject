@@ -1,0 +1,52 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Fabian, Václav
+
+@article{fabian__vaclav:8,
+year={2009},
+author={Dupa\v{c}, V. and Pr\'{a}\v{s}kov\'{a}, Z.},
+title={{V}\'{a}clav {F}abian, 1929-2007},
+journal={IMS Bulletin},
+pages={6-7},
+volume={38(2)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Fabian, V\'{a}clav} \Deceased
+\ID{fabian__vaclav}
+
+
+
+
+\DOB{1929-06-27}
+\DOD{2007-11-08}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=210217}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:fabian.vaclav}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=121489}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12607743}{Microsoft Academic: Fabian, Vaclav}
+
+
+\subsection*{Education}
+\Degree{1953}{Ph.D.}{Charles University}<http://genealogy.math.ndsu.nodak.edu/id.php?id=121489>
+
+
+\subsection*{Honors}
+\Honor{1970}{IMS Fellow}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{fabian__vaclav:8}
+\end{document}

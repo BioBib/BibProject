@@ -1,0 +1,59 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Ruben, Harold
+
+@misc{ruben__harold:992970,
+year={2002},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Styan, G. (2002). Harold Ruben: 1923-2001. IMS Bulletin, Vol. 31(2), p. 17},
+}
+
+@misc{ruben__harold:433169,
+year={2002},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Styan, G. P. H. (2002). Harold Ruben (April 3, 1923-November 30, 2001). International Statistical Institute Newsletter, Vol. 26(1)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Ruben, Harold} \Deceased
+\ID{ruben__harold}
+
+
+
+
+\DOB{1923-04-03}
+\DOD{2001-11-30}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=529418}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:ruben.harold}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=42286}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/56285927}{Microsoft Academic: RUBEN, HAROLD}
+\Profile{http://academic.research.microsoft.com/Author/12855686}{Microsoft Academic: Ruben, Harold}
+
+
+\subsection*{Education}
+\Degree{1951}{Ph.D.}{University of London}[Sequential Studentisation of Sampling Means from Unknown Normal Populations]<http://genealogy.math.ndsu.nodak.edu/id.php?id=42286>
+
+
+\subsection*{Honors}
+\Honor{19??}{IMS Fellow}
+
+
+\subsection*{Memorials}
+\InMemoriam{ruben__harold:992970}
+\InMemoriam{ruben__harold:433169}
+\end{document}

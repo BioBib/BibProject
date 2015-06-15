@@ -1,0 +1,66 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Curtiss, John H.
+
+@article{curtiss__john_h:8,
+year={1978},
+author={Anonymous},
+title={{U}ntitled},
+journal={IMS Bulletin},
+pages={56},
+volume={7},
+}
+
+@article{curtiss__john_h:9,
+year={1980},
+author={Todd, J.},
+title={{J}ohn {H}amilton {C}urtiss, 1909-1977},
+journal={Ann Hist. Comput.},
+pages={104-110},
+volume={2},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Curtiss, John H.} \Deceased
+\ID{curtiss__john_h}
+\AltID{curtiss__john}
+
+
+
+\DOB{1909-12-23}
+\DOD{1977-08-13}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=429412}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:curtiss.john-h}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=35897}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18009539}{Microsoft Academic: Curtiss, J. H.}
+\Profile{http://academic.research.microsoft.com/Author/42780804}{Microsoft Academic: Curtiss, J. H.}
+
+
+\subsection*{Education}
+\Degree{1935}{Ph.D.}{Harvard University}[Interpolation in Transforms of the Roots of Unity and the Jacobi Interpolation Series on the Lemniscate of Convergence]<http://genealogy.math.ndsu.nodak.edu/id.php?id=35897>
+
+
+\subsection*{Honors}
+\Honor{1943}{IMS Fellow}
+
+
+\subsection*{Death Notice}
+\DeathNotice{curtiss__john_h:8}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{curtiss__john_h:9}
+\end{document}

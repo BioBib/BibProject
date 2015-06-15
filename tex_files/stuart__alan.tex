@@ -1,0 +1,58 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Stuart, Alan
+
+@article{stuart__alan:6,
+year={2000},
+author={Anderson, T. W. and Brillinger, D. and Olkin, I.},
+title={{A}lan {S}tuart},
+journal={IMS Bulletin},
+pages={208-210},
+volume={29},
+}
+
+@misc{stuart__alan:932552,
+year={1999},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Jarge, C. (1999). Alan Stuart (1922-1998). International Statistical Institute Newsletter, Vol. 23(1)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Stuart, Alan} \Deceased
+\ID{stuart__alan}
+
+
+
+
+\DOB{1922-09-20}
+\DOD{1998-06-25}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=189567}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:stuart.alan-d}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/53760714}{Microsoft Academic: Stuart, Alan}
+
+
+\subsection*{Honors}
+\Honor{19??}{IMS Fellow}
+
+
+\subsection*{Obituary}
+\Obituary{stuart__alan:6}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{stuart__alan:932552}
+\end{document}

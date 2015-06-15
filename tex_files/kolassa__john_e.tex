@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Kolassa, John E.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Kolassa, John E.}
+\ID{kolassa__john_e}
+\AltID{kolassa__john}
+
+
+
+\Homepage{http://stat.rutgers.edu/~kolassa/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:kolassa.john-e}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/12752001}{Microsoft Academic: Kolassa, John E.}
+
+
+\subsection*{Honors}
+\Honor{2009}{IMS Fellow}{For outstanding contributions to saddlepoint approximations and Edgeworth expansions and their applications}
+\end{document}

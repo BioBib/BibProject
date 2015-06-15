@@ -1,0 +1,61 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for James, Alan Treleven
+
+@misc{james__alan_t-1,
+year={2014},
+author={Anonymous},
+title={{P}rofessor {A}lan {T}releven {J}ames (1924-2013): {B}iographical {N}ote},
+addendum={In: Professor Alan Treleven James (1924-2013): Papers 1950-2013, University of Adelaide Library},
+url={https://www.adelaide.edu.au/library/special/mss/james/alan/},
+}
+
+@misc{james__alan_t-2,
+year={2014},
+author={Anonymous},
+title={{P}rofessor {A}lan {T}releven {J}ames (1924-2013): {P}apers 1950-2013},
+addendum={University of Adelaide Library},
+url={https://www.adelaide.edu.au/library/special/mss/james/alan/},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{James, Alan Treleven}
+\ID{james__alan_t}
+\AltID{james__alan}
+
+\DisplayName{James, Alan T.}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=93190}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:james.alan-t}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=15108}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/50550040}{Microsoft Academic: James, Alan T.}
+\Profile{http://academic.research.microsoft.com/Author/12805533}{Microsoft Academic: James, Alan T.}
+
+
+\subsection*{Education}
+\Degree{1953}{Ph.D.}{Princeton University}[Group Methods in Normal Multivariate Distribution Theory]<http://genealogy.math.ndsu.nodak.edu/id.php?id=15108>
+
+
+\subsection*{Honors}
+\Honor{1960}{IMS Fellow}
+
+
+\subsection*{Biography}
+\Biography{james__alan_t-1}
+
+
+\subsection*{Archive}
+\Archive{james__alan_t-2}
+\end{document}

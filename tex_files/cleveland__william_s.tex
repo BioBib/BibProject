@@ -1,0 +1,40 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Cleveland, William S., II
+\end{filecontents}
+
+\begin{document}
+
+\Name{Cleveland, William S., II}
+\ID{cleveland__william_s}
+\AltID{cleveland__william}
+
+\DisplayName{Cleveland, William S.}
+
+
+\Homepage{http://stat.bell-labs.com/wsc/index.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=212440}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:cleveland.william-s}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=89527}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/835694}{Microsoft Academic: Cleveland, William}
+
+
+\subsection*{Education}
+\Degree{1969}{Ph.D.}{Yale University}[Time Series Projections, Theory and Practice]<http://genealogy.math.ndsu.nodak.edu/id.php?id=89527>
+
+
+\subsection*{Honors}
+\Honor{1983}{IMS Medallion Lecturer}
+\Honor{1999}{IMS Fellow}{For path breaking work in data visualization and smoothing that has affected how people think about and approach their data}
+\end{document}

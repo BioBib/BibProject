@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Wang, Suojin
+\end{filecontents}
+
+\begin{document}
+
+\Name{Wang, Suojin}
+\ID{wang__suojin}
+
+
+
+
+\Homepage{http://stat.tamu.edu/~sjwang/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=261113}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:wang.suojin}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=45591}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12548066}{Microsoft Academic: Wang, Suojin}
+
+
+\subsection*{Education}
+\Degree{1988}{Ph.D.}{University of Texas at Austin}[Saddlepoint Approximations in Statistics, Including Resampling]<http://genealogy.math.ndsu.nodak.edu/id.php?id=45591>
+
+
+\subsection*{Honors}
+\Honor{2001}{IMS Fellow}{For fundamental contributions to the theory and practice of small sample inference via higher order methods, sample surveys, missing and mismeasured data, and the bootstrap; for excellence in teaching; and for service to the profession}
+\end{document}

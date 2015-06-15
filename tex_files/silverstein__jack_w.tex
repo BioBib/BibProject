@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Silverstein, Jack W.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Silverstein, Jack W.}
+\ID{silverstein__jack_w}
+\AltID{silverstein__jack}
+
+
+
+\Homepage{http://www4.ncsu.edu/%7Ejack/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:silverstein.jack-w}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/167367}{Microsoft Academic: Silverstein, Jack W.}
+
+
+\subsection*{Honors}
+\Honor{2007}{IMS Fellow}{For seminal contributions to the theory and application of random matrices}
+\end{document}

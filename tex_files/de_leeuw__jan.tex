@@ -1,0 +1,40 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for de Leeuw, Jan
+\end{filecontents}
+
+\begin{document}
+
+\Name{de Leeuw, Jan}
+\ID{de_leeuw__jan}
+
+
+
+
+\Homepage{http://directory.stat.ucla.edu/jan-de-leeuw}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=194953}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:de-leeuw.jan}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=36682}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/17903872}{Microsoft Academic: Jan de Leeuw}
+\Profile{http://academic.research.microsoft.com/Author/280818}{Microsoft Academic: Jan de Leeuw}
+
+
+\subsection*{Education}
+\Degree{1973}{Ph.D.}{Universiteit Leiden}[Canonical Analysis of Categorical Data]<http://genealogy.math.ndsu.nodak.edu/id.php?id=36682>
+
+
+\subsection*{Honors}
+\Honor{1989}{The Royal Netherlands Academy of Arts and Sciences, Corresponding Member}
+\Honor{2001}{IMS Fellow}{For pioneering work in nonlinear multivariate analysis; for distinction as a teacher and mentor of statisticians; for service to the profession through editorial work and through innovative use of the web; and for leadership in forming the Department of Statistics at UCLA and fostering its growth}
+\end{document}

@@ -1,0 +1,73 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Hurwitz, William N.
+
+@article{hurwitz__william_n:8,
+year={1969},
+author={Anonymous},
+title={{W}illiam {N}. {H}urwitz},
+journal={Amer. Statist.},
+pages={33},
+volume={23(2)},
+}
+
+@article{hurwitz__william_n:9,
+year={1969},
+author={Anonymous},
+title={{W}ashington {S}tatistical {S}ociety {M}emorial {M}eeting for {W}illiam {N}. {H}urwitz. {J}.},
+journal={Amer. Statist.},
+pages={1121},
+volume={64},
+url={http://www.jstor.org/stable/2286052},
+}
+
+@article{hurwitz__william_n:10,
+year={1969},
+author={Hansen, M. H.},
+title={{A} memorial for {W}illiam {N}. {H}urwitz. {J}.},
+journal={Amer. Statist.},
+pages={1122-1128},
+volume={64},
+url={http://www.jstor.org/pss/2286053},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Hurwitz, William N.} \Deceased
+\ID{hurwitz__william_n}
+\AltID{hurwitz__william}
+
+\DisplayName{Hurwitz, William}
+
+
+\DOB{1908-12-25}
+\DOD{1969-03-27}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=343370}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:hurwitz.william-n}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/18749900}{Microsoft Academic: Hurwitz, William N.}
+
+
+\subsection*{Honors}
+\Honor{1945}{IMS Fellow}
+
+
+\subsection*{Death Notice}
+\DeathNotice{hurwitz__william_n:8}
+
+
+\subsection*{Memorials}
+\InMemoriam{hurwitz__william_n:9}
+\InMemoriam{hurwitz__william_n:10}
+\end{document}

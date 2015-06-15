@@ -1,0 +1,37 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Johns, M. Vernon, Jr.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Johns, M. Vernon, Jr.}
+\ID{johns_jr__m_vernon}
+\AltID{johns__m}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=94960}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:johns.milton-vernon}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:johns.m-vernon-jun}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=57901}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/56568827}{Microsoft Academic: M. Vernon Johns}
+\Profile{http://academic.research.microsoft.com/Author/41982104}{Microsoft Academic: M. Vernon Johns}
+
+
+\subsection*{Education}
+\Degree{1956}{Ph.D.}{Columbia University}[Contributions to the Theory of Empirical Bayes Procedures in Statistics]<http://genealogy.math.ndsu.nodak.edu/id.php?id=57901>
+
+
+\subsection*{Honors}
+\Honor{1960}{IMS Fellow}
+\end{document}

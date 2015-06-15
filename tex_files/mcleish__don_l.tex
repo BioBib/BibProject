@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for McLeish, Don L.
+\end{filecontents}
+
+\begin{document}
+
+\Name{McLeish, Don L.}
+\ID{mcleish__don_l}
+\AltID{mcleish__don}
+
+\DisplayName{McLeish, Don}
+
+
+\Homepage{http://sas.uwaterloo.ca/~dlmcleis/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=122630}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:mcleish.donald-l}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=51524}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12761220}{Microsoft Academic: McLeish, D. L.}
+
+
+\subsection*{Education}
+\Degree{1972}{Ph.D.}{McGill University}[Dependent Central-Limit Theorems and Invariance Principles]<http://genealogy.math.ndsu.nodak.edu/id.php?id=51524>
+
+
+\subsection*{Honors}
+\Honor{1984}{IMS Fellow}
+\end{document}

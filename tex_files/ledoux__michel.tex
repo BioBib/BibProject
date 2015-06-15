@@ -1,0 +1,27 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Ledoux, Michel
+\end{filecontents}
+
+\begin{document}
+
+\Name{Ledoux, Michel}
+\ID{ledoux__michel}
+
+
+
+
+\subsection*{Honors}
+\Honor{1997}{Lo\`{e}ve Prize}
+\Honor{2005}{IMS Medallion Lecturer}
+\Honor{2006}{IMS Medallion Lecturer}
+\Honor{2013}{IMS Fellow}{For influential contributions to probability theory, in particular probability on Banach spaces, the geometry of Markov semi-groups and the concentration of measure phenomenon}
+\end{document}

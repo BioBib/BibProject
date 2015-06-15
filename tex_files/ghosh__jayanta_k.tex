@@ -1,0 +1,53 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Ghosh, Jayanta K.
+
+@misc{ghosh__jayanta_k:386360,
+year={2008},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Clarke, B. and Ghosal, S., eds. (2008). Pushing the Limits of Contemporary Statistics: Contributions in Honor of Jayanta K. Ghosh. Institute of Mathematical Collections, Vol. 3. Institute of Mathematical Statistics, Beachwood, OH},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Ghosh, Jayanta K.}
+\ID{ghosh__jayanta_k}
+\AltID{ghosh__jayanta}
+
+
+
+\Homepage{http://www.stat.purdue.edu/~ghosh/}
+\Homepage{http://www.stat.uiowa.edu/~jghsh/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=73120}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:ghosh.jayanta-kumar}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=61224}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12549703}{Microsoft Academic: Ghosh, Jayanta Kumar}
+\Profile{http://academic.research.microsoft.com/Author/7992888}{Microsoft Academic: Ghosh, Jayanta Kumar}
+
+
+\subsection*{Education}
+\Degree{year?}{Ph.D.}{}<http://genealogy.math.ndsu.nodak.edu/id.php?id=61224>
+
+
+\subsection*{Honors}
+\Honor{1975}{IMS Fellow}
+\Honor{1982}{Indian National Science Academy, Fellow}
+\Honor{1990}{Indian Academy of Sciences, Fellow}
+
+
+\subsection*{Festschrift}
+\Festschrift{ghosh__jayanta_k:386360}
+\end{document}

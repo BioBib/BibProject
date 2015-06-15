@@ -1,0 +1,56 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Reid, Nancy M.
+
+@misc{reid__nancy_m:11,
+year={year?},
+author={Anonymous},
+title={{N}ancy {M}argaret {R}eid},
+booktitle={Agnes {S}cott {C}ollege {W}ebsite},
+url={http://www.agnesscott.edu/lriddle/women/reid.htm},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Reid, Nancy M.}
+\ID{reid__nancy_m}
+\AltID{reid__nancy}
+
+
+
+\Homepage{http://www.utstat.toronto.edu/reid/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=146385}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:reid.nancy-m}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=15889}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12539566}{Microsoft Academic: Reid, Nancy}
+
+
+\subsection*{Education}
+\Degree{1979}{Ph.D.}{Stanford University}[Influence Functions for Censored Data]<http://genealogy.math.ndsu.nodak.edu/id.php?id=15889>
+
+
+\subsection*{Honors}
+\Honor{1989}{IMS Fellow}
+\Honor{1989}{IMS Medallion Lecturer}
+\Honor{1992}{COPSS Presidents' Award}
+\Honor{1997}{IMS President}
+\Honor{2000}{Wald Lecturer}
+\Honor{2001}{The Royal Society of Canada, Fellow}
+\Honor{2009}{F. N. David Award}
+
+
+\subsection*{Biography}
+\Biography{reid__nancy_m:11}
+\end{document}

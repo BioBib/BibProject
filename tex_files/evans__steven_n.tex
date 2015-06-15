@@ -1,0 +1,42 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Evans, Steven N.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Evans, Steven N.}
+\ID{evans__steven_n}
+\AltID{evans__steven}
+
+\DisplayName{Evans, Steven}
+
+
+\Homepage{http://oz.berkeley.edu/users/evans/}
+\Homepage{http://www.stat.berkeley.edu/~evans/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:evans.steven-neil}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=32852}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/680664}{Microsoft Academic: Evans, Steven N.}
+\Profile{http://academic.research.microsoft.com/Author/53377502}{Microsoft Academic: Evans, Steven N.}
+
+
+\subsection*{Education}
+\Degree{1987}{Ph.D.}{University of Cambridge}[Local Properties of Markov Families and Stochastic Processes Indexed by a Totally Disconnected Field]<http://genealogy.math.ndsu.nodak.edu/id.php?id=32852>
+
+
+\subsection*{Honors}
+\Honor{1990}{Rollo Davidson Prize}
+\Honor{1998}{IMS Fellow}
+\Honor{2002}{IMS Medallion Lecturer}
+\end{document}

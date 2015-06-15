@@ -1,0 +1,42 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Eaton, Morris L.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Eaton, Morris L.}
+\ID{eaton__morris_l}
+\AltID{eaton__morris}
+
+\DisplayName{Eaton, Morris}
+
+
+\Homepage{http://www.stat.umn.edu/~eaton/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=61485}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:eaton.morris-l}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=40992}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/900165}{Microsoft Academic: Eaton, Morris L.}
+
+
+\subsection*{Education}
+\Degree{1966}{Ph.D.}{Stanford University}[Some Optimal Properties of Ranking Procedures with Applications in Multivariate Analysis]<http://genealogy.math.ndsu.nodak.edu/id.php?id=40992>
+
+
+\subsection*{Honors}
+\Honor{1970}{IMS Fellow}
+\Honor{1977}{IMS Medallion Lecturer}
+\Honor{1989}{IMS Medallion Lecturer}
+\Honor{2000}{IMS President}
+\end{document}

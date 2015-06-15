@@ -1,0 +1,33 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Armitage, Peter
+\end{filecontents}
+
+\begin{document}
+
+\Name{Armitage, Peter}
+\ID{armitage__peter}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=27145}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:armitage.peter}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/18196774}{Microsoft Academic: Armitage, Peter J.}
+
+
+\subsection*{Honors}
+\Honor{1962}{Guy Medal in Bronze}
+\Honor{1963}{IMS Fellow}
+\Honor{1978}{Guy Medal in Silver}
+\Honor{1990}{Guy Medal in Gold}
+\end{document}

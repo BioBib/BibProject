@@ -1,0 +1,80 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Andersen, Erik Sparre
+
+@misc{andersen__erik_sparre:11,
+year={year?},
+author={Anonymous},
+title={{E}rik {S}parre {A}ndersen},
+booktitle={Dansk {B}iografisk {L}eksikon},
+url={http://www.denstoredanske.dk/Dansk_Biografisk_Leksikon/Naturvidenskab_og_teknik/Matematiker/Erik_Sparre_Andersen},
+}
+
+@article{andersen__erik_sparre:8,
+year={2003},
+author={Anonymous},
+title={{U}ntitled},
+journal={Notices Amer. Math. Soc.},
+pages={705},
+}
+
+@misc{andersen__erik_sparre:9,
+year={2004},
+author={Johansen, S.},
+title={{E}rik {S}parre {A}ndersen, 1919-2003},
+author={Johansen, {S}.},
+title={Erik {S}parre {A}ndersen, 1919-2003},
+year={2004},
+url={http://www.ku.dk/aarbog/04/0/39_nekrologer.html},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Andersen, Erik Sparre} \Deceased
+\ID{andersen__erik_sparre}
+\AltID{andersen__erik}
+
+
+
+\DOB{1919-12-29}
+\DOD{2003-03-08}
+
+
+\subsection*{Profiles}
+\Profile{http://de.wikipedia.org/wiki/Erik_Sparre_Andersen}{Wikipedia}
+\Profile{http://de.wikipedia.org/wiki/Erik_Sparre_Andersen}{Wikipedia}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=350985}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:sparre-andersen.erik}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:andersen.erik-sparre}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=44835}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/42310810}{Microsoft Academic: Erik Sparre Andersen}
+
+
+\subsection*{Education}
+\Degree{1995}{Ph.D.}{Lund University}[Algebraic and Analytic Properties of Groups of Holomorphic Automorphisms of $C^n$]<http://genealogy.math.ndsu.nodak.edu/id.php?id=44835>
+
+
+\subsection*{Honors}
+\Honor{1988}{IMS Fellow}
+
+
+\subsection*{Biography}
+\Biography{andersen__erik_sparre:11}
+
+
+\subsection*{Death Notice}
+\DeathNotice{andersen__erik_sparre:8}
+
+
+\subsection*{Obituary}
+\Obituary{andersen__erik_sparre:9}
+\end{document}

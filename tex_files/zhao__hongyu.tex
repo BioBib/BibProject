@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Zhao, Hongyu
+\end{filecontents}
+
+\begin{document}
+
+\Name{Zhao, Hongyu}
+\ID{zhao__hongyu}
+
+
+
+
+\Homepage{http://info.med.yale.edu/eph/html/faculty_members/zhao.html}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:zhao.hongyu}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/95028}{Microsoft Academic: Hong-Yu Zhao (赵宏宇)}
+
+
+\subsection*{Honors}
+\Honor{2007}{IMS Fellow}{For fundamental contributions to statistical genomics, genetic epidemiology, and computational biology; for editorial service; and for training of graduate and postdoctoral students}
+\end{document}

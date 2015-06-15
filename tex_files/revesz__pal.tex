@@ -1,0 +1,33 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Révész, Pál
+\end{filecontents}
+
+\begin{document}
+
+\Name{R\'{e}v\'{e}sz, P\'{a}l}
+\ID{revesz__pal}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=147395}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:revesz.pal}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/44697427}{Microsoft Academic: Pal Revesz}
+\Profile{http://academic.research.microsoft.com/Author/47650394}{Microsoft Academic: Pal Revesz (P\'{a}l R\'{e}v\'{e}sz)}
+\Profile{http://academic.research.microsoft.com/Author/53171468}{Microsoft Academic: Pal Revesz (P\'{a}l R\'{e}v\'{e}sz)}
+\Profile{http://academic.research.microsoft.com/Author/41738964}{Microsoft Academic: Pal Revesz (P\'{a}l R\'{e}v\'{e}sz)}
+
+
+\subsection*{Honors}
+\Honor{1977}{IMS Fellow}
+\end{document}

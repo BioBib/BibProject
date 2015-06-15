@@ -1,0 +1,37 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Csörgő, Miklós
+\end{filecontents}
+
+\begin{document}
+
+\Name{Cs\"{o}rg\H{o}, Mikl\'{o}s}
+\ID{csorgo__miklos}
+
+
+
+
+\Homepage{http://lrsp.carleton.ca/directors/csorgo/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=53160}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:csorgo.miklos}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/53334322}{Microsoft Academic: M Csorgo (M Cs\"{o}rgo)}
+\Profile{http://academic.research.microsoft.com/Author/28417064}{Microsoft Academic: M. Csorgo (M. Cs\"{o}rg\"{o})}
+\Profile{http://academic.research.microsoft.com/Author/13054815}{Microsoft Academic: Miklos Csorgo (Mikl\'{o}s Cs\"{o}rg\H{o})}
+\Profile{http://academic.research.microsoft.com/Author/53334284}{Microsoft Academic: Miklos Csorgo (Mikl\'{o}s Cs\"{o}rgo)}
+
+
+\subsection*{Honors}
+\Honor{1978}{IMS Fellow}
+\Honor{1989}{The Royal Society of Canada, Fellow}
+\end{document}

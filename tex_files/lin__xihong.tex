@@ -1,0 +1,33 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Lin, Xihong
+\end{filecontents}
+
+\begin{document}
+
+\Name{Lin, Xihong}
+\ID{lin__xihong}
+
+
+
+
+\Homepage{http://www.biostat.harvard.edu/~xlin/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:lin.xihong}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/2265731}{Microsoft Academic: Lin, Xihong}
+
+
+\subsection*{Honors}
+\Honor{2006}{COPSS Presidents' Award}
+\Honor{2007}{IMS Fellow}{For her outstanding contributions in the areas of non- and semi-parametric regression models, random effects models, measurement errors, analysis for correlated, clustered, longitudinal and spatial data, and multivariate survival analysis; for outstanding collaborative research; and for stellar service to the profession}
+\end{document}

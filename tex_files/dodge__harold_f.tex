@@ -1,0 +1,48 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Dodge, Harold F.
+
+@article{dodge__harold_f:8,
+year={1977},
+author={Anonymous},
+title={{U}ntitled},
+journal={IMS Bulletin},
+pages={250},
+volume={6},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Dodge, Harold F.} \Deceased
+\ID{dodge__harold_f}
+\AltID{dodge__harold}
+
+
+
+\DOB{1893-01-23}
+\DOD{1976-12-10}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=435341}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:dodge.harold-f}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/10685855}{Microsoft Academic: Dodge, H. F.}
+
+
+\subsection*{Honors}
+\Honor{1943}{IMS Fellow}
+\Honor{1971}{Samuel S. Wilks Award}
+
+
+\subsection*{Death Notice}
+\DeathNotice{dodge__harold_f:8}
+\end{document}

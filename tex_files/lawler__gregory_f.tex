@@ -1,0 +1,42 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Lawler, Gregory F.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Lawler, Gregory F.}
+\ID{lawler__gregory_f}
+\AltID{lawler__gregory}
+
+
+
+\Homepage{http://www.math.uchicago.edu/~lawler/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=111050}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:lawler.gregory-f}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=35826}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18034015}{Microsoft Academic: Lawler, Gregory F.}
+
+
+\subsection*{Education}
+\Degree{1979}{Ph.D.}{Princeton University}[A Self-Avoiding Random Walk]<http://genealogy.math.ndsu.nodak.edu/id.php?id=35826>
+
+
+\subsection*{Honors}
+\Honor{1991}{IMS Fellow}
+\Honor{2005}{American Academy of Arts and Sciences, Fellow}
+\Honor{2006}{IMS Medallion Lecturer}
+\Honor{2011}{Wald Lecturer}
+\Honor{2013}{National Academy of Sciences, Member}
+\end{document}

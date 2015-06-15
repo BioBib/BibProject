@@ -1,0 +1,61 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Berger, James O.
+
+@article{berger__james_o:12,
+year={2003},
+author={Anonymous},
+title={{J}ames {O}. {B}erger elected to {N}ational {A}cademy of {S}ciences,},
+journal={IMS Bulletin},
+pages={3},
+volume={32(4)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Berger, James O.}
+\ID{berger__james_o}
+\AltID{berger__james}
+
+\DisplayName{Berger, James}
+
+
+\Homepage{http://en.wikipedia.org/wiki/James_Berger_%28Duke_University%29}
+\Homepage{http://www.wku.edu/~jim.berger/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=35185}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:berger.james-o}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=46730}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/2249572}{Microsoft Academic: Berger, James}
+\Profile{http://academic.research.microsoft.com/Author/6168867}{Microsoft Academic: Berger, James O.}
+
+
+\subsection*{Education}
+\Degree{1974}{Ph.D.}{Cornell University}[Admissibility in Location Parameter Problems]<http://genealogy.math.ndsu.nodak.edu/id.php?id=46730>
+
+
+\subsection*{Honors}
+\Honor{1980}{IMS Fellow}
+\Honor{1981}{IMS Medallion Lecturer}
+\Honor{1985}{COPSS Presidents' Award}
+\Honor{1996}{IMS President}
+\Honor{2001}{R. A. Fisher Lecturer}
+\Honor{2001}{Royal Spanish Academy of Sciences, Foreign Member}
+\Honor{2003}{National Academy of Sciences, Member}
+\Honor{2007}{Wald Lecturer}
+
+
+\subsection*{Biography}
+\Biography{berger__james_o:12}
+\end{document}

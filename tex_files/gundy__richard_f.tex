@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Gundy, Richard F.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Gundy, Richard F.}
+\ID{gundy__richard_f}
+\AltID{gundy__richard}
+
+
+
+\Homepage{http://stat.rutgers.edu/people/faculty/gundy.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=78310}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:gundy.richard-f}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=5790}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/10961908}{Microsoft Academic: Gundy, Richard F.}
+
+
+\subsection*{Education}
+\Degree{1967}{Ph.D.}{The University of Chicago}[Some Applications of Probability in the Theory of Orthogonal Functions]<http://genealogy.math.ndsu.nodak.edu/id.php?id=5790>
+
+
+\subsection*{Honors}
+\Honor{1971}{IMS Fellow}
+\end{document}

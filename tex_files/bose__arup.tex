@@ -1,0 +1,40 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Bose, Arup
+\end{filecontents}
+
+\begin{document}
+
+\Name{Bose, Arup}
+\ID{bose__arup}
+
+
+
+
+\Homepage{http://www.isical.ac.in/~abose/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=218879}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:bose.arup}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=96280}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/53763568}{Microsoft Academic: Bose, Arup}
+
+
+\subsection*{Education}
+\Degree{1987}{Ph.D.}{Indian Statistical Institute, Calcutta}<http://genealogy.math.ndsu.nodak.edu/id.php?id=96280>
+
+
+\subsection*{Honors}
+\Honor{2002}{IMS Fellow}{For outstanding and wide ranging contributions to asymptotics, especially the bootstrap, and sequential analysis, and dedicated service to the profession}
+\Honor{2006}{Indian Academy of Sciences, Fellow}
+\Honor{2007}{Indian National Science Academy, Fellow}
+\end{document}

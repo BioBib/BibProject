@@ -1,0 +1,41 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Perlman, Michael D.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Perlman, Michael D.}
+\ID{perlman__michael_d}
+\AltID{perlman__michael}
+
+\DisplayName{Perlman, Michael}
+
+
+\Homepage{http://www.stat.washington.edu/people/people.php?id=75}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=138140}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:perlman.michael-d}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=25299}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12535636}{Microsoft Academic: Perlman, Michael D.}
+
+
+\subsection*{Education}
+\Degree{1968}{Ph.D.}{Stanford University}[One-Sided Problems in Multivariate Analysis]<http://genealogy.math.ndsu.nodak.edu/id.php?id=25299>
+
+
+\subsection*{Honors}
+\Honor{1973}{IMS Fellow}
+\Honor{1984}{IMS Medallion Lecturer}
+\Honor{2000}{IMS Medallion Lecturer}
+\end{document}

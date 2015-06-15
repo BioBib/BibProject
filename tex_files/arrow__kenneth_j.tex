@@ -1,0 +1,60 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Arrow, Kenneth J.
+
+@incollection{arrow__kenneth_j:16,
+year={2008},
+author={Sent, E.-M.},
+title={{A}rrow, {K}enneth {J}. 1921-},
+crossref={booktitle:international-encyclopedia-of-the-social-sciences},
+url={http://www.encyclopedia.com/doc/1G2-3045300118.html},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Arrow, Kenneth J.}
+\ID{arrow__kenneth_j}
+\AltID{arrow__kenneth}
+
+\DisplayName{Arrow, Kenneth}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=27420}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:arrow.kenneth-j}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=51175}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/10561452}{Microsoft Academic: Kenneth J Arrow}
+\Profile{http://academic.research.microsoft.com/Author/2922709}{Microsoft Academic: Kenneth J. Arrow}
+\Profile{http://fsi.stanford.edu/people/kennethjarrow/}{Stanford}
+
+
+\subsection*{Education}
+\Degree{1951}{Ph.D.}{Columbia University}[Social Choice and Individual Values]<http://genealogy.math.ndsu.nodak.edu/id.php?id=51175>
+
+
+\subsection*{Honors}
+\Honor{1951}{IMS Fellow}
+\Honor{1955}{John Bates Clark Medal, American Economic Association}
+\Honor{1959}{American Academy of Arts and Sciences, Fellow}
+\Honor{1968}{American Philosophical Society, Member}
+\Honor{1968}{National Academy of Sciences, Member}
+\Honor{1972}{Nobel Prize in Economic Sciences}
+\Honor{1976}{British Academy, Corresponding Fellow}
+\Honor{1977}{John von Neumann Lecturer}
+\Honor{1986}{John von Neumann Theory Prize}
+\Honor{2004}{National Medal of Science}
+\Honor{2006}{The Royal Society, Foreign Member}
+
+
+\subsection*{Biography}
+\Biography{arrow__kenneth_j:16}
+\end{document}

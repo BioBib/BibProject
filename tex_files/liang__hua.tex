@@ -1,0 +1,24 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Liang, Hua
+\end{filecontents}
+
+\begin{document}
+
+\Name{Liang, Hua}
+\ID{liang__hua}
+
+
+
+
+\subsection*{Honors}
+\Honor{2013}{IMS Fellow}{For outstanding work on semi-parametric models, model selection and statistical methodology, and service to the profession}
+\end{document}

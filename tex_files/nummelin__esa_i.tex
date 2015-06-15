@@ -1,0 +1,37 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Nummelin, Esa I.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Nummelin, Esa I.}
+\ID{nummelin__esa_i}
+\AltID{nummelin__esa}
+
+\DisplayName{Nummelin, Esa}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=132580}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:nummelin.esa}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=57102}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12754931}{Microsoft Academic: Nummelin, Esa}
+\Profile{http://academic.research.microsoft.com/Author/54467987}{Microsoft Academic: Nummelin, Esa}
+
+
+\subsection*{Education}
+\Degree{1976}{Ph.D.}{Helsingin Teknillinen Korkeakoulu}[On The Alpha-properties And Quasi-stationary Distributions of Semi-Markov Processes]<http://genealogy.math.ndsu.nodak.edu/id.php?id=57102>
+
+
+\subsection*{Honors}
+\Honor{2001}{IMS Fellow}{For his fundamental contributions to the theory of general Markov chains, renewal theory and the theory of large deviations}
+\end{document}

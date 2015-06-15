@@ -1,0 +1,46 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Balakrishnan, Narayanaswamy
+
+@article{balakrishnan__narayanaswamy:6,
+year={2008},
+author={Anonymous},
+title={{N}. {B}alakrishnan},
+journal={Amstat News},
+pages={33},
+volume={Jun. 2008},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Balakrishnan, Narayanaswamy}
+\ID{balakrishnan__narayanaswamy}
+
+
+
+
+\Homepage{http://www.math.mcmaster.ca/bala/left.html}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:balakrishnan.narayanaswamy}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/12535907}{Microsoft Academic: Balakrishnan, Narayanaswamy}
+\Profile{http://ms.mcmaster.ca/bala/main.html}{Homepage}
+
+
+\subsection*{Honors}
+\Honor{2006}{IMS Fellow}{For research on order statistics and applications to life-testing and reliability; for scholarly publications on distributions; for leadership in encyclopedic publications; and for service to the profession by organizing numerous conferences}
+
+
+\subsection*{Biography}
+\Biography{balakrishnan__narayanaswamy:6}
+\end{document}

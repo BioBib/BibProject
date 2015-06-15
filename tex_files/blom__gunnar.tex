@@ -1,0 +1,63 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Blom, Gunnar
+
+@book{blom__gunnar:7,
+year={1985},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Lanke, J. and Lindgren, G., eds. (1985). Contributions to Probability and Statistics in Honour of Gunnar Blom. Department of Mathematical Sciences, University of Lund, Lund, Sweden},
+}
+
+@article{blom__gunnar:8,
+year={2004},
+author={Lanke, J.},
+title={{G}unnar {B}lom},
+journal={IMS Bulletin},
+pages={10},
+volume={33(2)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Blom, Gunnar} \Deceased
+\ID{blom__gunnar}
+
+
+
+
+\DOB{1920-04-09}
+\DOD{2003-08-01}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=38115}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:blom.gunnar}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=44719}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/50833202}{Microsoft Academic: Blom, Gunnar}
+
+
+\subsection*{Education}
+\Degree{1958}{Ph.D.}{Stockholm University}[Statistical Estimates and Transformed Beta-variables]<http://genealogy.math.ndsu.nodak.edu/id.php?id=44719>
+
+
+\subsection*{Honors}
+\Honor{1965}{IMS Fellow}
+
+
+\subsection*{Festschrift}
+\Festschrift{blom__gunnar:7}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{blom__gunnar:8}
+\end{document}

@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Dodd, Edward L.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Dodd, Edward L.} \Deceased
+\ID{dodd__edward_l}
+\AltID{dodd__edward}
+
+
+
+\DOB{1875-11-01}
+\DOD{1943-01-09}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=435315}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:dodd.edward-l}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=38467}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18746952}{Microsoft Academic: Dodd, Edward L.}
+
+
+\subsection*{Education}
+\Degree{1904}{Ph.D.}{Yale University}[Multiple Sequences]<http://genealogy.math.ndsu.nodak.edu/id.php?id=38467>
+
+
+\subsection*{Honors}
+\Honor{before 1943}{IMS Fellow}
+\end{document}

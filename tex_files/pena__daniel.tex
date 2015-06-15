@@ -1,0 +1,34 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Peña Sánchez de Rivera, Daniel
+\end{filecontents}
+
+\begin{document}
+
+\Name{Pe\~{n}a S\'{a}nchez de Rivera, Daniel}
+\ID{pena__daniel}
+
+
+\DisplayName{Pe\~{n}a, Daniel}
+
+
+\Homepage{http://halweb.uc3m.es/esp/Personal/personas/dpena/esp/public.html}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:pena.daniel}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:glez-pena.daniel}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/12557903}{Microsoft Academic: Daniel Pena (Daniel Pe\~{n}a)}
+
+
+\subsection*{Honors}
+\Honor{2000}{IMS Fellow}{For outstanding research in time series, diagnostics and robust methods, and Bayesian statistics; for dedication to public and editorial service; and for significant contributions to the development of statistics in Spain}
+\end{document}

@@ -1,0 +1,40 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Liu, Regina Y.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Liu, Regina Y.}
+\ID{liu__regina_y}
+\AltID{liu__regina}
+
+
+
+\Homepage{http://www.stat.rutgers.edu/people/faculty/liu.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=114910}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:liu.regina-y-c}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:liu.regina}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=46399}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/72298}{Microsoft Academic: Liu, Rong}
+
+
+\subsection*{Education}
+\Degree{1983}{Ph.D.}{Columbia University}[Histogram Estimation of Hazard Rate and Related Functions Under Random Censoring]<http://genealogy.math.ndsu.nodak.edu/id.php?id=46399>
+
+
+\subsection*{Honors}
+\Honor{1994}{IMS Fellow}
+\Honor{1997}{IMS Medallion Lecturer}
+\end{document}

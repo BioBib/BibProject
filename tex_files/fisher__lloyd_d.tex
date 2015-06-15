@@ -1,0 +1,34 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Fisher, Lloyd D.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Fisher, Lloyd D.}
+\ID{fisher__lloyd_d}
+\AltID{fisher__lloyd
+
+}
+
+\DisplayName{Fisher, Lloyd}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=270513}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:fisher.lloyd-d}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/51490578}{Microsoft Academic: Fisher, Lloyd D.}
+\Profile{http://academic.research.microsoft.com/Author/54946806}{Microsoft Academic: Fisher, Lloyd}
+
+
+\subsection*{Honors}
+\Honor{1980}{IMS Fellow}
+\end{document}

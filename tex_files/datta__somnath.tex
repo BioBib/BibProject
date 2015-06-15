@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Datta, Somnath
+\end{filecontents}
+
+\begin{document}
+
+\Name{Datta, Somnath}
+\ID{datta__somnath}
+
+
+
+
+\Homepage{http://louisville.edu/sphis/fac_staff_dir/somnath-datta.html}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:datta.somnath}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/2338243}{Microsoft Academic: Datta, Somnath}
+
+
+\subsection*{Honors}
+\Honor{2010}{IMS Fellow}{For contributions to compound decision theory, bootstrap inference for Markov chains and time series, survival analysis and counting processes, and biostatistics and bioinformatics; and for editorial service to the profession}
+\end{document}

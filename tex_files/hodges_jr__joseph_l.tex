@@ -1,0 +1,76 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Hodges, Joseph L., Jr.
+
+@incollection{hodges_jr__joseph_l:11,
+year={2006},
+author={Lehmann, E. L.},
+title={{H}odges, {J}oseph {L}awson, {J}r.},
+crossref={booktitle:encyclopedia-of-statistical-sciences},
+}
+
+@article{hodges_jr__joseph_l:9,
+year={2000},
+author={Bickel, P. and Lehmann, E.},
+title={{J}oseph {L}awson {H}odges, {J}r. (2000)},
+journal={IMS Bulletin},
+pages={411-412},
+volume={29},
+}
+
+@misc{hodges_jr__joseph_l:580451,
+year={2000},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Blackwell, D., Bowker, A. H. and Lehmann, E. L. (2000). Joseph L. Hodges, Jr., Statistics: Berkeley. University of California: In memoriam},
+url={http://content.cdlib.org/view?docId=hb1r29n709;NAAN=13030&doc.view=frames&chunk.id=div00022&toc.depth=1&toc.id=&brand=calisphere&query=joseph%20l%20hodges%20in%20memoriam},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Hodges, Joseph L., Jr.} \Deceased
+\ID{hodges_jr__joseph_l}
+\AltID{hodges__joseph}
+
+
+
+\DOB{1922-04-10}
+\DOD{2000-03-01}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=86785}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:hodges.joseph-l-jun}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=32297}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18057406}{Microsoft Academic: Hodges, J. L.}
+\Profile{http://academic.research.microsoft.com/Author/55120647}{Microsoft Academic: Hodges, J. L.}
+
+
+\subsection*{Education}
+\Degree{1948}{Ph.D.}{University of California, Berkeley}[I. Initial Sample Size in the Stein Procedure. II. Stringency in Acceptance Sampling. (Studies in optimum Statistical Procedures)]<http://genealogy.math.ndsu.nodak.edu/id.php?id=32297>
+
+
+\subsection*{Honors}
+\Honor{1950}{IMS Fellow}
+
+
+\subsection*{Biography}
+\Biography{hodges_jr__joseph_l:11}
+
+
+\subsection*{Obituary}
+\Obituary{hodges_jr__joseph_l:9}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{hodges_jr__joseph_l:580451}
+\end{document}

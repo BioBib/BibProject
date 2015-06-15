@@ -1,0 +1,64 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Burr, Irving W.
+
+@misc{burr__irving_w:8,
+year={1974},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Irving W. Burr papers, 1935-1974. Purdue University Libraries},
+url={http://www.lib.purdue.edu/spcol/fa/pdf/burr_i.pdf},
+}
+
+@misc{burr__irving_w:617667,
+year={year?},
+author={Anonymous},
+title={{U}ntitled},
+addendum={I. W. Burr. Department of Statistics, Purdue University},
+url={http://www.stat.purdue.edu/contrib/burr.html},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Burr, Irving W.} \Deceased
+\ID{burr__irving_w}
+\AltID{burr__irving}
+
+\DisplayName{Burr, Irving}
+
+
+\DOB{1908-04-09}
+\DOD{1989-03-13}
+
+
+\subsection*{Profiles}
+\Profile{http://www.york.ac.uk/depts/maths/histstat/people/burr.gif}{www.york.ac.uk}
+\Profile{http://zbmath.org/authors/?q=ai:burr.irving-w}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=5187}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18739997}{Microsoft Academic: Burr, Irving W.}
+
+
+\subsection*{Education}
+\Degree{1941}{Ph.D.}{University of Michigan}[Cumulative Frequency Functions]<http://genealogy.math.ndsu.nodak.edu/id.php?id=5187>
+
+
+\subsection*{Honors}
+\Honor{19??}{IMS Fellow}
+
+
+\subsection*{Archive}
+\Archive{burr__irving_w:8}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{burr__irving_w:617667}
+\end{document}

@@ -1,0 +1,67 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Mantel, Nathan
+
+@incollection{mantel__nathan:7,
+year={2005},
+author={Hale, L. and Hale, B.},
+title={{M}antel, {N}athan},
+crossref={booktitle:encyclopedia-of-biostatistics},
+}
+
+@incollection{mantel__nathan:8,
+year={2006},
+author={Anonymous},
+title={{M}antel, {N}athan},
+crossref={booktitle:encyclopedia-of-statistical-sciences},
+}
+
+@misc{mantel__nathan:866137,
+year={2002},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Hale, A. and Hale, L. (2002). Nathan Mantel. IMS Bulletin, Vol. 31(4), p. 10},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Mantel, Nathan} \Deceased
+\ID{mantel__nathan}
+
+
+
+
+\DOB{1919-02-16}
+\DOD{2002-05-26}
+
+
+\Homepage{http://en.wikipedia.org/wiki/Nathan_Mantel}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=494642}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:mantel.nathan}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/18635570}{Microsoft Academic: Mantel, Nathan}
+
+
+\subsection*{Honors}
+\Honor{1971}{IMS Fellow}
+
+
+\subsection*{Biographies}
+\Biography{mantel__nathan:7}
+\Biography{mantel__nathan:8}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{mantel__nathan:866137}
+\end{document}

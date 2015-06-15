@@ -1,0 +1,49 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Loève, Michel
+
+@article{loeve__michel:8,
+year={1979},
+author={Anonymous},
+title={{U}ntitled},
+journal={IMS Bulletin},
+pages={131},
+volume={8},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Lo\`{e}ve, Michel} \Deceased
+\ID{loeve__michel}
+
+
+
+
+\DOB{1907-01-22}
+\DOD{1979-02-17}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=303619}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:loeve.michel}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/11209750}{Microsoft Academic: M. Loeve (M. Lo\`{e}ve)}
+\Profile{http://academic.research.microsoft.com/Author/50822454}{Microsoft Academic: Michel Loeve (Michel Lo\`{e}ve)}
+\Profile{http://academic.research.microsoft.com/Author/53928262}{Microsoft Academic: Michel Loeve (Michel Lo\`{e}ve)}
+
+
+\subsection*{Honors}
+\Honor{1949}{IMS Fellow}
+
+
+\subsection*{Death Notice}
+\DeathNotice{loeve__michel:8}
+\end{document}

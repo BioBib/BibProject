@@ -1,0 +1,41 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Romano, Joseph P.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Romano, Joseph P.}
+\ID{romano__joseph_p}
+\AltID{romano__joseph}
+
+
+
+\Homepage{http://www-stat.stanford.edu/~romano/joe.html}
+\Homepage{http://www-stat.stanford.edu/~romano/joe.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=150060}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:romano.joseph-d}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:romano.joseph-p}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=34487}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/1534585}{Microsoft Academic: Romano, Joseph P.}
+\Profile{http://academic.research.microsoft.com/Author/10625560}{Microsoft Academic: Romano, Joseph P.}
+
+
+\subsection*{Education}
+\Degree{1986}{Ph.D.}{University of California, Berkeley}[On Bootstrapping the Joint Distribution of the Location and the Size of the Mode]<http://genealogy.math.ndsu.nodak.edu/id.php?id=34487>
+
+
+\subsection*{Honors}
+\Honor{2000}{IMS Fellow}{For contributions to contemporary non-parametric inference, particularly to the ongoing debate about different bootstrap methods for constructing confidence regions, to bootstrap subsampling, the bootstrap for time series, bootstrap methods for hypothesis testing, theory for empirical likelihood, and curve estimation; and for his contributions to training talented graduate students, whose own work is proving very influential}
+\end{document}

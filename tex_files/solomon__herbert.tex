@@ -1,0 +1,42 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Solomon, Herbert
+\end{filecontents}
+
+\begin{document}
+
+\Name{Solomon, Herbert} \Deceased
+\ID{solomon__herbert}
+
+
+
+
+\DOB{1919-03-13}
+\DOD{2004-09-20}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=198385}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:solomon.herbert}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=14688}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/5842117}{Microsoft Academic: Solomon, Herbert}
+\Profile{http://academic.research.microsoft.com/Author/12404400}{Microsoft Academic: Solomon, Herbert}
+
+
+\subsection*{Education}
+\Degree{1950}{Ph.D.}{Stanford University}[Distribution of the Measure of a Two-Dimensional Random Set]<http://genealogy.math.ndsu.nodak.edu/id.php?id=14688>
+
+
+\subsection*{Honors}
+\Honor{1955}{IMS Fellow}
+\Honor{1965}{IMS President}
+\Honor{1975}{Samuel S. Wilks Award}
+\end{document}

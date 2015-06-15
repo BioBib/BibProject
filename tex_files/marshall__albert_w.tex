@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Marshall, Albert W.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Marshall, Albert W.}
+\ID{marshall__albert_w}
+\AltID{marshall__albert}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=192225}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:marshall.albert-w}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=27997}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/2347415}{Microsoft Academic: Marshall, Albert W.}
+
+
+\subsection*{Education}
+\Degree{1958}{Ph.D.}{University of Washington}[On the Growth of Stochastic Processes]<http://genealogy.math.ndsu.nodak.edu/id.php?id=27997>
+
+
+\subsection*{Honors}
+\Honor{1970}{IMS Fellow}
+\end{document}

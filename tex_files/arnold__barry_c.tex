@@ -1,0 +1,42 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Arnold, Barry C.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Arnold, Barry C.}
+\ID{arnold__barry_c}
+\AltID{arnold__barry}
+
+\DisplayName{Arnold, Barry}
+
+
+\Homepage{http://statistics.ucr.edu/faculty/arnold.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=27225}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:arnold.barry-c}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=32674}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18753718}{Microsoft Academic: Arnold, Babry C.}
+\Profile{http://academic.research.microsoft.com/Author/53693892}{Microsoft Academic: Arnold, Barry C.}
+\Profile{http://academic.research.microsoft.com/Author/12462092}{Microsoft Academic: Arnold, Barry C.}
+\Profile{http://statistics.ucr.edu/faculty/arnold.html}{Homepage}
+
+
+\subsection*{Education}
+\Degree{1966}{Ph.D.}{Stanford University}[A Correlated Urn-Scheme for a Continuum of Responses]<http://genealogy.math.ndsu.nodak.edu/id.php?id=32674>
+
+
+\subsection*{Honors}
+\Honor{1992}{IMS Fellow}
+\end{document}

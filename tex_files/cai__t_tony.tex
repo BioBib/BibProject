@@ -1,0 +1,49 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Cai, T. Tony
+
+@article{cai__t_tony:7,
+year={2008},
+author={Anonymous},
+title={{C}{O}{P}{S}{S} {P}residents{'} {A}ward: {T}ony {C}ai},
+journal={IMS Bulletin},
+pages={17},
+volume={37(8)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Cai, T. Tony}
+\ID{cai__t_tony}
+\AltID{cai__tony}
+
+
+
+\Homepage{http://www-stat.wharton.upenn.edu/~tcai/}
+\Homepage{http://www-stat.wharton.upenn.edu/~tcai/paper/html/Coherence-Random-Matrix.html}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:cai.tianwen-tony}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/1102610}{Microsoft Academic: Cai, T. Tony}
+\Profile{http://academic.research.microsoft.com/Author/34244116}{Microsoft Academic: Cai, T.}
+
+
+\subsection*{Honors}
+\Honor{2006}{IMS Fellow}{For pioneering contributions to the theory and practice of nonparametric function estimation; for the introduction of innovative blockthresholding schemes; and for important contributions to the theory of adaptive inference}
+\Honor{2008}{COPSS Presidents' Award}
+\Honor{2009}{IMS Medallion Lecturer}
+
+
+\subsection*{Biography}
+\Biography{cai__t_tony:7}
+\end{document}

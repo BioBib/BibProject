@@ -1,0 +1,110 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Darmois, Georges
+
+@incollection{darmois__georges:12,
+year={2001},
+author={Bru, B.},
+title={{G}eorges {D}armois},
+pages={382-385},
+crossref={booktitle:statisticians-of-the-centuries},
+}
+
+@incollection{darmois__georges:13,
+year={2011},
+author={O'Connor, J. J. and Robertson, E. F.},
+title={{G}eorges {D}armois},
+addendum={MacTutor biography},
+url={http://www-history.mcs.st-andrews.ac.uk/Biographies/Darmois.html},
+}
+
+@article{darmois__georges:7,
+year={1960},
+author={Roy, R.},
+title={{G}eorges {D}armois, 1888-1960},
+journal={J. Roy. Statist. Soc. Ser. A},
+pages={520-522},
+volume={123},
+url={http://www.jstor.org/stable/2343305},
+}
+
+@article{darmois__georges:8,
+year={1961},
+author={Dugu\'{e}, D.},
+title={{G}eorges {D}armois, 1888-1960},
+journal={Ann. Math. Statist.},
+pages={357-360},
+volume={32},
+url={http://www.jstor.org/stable/2237749},
+}
+
+@article{darmois__georges:9,
+year={1961},
+author={Roy, R.},
+title={{G}eorges {D}armois, 1888-1960},
+journal={Econometrica},
+pages={80-83},
+volume={29},
+url={http://www.jstor.org/stable/1907690},
+}
+
+@misc{darmois__georges:828064,
+year={year?},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Georges Darmois. Acad\'{e}mie des sciences},
+url={http://www.academie-sciences.fr/activite/archive/dossiers/eloges/darmoisg_notice.pdf},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Darmois, Georges} \Deceased
+\ID{darmois__georges}
+
+
+
+
+\DOB{1888-06-24}
+\DOD{1960-01-03}
+
+
+\subsection*{Profiles}
+\Profile{http://en.wikipedia.org/wiki/Georges_Darmois}{Wikipedia}
+\Profile{http://fr.wikipedia.org/wiki/Georges_Darmois}{Wikipedia}
+\Profile{http://www.york.ac.uk/depts/maths/histstat/people/darmois.gif}{www.york.ac.uk}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=431600}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:darmois.georges}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=81193}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/271945}{Microsoft Academic: G. Darmois}
+\Profile{http://academic.research.microsoft.com/Author/48520503}{Microsoft Academic: Georges Darmois}
+
+
+\subsection*{Education}
+\Degree{1921}{Doctorat}{\`{e}s Sciences Universit\'{e} de Paris}[Sur les courbes alg\'{e}briques \`{a} torsion constante]<http://genealogy.math.ndsu.nodak.edu/id.php?id=81193>
+
+
+\subsection*{Honors}
+\Honor{1947}{IMS Fellow}
+\Honor{1956}{Acad\'{e}mie des sciences, Member}
+
+
+\subsection*{Biographies}
+\Biography{darmois__georges:12}
+\Biography{darmois__georges:13}
+
+
+\subsection*{Memorials}
+\InMemoriam{darmois__georges:7}
+\InMemoriam{darmois__georges:8}
+\InMemoriam{darmois__georges:9}
+\InMemoriam{darmois__georges:828064}
+\end{document}

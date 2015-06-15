@@ -1,0 +1,41 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Roos, Charles F.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Roos, Charles F.} \Deceased
+\ID{roos__charles_f}
+\AltID{roos__charles}
+
+
+
+\DOB{1901-05-18}
+\DOD{1958-01-07}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=652335}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:roos.charles-frederick}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=41941}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/55098091}{Microsoft Academic: Charles F. Roos}
+\Profile{http://academic.research.microsoft.com/Author/56489692}{Microsoft Academic: Charles F. Roos}
+\Profile{http://academic.research.microsoft.com/Author/28460496}{Microsoft Academic: Charles F. Roos}
+
+
+\subsection*{Education}
+\Degree{1926}{Ph.D.}{Rice University}[Generalized Lagrange Problems in the Calculus of Variations]<http://genealogy.math.ndsu.nodak.edu/id.php?id=41941>
+
+
+\subsection*{Honors}
+\Honor{before 1943}{IMS Fellow}
+\end{document}

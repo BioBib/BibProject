@@ -1,0 +1,33 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Rosenblatt, Judah I.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Rosenblatt, Judah I.}
+\ID{rosenblatt__judah_i}
+\AltID{rosenblatt__judah
+
+}
+
+\DisplayName{Rosenblatt, Judah}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=150600}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:rosenblatt.judah-i}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/42788926}{Microsoft Academic: Rosenblatt, Judah}
+
+
+\subsection*{Honors}
+\Honor{1968}{IMS Fellow}
+\end{document}

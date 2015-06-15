@@ -1,0 +1,81 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Kelley, Truman L.
+
+@incollection{kelley__truman_l:12,
+year={1968},
+author={Tiedeman, D. V.},
+title={{K}elley, {T}ruman {L}.},
+crossref={booktitle:international-encyclopedia-of-the-social-sciences},
+url={http://www.encyclopedia.com/doc/1G2-3045000638.html},
+}
+
+@article{kelley__truman_l:8,
+year={1962},
+author={Anonymous},
+title={{U}ntitled},
+journal={Ann. Math. Statist.},
+pages={315},
+volume={33},
+}
+
+@article{kelley__truman_l:9,
+year={1961},
+author={Flanagan, J. C.},
+title={{T}ruman {L}ee {K}elley},
+journal={Psychometrika},
+pages={343-345},
+volume={26},
+}
+
+@misc{kelley__truman_l:789972,
+year={1962},
+author={Anonymous},
+title={{U}ntitled},
+addendum={(1962). Truman Lee Kelley. British J. of Statistical Psychology, Vol. 15, pp. 95-96},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Kelley, Truman L.} \Deceased
+\ID{kelley__truman_l}
+\AltID{kelley__truman}
+
+
+
+\DOB{1884-05-25}
+\DOD{1961-05}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=473936}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:kelley.truman-lee}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/18749829}{Microsoft Academic: Kelley, Truman Lee}
+
+
+\subsection*{Honors}
+\Honor{1931}{American Academy of Arts and Sciences, Fellow}
+\Honor{before 1943}{IMS Fellow}
+
+
+\subsection*{Biography}
+\Biography{kelley__truman_l:12}
+
+
+\subsection*{Death Notice}
+\DeathNotice{kelley__truman_l:8}
+
+
+\subsection*{Memorials}
+\InMemoriam{kelley__truman_l:9}
+\InMemoriam{kelley__truman_l:789972}
+\end{document}

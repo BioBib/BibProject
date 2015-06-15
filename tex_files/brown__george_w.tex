@@ -1,0 +1,64 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Brown, George W.
+
+@misc{brown__george_w:9,
+year={1985},
+author={Anonymous},
+title={{U}ntitled},
+addendum={(1985). George W. Brown and Alexander M. Mood. The Princeton Mathematics Community in the 1930s, no. 3. Seeley G. Mudd Manuscript Library, Princeton University},
+url={http://www.princeton.edu/~mudd/finding_aids/mathoral/pmc03.htm},
+}
+
+@misc{brown__george_w:669119,
+year={year?},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Mood, A. M. and Porter, L. George W. Brown. University of California: In memoriam},
+url={http://www.universityofcalifornia.edu/senate/inmemoriam/georgewbrown.htm},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Brown, George W.} \Deceased
+\ID{brown__george_w}
+\AltID{brown__george}
+
+
+
+\DOB{1917-06-03}
+\DOD{2005-06-20}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=418640}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:brown.george-w}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=34709}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/47454752}{Microsoft Academic: George W. Brown}
+\Profile{http://academic.research.microsoft.com/Author/53830741}{Microsoft Academic: George W. Brown}
+
+
+\subsection*{Education}
+\Degree{1940}{Ph.D.}{Princeton University}[Reduction of a Certain Class of Composite Statistical Hypotheses]<http://genealogy.math.ndsu.nodak.edu/id.php?id=34709>
+
+
+\subsection*{Honors}
+\Honor{1948}{IMS Fellow}
+
+
+\subsection*{Oral History}
+\OralHistory{brown__george_w:9}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{brown__george_w:669119}
+\end{document}

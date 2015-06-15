@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Yatracos, Yannis
+\end{filecontents}
+
+\begin{document}
+
+\Name{Yatracos, Yannis}
+\ID{yatracos__yannis}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=219874}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:yatracos.yannis-g}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=34534}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/930053}{Microsoft Academic: Yatracos, Yannis G.}
+
+
+\subsection*{Education}
+\Degree{1983}{Ph.D.}{University of California, Berkeley}[Uniformly Consistent Estimates and Rates of Convergence via Minimum Distance Methods]<http://genealogy.math.ndsu.nodak.edu/id.php?id=34534>
+
+
+\subsection*{Honors}
+\Honor{2001}{IMS Fellow}{For fundamental results on abstract nonparametric minimum distance estimation, with applications to nonparametric regression and density estimation; and for diverse original insights into small sample estimation}
+\end{document}

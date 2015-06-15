@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Madansky, Albert
+\end{filecontents}
+
+\begin{document}
+
+\Name{Madansky, Albert}
+\ID{madansky__albert}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=253872}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:madansky.albert}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=35305}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12404029}{Microsoft Academic: Madansky, Albert}
+
+
+\subsection*{Education}
+\Degree{1958}{Ph.D.}{The University of Chicago}[Identification and Estimation in Latent Class Analysis]<http://genealogy.math.ndsu.nodak.edu/id.php?id=35305>
+
+
+\subsection*{Honors}
+\Honor{1968}{IMS Fellow}
+\end{document}

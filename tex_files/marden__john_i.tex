@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Marden, John I.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Marden, John I.}
+\ID{marden__john_i}
+\AltID{marden__john}
+
+\DisplayName{Marden, John}
+
+
+\Homepage{http://en.wikipedia.org/wiki/John_Marden}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=119730}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:marden.john-i}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=41336}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18269888}{Microsoft Academic: Marden, John I.}
+
+
+\subsection*{Education}
+\Degree{1978}{Ph.D.}{The University of Chicago}[Complete Class theorems for Invariant Tests in Multivariate Analysis]<http://genealogy.math.ndsu.nodak.edu/id.php?id=41336>
+
+
+\subsection*{Honors}
+\Honor{1991}{IMS Fellow}
+\end{document}

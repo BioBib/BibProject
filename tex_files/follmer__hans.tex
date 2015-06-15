@@ -1,0 +1,33 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Föllmer, Hans
+\end{filecontents}
+
+\begin{document}
+
+\Name{F\"{o}llmer, Hans}
+\ID{follmer__hans}
+
+
+
+
+\Homepage{http://www.math.hu-berlin.de/~foellmer/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:follmer.hans}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/697024}{Microsoft Academic: Follmer, Hans}
+
+
+\subsection*{Honors}
+\Honor{2007}{IMS Fellow}{For his leadership role in developing research in Germany, Europe, and the world, through his groundbreaking research, his inspiring lectures, his role in teaching and inspiring others}
+\Honor{2010}{IMS Medallion Lecturer}
+\end{document}

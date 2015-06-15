@@ -1,0 +1,52 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Camp, Burton H.
+
+@misc{camp__burton_h:9,
+year={1967},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Camp, B. H. (1967). Science at Wesleyan, 1831-1942. Mathematics. Brief mention of Camp, who was IMS President in 1938.},
+url={http://www.wesleyan.edu/physics/history/math.html},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Camp, Burton H.} \Deceased
+\ID{camp__burton_h}
+\AltID{camp__burton}
+
+
+
+\DOB{1880-09-30}
+\DOD{1980-03-13}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=421426}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:camp.burton-h}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=38657}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18684611}{Microsoft Academic: Camp, Burton H.}
+
+
+\subsection*{Education}
+\Degree{1911}{Ph.D.}{Yale University}[The Convergence of Singular Integrals]<http://genealogy.math.ndsu.nodak.edu/id.php?id=38657>
+
+
+\subsection*{Honors}
+\Honor{1935}{IMS Fellow}
+\Honor{1938}{IMS President}
+
+
+\subsection*{Biography}
+\Biography{camp__burton_h:9}
+\end{document}

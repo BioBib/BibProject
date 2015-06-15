@@ -1,0 +1,48 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Seely, Justus F.
+
+@misc{seely__justus_f:689794,
+year={2002},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Birkes, D. and Butler, D. (2002). Justus F. Seeley. IMS Bulletin, Vol. 31(3), p. 16},
+}
+
+@misc{seely__justus_f:598947,
+year={2002},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Butler, D. (2002). Justus Frandsen Seely (1941-2002). International Statistical Institute Newsletter, Vol. 26(3)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Seely, Justus F.} \Deceased
+\ID{seely__justus_f}
+\AltID{seeley__justus}
+
+\DisplayName{Seely, Justus}
+
+
+\DOB{1941-02-11}
+\DOD{2002-02-23}
+
+
+\subsection*{Honors}
+\Honor{1979}{IMS Fellow}
+
+
+\subsection*{Memorials}
+\InMemoriam{seely__justus_f:689794}
+\InMemoriam{seely__justus_f:598947}
+\end{document}

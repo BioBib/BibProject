@@ -1,0 +1,42 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Mann, Henry B.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Mann, Henry B.} \Deceased
+\ID{mann__henry_b}
+\AltID{mann__henry}
+
+
+
+\DOB{1905-10-27}
+\DOD{2000-02-01}
+
+
+\Homepage{http://www.math.osu.edu/history/biographies/mann/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=494476}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:mann.henry-b}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=9142}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/10226951}{Microsoft Academic: Mann, Henry B.}
+
+
+\subsection*{Education}
+\Degree{1935}{Dr.}{phil. Universit\"{a}t Wien}[Darstellung der Gruppe der relativprimen Restklassen nach Primidealmoduln durch eine unabh\"{a}ngige Basis]<http://genealogy.math.ndsu.nodak.edu/id.php?id=9142>
+
+
+\subsection*{Honors}
+\Honor{1944}{IMS Fellow}
+\end{document}

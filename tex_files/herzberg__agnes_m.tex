@@ -1,0 +1,37 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Herzberg, Agnes M.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Herzberg, Agnes M.}
+\ID{herzberg__agnes_m}
+\AltID{herzberg__agnes}
+
+\DisplayName{Herzberg, Agnes}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=85225}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:herzberg.agnes-m}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=17770}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/54769803}{Microsoft Academic: Herzberg, Agnes M.}
+
+
+\subsection*{Education}
+\Degree{1966}{Ph.D.}{University of Saskatchewan}[On Rotatable and Cylindrically Rotable Designs]<http://genealogy.math.ndsu.nodak.edu/id.php?id=17770>
+
+
+\subsection*{Honors}
+\Honor{1990}{IMS Fellow}
+\Honor{2008}{The Royal Society of Canada, Fellow}
+\end{document}

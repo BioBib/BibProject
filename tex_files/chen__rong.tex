@@ -1,0 +1,29 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Chen, Rong
+\end{filecontents}
+
+\begin{document}
+
+\Name{Chen, Rong}
+\ID{chen__rong}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:chen.rong}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/41775052}{Microsoft Academic: Rong Chen}
+
+
+\subsection*{Honors}
+\Honor{2006}{IMS Fellow}{For innovative and significant contributions in Bayesian inference, Monte Carlo and MCMC methods, and time series analysis; and for superb service in statistical education and to the profession}
+\end{document}

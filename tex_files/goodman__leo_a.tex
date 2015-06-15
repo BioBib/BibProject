@@ -1,0 +1,46 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Goodman, Leo A.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Goodman, Leo A.}
+\ID{goodman__leo_a}
+\AltID{goodman__leo}
+
+\DisplayName{Goodman, Leo}
+
+
+\Homepage{http://galton.uchicago.edu/faculty/emeriti/goodman/index.shtml}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=75290}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:goodman.leo-a}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=35023}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12809862}{Microsoft Academic: Goodman, Leonard}
+\Profile{http://academic.research.microsoft.com/Author/52733882}{Microsoft Academic: Goodman, Leo A.}
+
+
+\subsection*{Education}
+\Degree{1950}{Ph.D.}{Princeton University}[The Estimation of Population Size Using Sequential Sampling Tagging Methods]<http://genealogy.math.ndsu.nodak.edu/id.php?id=35023>
+
+
+\subsection*{Honors}
+\Honor{1953}{IMS Fellow}
+\Honor{1968}{R. A. Fisher Lecturer}
+\Honor{1973}{American Academy of Arts and Sciences, Fellow}
+\Honor{1974}{National Academy of Sciences, Member}
+\Honor{1976}{American Philosophical Society, Member}
+\Honor{1983}{Rietz Lecturer}
+\Honor{1985}{Samuel S. Wilks Award}
+\end{document}

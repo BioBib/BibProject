@@ -1,0 +1,29 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Sarkar, Sanat K.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Sarkar, Sanat K.}
+\ID{sarkar__sanat_k}
+\AltID{sarkar__sanat}
+
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:sarkar.sanat-kumar}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/47656786}{Microsoft Academic: Sanat K. Sarkar}
+
+
+\subsection*{Honors}
+\Honor{2007}{IMS Fellow}{For fundamental contributions to the field of multiple hypothesis testing; for important contributions to probabilty inequality and multivariate statistical inference; and for service to the profession}
+\end{document}

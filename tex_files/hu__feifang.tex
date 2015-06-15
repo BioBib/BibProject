@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Hu, Feifang
+\end{filecontents}
+
+\begin{document}
+
+\Name{Hu, Feifang}
+\ID{hu__feifang}
+
+
+
+
+\Homepage{http://www.stat.virginia.edu/faculty_hu.shtm}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:hu.feifang}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/2270070}{Microsoft Academic: Hu, Feifang}
+
+
+\subsection*{Honors}
+\Honor{2009}{IMS Fellow}{For innovative and significant research on adaptive designs and resampling methods, and for strong commitment to the profession through collaboration, student mentoring and professional service}
+\end{document}

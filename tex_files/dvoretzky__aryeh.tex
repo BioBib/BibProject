@@ -1,0 +1,71 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Dvoretzky, Aryeh
+
+@incollection{dvoretzky__aryeh:12,
+year={2010},
+author={O'Connor, J. J. and Robertson, E. F.},
+title={{A}ryeh {D}voretzky},
+addendum={MacTutor biography},
+url={http://www-history.mcs.st-andrews.ac.uk/Biographies/Dvoretzky.html},
+}
+
+@article{dvoretzky__aryeh:7,
+year={2008},
+author={Yahav, J. A.},
+title={{A}ryeh {D}voretzky, 1916-2008},
+journal={IMS Bulletin},
+pages={13},
+volume={37(7)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Dvoretzky, Aryeh} \Deceased
+\ID{dvoretzky__aryeh}
+
+
+
+
+\DOB{1916-05-03}
+\DOD{2008-05-08}
+
+
+\Homepage{http://en.wikipedia.org/wiki/Aryeh_Dvoretzky}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=229834}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:dvoretzky.aryeh}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=48145}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/1838262}{Microsoft Academic: Dvoretzky, Aryeh}
+
+
+\subsection*{Education}
+\Degree{1941}{Ph.D.}{Hebrew University}<http://genealogy.math.ndsu.nodak.edu/id.php?id=48145>
+
+
+\subsection*{Honors}
+\Honor{1951}{IMS Fellow}
+\Honor{1959}{Israel Academy of Sciences and Humanities, Member}
+\Honor{1969}{Rietz Lecturer}
+\Honor{1973}{Israel Prize}
+\Honor{1985}{American Academy of Arts and Sciences, Foreign Honorary Member}
+
+
+\subsection*{Biography}
+\Biography{dvoretzky__aryeh:12}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{dvoretzky__aryeh:7}
+\end{document}

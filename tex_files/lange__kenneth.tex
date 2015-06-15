@@ -1,0 +1,29 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Lange, Kenneth
+\end{filecontents}
+
+\begin{document}
+
+\Name{Lange, Kenneth}
+\ID{lange__kenneth}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:lange.kenneth-l}{zbMATH}
+
+
+\subsection*{Honors}
+\Honor{1993}{George W. Snedecor Award}
+\Honor{2012}{IMS Fellow}{For groundbreaking developments in statistical computing and statistical genetics as a prolific and rigorous scholar and mentor}
+\end{document}

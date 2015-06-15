@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Gaver, Donald P., Jr.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Gaver, Donald P., Jr.}
+\ID{gaver__donald_p}
+\AltID{gaver__donald
+
+}
+
+\DisplayName{Gaver, Donald P.}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=72010}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:gaver.donald-p-iii}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:gaver.donald-p-jun}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/36101075}{Microsoft Academic: Gaver, Donald P.}
+
+
+\subsection*{Honors}
+\Honor{1987}{IMS Fellow}
+\Honor{2009}{National Academy of Engineering, Member}
+\end{document}

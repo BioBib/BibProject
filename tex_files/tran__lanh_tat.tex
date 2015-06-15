@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Tran, Lanh Tat
+\end{filecontents}
+
+\begin{document}
+
+\Name{Tran, Lanh Tat}
+\ID{tran__lanh_tat}
+\AltID{tran__lanh}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=173990}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:tran.lanh-tat}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=12961}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12822163}{Microsoft Academic: Tran, Lanh Tat}
+
+
+\subsection*{Education}
+\Degree{1972}{Ph.D.}{University of California, Berkeley}[A Simple Proof of the Local-Time Theorem]<http://genealogy.math.ndsu.nodak.edu/id.php?id=12961>
+
+
+\subsection*{Honors}
+\Honor{1995}{IMS Fellow}
+\end{document}

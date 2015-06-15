@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Karr, Alan F.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Karr, Alan F.}
+\ID{karr__alan_f}
+\AltID{karr__alan}
+
+
+
+\Homepage{http://www.stat.unc.edu/faculty/karr.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=98665}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:karr.alan-f}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=6738}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/11328}{Microsoft Academic: Karr, Alan F.}
+
+
+\subsection*{Education}
+\Degree{1973}{Ph.D.}{Northwestern University}[Weak Convergence Theorems for Some Infinite Particle Systems]<http://genealogy.math.ndsu.nodak.edu/id.php?id=6738>
+
+
+\subsection*{Honors}
+\Honor{1984}{IMS Fellow}
+\end{document}

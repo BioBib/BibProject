@@ -1,0 +1,33 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Rosinski, Jan
+\end{filecontents}
+
+\begin{document}
+
+\Name{Rosinski, Jan}
+\ID{rosinski__jan}
+
+
+
+
+\Homepage{http://www.math.utk.edu/~rosinski/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=150725}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:rosinski.jan}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/12757762}{Microsoft Academic: Rosinski, Jan}
+
+
+\subsection*{Honors}
+\Honor{1997}{IMS Fellow}
+\end{document}

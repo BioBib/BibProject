@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Keiding, Niels
+\end{filecontents}
+
+\begin{document}
+
+\Name{Keiding, Niels}
+\ID{keiding__niels}
+
+
+
+
+\Homepage{http://biostat.ku.dk/staff_/detail/?id=77543}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=99805}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:keiding.niels}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/117353}{Microsoft Academic: Keiding, Niels}
+
+
+\subsection*{Honors}
+\Honor{1987}{IMS Fellow}
+\Honor{1987}{IMS Medallion Lecturer}
+\Honor{1990}{IMS Medallion Lecturer}
+\end{document}

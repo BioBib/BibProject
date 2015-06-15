@@ -1,0 +1,54 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Dwyer, Paul S.
+
+@article{dwyer__paul_s:8,
+year={1983},
+author={Anonymous},
+title={{U}ntitled},
+journal={IMS Bulletin},
+pages={36},
+volume={12},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Dwyer, Paul S.} \Deceased
+\ID{dwyer__paul_s}
+\AltID{dwyer__paul}
+
+\DisplayName{Dwyer, Paul}
+
+
+\DOB{1901-12-08}
+\DOD{1982-09}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=61110}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:dwyer.paul-s}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=5217}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/22520457}{Microsoft Academic: Dwyer, Paul S.}
+
+
+\subsection*{Education}
+\Degree{1936}{Ph.D.}{University of Michigan}[Combined Expansions of Products of Symmetric Power Sums and of Sums of Symmetric Power Products with Application to Sampling]<http://genealogy.math.ndsu.nodak.edu/id.php?id=5217>
+
+
+\subsection*{Honors}
+\Honor{1951}{IMS President}
+\Honor{before 1943}{IMS Fellow}
+
+
+\subsection*{Death Notice}
+\DeathNotice{dwyer__paul_s:8}
+\end{document}

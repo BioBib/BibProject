@@ -1,0 +1,62 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Arcones, Miguel A.
+
+@article{arcones__miguel_a:9,
+year={2010},
+author={Anonymous},
+title={{M}ath professor {A}rcones dies},
+journal={Inside Binghamton University},
+volume={31(18)},
+url={http://www2.binghamton.edu/news/inside/news.html?issue=2010jan28&id=8},
+}
+
+@article{arcones__miguel_a:10,
+year={2010},
+author={Anonymous},
+title={{U}ntitled},
+journal={Bernoulli News},
+volume={17(1)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Arcones, Miguel A.} \Deceased
+\ID{arcones__miguel_a}
+\AltID{arcones__miguel}
+
+\DisplayName{Arcones, Miguel}
+
+
+\DOB{1963-03-01}
+\DOD{2009-12-30}
+
+
+\Homepage{http://www.math.binghamton.edu/arcones/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:arcones.miguel-a}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/2063315}{Microsoft Academic: Arcones, Miguel A.}
+
+
+\subsection*{Honors}
+\Honor{2008}{IMS Fellow}{For contributions to probability and mathematical statistics including the bootstrap, U-statistics, M-estimators, Gaussian processes, limit theorems, empirical processes and large deviation theory; and for extensive editorial work}
+
+
+\subsection*{Obituary}
+\Obituary{arcones__miguel_a:9}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{arcones__miguel_a:10}
+\end{document}

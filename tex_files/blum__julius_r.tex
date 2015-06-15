@@ -1,0 +1,77 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Blum, Julius R.
+
+@article{blum__julius_r:8,
+year={1982},
+author={Anonymous},
+title={{U}ntitled},
+journal={IMS Bulletin},
+pages={216},
+volume={11},
+}
+
+@article{blum__julius_r:9,
+year={1985},
+author={Rosenblatt, M. and Samaniego, F. J.},
+title={{J}ulius {R}. {B}lum, 1922-1982},
+journal={Ann. Statist.},
+pages={1-9},
+volume={13},
+url={http://www.jstor.org/stable/2241142},
+}
+
+@misc{blum__julius_r:107096,
+year={1985},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Bhattacharya, P. K., Blum, A. H., Hanson, D. L., Samaniego, F. J. and Wegge, L. L. (1985). Julius R. Blum, Statistics: Davis. University of California: In memoriam},
+url={http://texts.cdlib.org/view?docId=hb4d5nb20m&chunk.id=div00016&brand=calisphere&doc.view=entire_text},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Blum, Julius R.} \Deceased
+\ID{blum__julius_r}
+\AltID{blum__julius}
+
+\DisplayName{Blum, Julius}
+
+
+\DOB{1922-02-01}
+\DOD{1982-04-13}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=38220}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:blum.julius-r}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=14955}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12765314}{Microsoft Academic: Blum, Julius R.}
+\Profile{http://academic.research.microsoft.com/Author/53453534}{Microsoft Academic: Blum, Julius R.}
+
+
+\subsection*{Education}
+\Degree{1953}{Ph.D.}{University of California, Berkeley}[Strong Consistency of Stochastic Approximation Methods]<http://genealogy.math.ndsu.nodak.edu/id.php?id=14955>
+
+
+\subsection*{Honors}
+\Honor{1958}{IMS Fellow}
+
+
+\subsection*{Death Notice}
+\DeathNotice{blum__julius_r:8}
+
+
+\subsection*{Memorials}
+\InMemoriam{blum__julius_r:9}
+\InMemoriam{blum__julius_r:107096}
+\end{document}

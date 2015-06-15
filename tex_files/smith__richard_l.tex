@@ -1,0 +1,51 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Smith, Richard L.
+
+@misc{smith__richard_l:196606,
+year={2010},
+author={Anonymous},
+title={{R}ichard {L}. {S}mith.},
+addendum={Amstat News, May 2010, pp. 59-60},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Smith, Richard L.}
+\ID{smith__richard_l}
+\AltID{smith__richard}
+
+
+
+\Homepage{http://www.unc.edu/~rls/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=190564}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:smith.richard-l}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=47222}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/52601698}{Microsoft Academic: Smith, Richard L.}
+
+
+\subsection*{Education}
+\Degree{1979}{Ph.D.}{Cornell University}[Limit Theorems for the Reliability of Series-Parallel Load-Sharing Systems]<http://genealogy.math.ndsu.nodak.edu/id.php?id=47222>
+
+
+\subsection*{Honors}
+\Honor{1988}{IMS Medallion Lecturer}
+\Honor{1991}{Guy Medal in Silver}
+\Honor{1991}{IMS Fellow}
+
+
+\subsection*{Biography}
+\Biography{smith__richard_l:196606}
+\end{document}

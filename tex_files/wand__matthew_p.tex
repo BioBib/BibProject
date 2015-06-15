@@ -1,0 +1,33 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Wand, Matthew P.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Wand, Matthew P.}
+\ID{wand__matthew_p}
+\AltID{wand__matthew}
+
+
+
+\Homepage{http://datasearch2.uts.edu.au/science/staff/details.cfm?StaffId=11641}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:wand.matthew-p}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/2595050}{Microsoft Academic: Wand, Matthew P.}
+
+
+\subsection*{Honors}
+\Honor{2007}{IMS Fellow}{For fundamental contributions to the theory, computation, and applications of nonparametric and semiparametric statistical methods}
+\Honor{2008}{Australian Academy of Science, Fellow}
+\end{document}

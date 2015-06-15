@@ -1,0 +1,73 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Kendall, Maurice G.
+
+@incollection{kendall__maurice_g:12,
+year={2003},
+author={O'Connor, J. J. and Robertson, E. F.},
+title={{M}aurice {G}eorge {K}endall},
+addendum={MacTutor biography},
+url={http://www-history.mcs.st-andrews.ac.uk/Biographies/Kendall_Maurice.html},
+}
+
+@incollection{kendall__maurice_g:11,
+year={2005},
+author={Altman, D. G.},
+title={{K}endall, {M}aurice {G}eorge},
+crossref={booktitle:encyclopedia-of-biostatistics},
+}
+
+@incollection{kendall__maurice_g:10,
+year={2006},
+author={Anonymous},
+title={{U}ntitled},
+year={2006},
+crossref={booktitle:encyclopedia-of-statistical-sciences},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Kendall, Maurice G.} \Deceased
+\ID{kendall__maurice_g}
+\AltID{kendall__maurice}
+
+
+
+\DOB{1907-09-06}
+\DOD{1983-03-29}
+
+
+\Homepage{http://en.wikipedia.org/wiki/Maurice_Kendall}
+\Homepage{http://en.wikipedia.org/wiki/Maurice_Kendall}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=100200}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:kendall.maurice-sir}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:kendall.maurice-g}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/409614}{Microsoft Academic: Kendall, Maurice G.}
+\Profile{http://academic.research.microsoft.com/Author/12607758}{Microsoft Academic: Kendall, Maurice}
+
+
+\subsection*{Honors}
+\Honor{1944}{IMS Fellow}
+\Honor{1945}{Guy Medal in Silver}
+\Honor{1968}{Guy Medal in Gold}
+\Honor{1970}{British Academy, Fellow}
+\Honor{1974}{Knighted}
+
+
+\subsection*{Biographies}
+\Biography{kendall__maurice_g:12}
+\Biography{kendall__maurice_g:11}
+\Biography{kendall__maurice_g:10}
+\end{document}

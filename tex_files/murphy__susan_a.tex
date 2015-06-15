@@ -1,0 +1,47 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Murphy, Susan A.
+
+@misc{murphy__susan_a:690154,
+year={2013},
+author={Anonymous},
+title={{U}ntitled},
+addendum={(2013). Susan Murphy receives MacArthur Fellowship. IMS Bulletin, Vol. 42(7), p. 2},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Murphy, Susan A.}
+\ID{murphy__susan_a}
+\AltID{murphy__susan}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=316255}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:murphy.susan-a}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=47478}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/47738094}{Microsoft Academic: Susan A. Murphy}
+
+
+\subsection*{Education}
+\Degree{1989}{Ph.D.}{The University of North Carolina at Chapel Hill}[Time-Dependent Coefficients in a Cox-Type Regression Model]<http://genealogy.math.ndsu.nodak.edu/id.php?id=47478>
+
+
+\subsection*{Honors}
+\Honor{1998}{IMS Medallion Lecturer}
+\Honor{2000}{IMS Fellow}{For fundamental contributions to semiparametric inference and asymptotic theory; for substantive applications of statistics to social sciences; and for dedication to editorial work and professional service}
+
+
+\subsection*{Biography}
+\Biography{murphy__susan_a:690154}
+\end{document}

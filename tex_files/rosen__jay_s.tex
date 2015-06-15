@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Rosen, Jay S.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Rosen, Jay S.}
+\ID{rosen__jay_s}
+\AltID{rosen__jay}
+
+
+
+\Homepage{http://www.math.csi.cuny.edu/~rosen/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=150510}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:rosen.jay-s}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=49313}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/44183}{Microsoft Academic: Rosen, Jay}
+
+
+\subsection*{Education}
+\Degree{1974}{Ph.D.}{Princeton University}[Logarithmic Sobolev Inequalities and Supercontractivity for Anharmonic Oscillators]<http://genealogy.math.ndsu.nodak.edu/id.php?id=49313>
+
+
+\subsection*{Honors}
+\Honor{2005}{IMS Fellow}{For a detailed and difficult study of the sample path properties of Brownian motion, random walks, stable processes and Markov processes in general}
+\end{document}

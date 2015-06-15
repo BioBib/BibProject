@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Eagleson, Geoffrey K.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Eagleson, Geoffrey K.}
+\ID{eagleson__geoffrey_k}
+\AltID{eagleson__geoffrey}
+
+\DisplayName{Eagleson, Geoffrey}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=190290}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:eagleson.g-k}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=92605}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12762802}{Microsoft Academic: Eagleson, Geoffrey K.}
+
+
+\subsection*{Education}
+\Degree{year?}{Ph.D.}{}<http://genealogy.math.ndsu.nodak.edu/id.php?id=92605>
+
+
+\subsection*{Honors}
+\Honor{1988}{IMS Fellow}
+\end{document}

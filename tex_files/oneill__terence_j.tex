@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for O'Neill, Terence J.
+\end{filecontents}
+
+\begin{document}
+
+\Name{O'Neill, Terence J.}
+\ID{oneill__terence_j}
+\AltID{oneill__terence}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=203691}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:oneill.terence-j}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=83185}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/54695222}{Microsoft Academic: O'Neill, Terence J.}
+\Profile{http://academic.research.microsoft.com/Author/54695225}{Microsoft Academic: O'Neill, Terence J.}
+
+
+\subsection*{Education}
+\Degree{1976}{Ph.D.}{Stanford University}[Efficiency Calculations in Discriminant Analysis]<http://genealogy.math.ndsu.nodak.edu/id.php?id=83185>
+
+
+\subsection*{Honors}
+\Honor{1997}{IMS Fellow}
+\end{document}

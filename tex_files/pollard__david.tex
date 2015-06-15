@@ -1,0 +1,34 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Pollard, David
+\end{filecontents}
+
+\begin{document}
+
+\Name{Pollard, David}
+\ID{pollard__david}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=140780}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:pollard.david-bruce}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=57297}{Math. Genealogy}
+
+
+\subsection*{Education}
+\Degree{1976}{Ph.D.}{Australian National University}[Topological Measure Theory, with Applications to Probability]<http://genealogy.math.ndsu.nodak.edu/id.php?id=57297>
+
+
+\subsection*{Honors}
+\Honor{1982}{IMS Fellow}
+\end{document}

@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Takeuchi, Kei
+\end{filecontents}
+
+\begin{document}
+
+\Name{Takeuchi, Kei}
+\ID{takeuchi__kei}
+
+
+
+
+\Homepage{http://www.meijigakuin.ac.jp/~iism/frontier/Workshop200507.files/Profile/Profile%20Takeuchi.htm}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=191909}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:takeuchi.kei}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=33929}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18449481}{Microsoft Academic: Takeuchi, Kei}
+
+
+\subsection*{Education}
+\Degree{year?}{Ph.D.}{}<http://genealogy.math.ndsu.nodak.edu/id.php?id=33929>
+
+
+\subsection*{Honors}
+\Honor{1984}{IMS Fellow}
+\end{document}

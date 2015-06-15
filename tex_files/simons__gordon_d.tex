@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Simons, Gordon D.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Simons, Gordon D.}
+\ID{simons__gordon_d}
+\AltID{simons__gordon
+
+}
+
+\DisplayName{Simons, Gordon}
+
+
+\Homepage{http://www.stat.unc.edu/faculty/simons.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=199367}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:simons.gordon}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/12842275}{Microsoft Academic: Simons, Gordon}
+
+
+\subsection*{Honors}
+\Honor{1984}{IMS Fellow}
+\end{document}

@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Clifford, Peter
+\end{filecontents}
+
+\begin{document}
+
+\Name{Clifford, Peter}
+\ID{clifford__peter}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=216947}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:clifford.peter}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=34623}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/55169319}{Microsoft Academic: Peter Clifford}
+
+
+\subsection*{Education}
+\Degree{1969}{Ph.D.}{University of California, Berkeley}[A Stochastic Model of Survival Where Accumulated Damage May Be Repaired]<http://genealogy.math.ndsu.nodak.edu/id.php?id=34623>
+
+
+\subsection*{Honors}
+\Honor{1994}{IMS Fellow}
+\end{document}

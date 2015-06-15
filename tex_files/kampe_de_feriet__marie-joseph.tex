@@ -1,0 +1,71 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Kampé de Fériet, Marie-Joseph
+
+@article{kampe_de_feriet__marie-joseph:8,
+year={1982},
+author={Anonymous},
+title={{U}ntitled},
+journal={IMS Bulletin},
+pages={216},
+volume={11},
+}
+
+@article{kampe_de_feriet__marie-joseph:9,
+year={1983},
+author={Malavard, L.},
+title={{J}oseph {K}amp\'{e} de {F}\'{e}riet (1893-1982)},
+journal={C. R. Acad. Sci. Vie Acad\'{e}mique},
+pages={33-35},
+volume={296 suppl. 11},
+url={http://www.academie-sciences.fr/activite/archive/dossiers/eloges/kampe_cr1983.pdf},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Kamp\'{e} de F\'{e}riet, Marie-Joseph} \Deceased
+\ID{kampe_de_feriet__marie-joseph}
+
+
+
+
+\DOB{1893-05-14}
+\DOD{1982-04-06}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:kampe-de-feriet.joseph}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:de-feriet.kampe}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:kampe-de-ferriet.joseph}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/46848483}{Microsoft Academic: De Feriet}
+\Profile{http://academic.research.microsoft.com/Author/2881853}{Microsoft Academic: Joseph KampE De FEriet (Joseph Kamp\'{E} De F\'{E}riet)}
+\Profile{http://academic.research.microsoft.com/Author/50657487}{Microsoft Academic: J. Kampe de Feriet (J. Kamp\'{e} de F\'{e}riet)}
+\Profile{http://academic.research.microsoft.com/Author/48053382}{Microsoft Academic: Kampe de Feriet (Kamp\'{e} de F\'{e}riet)}
+\Profile{http://academic.research.microsoft.com/Author/55149023}{Microsoft Academic: J. Kampe de Feriet}
+\Profile{http://academic.research.microsoft.com/Author/49659242}{Microsoft Academic: J. Kampe de Feriet (J. Kamp\'{e} de F\'{e}riet)}
+\Profile{http://academic.research.microsoft.com/Author/48832163}{Microsoft Academic: J. Kampe de Feriet (J. Kamp\'{e} de F\'{e}riet)}
+\Profile{http://academic.research.microsoft.com/Author/23218547}{Microsoft Academic: J. Kampe de Feriet (J. Kamp\'{e} de F\'{e}riet)}
+
+
+\subsection*{Honors}
+\Honor{Royal}{Spanish Academy of Sciences}
+\Honor{1954}{Acad\'{e}mie des sciences, Correspondent}
+\Honor{1970}{IMS Fellow}
+
+
+\subsection*{Death Notice}
+\DeathNotice{kampe_de_feriet__marie-joseph:8}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{kampe_de_feriet__marie-joseph:9}
+\end{document}

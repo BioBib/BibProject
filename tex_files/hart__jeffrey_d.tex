@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Hart, Jeffrey D.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Hart, Jeffrey D.}
+\ID{hart__jeffrey_d}
+\AltID{hart__jeffrey}
+
+
+
+\Homepage{http://www.stat.tamu.edu/~hart/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=81765}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:hart.jeffrey-d}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=48329}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12465403}{Microsoft Academic: Hart, Jeffrey D.}
+
+
+\subsection*{Education}
+\Degree{1981}{Ph.D.}{Southern Methodist University}[On ARMA Density Estimation and Complex-Valued Arrays]<http://genealogy.math.ndsu.nodak.edu/id.php?id=48329>
+
+
+\subsection*{Honors}
+\Honor{1994}{IMS Fellow}
+\end{document}

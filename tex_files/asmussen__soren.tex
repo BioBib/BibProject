@@ -1,0 +1,62 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Asmussen, Søren
+
+@misc{asmussen__soren:776183,
+year={2011},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Glynn, P., Mikosch, T., Rolski, T., and Rubinstein, R. (2011). S{\o}ren Asmussen. In New Frontiers in Applied Probability: A Festschrift for S{\o}ren Asmussen (P. Glynn, T. Mikosch, and T. Rolski, eds.) pp. vii-ix. Applied Probability Trust, Sheffield, England},
+}
+
+@misc{asmussen__soren:462124,
+year={2011},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Glynn, P., Mikosch, T., and Rolski, T., eds. (2011). New Frontiers in Applied Probability: A Festschrift for S{\o}ren Asmussen. Applied Probability Trust, Sheffield, England},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Asmussen, S{\o}ren}
+\ID{asmussen__soren}
+
+
+
+
+\Homepage{http://home.imf.au.dk/asmus/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=191110}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:asmussen.soren}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=44815}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/53783434}{Microsoft Academic: Asmussen, Soren}
+\Profile{http://academic.research.microsoft.com/Author/1584562}{Microsoft Academic: Asmussen, S{\o}ren}
+
+
+\subsection*{Education}
+\Degree{1977}{Ph.D.}{K{\o}benhavns Universitet}<http://genealogy.math.ndsu.nodak.edu/id.php?id=44815>
+
+
+\subsection*{Honors}
+\Honor{2003}{IMS Fellow}{For leadership and distinction in research within applied probability and statistics as well as editorial service to the profession}
+\Honor{2010}{John von Neumann Theory Prize}
+
+
+\subsection*{Biography}
+\Biography{asmussen__soren:776183}
+
+
+\subsection*{Festschrift}
+\Festschrift{asmussen__soren:462124}
+\end{document}

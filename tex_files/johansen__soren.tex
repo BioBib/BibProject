@@ -1,0 +1,40 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Johansen, Søren
+\end{filecontents}
+
+\begin{document}
+
+\Name{Johansen, S{\o}ren}
+\ID{johansen__soren}
+
+
+
+
+\Homepage{http://www.econ.ku.dk/Faculty_And_Staff/showID.asp?profile_id=1491}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=190198}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:johansen.soren-glud}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=64427}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/23383750}{Microsoft Academic: Johansen, Soren}
+
+
+\subsection*{Education}
+\Degree{year?}{Ph.D.}{}<http://genealogy.math.ndsu.nodak.edu/id.php?id=64427>
+
+
+\subsection*{Honors}
+\Honor{1973}{IMS Fellow}
+\Honor{1992}{Neyman Lecturer}
+\Honor{2002}{Royal Danish Academy of Sciences and Letters, Member}
+\end{document}

@@ -1,0 +1,25 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Ferrari, Pablo A.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Ferrari, Pablo A.}
+\ID{ferrari__pablo_a}
+\AltID{ferrari__pablo}
+
+
+
+\subsection*{Honors}
+\Honor{1998}{IMS Medallion Lecturer}
+\Honor{2013}{IMS Fellow}{For fundamental contributions to exclusion processes and quasi-stationary distributions}
+\end{document}

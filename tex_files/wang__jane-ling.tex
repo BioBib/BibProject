@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Wang, Jane-Ling
+\end{filecontents}
+
+\begin{document}
+
+\Name{Wang, Jane-Ling}
+\ID{wang__jane-ling}
+
+
+
+
+\Homepage{http://www.news.ucdavis.edu/search/news_detail.lasso?id=4417}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=225012}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:wang.jane-ling}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=34533}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12810167}{Microsoft Academic: Wang, Jane-Ling}
+
+
+\subsection*{Education}
+\Degree{1982}{Ph.D.}{University of California, Berkeley}[Asymptotically Minimax Estimators for Distributions with Increasing Failure Rate]<http://genealogy.math.ndsu.nodak.edu/id.php?id=34533>
+
+
+\subsection*{Honors}
+\Honor{1998}{IMS Fellow}
+\Honor{2007}{IMS Medallion Lecturer}
+\end{document}

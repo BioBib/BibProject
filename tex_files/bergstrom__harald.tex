@@ -1,0 +1,79 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Bergström, Harald
+
+@article{bergstrom__harald:10,
+year={1997},
+author={R{\aa}de, L.},
+title={{A} conversation with {H}arald {B}ergstr\"{o}m},
+journal={Statist. Sci.},
+pages={53-60},
+volume={12},
+url={http://www.jstor.org/stable/2246270},
+}
+
+@book{bergstrom__harald:8,
+year={1973},
+author={Anonymous},
+title={{M}athematics and {S}tatistics: {E}ssays in {H}onour of {H}arald {B}ergstr\"{o}m},
+publisher={Chalmers Institute of Technology},
+}
+
+@article{bergstrom__harald:9,
+year={2002},
+author={Anonymous},
+title={{U}ntitled},
+journal={Notices Amer. Math. Soc.},
+pages={696},
+volume={49},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Bergstr\"{o}m, Harald} \Deceased
+\ID{bergstrom__harald}
+
+
+
+
+\DOB{1908-04-01}
+\DOD{2001-05-23}
+
+
+\subsection*{Profiles}
+\Profile{http://de.wikipedia.org/wiki/Harald_Bergstr/u00f6m}{Wikipedia}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=35330}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:bergstrom.harald}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=34962}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/47668462}{Microsoft Academic: Harald Bergstrom (Harald Bergstr\"{o}m)}
+\Profile{http://academic.research.microsoft.com/Author/51288888}{Microsoft Academic: Harald Bergstrom (Harald Bergstr\"{o}m)}
+
+
+\subsection*{Education}
+\Degree{1938}{Ph.D.}{}<http://genealogy.math.ndsu.nodak.edu/id.php?id=34962>
+
+
+\subsection*{Honors}
+\Honor{1965}{IMS Fellow}
+
+
+\subsection*{Biography}
+\Biography{bergstrom__harald:10}
+
+
+\subsection*{Festschrift}
+\Festschrift{bergstrom__harald:8}
+
+
+\subsection*{Death Notice}
+\DeathNotice{bergstrom__harald:9}
+\end{document}

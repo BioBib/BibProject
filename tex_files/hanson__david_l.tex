@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Hanson, David L.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Hanson, David L.}
+\ID{hanson__david_l}
+\AltID{hanson__david}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=81025}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:hanson.david-l}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:hanson.david-r}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=2187}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12590350}{Microsoft Academic: Hanson, D. L.}
+
+
+\subsection*{Education}
+\Degree{1960}{Ph.D.}{Indiana University}[Contributions to Decision Theory, Ergodic Theory, and Stochastic Processes]<http://genealogy.math.ndsu.nodak.edu/id.php?id=2187>
+
+
+\subsection*{Honors}
+\Honor{1966}{IMS Fellow}
+\end{document}

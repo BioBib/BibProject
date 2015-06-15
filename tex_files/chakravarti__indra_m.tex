@@ -1,0 +1,76 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Chakravarti, Indra M.
+
+@misc{chakravarti__indra_m:441615,
+year={2002},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Indra M. Chakravarti, professor of statistics, dies at 74. News Services, University of North Carolina at Chapel Hill, Apr. 22, 2002},
+url={http://www.unc.edu/news/archives/apr02/chakra042202.htm},
+}
+
+@article{chakravarti__indra_m:9,
+year={2002},
+author={Kallianpur, G. and Sen, P. K.},
+title={{I}ndra {M}ohan {C}hakravarti},
+journal={IMS Bulletin},
+pages={10},
+volume={31(4)},
+}
+
+@misc{chakravarti__indra_m:543554,
+year={2002},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Sen, P. K. and Kallianpur, G. (2002). Indra Mohan Chakravarti (1928-2002). International Statistical Institute Newsletter, Vol. 26(2), p. 6},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Chakravarti, Indra M.} \Deceased
+\ID{chakravarti__indra_m}
+\AltID{chakravarti__indra}
+
+
+
+\DOB{1928-04-08}
+\DOD{2002-04-16}
+
+
+\Homepage{http://www.stat.unc.edu/faculty/chakrav.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=47040}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:chakravarti.indra-mohan}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=9430}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/55296864}{Microsoft Academic: Chakravarti, I. M.}
+\Profile{http://academic.research.microsoft.com/Author/1200283}{Microsoft Academic: Chakravarti, I. M.}
+
+
+\subsection*{Education}
+\Degree{1958}{Ph.D.}{Indian Statistical Institute, Calcutta}[Contributions to the Design and Analysis of Factorial Experiments]<http://genealogy.math.ndsu.nodak.edu/id.php?id=9430>
+
+
+\subsection*{Honors}
+\Honor{1973}{IMS Fellow}
+
+
+\subsection*{Obituary}
+\Obituary{chakravarti__indra_m:441615}
+
+
+\subsection*{Memorials}
+\InMemoriam{chakravarti__indra_m:9}
+\InMemoriam{chakravarti__indra_m:543554}
+\end{document}

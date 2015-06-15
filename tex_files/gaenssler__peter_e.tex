@@ -1,0 +1,34 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Gänßler, Peter E.
+\end{filecontents}
+
+\begin{document}
+
+\Name{G\"{a}n{\ss}ler, Peter E.}
+\ID{gaenssler__peter_e}
+\AltID{gaenssler__peter
+
+}
+
+\DisplayName{Gaenssler, Peter}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=71145}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:ganssler.peter}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/42779191}{Microsoft Academic: Peter GAnssler (Peter G\"{A}nssler)}
+\Profile{http://academic.research.microsoft.com/Author/50245528}{Microsoft Academic: Peter Ganssler (Peter G\"{a}nssler)}
+
+
+\subsection*{Honors}
+\Honor{1984}{IMS Fellow}
+\end{document}

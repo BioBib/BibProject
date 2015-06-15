@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Barbour, Andrew D.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Barbour, Andrew D.}
+\ID{barbour__andrew_d}
+\AltID{barbour__andrew}
+
+\DisplayName{Barbour, Andrew}
+
+
+\Homepage{http://user.math.uzh.ch/barbour/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=31005}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:barbour.andrew-d}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=70880}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/2691245}{Microsoft Academic: Barbour, Andrew D.}
+
+
+\subsection*{Education}
+\Degree{1974}{Ph.D.}{University of Cambridge}[Limit Theorems for Markov Population Processes]<http://genealogy.math.ndsu.nodak.edu/id.php?id=70880>
+
+
+\subsection*{Honors}
+\Honor{1994}{IMS Fellow}
+\end{document}

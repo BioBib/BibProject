@@ -1,0 +1,49 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Yakovlev, Andrej Y.
+
+@article{yakovlev__andrej_y:8,
+year={2008},
+author={Anonymous},
+title={{U}ntitled},
+journal={Amstat News},
+pages={36-37},
+volume={July 2008},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Yakovlev, Andrej Y.} \Deceased
+\ID{yakovlev__andrej_y}
+\AltID{yakovlev__andrej}
+
+\DisplayName{Yakovlev, Andrej}
+
+
+\DOB{1944-11-30}
+\DOD{2008-02-27}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=225240}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:yakovlev.andrej-yu}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/53410413}{Microsoft Academic: Yakovlev, Andrej Yu.}
+\Profile{http://academic.research.microsoft.com/Author/18771310}{Microsoft Academic: Yakovlev, Andrei Yu}
+
+
+\subsection*{Honors}
+\Honor{1998}{IMS Fellow}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{yakovlev__andrej_y:8}
+\end{document}

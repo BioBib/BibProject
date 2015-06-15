@@ -1,0 +1,64 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Tate, Robert F.
+
+@misc{tate__robert_f:8,
+year={1999},
+author={Anonymous},
+title={{R}obert {F}. {T}ate},
+journal={News and Views, faculty and staff newsletter of the University of Oregon},
+url={https://scholarsbank.uoregon.edu/xmlui/bitstream/handle/1794/538/NV_1999-12-10.pdf?sequence=1},
+}
+
+@article{tate__robert_f:9,
+year={2000},
+author={Truax, D. and Andrews, F.},
+title={{R}obert {F}leming {T}ate},
+journal={IMS Bulletin},
+pages={6},
+volume={29},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Tate, Robert F.} \Deceased
+\ID{tate__robert_f}
+\AltID{tate__robert}
+
+
+
+\DOB{1921-12-15}
+\DOD{1999-11-07}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=551319}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:tate.robert-f}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=12799}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18624279}{Microsoft Academic: Tate, Robert F.}
+
+
+\subsection*{Education}
+\Degree{1952}{Ph.D.}{University of California, Berkeley}[Contributions to the Theory of Random Numbers of Random Variables]<http://genealogy.math.ndsu.nodak.edu/id.php?id=12799>
+
+
+\subsection*{Honors}
+\Honor{1967}{IMS Fellow}
+
+
+\subsection*{Death Notice}
+\DeathNotice{tate__robert_f:8}
+
+
+\subsection*{Obituary}
+\Obituary{tate__robert_f:9}
+\end{document}

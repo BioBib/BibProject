@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for O'Toole, Alphonsus L.
+\end{filecontents}
+
+\begin{document}
+
+\Name{O'Toole, Alphonsus L.} \Deceased
+\ID{otoole__alphonsus_l}
+\AltID{otoole__alphonsus}
+
+\DisplayName{O'Toole, A. L.}
+
+
+\DOB{1902}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:otoole.alphonsus-lawrence}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=5245}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/51595368}{Microsoft Academic: O'Toole, A. L.}
+
+
+\subsection*{Education}
+\Degree{1931}{Ph.D.}{University of Michigan}[On Symmetric Functions and Symmetric Functions of Symmetric Functions]<http://genealogy.math.ndsu.nodak.edu/id.php?id=5245>
+
+
+\subsection*{Honors}
+\Honor{before 1943}{IMS Fellow}
+\end{document}

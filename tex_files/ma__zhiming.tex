@@ -1,0 +1,33 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Ma, Zhi-Ming
+\end{filecontents}
+
+\begin{document}
+
+\Name{Ma, Zhi-Ming}
+\ID{ma__zhiming}
+
+
+
+
+\Homepage{http://www.amt.ac.cn/member/mazhiming/eindex.html}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:ma.zhi-ming}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/18644528}{Microsoft Academic: Ma, Zhiming}
+
+
+\subsection*{Honors}
+\Honor{2007}{IMS Fellow}{For fundamental contributions to the theory of Dirichlet forms and Markov processes; for original contributions to invariant aspects of Malliavin calculus, probabilistic studies of Schr/u00f6dinger operators and Feynman-Kac semi-groups, and for dedicated professional service}
+\Honor{2008}{IMS Medallion Lecturer}
+\end{document}

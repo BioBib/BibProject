@@ -1,0 +1,66 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Studden, William J.
+
+@misc{studden__william_j:311211,
+year={2013},
+author={Anonymous},
+title={{U}ntitled},
+addendum={William Studden, 1935-2013 (2013). IMS Bulletin, Vol. 42(3), p. 2},
+}
+
+@misc{studden__william_j:902489,
+year={2013},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Dette, H. (2013). William J. Studden, 1935-2013. IMS Bulletin, Vol. 42(5), p. 7},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Studden, William J.} \Deceased
+\ID{studden__william_j}
+\AltID{studden__william}
+
+
+
+\DOB{1935-09-30}
+\DOD{2013-03-19}
+
+
+\Homepage{http://www.stat.purdue.edu/~studden/}
+\Homepage{http://www.stat.purdue.edu/~studden/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=168435}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:studden.william-j}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=61220}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12197412}{Microsoft Academic: Studden, William J.}
+\Profile{http://academic.research.microsoft.com/Author/55031720}{Microsoft Academic: Studden, William J.}
+
+
+\subsection*{Education}
+\Degree{1962}{Ph.D.}{Stanford University}[Asymptotic Laws for Birth and Death Processes]<http://genealogy.math.ndsu.nodak.edu/id.php?id=61220>
+
+
+\subsection*{Honors}
+\Honor{1970}{IMS Fellow}
+
+
+\subsection*{Death Notice}
+\DeathNotice{studden__william_j:311211}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{studden__william_j:902489}
+\end{document}

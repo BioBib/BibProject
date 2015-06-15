@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Heckman, Nancy E.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Heckman, Nancy E.}
+\ID{heckman__nancy_e}
+\AltID{heckman__nancy}
+
+\DisplayName{Heckman, Nancy}
+
+
+\Homepage{http://www.stat.ubc.ca/People/Home/index.php?person=nancy}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=83270}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:heckman.nancy-e}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=7079}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/52687333}{Microsoft Academic: Heckman, Nancy E.}
+
+
+\subsection*{Education}
+\Degree{1982}{Ph.D.}{University of Michigan}[Two Treatment Comparison with Random Allocation Rule]<http://genealogy.math.ndsu.nodak.edu/id.php?id=7079>
+
+
+\subsection*{Honors}
+\Honor{2003}{IMS Fellow}{For innovative contributions to nonparametric regression and functional data analysis; for editorial and professional service; and for serving as a mentor to young statisticians}
+\end{document}

@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Bartlett, Peter L.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Bartlett, Peter L.}
+\ID{bartlett__peter_l}
+\AltID{bartlett__peter
+
+}
+
+\DisplayName{Bartlett, Peter}
+
+
+\Homepage{http://www.eecs.berkeley.edu/Faculty/Homepages/bartlett.html}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:bartlett.peter-l}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/2234775}{Microsoft Academic: Peter L. Bartlett}
+
+
+\subsection*{Honors}
+\Honor{2008}{IMS Medallion Lecturer}
+\Honor{2011}{IMS Fellow}{For world-leading contributions to research at the interface between statistics and machine learning, including the development of a variety of measures of complexity, and for editorial service}
+\end{document}

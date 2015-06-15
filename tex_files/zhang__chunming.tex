@@ -1,0 +1,29 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Zhang, Chunming
+\end{filecontents}
+
+\begin{document}
+
+\Name{Zhang, Chunming}
+\ID{zhang__chunming}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:zhang.chunming-m}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/53950665}{Microsoft Academic: Zhang, Chunming M.}
+
+
+\subsection*{Honors}
+\Honor{2011}{IMS Fellow}{For influential contributions to theory and methodology for high-dimensional data, for unifying common loss functions through Bregman divergence, and for fundamental work in nonparametric and semiparametric methodology together with applications in multiple testing, brain-imaging and finance}
+\end{document}

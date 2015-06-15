@@ -1,0 +1,51 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Ghosh, Bhaskar K.
+
+@article{ghosh__bhaskar_k:8,
+year={2008},
+author={Eisenberg, B. and Huang, W.-M.},
+title={{B}haskar {K}umar {G}hosh, 1936-2008},
+journal={IMS Bulletin},
+pages={12},
+volume={37(9)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Ghosh, Bhaskar K.} \Deceased
+\ID{ghosh__bhaskar_k}
+\AltID{ghosh__bhaskar}
+
+
+
+\DOB{1936-02-10}
+\DOD{2008-08-03}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=240742}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:ghosh.bhaskar}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=10266}{Math. Genealogy}
+
+
+\subsection*{Education}
+\Degree{1959}{Ph.D.}{University of London}[Sequential Analysis of Components of Variance in Hierarchal Classifications, with special Reference to the use of Range and Mean Deviation]<http://genealogy.math.ndsu.nodak.edu/id.php?id=10266>
+
+
+\subsection*{Honors}
+\Honor{1990}{IMS Fellow}
+
+
+\subsection*{Obituary}
+\Obituary{ghosh__bhaskar_k:8}
+\end{document}

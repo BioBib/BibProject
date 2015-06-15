@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Foster, Dean P.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Foster, Dean P.}
+\ID{foster__dean_p}
+\AltID{foster__dean}
+
+\DisplayName{Foster, Dean}
+
+
+\Homepage{http://gosset.wharton.upenn.edu/~foster/index.pl}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=68300}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:foster.dean-p}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=59580}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/83840}{Microsoft Academic: Dean P. Foster}
+
+
+\subsection*{Education}
+\Degree{1988}{Ph.D.}{University of Maryland College Park}[Conditional Least Squares for Semimartingales]<http://genealogy.math.ndsu.nodak.edu/id.php?id=59580>
+
+
+\subsection*{Honors}
+\Honor{2000}{IMS Fellow}{For fundamental and wide-ranging contributions to variable selection in regression in statistical theory, volatility estimation in finance, and learning equilibria in game theory in economics; forging and maintaining important cross-disciplinary links}
+\end{document}

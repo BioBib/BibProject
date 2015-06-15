@@ -1,0 +1,70 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Dalenius, Tore
+
+@misc{dalenius__tore:100302,
+year={2002},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Prof. Tore E. Dalenius, 84; noted expert on statistics. Providence Journal-Bulletin, Jan. 20, 2002},
+}
+
+@misc{dalenius__tore:453645,
+year={2002},
+author={Anonymous},
+title={{U}ntitled},
+addendum={S\"{a}rndal, C.-E. (2002). Tore Elon Dalenius (1917-2002). International Statistical Institute Newsletter, Vol. 26(2), pp. 6-7},
+}
+
+@article{dalenius__tore:9,
+year={2002},
+author={Lyberg, L. and Christianson, A.},
+title={{T}ore {E}lon {D}alenius, 1917-2002},
+journal={The Survey Statistician},
+pages={4-5},
+volume={46},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Dalenius, Tore} \Deceased
+\ID{dalenius__tore}
+
+
+
+
+\DOB{1917-11-21}
+\DOD{2002-01-12}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=54200}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:dalenius.tore}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/55026355}{Microsoft Academic: Tore Dalenius}
+\Profile{http://academic.research.microsoft.com/Author/53356989}{Microsoft Academic: Tore Dalenius}
+\Profile{http://academic.research.microsoft.com/Author/49166782}{Microsoft Academic: Tore Dalenius}
+\Profile{http://academic.research.microsoft.com/Author/42324197}{Microsoft Academic: Tore Dalenius}
+\Profile{http://academic.research.microsoft.com/Author/53193042}{Microsoft Academic: Tore Dalenius}
+
+
+\subsection*{Honors}
+\Honor{1960}{IMS Fellow}
+
+
+\subsection*{Obituary}
+\Obituary{dalenius__tore:100302}
+
+
+\subsection*{Memorials}
+\InMemoriam{dalenius__tore:453645}
+\InMemoriam{dalenius__tore:9}
+\end{document}

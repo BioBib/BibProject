@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Brockett, Patrick L.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Brockett, Patrick L.}
+\ID{brockett__patrick_l}
+\AltID{brockett__patrick}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=41795}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:brockett.patrick-l}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=13162}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/1804409}{Microsoft Academic: Patrick L. Brockett}
+\Profile{http://academic.research.microsoft.com/Author/28228713}{Microsoft Academic: Patrick L. Brockett}
+
+
+\subsection*{Education}
+\Degree{1975}{Ph.D.}{University of California, Irvine}[Limit Distributions of Sums under Mixing of the Scale Parameters]<http://genealogy.math.ndsu.nodak.edu/id.php?id=13162>
+
+
+\subsection*{Honors}
+\Honor{1989}{IMS Fellow}
+\end{document}

@@ -1,0 +1,92 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Jordan, Charles
+
+@incollection{jordan__charles:10,
+year={2001},
+author={Galambos, J.},
+title={{K}\'{a}roly {J}ordan},
+pages={295-298},
+crossref={booktitle:statisticians-of-the-centuries},
+}
+
+@incollection{jordan__charles:9,
+year={2006},
+author={Anonymous},
+title={{U}ntitled},
+year={2006},
+crossref={booktitle:encyclopedia-of-statistical-sciences},
+}
+
+@article{jordan__charles:7,
+year={1960},
+author={Kendall, D. G.},
+title={{C}harles {J}ordan},
+journal={J. London Math. Soc.},
+pages={380-383},
+volume={35},
+}
+
+@article{jordan__charles:8,
+year={1960},
+author={Anonymous},
+title={{C}harles {J}ordan, 1871-1959},
+journal={Acta Math. Hungar.},
+pages={1-2},
+volume={11},
+}
+
+@article{jordan__charles:6,
+year={1961},
+author={Tak\'{a}cs, L.},
+title={{C}harles {J}ordan, 1871-1959},
+journal={Ann. Math. Statist.},
+pages={1-11},
+volume={32},
+url={http://www.jstor.org/stable/2237602},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Jordan, Charles} \Deceased
+\ID{jordan__charles}
+
+
+
+
+\DOB{1871-12-16}
+\DOD{1959-12-24}
+
+
+\subsection*{Profiles}
+\Profile{http://hu.wikipedia.org/wiki/Jord\u00e1n_K\u00e1roly}{Wikipedia}
+\Profile{http://www.york.ac.uk/depts/maths/histstat/people/jordan.gif}{www.york.ac.uk}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=469818}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:jordan.charles}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/8741101}{Microsoft Academic: Jordan, Charles}
+\Profile{http://academic.research.microsoft.com/Author/35144424}{Microsoft Academic: Jordan, Charles}
+
+
+\subsection*{Honors}
+\Honor{19??}{IMS Fellow}
+
+
+\subsection*{Biographies}
+\Biography{jordan__charles:10}
+\Biography{jordan__charles:9}
+
+
+\subsection*{Memorials}
+\InMemoriam{jordan__charles:7}
+\InMemoriam{jordan__charles:8}
+\InMemoriam{jordan__charles:6}
+\end{document}

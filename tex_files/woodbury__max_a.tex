@@ -1,0 +1,40 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Woodbury, Max A.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Woodbury, Max A.} \Deceased
+\ID{woodbury__max_a}
+\AltID{woodbury__max}
+
+\DisplayName{Woodbury, Max}
+
+
+\DOB{1917-04-30}
+\DOD{2010-01-30}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=239875}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:woodbury.max-a}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=5166}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/17952522}{Microsoft Academic: Woodbury, Max A.}
+
+
+\subsection*{Education}
+\Degree{1948}{Ph.D.}{University of Michigan}[Probability and Expected Values]<http://genealogy.math.ndsu.nodak.edu/id.php?id=5166>
+
+
+\subsection*{Honors}
+\Honor{1953}{IMS Fellow}
+\end{document}

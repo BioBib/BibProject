@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Hu, Inchi
+\end{filecontents}
+
+\begin{document}
+
+\Name{Hu, Inchi}
+\ID{hu__inchi}
+
+
+
+
+\Homepage{http://www.bm.ust.hk/ismt/staff/imichu.html}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:hu.inchi}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/13766830}{Microsoft Academic: Hu, Inchi}
+
+
+\subsection*{Honors}
+\Honor{2007}{IMS Fellow}{For original contributations to sequential analysis, importance sampling and hidden markov models}
+\end{document}

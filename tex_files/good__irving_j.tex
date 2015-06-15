@@ -1,0 +1,110 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Good, Irving J.
+
+@incollection{good__irving_j:12,
+year={2009},
+author={Anonymous},
+title={{I}rving {J}. {G}ood, 1916-2009},
+publisher={American {S}tatistical {A}ssociation},
+booktitle={Statisticians in {H}istory},
+url={http://www.amstat.org/about/statisticiansinhistory/index.cfm?fuseaction=biosinfo&BioID=22},
+}
+
+@incollection{good__irving_j:13,
+year={2009},
+author={O'Connor, J. J. and Robertson, E. F.},
+title={{I}rving {J}ohn {G}ood},
+addendum={MacTutor biography},
+url={http://www-history.mcs.st-andrews.ac.uk/Biographies/Good.html},
+}
+
+@article{good__irving_j:9,
+year={2009},
+author={Anonymous},
+title={{U}ntitled},
+journal={Notices Amer. Math. Soc.},
+pages={850},
+volume={56},
+}
+
+@article{good__irving_j:8,
+year={2009},
+author={Anonymous},
+title={{I}. {J}. {G}ood},
+journal={Amstat News},
+pages={46-47},
+volume={May 2009},
+}
+
+@article{good__irving_j:10,
+year={2009},
+author={Banks, D.},
+title={{I}. {J}. {G}ood, 1916-2009},
+journal={IMS Bulletin},
+pages={11-12},
+volume={38(5)},
+}
+
+@misc{good__irving_j:504128,
+year={2009},
+author={Anonymous},
+title={{U}ntitled},
+addendum={I. J. Good. Amstat News, May 2009, pp. 46-47},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Good, Irving J.} \Deceased
+\ID{good__irving_j}
+\AltID{good__irving}
+
+
+
+\DOB{1916-12-09}
+\DOD{2009-04-05}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=75220}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:good.irving-john}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=72215}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/56679685}{Microsoft Academic: Good, I. J.}
+\Profile{http://academic.research.microsoft.com/Author/34150085}{Microsoft Academic: Good, Irving John}
+
+
+\subsection*{Education}
+\Degree{1941}{Ph.D.}{University of Cambridge}[Fourier Analysis]<http://genealogy.math.ndsu.nodak.edu/id.php?id=72215>
+
+
+\subsection*{Honors}
+\Honor{1957}{IMS Fellow}
+\Honor{1985}{American Academy of Arts and Sciences, Fellow}
+
+
+\subsection*{Biographies}
+\Biography{good__irving_j:12}
+\Biography{good__irving_j:13}
+
+
+\subsection*{Death Notice}
+\DeathNotice{good__irving_j:9}
+
+
+\subsection*{Obituary}
+\Obituary{good__irving_j:8}
+
+
+\subsection*{Memorials}
+\InMemoriam{good__irving_j:10}
+\InMemoriam{good__irving_j:504128}
+\end{document}

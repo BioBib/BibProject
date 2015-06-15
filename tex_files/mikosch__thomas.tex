@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Mikosch, Thomas
+\end{filecontents}
+
+\begin{document}
+
+\Name{Mikosch, Thomas}
+\ID{mikosch__thomas}
+
+
+
+
+\Homepage{http://www.math.ku.dk/~mikosch/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=124660}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:mikosch.thomas}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=49671}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/30641}{Microsoft Academic: Mikosch, Thomas}
+
+
+\subsection*{Education}
+\Degree{1984}{Ph.D.}{St. Petersburg State University}[Strong Law of Large Numbers and the Law of Iterated Logarithm for Sequences of Independent Random Variables]<http://genealogy.math.ndsu.nodak.edu/id.php?id=49671>
+
+
+\subsection*{Honors}
+\Honor{2004}{Royal Danish Academy of Sciences and Letters, Member}
+\Honor{2005}{IMS Fellow}{For outstanding research in probability and statistics, and for outstanding service to the professional community}
+\end{document}

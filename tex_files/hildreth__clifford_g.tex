@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Hildreth, Clifford G.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Hildreth, Clifford G.} \Deceased
+\ID{hildreth__clifford_g}
+\AltID{hildreth__clifford}
+
+\DisplayName{Hildreth, Clifford}
+
+
+\DOB{1917-12-08}
+\DOD{1995-08-15}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=283878}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:hildreth.clifford}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/23455823}{Microsoft Academic: Clifford Hildreth}
+\Profile{http://academic.research.microsoft.com/Author/52185048}{Microsoft Academic: Clifford Hildreth}
+
+
+\subsection*{Honors}
+\Honor{1965}{IMS Fellow}
+\end{document}

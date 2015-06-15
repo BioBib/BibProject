@@ -1,0 +1,40 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Junker, Brian W.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Junker, Brian W.}
+\ID{junker__brian_w}
+\AltID{junker__brian}
+
+
+
+\Homepage{http://www.stat.cmu.edu/~brian/}
+\Homepage{http://www.stat.cmu.edu/~brian/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=315218}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:junker.brian-w}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=42459}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/555680}{Microsoft Academic: Brian W. Junker}
+\Profile{http://academic.research.microsoft.com/Author/53176927}{Microsoft Academic: Brian W. Junker}
+
+
+\subsection*{Education}
+\Degree{1988}{Ph.D.}{University of Illinois at Urbana-Champaign}[Statistical Aspects of a New Latent Trait Model]<http://genealogy.math.ndsu.nodak.edu/id.php?id=42459>
+
+
+\subsection*{Honors}
+\Honor{2000}{IMS Fellow}{For his deep contributions to psychometrics and educational statistics through the mathematical foundations of item response theory; and for outstanding teaching and extensive contributions to undergraduate education}
+\end{document}

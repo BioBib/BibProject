@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Fortet, Robert
+\end{filecontents}
+
+\begin{document}
+
+\Name{Fortet, Robert} \Deceased
+\ID{fortet__robert}
+
+
+
+
+\DOB{1912-05-01}
+\DOD{1998-07-03}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=68225}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:fortet.robert-m}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=25287}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/43856175}{Microsoft Academic: Fortet, R.}
+
+
+\subsection*{Education}
+\Degree{1939}{Ph.D.}{Universit\'{e} de Paris}[Sur l'it\'{e}ration des substitutions alg\'{e}briques lin\'{e}aires \`{a} une infinit\'{e} de variables et ses applications \`{a} la th\'{e}orie des probabilit\'{e}s en cha\^{\i}ne]<http://genealogy.math.ndsu.nodak.edu/id.php?id=25287>
+
+
+\subsection*{Honors}
+\Honor{1951}{IMS Fellow}
+\end{document}

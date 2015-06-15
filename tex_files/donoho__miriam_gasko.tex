@@ -1,0 +1,33 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Donoho, Miriam Gasko
+\end{filecontents}
+
+\begin{document}
+
+\Name{Donoho, Miriam Gasko}
+\ID{donoho__miriam_gasko}
+\AltID{donoho__miriam
+
+}
+
+\DisplayName{Donoho, Miriam}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:gasko.miriam}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/55081085}{Microsoft Academic: Miriam Gasko}
+\Profile{http://academic.research.microsoft.com/Author/50572398}{Microsoft Academic: Miriam Gasko}
+
+
+\subsection*{Honors}
+\Honor{1998}{IMS Fellow}
+\end{document}

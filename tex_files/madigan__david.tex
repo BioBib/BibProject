@@ -1,0 +1,33 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Madigan, David
+\end{filecontents}
+
+\begin{document}
+
+\Name{Madigan, David}
+\ID{madigan__david}
+
+
+
+
+\Homepage{http://www.stat.columbia.edu/~madigan/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:madigan.david}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/2104978}{Microsoft Academic: Madigan, David}
+
+
+\subsection*{Honors}
+\Honor{2006}{IMS Fellow}{For seminal contributions to Bayesian model selection and uncertainty, graphical Markov models, and text mining; and for working tirelessly for the profession}
+\Honor{2009}{IMS Medallion Lecturer}
+\end{document}

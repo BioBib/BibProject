@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Mallows, Colin L.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Mallows, Colin L.}
+\ID{mallows__colin_l}
+\AltID{mallows__colin}
+
+\DisplayName{Mallows, Colin}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=118870}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:mallows.colin-l}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=42266}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/53404604}{Microsoft Academic: Mallows, C. L.}
+
+
+\subsection*{Education}
+\Degree{1953}{Ph.D.}{University of London}[Some Problems Connected with Distribution Functions]<http://genealogy.math.ndsu.nodak.edu/id.php?id=42266>
+
+
+\subsection*{Honors}
+\Honor{1977}{IMS Medallion Lecturer}
+\Honor{1997}{R. A. Fisher Lecturer}
+\Honor{19??}{IMS Fellow}
+\Honor{2007}{Samuel S. Wilks Award}
+\end{document}

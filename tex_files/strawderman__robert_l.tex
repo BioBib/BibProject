@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Strawderman, Robert L.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Strawderman, Robert L.}
+\ID{strawderman__robert_l}
+\AltID{strawderman__robert}
+
+
+
+\Homepage{http://www.bscb.cornell.edu/~strawderman/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:strawderman.robert-l}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/23804268}{Microsoft Academic: Strawderman, Robert L.}
+
+
+\subsection*{Honors}
+\Honor{2012}{IMS Fellow}{For innovative methodological contributions to survival analysis, recurrent events, and small sample asymptotics and their applications; for excellence in editorial service}
+\end{document}

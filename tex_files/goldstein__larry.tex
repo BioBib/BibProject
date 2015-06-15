@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Goldstein, Larry
+\end{filecontents}
+
+\begin{document}
+
+\Name{Goldstein, Larry}
+\ID{goldstein__larry}
+
+
+
+
+\Homepage{http://bcf.usc.edu/%7Elarry/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=247669}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:goldstein.larry-joel}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=23174}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/53843039}{Microsoft Academic: Goldstein, Larry Joel}
+\Profile{http://academic.research.microsoft.com/Author/793308}{Microsoft Academic: Goldstein, Larry}
+
+
+\subsection*{Education}
+\Degree{1967}{Ph.D.}{Princeton University}[The Analytical Theory of Zeta Functions Associated to Automorphic Forms]<http://genealogy.math.ndsu.nodak.edu/id.php?id=23174>
+
+
+\subsection*{Honors}
+\Honor{2003}{IMS Fellow}{For distinguished contributions to diverse areas of probability and statistics; and in particular for his efforts in transforming theoretical achievements into practical procedures}
+\end{document}

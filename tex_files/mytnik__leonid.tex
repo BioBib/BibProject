@@ -1,0 +1,24 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Mytnik, Leonid
+\end{filecontents}
+
+\begin{document}
+
+\Name{Mytnik, Leonid}
+\ID{mytnik__leonid}
+
+
+
+
+\subsection*{Honors}
+\Honor{2013}{IMS Fellow}{For contributions to stochastic partial differential equations and measure-valued processes}
+\end{document}

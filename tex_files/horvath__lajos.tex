@@ -1,0 +1,33 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Horváth, Lajos
+\end{filecontents}
+
+\begin{document}
+
+\Name{Horv\'{a}th, Lajos}
+\ID{horvath__lajos}
+
+
+
+
+\Homepage{http://www.math.utah.edu/~horvath/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=88465}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:horvath.lajos}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/12547265}{Microsoft Academic: Lajos Horvath (Lajos Horv\'{a}th)}
+
+
+\subsection*{Honors}
+\Honor{1990}{IMS Fellow}
+\end{document}

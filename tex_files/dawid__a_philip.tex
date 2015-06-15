@@ -1,0 +1,40 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Dawid, A. Philip
+\end{filecontents}
+
+\begin{document}
+
+\Name{Dawid, A. Philip}
+\ID{dawid__a_philip}
+\AltID{dawid__a}
+
+
+
+\Homepage{http://www.dpmms.cam.ac.uk/people/a.p.dawid/}
+\Homepage{http://www.ucl.ac.uk/~ucak06d/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=55205}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:dawid.a-philip}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/10503355}{Microsoft Academic: Dawid, A. P.}
+\Profile{http://academic.research.microsoft.com/Author/2259232}{Microsoft Academic: Dawid, A. Philip}
+
+
+\subsection*{Honors}
+\Honor{1977}{George W. Snedecor Award}
+\Honor{1978}{Guy Medal in Bronze}
+\Honor{1979}{IMS Fellow}
+\Honor{1983}{IMS Medallion Lecturer}
+\Honor{2001}{Guy Medal in Silver}
+\Honor{2001}{Rietz Lecturer}
+\end{document}

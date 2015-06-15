@@ -1,0 +1,105 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Greenberg, Bernard G.
+
+@incollection{greenberg__bernard_g:11,
+year={2005},
+author={Sen, P. K.},
+title={{G}reenberg, {B}ernard {G}eorge},
+crossref={booktitle:encyclopedia-of-biostatistics},
+}
+
+@article{greenberg__bernard_g:12,
+year={2008},
+author={Kastleman, L.},
+title={{D}r. {B}ernard {G}. {G}reenberg: {A} visionary leader},
+journal={Carolina Public Health},
+pages={34},
+volume={1(5)},
+url={http://www.sph.unc.edu/images/stories/news/cph_2008_fall/documents/CPH-Fall08a.pdf},
+}
+
+@misc{greenberg__bernard_g:13,
+year={year?},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Bernard G. Greenberg Papers \#4570. Southern Historical Collection, The Wilson Library, University of North Carolina at Chapel Hill},
+}
+
+@misc{greenberg__bernard_g:8,
+year={1985},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Sen, P. K., ed. (1985). Biostatistics: Statistics in Biomedical, Public Health and Environmental Sciences. North-Holland, Amsterdam},
+}
+
+@article{greenberg__bernard_g:9,
+year={1986},
+author={Anonymous},
+title={{U}ntitled},
+journal={IMS Bulletin},
+pages={199},
+volume={15},
+}
+
+@article{greenberg__bernard_g:10,
+year={1986},
+author={Abernathy, J. R. and Sen, P. K.},
+title={{I}n {M}emoriam: {B}ernard {G}eorge {G}reenberg, 1919-1985},
+journal={Amer. Statist.},
+pages={183-184},
+volume={40},
+url={http://www.jstor.org/stable/i326433},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Greenberg, Bernard G.} \Deceased
+\ID{greenberg__bernard_g}
+\AltID{greenberg__bernard}
+
+
+
+\DOB{1919-10-04}
+\DOD{1985-11-24}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=76585}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:greenberg.bernard-g}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/18624270}{Microsoft Academic: Greenberg, Bernard G.}
+
+
+\subsection*{Honors}
+\Honor{1977}{IMS Fellow}
+
+
+\subsection*{Biographies}
+\Biography{greenberg__bernard_g:11}
+\Biography{greenberg__bernard_g:12}
+
+
+\subsection*{Archive}
+\Archive{greenberg__bernard_g:13}
+
+
+\subsection*{Festschrift}
+\Festschrift{greenberg__bernard_g:8}
+
+
+\subsection*{Death Notice}
+\DeathNotice{greenberg__bernard_g:9}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{greenberg__bernard_g:10}
+\end{document}

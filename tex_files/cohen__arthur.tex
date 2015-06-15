@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Cohen, Arthur
+\end{filecontents}
+
+\begin{document}
+
+\Name{Cohen, Arthur}
+\ID{cohen__arthur}
+
+
+
+
+\Homepage{http://www.stat.rutgers.edu/people/faculty/cohen.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.stat.rutgers.edu/people/faculty/cohen.html}{Homepage}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=190302}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:cohen.arthur-i}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/53051069}{Microsoft Academic: Cohen, Arthur I.}
+\Profile{http://academic.research.microsoft.com/Author/23577153}{Microsoft Academic: Cohen, Arthur}
+
+
+\subsection*{Honors}
+\Honor{1973}{IMS Fellow}
+\end{document}

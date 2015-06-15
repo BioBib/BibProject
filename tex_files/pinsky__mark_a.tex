@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Pinsky, Mark A.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Pinsky, Mark A.}
+\ID{pinsky__mark_a}
+\AltID{pinsky__mark}
+
+\DisplayName{Pinsky, Mark}
+
+
+\Homepage{http://www.math.northwestern.edu/~mpinsky/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=139805}{MathSciNet}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=12728}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/83634}{Microsoft Academic: Pinsky, Mark A.}
+
+
+\subsection*{Education}
+\Degree{1966}{Ph.D.}{Massachusetts Institute of Technology}[Markov Processes and Positivity Preserving Hyperbolic Systems]<http://genealogy.math.ndsu.nodak.edu/id.php?id=12728>
+
+
+\subsection*{Honors}
+\Honor{1977}{IMS Fellow}
+\end{document}

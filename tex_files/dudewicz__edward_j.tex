@@ -1,0 +1,61 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Dudewicz, Edward J.
+
+@misc{dudewicz__edward_j:810039,
+year={2010},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Karian, Z. A. and van der Meulen, E. C. (2010). Professor Edward J. Dudewicz. International Statistical Institute},
+url={http://www.isi-web.org/membership/obituaries/29-membership/membership/334-2010-edward-j-dudewicz},
+}
+
+@article{dudewicz__edward_j:8,
+year={2011},
+author={Karian, Z. A. and van der Meulen, E. C.},
+title={{E}dward {J}. {D}udewicz, 1942-2010},
+journal={IMS Bulletin},
+pages={13},
+volume={40(1)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Dudewicz, Edward J.} \Deceased
+\ID{dudewicz__edward_j}
+\AltID{dudewicz__edward}
+
+\DisplayName{Dudewicz, Edward}
+
+
+\DOB{1942-04-24}
+\DOD{2010-09-22}
+
+
+\Homepage{http://math.syr.edu/Bios/Dudewicz.htm}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=60265}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:dudewicz.edward-j}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/18635548}{Microsoft Academic: Dudewicz, Edward J.}
+\Profile{http://academic.research.microsoft.com/Author/53015756}{Microsoft Academic: Dudewicz, Edward J.}
+
+
+\subsection*{Honors}
+\Honor{1981}{IMS Fellow}
+
+
+\subsection*{Memorials}
+\InMemoriam{dudewicz__edward_j:810039}
+\InMemoriam{dudewicz__edward_j:8}
+\end{document}

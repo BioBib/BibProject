@@ -1,0 +1,64 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Pillai, K. C. S.
+
+@incollection{pillai__k_c_s:9,
+year={1997},
+author={O'Connor, J. J. and Robertson, E. F.},
+title={{K}. {C}. {S}reedharan {P}illai},
+addendum={MacTutor biography},
+url={http://www-history.mcs.st-andrews.ac.uk/Biographies/Pillai.html},
+}
+
+@article{pillai__k_c_s:8,
+year={1985},
+author={Anonymous},
+title={{U}ntitled},
+journal={IMS Bulletin},
+pages={339},
+volume={14},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Pillai, K. C. S.} \Deceased
+\ID{pillai__k_c_s}
+\AltID{pillai__k}
+
+
+
+\DOB{1920-02-24}
+\DOD{1985-06-05}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=139605}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:pillai.k-c-sreedharan}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=47238}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18624295}{Microsoft Academic: Pillai, K. C. Sreedharan}
+
+
+\subsection*{Education}
+\Degree{1954}{Ph.D.}{The University of North Carolina at Chapel Hill}[On Some Distribution Problems in Multivariate Analysis]<http://genealogy.math.ndsu.nodak.edu/id.php?id=47238>
+
+
+\subsection*{Honors}
+\Honor{1972}{IMS Fellow}
+
+
+\subsection*{Biography}
+\Biography{pillai__k_c_s:9}
+
+
+\subsection*{Death Notice}
+\DeathNotice{pillai__k_c_s:8}
+\end{document}

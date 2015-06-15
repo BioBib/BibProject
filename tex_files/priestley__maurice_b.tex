@@ -1,0 +1,63 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Priestley, Maurice B.
+
+@misc{priestley__maurice_b:663925,
+year={2013},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Maurice Bertram Priestley, 1933-2013 (2013). IMS Bulletin, Vol. 42(5), p. 2},
+}
+
+@misc{priestley__maurice_b:302320,
+year={2013},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Subba Rao, T. and Tunnicliffe-Wilson, G. (2013). Maurice Priestley, 1933-2013. IMS Bulletin, Vol. 42(6), pp. 8-9},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Priestley, Maurice B.} \Deceased
+\ID{priestley__maurice_b}
+\AltID{priestley__maurice}
+
+\DisplayName{Priestley, Maurice}
+
+
+\DOB{1933}
+\DOB{1933-03-15}
+\DOD{2013-06-15}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=208100}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:priestley.m-b}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=42685}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/54330566}{Microsoft Academic: Priestley, M. B.}
+
+
+\subsection*{Education}
+\Degree{1960}{Ph.D.}{University of Manchester}[On the Analysis of Stationary Processes with Mixed Spectra]<http://genealogy.math.ndsu.nodak.edu/id.php?id=42685>
+
+
+\subsection*{Honors}
+\Honor{1980}{IMS Fellow}
+
+
+\subsection*{Death Notice}
+\DeathNotice{priestley__maurice_b:663925}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{priestley__maurice_b:302320}
+\end{document}

@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Chen, Kani
+\end{filecontents}
+
+\begin{document}
+
+\Name{Chen, Kani}
+\ID{chen__kani}
+
+
+
+
+\Homepage{http://www.math.ust.hk/~makchen/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:chen.kani}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/252104}{Microsoft Academic: Chen, Kani}
+
+
+\subsection*{Honors}
+\Honor{2007}{IMS Fellow}{For significant contributions to statistical theory and methodology in semiparametric inference, nonparametric methods, survival analysis, and the large-sample theory}
+\end{document}

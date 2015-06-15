@@ -1,0 +1,45 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Kesten, Harry
+\end{filecontents}
+
+\begin{document}
+
+\Name{Kesten, Harry}
+\ID{kesten__harry}
+
+
+
+
+\Homepage{http://www.math.cornell.edu/People/Faculty/kesten.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=100670}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:kesten.harry}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=30598}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/296684}{Microsoft Academic: Kesten, Harry}
+\Profile{http://academic.research.microsoft.com/Author/52691251}{Microsoft Academic: Kesten, Harry}
+
+
+\subsection*{Education}
+\Degree{1958}{Ph.D.}{Cornell University}[Symmetric Random Walks on Groups]<http://genealogy.math.ndsu.nodak.edu/id.php?id=30598>
+
+
+\subsection*{Honors}
+\Honor{1967}{IMS Fellow}
+\Honor{1971}{Rietz Lecturer}
+\Honor{1980}{The Royal Netherlands Academy of Arts and Sciences, Corresponding Member}
+\Honor{1983}{National Academy of Sciences, Member}
+\Honor{1986}{Wald Lecturer}
+\Honor{1999}{American Academy of Arts and Sciences, Fellow}
+\Honor{2001}{Steele Prize, American Mathematical Society}
+\end{document}

@@ -1,0 +1,92 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Hoeffding, Wassily
+
+@incollection{hoeffding__wassily:13,
+year={1997},
+author={Sen, P. K.},
+title={{H}oeffding, {W}assily},
+pages={118-122},
+crossref={booktitle:leading-personalities-in-statistical-sciences-from-the-17th-century-to-the-present},
+}
+
+@article{hoeffding__wassily:14,
+year={2005},
+author={Fisher, N. I. and van Zwet, W. R.},
+title={{W}assily {H}oeffding, {J}une 12, 1914-{F}ebruary 28, 1991},
+journal={Biographical Memoirs},
+pages={2-21},
+publisher={National Academies Press},
+volume={86},
+url={http://books.nap.edu/html/biomems/whoeffding.pdf},
+}
+
+@incollection{hoeffding__wassily:15,
+year={2006},
+author={Sen, P. K.},
+title={{H}oeffding, {W}assily},
+crossref={booktitle:encyclopedia-of-statistical-sciences},
+}
+
+@incollection{hoeffding__wassily:16,
+year={2011},
+author={O'Connor, J. J. and Robertson, E. F.},
+title={{W}assily {H}oeffding},
+addendum={MacTutor biography},
+url={http://www-history.mcs.st-andrews.ac.uk/Biographies/Hoeffding.html},
+}
+
+@article{hoeffding__wassily:8,
+year={1991},
+author={Anonymous},
+title={{W}assily {H}oeffding, 1914-1991},
+journal={IMS Bulletin},
+pages={98},
+volume={20},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Hoeffding, Wassily} \Deceased
+\ID{hoeffding__wassily}
+
+
+
+
+\DOB{1914-06-12}
+\DOD{1991-02-28}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=86830}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:hoffding.wassily}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/10683640}{Microsoft Academic: Hoeffding, Wassily}
+
+
+\subsection*{Honors}
+\Honor{1949}{IMS Fellow}
+\Honor{1967}{Wald Lecturer}
+\Honor{1969}{IMS President}
+\Honor{1976}{National Academy of Sciences, Member}
+\Honor{1985}{American Academy of Arts and Sciences, Fellow}
+
+
+\subsection*{Biographies}
+\Biography{hoeffding__wassily:13}
+\Biography{hoeffding__wassily:14}
+\Biography{hoeffding__wassily:15}
+\Biography{hoeffding__wassily:16}
+
+
+\subsection*{Obituary}
+\Obituary{hoeffding__wassily:8}
+\end{document}

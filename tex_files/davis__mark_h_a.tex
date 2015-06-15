@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Davis, Mark H. A.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Davis, Mark H. A.}
+\ID{davis__mark_h_a}
+\AltID{davis__mark}
+
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:davis.mark-h-a}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=98165}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/53322572}{Microsoft Academic: Davis, M. H. A.}
+\Profile{http://academic.research.microsoft.com/Author/55129932}{Microsoft Academic: Davis, M. H. A.}
+
+
+\subsection*{Education}
+\Degree{1971}{Ph.D.}{University of California, Berkeley}[Dynamic Programming Conditions for Partially Observable Stochastic Systems]<http://genealogy.math.ndsu.nodak.edu/id.php?id=98165>
+
+
+\subsection*{Honors}
+\Honor{1994}{IMS Fellow}
+\end{document}

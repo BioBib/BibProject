@@ -1,0 +1,67 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Das Gupta, Somesh
+
+@misc{das_gupta__somesh:867850,
+year={year?},
+author={Anonymous},
+title={{U}ntitled},
+addendum={},
+url={http://groups.yahoo.com/group/isical89/message/55},
+}
+
+@misc{das_gupta__somesh:405002,
+year={year?},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Professor Somesh Dasgupta},
+url={http://sankhya.isical.ac.in/Obituary.html},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Das Gupta, Somesh} \Deceased
+\ID{das_gupta__somesh}
+
+
+
+
+\DOB{1935-09-03}
+\DOD{2006-04-29}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=209864}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:das-gupta.somesh}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:gupta.somesh-das}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=47243}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/42715288}{Microsoft Academic: Somesh Das Gupta}
+\Profile{http://academic.research.microsoft.com/Author/52212622}{Microsoft Academic: Somesh Das Gupta}
+\Profile{http://academic.research.microsoft.com/Author/55174536}{Microsoft Academic: Somesh Das Gupta}
+
+
+\subsection*{Education}
+\Degree{1963}{Ph.D.}{The University of North Carolina at Chapel Hill}[Some Problems in Classification]<http://genealogy.math.ndsu.nodak.edu/id.php?id=47243>
+
+
+\subsection*{Honors}
+\Honor{1973}{IMS Fellow}
+\Honor{1992}{Indian National Science Academy, Fellow}
+
+
+\subsection*{Death Notice}
+\DeathNotice{das_gupta__somesh:867850}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{das_gupta__somesh:405002}
+\end{document}

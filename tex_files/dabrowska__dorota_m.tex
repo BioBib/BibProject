@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Dabrowska, Dorota M.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Dabrowska, Dorota M.}
+\ID{dabrowska__dorota_m}
+\AltID{dabrowska__dorota}
+
+\DisplayName{Dabrowska, Dorota}
+
+
+\Homepage{http://www.biostat.ucla.edu/Directory/Dabrowska}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=53885}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:dabrowska.dorota-m}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=34457}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/10695571}{Microsoft Academic: Dabrowska, Dorota M.}
+
+
+\subsection*{Education}
+\Degree{1984}{Ph.D.}{University of California, Berkeley}[Rank Tests for Independence for Bivariate Censored Data]<http://genealogy.math.ndsu.nodak.edu/id.php?id=34457>
+
+
+\subsection*{Honors}
+\Honor{2002}{IMS Fellow}{For outstanding research in modeling and analysis of censored survival data, and for seminal articles developing estimation methods for multivariate failure time data}
+\end{document}

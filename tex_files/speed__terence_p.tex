@@ -1,0 +1,70 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Speed, Terence P.
+
+@misc{speed__terence_p:718636,
+year={2003},
+author={Anonymous},
+title={{U}ntitled},
+addendum={(2003). Preface. In Statistics and Science: A Festschrift for Terry Speed (D. R. Goldstein, ed.). Lecture Notes-Monograph Series, Vol. 40, pp. i-ii. Institute of Mathematical Statistics, Beachwood, OH},
+url={http://www.jstor.org/stable/4356175},
+}
+
+@misc{speed__terence_p:895299,
+year={2003},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Goldstein, D. R., ed. (2003). Statistics and Science: A Festschrift for Terry Speed. Lecture Notes-Monograph Series, Vol. 40. Institute of Mathematical Statistics, Beachwood, OH, with portrait},
+url={http://www.jstor.org/stable/i397614},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Speed, Terence P.}
+\ID{speed__terence_p}
+\AltID{speed__terence}
+
+\DisplayName{Speed, Terence}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=190612}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:speed.terence-p}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=30979}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/42297999}{Microsoft Academic: Speed, Terry}
+\Profile{http://academic.research.microsoft.com/Author/12600871}{Microsoft Academic: Speed, T. P.}
+\Profile{http://scholar.google.be/citations?user=Sg6_CmwAAAAJ&hl=en}{Google Scholar}
+
+
+\subsection*{Education}
+\Degree{1968}{Ph.}{D. Monash University}[Some Topics in the Theory of Distributive Lattices]<http://genealogy.math.ndsu.nodak.edu/id.php?id=30979>
+
+
+\subsection*{Honors}
+\Honor{1984}{IMS Fellow}
+\Honor{1986}{IMS Medallion Lecturer}
+\Honor{1991}{Rietz Lecturer}
+\Honor{2001}{Australian Academy of Science, Fellow}
+\Honor{2001}{Wald Lecturer}
+\Honor{2004}{IMS President}
+\Honor{2006}{R. A. Fisher Lecturer}
+\Honor{2012}{Faculty Research Lecturer, University of California, Berkeley}
+\Honor{2013}{The Royal Society, Fellow}
+
+
+\subsection*{Biography}
+\Biography{speed__terence_p:718636}
+
+
+\subsection*{Festschrift}
+\Festschrift{speed__terence_p:895299}
+\end{document}

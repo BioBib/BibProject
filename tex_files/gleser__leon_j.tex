@@ -1,0 +1,40 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Gleser, Leon J.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Gleser, Leon J.}
+\ID{gleser__leon_j}
+\AltID{gleser__leon}
+
+\DisplayName{Gleser, Leon}
+
+
+\Homepage{http://www.stat.pitt.edu/people/gleser.php}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=74230}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:gleser.leon-jay}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=13658}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12753066}{Microsoft Academic: Gleser, Leon Jay}
+\Profile{http://academic.research.microsoft.com/Author/54371687}{Microsoft Academic: Gleser, Leon Jay}
+
+
+\subsection*{Education}
+\Degree{1964}{Ph.D.}{Stanford University}[The Comparison of Multivariate Tests of Hypotheses by Means of Bahadur's Efficiency]<http://genealogy.math.ndsu.nodak.edu/id.php?id=13658>
+
+
+\subsection*{Honors}
+\Honor{1974}{IMS Fellow}
+\end{document}

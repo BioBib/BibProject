@@ -1,0 +1,56 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Klotz, Jerome H.
+
+@article{klotz__jerome_h:8,
+year={2007},
+author={Johnson, R. and Doksum, K.},
+title={{J}erome {H}amilton {K}lotz, 1934-2006},
+journal={IMS Bulletin},
+pages={7},
+volume={36(2)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Klotz, Jerome H.} \Deceased
+\ID{klotz__jerome_h}
+\AltID{klotz__jerome}
+
+
+
+\DOB{1934-06-21}
+\DOD{2006-11-12}
+
+
+\Homepage{http://pages.cs.wisc.edu/~klotz/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=103050}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:klotz.jerome-h}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=34494}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18731437}{Microsoft Academic: Klotz, Jerome H.}
+\Profile{http://academic.research.microsoft.com/Author/55194499}{Microsoft Academic: Klotz, Jerome}
+
+
+\subsection*{Education}
+\Degree{1960}{Ph.D.}{University of California, Berkeley}[Nonparametric Tests for Scale]<http://genealogy.math.ndsu.nodak.edu/id.php?id=34494>
+
+
+\subsection*{Honors}
+\Honor{1973}{IMS Fellow}
+
+
+\subsection*{Obituary}
+\Obituary{klotz__jerome_h:8}
+\end{document}

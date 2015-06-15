@@ -1,0 +1,99 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Anscombe, Francis J.
+
+@incollection{anscombe__francis_j:13,
+year={2006},
+author={Brillinger, D. R.},
+title={{A}nscombe, {F}rancis {J}ohn},
+crossref={booktitle:encyclopedia-of-statistical-sciences},
+}
+
+@misc{anscombe__francis_j:517314,
+year={2001},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Francis John Anscombe, 83, mathematician and professor. The New York Times, Oct. 25, 2001},
+}
+
+@misc{anscombe__francis_j:215993,
+year={2001},
+author={Anonymous},
+title={{U}ntitled},
+addendum={In Memoriam: Professor Francis John Anscombe. Yale Office of Public Affairs and Communications, Oct. 23, 2001},
+url={http://opac.yale.edu/news/article.aspx?id=5247},
+}
+
+@article{anscombe__francis_j:10,
+year={2002},
+author={Anscombe, F. R. and Anscombe, P.},
+title={{U}ntitled},
+journal={IMS Bulletin},
+pages={17},
+volume={31(1)},
+}
+
+@article{anscombe__francis_j:11,
+year={2003},
+author={Cox, D. R.},
+title={{F}rank {A}nscombe},
+journal={J. Roy. Statist. Soc. Ser. D},
+pages={679-680},
+volume={52},
+url={http://www.jstor.org/stable/4128135},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Anscombe, Francis J.} \Deceased
+\ID{anscombe__francis_j}
+\AltID{anscombe__francis}
+
+\DisplayName{Anscombe, Francis}
+
+
+\DOB{1918-05-13}
+\DOD{2001-10-17}
+
+
+\subsection*{Profiles}
+\Profile{http://en.wikipedia.org/wiki/Francis_Anscombe}{Wikipedia}
+\Profile{http://www.york.ac.uk/depts/maths/histstat/people/anscombe.gif}{www.york.ac.uk}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=26375}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:anscombe.francis-john}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=62936}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12763083}{Microsoft Academic: Anscombe, F. J.}
+\Profile{http://en.wikipedia.org/wiki/F.J._Anscombe}{Wikipedia}
+
+
+\subsection*{Education}
+\Degree{1943}{M.A.}{University of Cambridge}<http://genealogy.math.ndsu.nodak.edu/id.php?id=62936>
+
+
+\subsection*{Honors}
+\Honor{1951}{IMS Fellow}
+\Honor{1982}{R. A. Fisher Lecturer}
+
+
+\subsection*{Biography}
+\Biography{anscombe__francis_j:13}
+
+
+\subsection*{Obituaries}
+\Obituary{anscombe__francis_j:517314}
+\Obituary{anscombe__francis_j:215993}
+
+
+\subsection*{Memorials}
+\InMemoriam{anscombe__francis_j:10}
+\InMemoriam{anscombe__francis_j:11}
+\end{document}

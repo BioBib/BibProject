@@ -1,0 +1,53 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Puri, Prem S.
+
+@article{puri__prem_s:8,
+year={1989},
+author={Cote, L. J. and Kuczek, T. and Rao, R. A. and Rubin, H. and Samuels, S. M.},
+title={{P}rem {S}ingh {P}uri, 1936-1989},
+journal={IMS Bulletin},
+pages={434},
+volume={18},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Puri, Prem S.} \Deceased
+\ID{puri__prem_s}
+\AltID{puri__prem}
+
+
+
+\DOB{1936-04-15}
+\DOD{1989-08-12}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=142765}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:puri.prem-s}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=25317}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18644314}{Microsoft Academic: Puri, Prem S.}
+\Profile{http://academic.research.microsoft.com/Author/50679238}{Microsoft Academic: Puri, Prem S.}
+
+
+\subsection*{Education}
+\Degree{1964}{Ph.D.}{University of California, Berkeley}<http://genealogy.math.ndsu.nodak.edu/id.php?id=25317>
+
+
+\subsection*{Honors}
+\Honor{1973}{IMS Fellow}
+
+
+\subsection*{Obituary}
+\Obituary{puri__prem_s:8}
+\end{document}

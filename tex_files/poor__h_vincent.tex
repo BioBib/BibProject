@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Poor, Harold Vincent
+\end{filecontents}
+
+\begin{document}
+
+\Name{Poor, Harold Vincent}
+\ID{poor__h_vincent}
+\AltID{poor__harold}
+
+\DisplayName{Poor, H. Vincent}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=141045}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:poor.vincent-c}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:poor.h-vincent}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=18864}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/56879081}{Microsoft Academic: Poor, H. Vincent}
+
+
+\subsection*{Education}
+\Degree{1977}{Ph.D.}{Princeton University}[Topics in Robust and Optimal Detection]<http://genealogy.math.ndsu.nodak.edu/id.php?id=18864>
+
+
+\subsection*{Honors}
+\Honor{2001}{IMS Fellow}{For contributions to the theory of statistical signal processing and its applications in electrical engineering and related fields}
+\Honor{2005}{American Academy of Arts and Sciences, Fellow}
+\Honor{2012}{National Academy of Sciences, Member}
+\end{document}

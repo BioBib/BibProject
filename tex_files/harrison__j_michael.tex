@@ -1,0 +1,41 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Harrison, J. Michael
+\end{filecontents}
+
+\begin{document}
+
+\Name{Harrison, J. Michael}
+\ID{harrison__j_michael}
+\AltID{harrison__j}
+
+
+
+\Homepage{http://faculty-gsb.stanford.edu/harrison/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=81670}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:harrison.j-michael}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=40886}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/368380}{Microsoft Academic: Harrison, John Michael}
+
+
+\subsection*{Education}
+\Degree{1971}{Ph.D.}{Stanford University}[Queueing Models for Assembly-Like Systems]<http://genealogy.math.ndsu.nodak.edu/id.php?id=40886>
+
+
+\subsection*{Honors}
+\Honor{1993}{IMS Fellow}
+\Honor{1997}{IMS Medallion Lecturer}
+\Honor{2004}{John von Neumann Theory Prize}
+\Honor{2008}{National Academy of Engineering, Member}
+\end{document}

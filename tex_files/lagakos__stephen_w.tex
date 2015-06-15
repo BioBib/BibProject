@@ -1,0 +1,67 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Lagakos, Stephen W.
+
+@article{lagakos__stephen_w:8,
+year={2009},
+author={Anonymous},
+title={{S}tephen {L}agakos},
+journal={Amstat News},
+pages={56},
+volume={Dec. 2009},
+}
+
+@article{lagakos__stephen_w:9,
+year={2009},
+author={Zelen, M.},
+title={{S}tephen {W}. {L}agakos, 1946-2009},
+journal={IMS Bulletin},
+pages={8-9},
+volume={38(10)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Lagakos, Stephen W.} \Deceased
+\ID{lagakos__stephen_w}
+\AltID{lagakos__stephen}
+
+
+
+\DOB{1946-06-18}
+\DOD{2009-10-12}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=109245}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:lagakos.stephen-w}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=65906}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18075227}{Microsoft Academic: Lagakos, Stephen W.}
+\Profile{http://academic.research.microsoft.com/Author/55303241}{Microsoft Academic: Lagakos, Stephen}
+
+
+\subsection*{Education}
+\Degree{1972}{Ph.D.}{The George Washington University}[Hypothesis Testing for a Time Series Analog of the General Linear Model]<http://genealogy.math.ndsu.nodak.edu/id.php?id=65906>
+
+
+\subsection*{Honors}
+\Honor{1984}{IMS Fellow}
+\Honor{2002}{Institute of Medicine, Member}
+
+
+\subsection*{Obituary}
+\Obituary{lagakos__stephen_w:8}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{lagakos__stephen_w:9}
+\end{document}

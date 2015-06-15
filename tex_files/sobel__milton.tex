@@ -1,0 +1,42 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Sobel, Milton
+\end{filecontents}
+
+\begin{document}
+
+\Name{Sobel, Milton} \Deceased
+\ID{sobel__milton}
+
+
+
+
+\DOB{1919-08-30}
+\DOD{2002-12-31}
+
+
+\Homepage{http://astro.temple.edu/~msobel/resume.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=218618}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:sobel.milton-e}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=49160}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12595206}{Microsoft Academic: Sobel, Milton}
+
+
+\subsection*{Education}
+\Degree{1951}{Ph.D.}{Columbia University}[Essentially Complete Classes of Decision Functions for Certain Standard Sequential and Non-Sequential Problems]<http://genealogy.math.ndsu.nodak.edu/id.php?id=49160>
+
+
+\subsection*{Honors}
+\Honor{1956}{IMS Fellow}
+\end{document}

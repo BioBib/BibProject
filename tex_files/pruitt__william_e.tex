@@ -1,0 +1,56 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Pruitt, William E.
+
+@article{pruitt__william_e:8,
+year={1993},
+author={Jain, N.},
+title={{W}illiam {P}ruitt, 1934-1993},
+journal={IMS Bulletin},
+volume={22},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Pruitt, William E.} \Deceased
+\ID{pruitt__william_e}
+\AltID{pruitt__william}
+
+\DisplayName{Pruitt, William}
+
+
+\DOB{1934-05-11}
+\DOD{1993-07-25}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=189757}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:pruitt.william-e}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=15029}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/54378912}{Microsoft Academic: Pruitt, William E.}
+\Profile{http://academic.research.microsoft.com/Author/54378911}{Microsoft Academic: Pruitt, William E.}
+\Profile{http://academic.research.microsoft.com/Author/2780735}{Microsoft Academic: Pruitt, William E.}
+
+
+\subsection*{Education}
+\Degree{1960}{Ph.D.}{Stanford University}[Bilateral Birth and Death Processes]<http://genealogy.math.ndsu.nodak.edu/id.php?id=15029>
+
+
+\subsection*{Honors}
+\Honor{1978}{IMS Medallion Lecturer}
+\Honor{1985}{IMS Medallion Lecturer}
+\Honor{1986}{IMS Fellow}
+
+
+\subsection*{Obituary}
+\Obituary{pruitt__william_e:8}
+\end{document}

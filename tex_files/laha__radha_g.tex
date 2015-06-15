@@ -1,0 +1,54 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Laha, Radha G.
+
+@article{laha__radha_g:8,
+year={1999},
+author={Anonymous},
+title={{P}rofessor {R}adha {G}ovind {L}aha},
+journal={IMS Bulletin},
+pages={252-253},
+volume={28},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Laha, Radha G.} \Deceased
+\ID{laha__radha_g}
+\AltID{laha__radha}
+
+
+
+\DOB{1930-10-01}
+\DOD{1999-07-14}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=298218}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:laha.radha-govinda}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=48987}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/50686751}{Microsoft Academic: Laha, R. G.}
+\Profile{http://academic.research.microsoft.com/Author/52827529}{Microsoft Academic: Laha, R. G.}
+\Profile{http://academic.research.microsoft.com/Author/52827527}{Microsoft Academic: Laha, R. G.}
+
+
+\subsection*{Education}
+\Degree{1957}{Ph.D.}{Indian Statistical Institute, Calcutta}[Some Characterization Problems in Probability Theory and Mathematical Statistics]<http://genealogy.math.ndsu.nodak.edu/id.php?id=48987>
+
+
+\subsection*{Honors}
+\Honor{1972}{IMS Fellow}
+
+
+\subsection*{Obituary}
+\Obituary{laha__radha_g:8}
+\end{document}

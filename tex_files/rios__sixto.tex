@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Ríos Garcia, Sixto
+\end{filecontents}
+
+\begin{document}
+
+\Name{R\'{\i}os Garcia, Sixto} \Deceased
+\ID{rios__sixto}
+
+
+\DisplayName{R\'{\i}os, Sixto}
+
+
+\DOB{1913-01-04}
+\DOD{2008-06-11}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:rios.sixto}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/54682969}{Microsoft Academic: Sixto Rios (Sixto R\'{\i}os)}
+\Profile{http://academic.research.microsoft.com/Author/52581157}{Microsoft Academic: Sixto Rios (Sixto R\'{\i}os)}
+\Profile{http://academic.research.microsoft.com/Author/43857772}{Microsoft Academic: Sixto Rios (Sixto R\'{\i}os)}
+
+
+\subsection*{Honors}
+\Honor{1958}{IMS Fellow}
+\end{document}

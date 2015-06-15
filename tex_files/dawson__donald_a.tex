@@ -1,0 +1,41 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Dawson, Donald A.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Dawson, Donald A.}
+\ID{dawson__donald_a}
+\AltID{dawson__donald}
+
+
+
+\Homepage{http://lrsp.carleton.ca/directors/dawson/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=55220}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:dawson.donald-a}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=37201}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/263149}{Microsoft Academic: Dawson, Donald A.}
+
+
+\subsection*{Education}
+\Degree{1963}{Ph.D.}{Massachusetts Institute of Technology}[Constructions of Diffusions with Specified Mean Hitting Times and Hitting Probabilities]<http://genealogy.math.ndsu.nodak.edu/id.php?id=37201>
+
+
+\subsection*{Honors}
+\Honor{1977}{IMS Fellow}
+\Honor{1987}{The Royal Society of Canada, Fellow}
+\Honor{1996}{IMS Medallion Lecturer}
+\Honor{2010}{The Royal Society, Fellow}
+\end{document}

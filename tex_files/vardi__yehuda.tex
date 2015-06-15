@@ -1,0 +1,73 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Vardi, Yehuda
+
+@article{vardi__yehuda:7,
+year={2005},
+author={Zhang, C.-H. and Shepp, L.},
+title={{Y}ehuda {V}ardi, 1946-2005},
+journal={IMS Bulletin},
+pages={9},
+volume={34(2)},
+}
+
+@misc{vardi__yehuda:839612,
+year={2007},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Liu, R., Strawderman, W., and Zhang, C.-H., eds. (2007). Complex Datasets and Inverse Problems: Tomography, Networks and Beyond. Lecture Notes-Monograph Series, Vol. 54. Institute of Mathematical Statistics, Beachwood, OH},
+url={http://www.jstor.org/stable/20461452},
+}
+
+@misc{vardi__yehuda:695465,
+year={2007},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Liu, R., Strawderman, W., and Zhang, C.-H. (2007). Dedication. In Complex Datasets and Inverse Problems: Tomography, Networks and Beyond. Lecture Notes-Monograph Series, Vol. 54, p. vi. Institute of Mathematical Statistics, Beachwood, OH},
+url={http://www.jstor.org/stable/20461454},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Vardi, Yehuda} \Deceased
+\ID{vardi__yehuda}
+
+
+
+
+\DOB{1946-10-31}
+\DOD{2005-01-17}
+
+
+\Homepage{http://www.stat.rutgers.edu/people/faculty/vardi.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=177210}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:vardi.yehuda}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=36227}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/2257809}{Microsoft Academic: Vardi, Yehuda}
+
+
+\subsection*{Education}
+\Degree{1977}{Ph.D.}{Cornell University}[Some Problems in Sequential Estimation]<http://genealogy.math.ndsu.nodak.edu/id.php?id=36227>
+
+
+\subsection*{Honors}
+\Honor{1987}{IMS Fellow}
+
+
+\subsection*{Memorials}
+\InMemoriam{vardi__yehuda:7}
+\InMemoriam{vardi__yehuda:839612}
+\InMemoriam{vardi__yehuda:695465}
+\end{document}

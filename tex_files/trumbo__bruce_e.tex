@@ -1,0 +1,41 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Trumbo, Bruce E.
+
+@misc{trumbo__bruce_e:614779,
+year={2002},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Norton, J. (2002). Bruce Trumbo, Carver Award recipient. IMS Bulletin, Vol. 31(4), pp. 4-6},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Trumbo, Bruce E.}
+\ID{trumbo__bruce_e}
+\AltID{trumbo__bruce}
+
+\DisplayName{Trumbo, Bruce}
+
+
+\subsection*{Profiles}
+\Profile{http://academic.research.microsoft.com/Author/27283058}{Microsoft Academic: Bruce Trumbo}
+
+
+\subsection*{Honors}
+\Honor{1984}{IMS Fellow}
+\Honor{2002}{Harry C. Carver Medal}
+
+
+\subsection*{Biography}
+\Biography{trumbo__bruce_e:614779}
+\end{document}

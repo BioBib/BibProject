@@ -1,0 +1,63 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Kullback, Solomon
+
+@article{kullback__solomon:7,
+year={1994},
+author={Greenhouse, S. W.},
+title={{S}olomon {K}ullback: 1907-94},
+journal={IMS Bulletin},
+pages={640-642},
+volume={23},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Kullback, Solomon} \Deceased
+\ID{kullback__solomon}
+
+
+
+
+\DOB{1907-04-03}
+\DOD{1994-08-05}
+
+
+\Homepage{http://de.wikipedia.org/wiki/Solomon_Kullback}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=107720}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:kullback.solomon}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=13292}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/55516871}{Microsoft Academic: Solomon Kullback}
+\Profile{http://academic.research.microsoft.com/Author/54117783}{Microsoft Academic: Solomon Kullback}
+\Profile{http://academic.research.microsoft.com/Author/55517240}{Microsoft Academic: Solomon Kullback}
+\Profile{http://academic.research.microsoft.com/Author/11219756}{Microsoft Academic: Solomon Kullback}
+\Profile{http://academic.research.microsoft.com/Author/27446532}{Microsoft Academic: S. Kullback}
+\Profile{http://academic.research.microsoft.com/Author/44831589}{Microsoft Academic: S. Kullback}
+\Profile{http://academic.research.microsoft.com/Author/48975227}{Microsoft Academic: S. Kullback}
+\Profile{http://academic.research.microsoft.com/Author/50560033}{Microsoft Academic: Solomon Kullback}
+
+
+\subsection*{Education}
+\Degree{1934}{Ph.D.}{The George Washington University}[An Application of Characteristic Functions to the Distribution Problem of Statistics]<http://genealogy.math.ndsu.nodak.edu/id.php?id=13292>
+
+
+\subsection*{Honors}
+\Honor{1976}{Samuel S. Wilks Award}
+\Honor{before 1943}{IMS Fellow}
+
+
+\subsection*{Obituary}
+\Obituary{kullback__solomon:7}
+\end{document}

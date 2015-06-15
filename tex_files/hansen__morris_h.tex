@@ -1,0 +1,95 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Hansen, Morris H.
+
+@article{hansen__morris_h:12,
+year={1996},
+author={Waksberg, J. and Goldfield, E. D.},
+title={{M}orris {H}oward {H}ansen, {D}ecember 15, 1910-{O}ctober 9, 1990},
+journal={Biographical Memoirs},
+pages={2-23},
+publisher={National Academies Press},
+volume={70},
+url={http://books.nap.edu/html/biomems/mhansen.pdf},
+}
+
+@incollection{hansen__morris_h:13,
+year={1997},
+author={Johnson, N. L. and Kotz, S.},
+title={{H}ansen, {M}orris {H}oward},
+pages={297-298},
+crossref={booktitle:leading-personalities-in-statistical-sciences-from-the-17th-century-to-the-present},
+}
+
+@article{hansen__morris_h:14,
+year={2009},
+author={Murphy, M.},
+title={{M}orris {H}ansen: {I}nnovative, influential, inspiring},
+journal={Amstat News},
+pages={15-17},
+volume={Sep. 2009},
+}
+
+@misc{hansen__morris_h:964679,
+year={2009},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Murphy, M. Morris Hansen: Innovative, influential, inspiring. Amstat News, Sept. 2009, pp. 15-17},
+}
+
+@article{hansen__morris_h:8,
+year={1990},
+author={Tepping, B. J. and Waksberg, J.},
+title={{M}orris {H}oward {H}ansen, 1910-1990},
+journal={IMS Bulletin},
+pages={666},
+volume={19},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Hansen, Morris H.} \Deceased
+\ID{hansen__morris_h}
+\AltID{hansen__morris}
+
+\DisplayName{Hansen, Morris}
+
+
+\DOB{1910-12-15}
+\DOD{1990-10-09}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=248024}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:hansen.morris-h}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/54113441}{Microsoft Academic: Stephens, G. Gayle}
+\Profile{http://academic.research.microsoft.com/Author/54113794}{Microsoft Academic: Hansen, Morris H.}
+\Profile{http://academic.research.microsoft.com/Author/52594157}{Microsoft Academic: Hansen, Morris H.}
+
+
+\subsection*{Honors}
+\Honor{1943}{IMS Fellow}
+\Honor{1953}{IMS President}
+\Honor{1976}{National Academy of Sciences, Member}
+\Honor{1985}{American Academy of Arts and Sciences, Fellow}
+
+
+\subsection*{Biographies}
+\Biography{hansen__morris_h:12}
+\Biography{hansen__morris_h:13}
+\Biography{hansen__morris_h:14}
+\Biography{hansen__morris_h:964679}
+
+
+\subsection*{Obituary}
+\Obituary{hansen__morris_h:8}
+\end{document}

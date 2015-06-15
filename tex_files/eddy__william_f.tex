@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Eddy, William F.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Eddy, William F.}
+\ID{eddy__william_f}
+\AltID{eddy__william}
+
+\DisplayName{Eddy, William}
+
+
+\Homepage{http://www.pitt.edu/~nminshew/eddy.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=196425}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:eddy.william-f}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=35342}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/532153}{Microsoft Academic: Eddy, William F.}
+
+
+\subsection*{Education}
+\Degree{1976}{Ph.D.}{Yale University}[Optimum Kernal Estimators of the Mode]<http://genealogy.math.ndsu.nodak.edu/id.php?id=35342>
+
+
+\subsection*{Honors}
+\Honor{1987}{IMS Fellow}
+\end{document}

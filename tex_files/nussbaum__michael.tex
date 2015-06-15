@@ -1,0 +1,37 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Nussbaum, Michael
+\end{filecontents}
+
+\begin{document}
+
+\Name{Nussbaum, Michael}
+\ID{nussbaum__michael}
+
+
+
+
+\Homepage{http://www.math.cornell.edu/~nussbaum/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:nussbaum.michael}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=34825}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/178948}{Microsoft Academic: Nussbaum, Michael}
+
+
+\subsection*{Education}
+\Degree{1979}{Ph.D.}{Akademie der Wissenschaften der DDR}[Sch\"{a}tzung linearer funktioneller Beziehungen]<http://genealogy.math.ndsu.nodak.edu/id.php?id=34825>
+
+
+\subsection*{Honors}
+\Honor{1998}{IMS Fellow}
+\end{document}

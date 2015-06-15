@@ -1,0 +1,48 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Simon, Leslie E.
+
+@article{simon__leslie_e:8,
+year={1984},
+author={Anonymous},
+title={{U}ntitled},
+journal={IMS Bulletin},
+pages={170},
+volume={13},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Simon, Leslie E.} \Deceased
+\ID{simon__leslie_e}
+\AltID{simon__leslie}
+
+
+
+\DOB{1900-08-11}
+\DOD{1983-10-28}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=539874}{MathSciNet}
+\Profile{http://academic.research.microsoft.com/Author/22030544}{Microsoft Academic: Leslie E. Simon}
+
+
+\subsection*{Honors}
+\Honor{1943}{IMS Fellow}
+\Honor{1956}{American Academy of Arts and Sciences, Fellow}
+\Honor{1966}{Samuel S. Wilks Award}
+
+
+\subsection*{Death Notice}
+\DeathNotice{simon__leslie_e:8}
+\end{document}

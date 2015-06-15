@@ -1,0 +1,42 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for George, Edward I.
+\end{filecontents}
+
+\begin{document}
+
+\Name{George, Edward I.}
+\ID{george__edward_i}
+\AltID{george__edward}
+
+\DisplayName{George, Edward}
+
+
+\Homepage{http://www-stat.wharton.upenn.edu/~edgeorge/}
+\Homepage{http://www-stat.wharton.upenn.edu/~edgeorge/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=229878}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:george.edward-i}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=83216}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/53497432}{Microsoft Academic: George, Edward I.}
+\Profile{http://academic.research.microsoft.com/Author/1661022}{Microsoft Academic: George, Edward I.}
+
+
+\subsection*{Education}
+\Degree{1981}{Ph.D.}{Stanford University}[Sequential Stochastic Construction of Random Polygons]<http://genealogy.math.ndsu.nodak.edu/id.php?id=83216>
+
+
+\subsection*{Honors}
+\Honor{1995}{IMS Fellow}
+\Honor{2010}{IMS Medallion Lecturer}
+\end{document}

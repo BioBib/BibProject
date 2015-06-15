@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Doksum, Kjell A.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Doksum, Kjell A.}
+\ID{doksum__kjell_a}
+\AltID{doksum__kjell}
+
+\DisplayName{Doksum, Kjell}
+
+
+\Homepage{http://www.stat.wisc.edu/~doksum/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=58810}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:doksum.kjell-a}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=34558}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/220121}{Microsoft Academic: Doksum, Kjell A.}
+
+
+\subsection*{Education}
+\Degree{1965}{Ph.D.}{University of California, Berkeley}[Asymptotically Minimax Distribution-Free Procedures]<http://genealogy.math.ndsu.nodak.edu/id.php?id=34558>
+
+
+\subsection*{Honors}
+\Honor{1973}{IMS Fellow}
+\end{document}

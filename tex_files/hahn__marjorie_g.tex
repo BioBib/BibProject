@@ -1,0 +1,37 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Hahn, Marjorie G.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Hahn, Marjorie G.}
+\ID{hahn__marjorie_g}
+\AltID{hahn__marjorie}
+
+\DisplayName{Hahn, Marjorie}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=79605}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:hahn.marjorie-g}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=40779}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18637477}{Microsoft Academic: Hahn, Sebastian}
+
+
+\subsection*{Education}
+\Degree{1975}{Ph.D.}{Massachusetts Institute of Technology}[Central Limit Theorems for D [0,1] - Valued Random Variables]<http://genealogy.math.ndsu.nodak.edu/id.php?id=40779>
+
+
+\subsection*{Honors}
+\Honor{1985}{IMS Fellow}
+\Honor{1985}{IMS Medallion Lecturer}
+\end{document}

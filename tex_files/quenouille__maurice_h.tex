@@ -1,0 +1,48 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Quenouille, Maurice H.
+
+@misc{quenouille__maurice_h:9,
+year={2002},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Former Fellows of the Royal Society of Edinburgh, 1783-2002, p. 757},
+url={http://www.royalsoced.org.uk/cms/files/fellows/biographical_index/fells_indexp2.pdf},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Quenouille, Maurice H.} \Deceased
+\ID{quenouille__maurice_h}
+\AltID{quenouille__maurice}
+
+\DisplayName{Quenouille, M. H.}
+
+
+\DOB{1924-10-09}
+\DOD{1973-12-12}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=143040}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:quenouille.maurice-h}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/12403425}{Microsoft Academic: Quenouille, Maurice Henri}
+
+
+\subsection*{Honors}
+\Honor{1952}{The Royal Society of Edinburgh, Fellow}
+\Honor{1955}{IMS Fellow}
+
+
+\subsection*{Biography}
+\Biography{quenouille__maurice_h:9}
+\end{document}

@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Portnoy, Stephen L.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Portnoy, Stephen L.}
+\ID{portnoy__stephen_l}
+\AltID{portnoy__stephen}
+
+\DisplayName{Portnoy, Stephen}
+
+
+\Homepage{http://www.stat.uiuc.edu/people/faculty/portnoy.shtml}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=212808}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:portnoy.stephen-l}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=4819}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12545299}{Microsoft Academic: Portnoy, Stephen L.}
+
+
+\subsection*{Education}
+\Degree{1969}{Ph.D.}{Stanford University}[Formal Bayes Estimation with Application to a Random Effects Analysis of Variance Model]<http://genealogy.math.ndsu.nodak.edu/id.php?id=4819>
+
+
+\subsection*{Honors}
+\Honor{1984}{IMS Fellow}
+\end{document}

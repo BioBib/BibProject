@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Pittenger, Arthur O.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Pittenger, Arthur O.}
+\ID{pittenger__arthur_o}
+\AltID{pittenger__arthur}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=140110}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:pittenger.arthur-o}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=7765}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/8717979}{Microsoft Academic: Arthur O. Pittenger}
+\Profile{http://academic.research.microsoft.com/Author/10830861}{Microsoft Academic: A. O. Pittenger}
+
+
+\subsection*{Education}
+\Degree{1967}{Ph.D.}{Stanford University}[Boundary Decomposition of Markov Processes]<http://genealogy.math.ndsu.nodak.edu/id.php?id=7765>
+
+
+\subsection*{Honors}
+\Honor{1982}{IMS Fellow}
+\end{document}

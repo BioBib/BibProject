@@ -1,0 +1,53 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Lindsay, Bruce G.
+
+@misc{lindsay__bruce_g:325997,
+year={2012},
+author={Anonymous},
+title={{U}ntitled},
+addendum={(2012). Bruce Lindsay selected as Penn State's Eberly Family Chair in Statistics. IMS Bulletin, Vol. 41(5), p. 3},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Lindsay, Bruce G.}
+\ID{lindsay__bruce_g}
+\AltID{lindsay__bruce}
+
+
+
+\Homepage{http://www.stat.psu.edu/people/faculty/lindsay.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=114360}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:lindsay.bruce-g}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=62644}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/48455}{Microsoft Academic: Lindsay, Bruce}
+\Profile{http://academic.research.microsoft.com/Author/52765541}{Microsoft Academic: Lindsay, Bruce G.}
+
+
+\subsection*{Education}
+\Degree{1978}{Ph.D.}{University of Washington}[Information in the Presence of Nuisance Parameters]<http://genealogy.math.ndsu.nodak.edu/id.php?id=62644>
+
+
+\subsection*{Honors}
+\Honor{1987}{IMS Fellow}
+\Honor{1990}{IMS Medallion Lecturer}
+\Honor{1997}{George W. Snedecor Award}
+\Honor{2010}{R. A. Fisher Lecturer}
+
+
+\subsection*{Biography}
+\Biography{lindsay__bruce_g:325997}
+\end{document}

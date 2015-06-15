@@ -1,0 +1,69 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Bickel, Peter J.
+
+@article{bickel__peter_j:14,
+year={2006},
+author={Fan, J.},
+title={{P}eter {B}ickel{'}s royal decoration},
+journal={IMS Bulletin},
+pages={1},
+volume={35(6)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Bickel, Peter J.}
+\ID{bickel__peter_j}
+\AltID{bickel__peter}
+
+\DisplayName{Bickel, Peter}
+
+
+\Homepage{http://www.stat.berkeley.edu/~bickel/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=36665}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:bickel.peter-john}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=34553}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12530685}{Microsoft Academic: Bickel, Peter J.}
+\Profile{http://scholar.google.be/citations?user=t4w1jE4AAAAJ&hl=en}{Google Scholar}
+\Profile{http://www.stat.berkeley.edu/users/bickel/}{Homepage}
+\Profile{http://www.stat.berkeley.edu/users/bickel/Research.htm}{Publication List}
+\Profile{http://en.wikipedia.org/wiki/Peter_J._Bickel}{Wikipedia}
+
+
+\subsection*{Education}
+\Degree{1963}{Ph.D.}{University of California, Berkeley}[Asymptotically Nonparametric Statistical Inference in the Multivariate Cases]<http://genealogy.math.ndsu.nodak.edu/id.php?id=34553>
+
+
+\subsection*{Career}
+\Affiliation{http://www.stat.berkeley.edu/}
+
+
+\subsection*{Honors}
+\Honor{1968}{IMS Fellow}
+\Honor{1979}{COPSS Presidents' Award}
+\Honor{1980}{Wald Lecturer}
+\Honor{1981}{IMS President}
+\Honor{1984}{MacArthur Fellow}
+\Honor{1986}{American Academy of Arts and Sciences, Fellow}
+\Honor{1986}{National Academy of Sciences, Member}
+\Honor{1995}{The Royal Netherlands Academy of Arts and Sciences, Foreign Member}
+\Honor{2004}{Rietz Lecturer}
+\Honor{2013}{R. A. Fisher Lecturer}
+
+
+\subsection*{Biography}
+\Biography{bickel__peter_j:14}
+\end{document}

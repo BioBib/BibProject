@@ -1,0 +1,37 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Bühler, Wolfgang J.
+\end{filecontents}
+
+\begin{document}
+
+\Name{B\"{u}hler, Wolfgang J.}
+\ID{buehler__wolfgang_j}
+\AltID{buehler__wolfgang}
+
+\DisplayName{B\"{u}hler, Wolfgang J.}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=43040}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:buhler.wolfgang-j}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=22838}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/21772531}{Microsoft Academic: Wolfgang J. Buhler (Wolfgang J. B\"{u}hler)}
+\Profile{http://academic.research.microsoft.com/Author/53549870}{Microsoft Academic: Wolfgang J. Buhler (Wolfgang J. B\"{u}hler)}
+
+
+\subsection*{Education}
+\Degree{1966}{Ph.D.}{University of California, Berkeley}[Limit Theorems for Branching Processes.]<http://genealogy.math.ndsu.nodak.edu/id.php?id=22838>
+
+
+\subsection*{Honors}
+\Honor{1976}{IMS Fellow}
+\end{document}

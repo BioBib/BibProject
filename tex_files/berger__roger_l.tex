@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Berger, Roger L.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Berger, Roger L.}
+\ID{berger__roger_l}
+\AltID{berger__roger}
+
+\DisplayName{Berger, Roger}
+
+
+\Homepage{http://www.west.asu.edu/rlberge1/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=200421}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:berger.roger-l}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=48040}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/53535106}{Microsoft Academic: Berger, Roger L.}
+
+
+\subsection*{Education}
+\Degree{1977}{Ph.D.}{Purdue University}[Minimax, Admissible, and Gamma-Minimax Multiple Decision Rules]<http://genealogy.math.ndsu.nodak.edu/id.php?id=48040>
+
+
+\subsection*{Honors}
+\Honor{1991}{IMS Fellow}
+\end{document}

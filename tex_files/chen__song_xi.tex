@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Chen, Song Xi
+\end{filecontents}
+
+\begin{document}
+
+\Name{Chen, Song Xi}
+\ID{chen__song_xi}
+\AltID{chen__song}
+
+
+
+\Homepage{http://www1.gsm.pku.edu.cn/template/teacherContentEn.aspx?ID=386}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:chen.song-xi}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/53401595}{Microsoft Academic: Chen, Song Xi}
+
+
+\subsection*{Honors}
+\Honor{2009}{IMS Fellow}{For fundamental and important contributions to empirical likelihood and nonparametric function estimation, and for development of novel statistical techniques for estimation of animal abundance, analysis of financial data and multiple system surveys}
+\end{document}

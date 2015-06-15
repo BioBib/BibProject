@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Feigin, Paul D.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Feigin, Paul D.}
+\ID{feigin__paul_d}
+\AltID{feigin__paul}
+
+\DisplayName{Feigin, Paul}
+
+
+\Homepage{http://ie.technion.ac.il/Home/Users/Paulf.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=65725}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:feigin.paul-david}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=57306}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12810143}{Microsoft Academic: Feigin, Paul D.}
+
+
+\subsection*{Education}
+\Degree{1975}{Ph.D.}{Australian National University}[Maximum Likelihood Estimation for Stochastic Processes - A Martingale Approach]<http://genealogy.math.ndsu.nodak.edu/id.php?id=57306>
+
+
+\subsection*{Honors}
+\Honor{1991}{IMS Fellow}
+\end{document}

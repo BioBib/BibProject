@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Scott, Alastair J.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Scott, Alastair J.}
+\ID{scott__alastair_j}
+\AltID{scott__alastair}
+
+\DisplayName{Scott, Alastair}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=157675}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:scott.alastair-john}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=35292}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12502894}{Microsoft Academic: Scott, Alastair John}
+
+
+\subsection*{Education}
+\Degree{1965}{Ph.D.}{The University of Chicago}[Allocation of Effort in the Design of Selection Procedures]<http://genealogy.math.ndsu.nodak.edu/id.php?id=35292>
+
+
+\subsection*{Honors}
+\Honor{1980}{IMS Fellow}
+\end{document}

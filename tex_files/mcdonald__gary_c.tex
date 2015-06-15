@@ -1,0 +1,29 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for McDonald, Gary C.
+\end{filecontents}
+
+\begin{document}
+
+\Name{McDonald, Gary C.}
+\ID{mcdonald__gary_c}
+\AltID{mcdonald__gary}
+
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:mcdonald.gary-c}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/54414510}{Microsoft Academic: McDonald, Gary C.}
+
+
+\subsection*{Honors}
+\Honor{1990}{IMS Fellow}
+\end{document}

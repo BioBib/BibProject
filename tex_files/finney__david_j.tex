@@ -1,0 +1,51 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Finney, David J.
+
+@article{finney__david_j:9,
+year={1993},
+author={MacNeill, I.},
+title={{A} conversation with {D}avid {J}. {F}inney},
+journal={Statist. Sci.},
+pages={187-201},
+volume={8},
+url={http://www.jstor.org/stable/2246158},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Finney, David J.}
+\ID{finney__david_j}
+\AltID{finney__david}
+
+
+
+\Homepage{http://catalogue.nla.gov.au/Record/1903778}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:finney.david-j}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/18624352}{Microsoft Academic: Finney, D. J.}
+\Profile{http://academic.research.microsoft.com/Author/55626758}{Microsoft Academic: Finney, D. J.}
+\Profile{http://academic.research.microsoft.com/Author/55626663}{Microsoft Academic: Finney, David J.}
+
+
+\subsection*{Honors}
+\Honor{1949}{IMS Fellow}
+\Honor{1955}{The Royal Society of Edinburgh, Fellow}
+\Honor{1955}{The Royal Society, Fellow}
+\Honor{1978}{Commander of the Order of the British Empire}
+
+
+\subsection*{Biography}
+\Biography{finney__david_j:9}
+\end{document}

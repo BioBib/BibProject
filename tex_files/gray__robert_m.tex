@@ -1,0 +1,40 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Gray, Robert M.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Gray, Robert M.}
+\ID{gray__robert_m}
+\AltID{gray__robert}
+
+\DisplayName{Gray, Robert}
+
+
+\Homepage{http://ee.stanford.edu/~gray/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=76395}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:gray.robert-molten}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=59906}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/1224094}{Microsoft Academic: Robert M. Gray}
+
+
+\subsection*{Education}
+\Degree{1969}{Ph.D.}{University of Southern California}[Information Rates of Autoregressive Sources]<http://genealogy.math.ndsu.nodak.edu/id.php?id=59906>
+
+
+\subsection*{Honors}
+\Honor{1992}{IMS Fellow}
+\Honor{1994}{IMS Medallion Lecturer}
+\end{document}

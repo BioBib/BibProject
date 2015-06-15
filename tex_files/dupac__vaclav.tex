@@ -1,0 +1,30 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Dupač, Václav
+\end{filecontents}
+
+\begin{document}
+
+\Name{Dupa\v{c}, V\'{a}clav}
+\ID{dupac__vaclav}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:dupac.vaclav}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/18683738}{Microsoft Academic: Vaclav Dupac}
+\Profile{http://academic.research.microsoft.com/Author/54929256}{Microsoft Academic: V. Dupac}
+
+
+\subsection*{Honors}
+\Honor{1984}{IMS Fellow}
+\end{document}

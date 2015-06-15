@@ -1,0 +1,52 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Duncan, David B.
+
+@misc{duncan__david_b:964460,
+year={2006},
+author={Anonymous},
+title={{U}ntitled},
+addendum={David Duncan: 1916-2006. Public Health News Center, Bloomberg School of Public Health, Johns Hopkins University},
+url={http://www.jhsph.edu/publichealthnews/articles/2006/duncan.html},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Duncan, David B.} \Deceased
+\ID{duncan__david_b}
+\AltID{duncan__david}
+
+\DisplayName{Duncan, David}
+
+
+\DOB{1916-06-16}
+\DOD{2006-06-12}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=267458}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:duncan.david-b}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=42986}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/52454519}{Microsoft Academic: Duncan, David B.}
+
+
+\subsection*{Education}
+\Degree{1947}{Ph.D.}{Iowa State University}[Significance Tests for Differences Between Ranked Variates Drawn from Normal Populations]<http://genealogy.math.ndsu.nodak.edu/id.php?id=42986>
+
+
+\subsection*{Honors}
+\Honor{1967}{IMS Fellow}
+
+
+\subsection*{Obituary}
+\Obituary{duncan__david_b:964460}
+\end{document}

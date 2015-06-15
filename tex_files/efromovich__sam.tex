@@ -1,0 +1,33 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Efromovich, Sam
+\end{filecontents}
+
+\begin{document}
+
+\Name{Efromovich, Sam}
+\ID{efromovich__sam}
+
+
+
+
+\Homepage{http://www.utdallas.edu/~efrom/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=344828}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:efromovich.sam}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/5828060}{Microsoft Academic: Efromovich, Sam}
+
+
+\subsection*{Honors}
+\Honor{2000}{IMS Fellow}{For fundamental contributions to the theory and applications of non-parametric curve estimation, especially minimax orthogonal series estimation, and wide-ranging research in asymptotic information theory and parametric statistics}
+\end{document}

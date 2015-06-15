@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Polonik, Wolfgang
+\end{filecontents}
+
+\begin{document}
+
+\Name{Polonik, Wolfgang}
+\ID{polonik__wolfgang}
+
+
+
+
+\Homepage{http://www.stat.ucdavis.edu/~polonik/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:polonik.wolfgang}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/25466}{Microsoft Academic: Polonik, Wolfgang}
+
+
+\subsection*{Honors}
+\Honor{2011}{IMS Fellow}{For many important and mathematically challenging results in nonparametric regression and time series, often involving the rigorous application of nontrivial techniques for handling empirical processes; and for editorial service}
+\end{document}

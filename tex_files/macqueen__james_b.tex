@@ -1,0 +1,33 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for MacQueen, James B.
+\end{filecontents}
+
+\begin{document}
+
+\Name{MacQueen, James B.}
+\ID{macqueen__james_b}
+\AltID{macqueen__james}
+
+
+
+\Homepage{http://www.stat.ucla.edu/~macqueen/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=492480}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:macqueen.james-b}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/10265746}{Microsoft Academic: MacQueen, James B.}
+
+
+\subsection*{Honors}
+\Honor{1973}{IMS Fellow}
+\end{document}

@@ -1,0 +1,72 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Srivastava, Jagdish N.
+
+@misc{srivastava__jagdish_n:437204,
+year={2011},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Jagdish N. Srivastava. Amstat News, Jan. 2011, p. 26},
+}
+
+@misc{srivastava__jagdish_n:665327,
+year={2010},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Ghosh, S. (2010). Jagdish N. Srivastava: June 20, 1933-November 18, 2010. International Statistical Institute},
+url={http://www.isi-web.org/membership/obituaries/29-membership/membership/326-2010jagdishnsrivastava},
+}
+
+@article{srivastava__jagdish_n:8,
+year={2011},
+author={Ghosh, S.},
+title={{J}. {N}. {S}rivastava, 1933-2010},
+journal={IMS Bulletin},
+pages={11},
+volume={40(1)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Srivastava, Jagdish N.} \Deceased
+\ID{srivastava__jagdish_n}
+\AltID{srivastava__jagdish}
+
+\AltName{Srivastava, Jaya N.}
+
+\DOB{1933-06-20}
+\DOD{2010-11-18}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=165905}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:srivastava.jagdish-n}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=22760}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/17987835}{Microsoft Academic: Srivastava, Jagdish N.}
+
+
+\subsection*{Education}
+\Degree{1962}{Ph.D.}{The University of North Carolina at Chapel Hill}[Contributions to the Construction and Analysis of Designs]<http://genealogy.math.ndsu.nodak.edu/id.php?id=22760>
+
+
+\subsection*{Honors}
+\Honor{1972}{IMS Fellow}
+
+
+\subsection*{Obituary}
+\Obituary{srivastava__jagdish_n:437204}
+
+
+\subsection*{Memorials}
+\InMemoriam{srivastava__jagdish_n:665327}
+\InMemoriam{srivastava__jagdish_n:8}
+\end{document}

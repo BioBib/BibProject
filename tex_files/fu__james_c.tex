@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Fu, James C.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Fu, James C.}
+\ID{fu__james_c}
+\AltID{fu__james}
+
+
+
+\Homepage{http://www.stats.umanitoba.ca/people/fu/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:fu.james-c}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:fu-james.c}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=49921}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12781195}{Microsoft Academic: Fu, James C.}
+
+
+\subsection*{Education}
+\Degree{1971}{Ph.D.}{The Johns Hopkins University}[On Some Large-Sample Methods in Statistical Point Estimation]<http://genealogy.math.ndsu.nodak.edu/id.php?id=49921>
+
+
+\subsection*{Honors}
+\Honor{1992}{IMS Fellow}
+\end{document}

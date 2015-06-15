@@ -1,0 +1,48 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Nicholson, George E., Jr.
+
+@article{nicholson_jr__george_e:9,
+year={1972},
+author={Anonymous},
+title={{U}ntitled},
+journal={IMS Bulletin},
+pages={7},
+volume={1},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Nicholson, George E., Jr.} \Deceased
+\ID{nicholson_jr__george_e}
+\AltID{nicholson__george}
+
+
+
+\DOB{1918-06-21}
+\DOD{1971-12-03}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=508495}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:nicholson.george}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:nicholson.george-e-jun}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/56235397}{Microsoft Academic: Nicholson, George}
+
+
+\subsection*{Honors}
+\Honor{1958}{IMS Fellow}
+
+
+\subsection*{Death Notice}
+\DeathNotice{nicholson_jr__george_e:9}
+\end{document}

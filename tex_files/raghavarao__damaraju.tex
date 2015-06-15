@@ -1,0 +1,71 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Raghavarao, Damaraju
+
+@misc{raghavarao__damaraju:497301,
+year={2001},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Altan, S. and Singh, J., eds. (2001). Recent Advances in Experimental Design and Related Topics. Nova Science Publishers, Huntington, NY},
+}
+
+@misc{raghavarao__damaraju:247254,
+year={2013},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Lausch, B. (2013). Fox mourns the passing of longtime Statistics Professor Damaraju Raghavarao. Fox School of Business, Temple University, Feb. 11},
+url={http://www.fox.temple.edu/posts/2013/02/fox-school-mourns-the-passing-of-longtime-statistics-professor-damaraju-raghavarao/},
+}
+
+@misc{raghavarao__damaraju:923222,
+year={2013},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Singh, J. and Altan, S. (2013). Damaraju Raghavarao, 1938-2013. IMS Bulletin, Vol. 42(3), p. 6. Also in Amstat News, April 2013},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Raghavarao, Damaraju} \Deceased
+\ID{raghavarao__damaraju}
+
+
+
+
+\DOB{1938-01-05}
+\DOD{2013-02-06}
+
+
+\subsection*{Profiles}
+\Profile{https://en.wikipedia.org/wiki/D._Raghavarao}{Wikipedia}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=143940}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:raghavarao.damaraju}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=48224}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/53959228}{Microsoft Academic: Raghavarao, Damaraju}
+
+
+\subsection*{Education}
+\Degree{1961}{Ph.D.}{University of Mumbai}[Some Contributions to the Design of Experiments]<http://genealogy.math.ndsu.nodak.edu/id.php?id=48224>
+
+
+\subsection*{Honors}
+\Honor{1975}{IMS Fellow}
+
+
+\subsection*{Festschrift}
+\Festschrift{raghavarao__damaraju:497301}
+
+
+\subsection*{Memorials}
+\InMemoriam{raghavarao__damaraju:247254}
+\InMemoriam{raghavarao__damaraju:923222}
+\end{document}

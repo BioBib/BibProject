@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Tong, Yung L.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Tong, Yung L.}
+\ID{tong__yung_l}
+\AltID{tong__yung}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=200534}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:tong.yung-liang}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=41927}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/54819646}{Microsoft Academic: Tong, Yung Liang}
+
+
+\subsection*{Education}
+\Degree{1967}{Ph.D.}{University of Minnesota-Minneapolis}[On Partitioning a Set of Normal Populations by their Location with Respect to a Control Using a Single-Stage, a Two-Stage and a Sequential Procedure]<http://genealogy.math.ndsu.nodak.edu/id.php?id=41927>
+
+
+\subsection*{Honors}
+\Honor{1987}{IMS Fellow}
+\end{document}

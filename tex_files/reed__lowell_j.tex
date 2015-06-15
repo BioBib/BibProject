@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Reed, Lowell J.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Reed, Lowell J.} \Deceased
+\ID{reed__lowell_j}
+\AltID{reed__lowell}
+
+
+
+\DOB{1886-01-08}
+\DOD{1966-04-28}
+
+
+\subsection*{Profiles}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=36149}{Math. Genealogy}
+
+
+\subsection*{Education}
+\Degree{1915}{Ph.D.}{University of Pennsylvania}[Some Fundamental Systems of Formal Modular Invariants and Covariants]<http://genealogy.math.ndsu.nodak.edu/id.php?id=36149>
+
+
+\subsection*{Honors}
+\Honor{1943}{IMS Fellow}
+\end{document}

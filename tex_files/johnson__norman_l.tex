@@ -1,0 +1,87 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Johnson, Norman L.
+
+@incollection{johnson__norman_l:10,
+year={2006},
+author={Read, C. B. and Stokes, L.},
+title={{J}ohnson, {N}orman {L}loyd},
+crossref={booktitle:encyclopedia-of-statistical-sciences},
+}
+
+@misc{johnson__norman_l:25343,
+year={1983},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Sen, P. K., ed. (1983). Contributions to Statistics: Essays in Honor of Norman Lloyd Johnson. North-Holland, Amsterdam.},
+}
+
+@article{johnson__norman_l:8,
+year={2005},
+author={Jasso, G. and Kotz, S.},
+title={{N}orman {L}loyd {J}ohnson, 1917-2004},
+journal={IMS Bulletin},
+pages={9},
+volume={34(2)},
+}
+
+@misc{johnson__norman_l:577555,
+year={2005},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Jasso, G. and Kotz, S. (2005). In memoriam. International Statistical Institute Newsletter, Vol. 29(1)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Johnson, Norman L.} \Deceased
+\ID{johnson__norman_l}
+\AltID{johnson__norman}
+
+
+
+\DOB{1917-01-09}
+\DOD{2004-11-18}
+
+
+\Homepage{http://www.math.uiowa.edu/%7Enjohnson/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=193190}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:johnson.norman-lloyd}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:johnson.norman-l}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=10991}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/17917942}{Microsoft Academic: Johnson, Norman L.}
+
+
+\subsection*{Education}
+\Degree{1968}{Ph.D.}{Washington State University}[A Classification of Semi-Translation Planes]<http://genealogy.math.ndsu.nodak.edu/id.php?id=10991>
+
+
+\subsection*{Honors}
+\Honor{1956}{IMS Fellow}
+\Honor{1993}{Samuel S. Wilks Award}
+
+
+\subsection*{Biography}
+\Biography{johnson__norman_l:10}
+
+
+\subsection*{Festschrift}
+\Festschrift{johnson__norman_l:25343}
+
+
+\subsection*{Memorials}
+\InMemoriam{johnson__norman_l:8}
+\InMemoriam{johnson__norman_l:577555}
+\end{document}

@@ -1,0 +1,63 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Bartky, Walter S.
+
+@misc{bartky__walter_s:9,
+year={year?},
+author={Anonymous},
+title={{B}artky, {W}alter. {A}rchival {B}iographical {F}iles,},
+addendum={Special Collections Research Center, University of Chicago Library},
+url={http://www.lib.uchicago.edu/e/scrc/findingaids/view.php?eadid=ICU.SPCL.BARTKY},
+}
+
+@misc{bartky__walter_s:594517,
+year={1958},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Dr. Walter Bartky, U. of Chicago aide. The New York Times, Mar. 20, 1958},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Bartky, Walter S.} \Deceased
+\ID{bartky__walter_s}
+\AltID{bartky__walter}
+
+\DisplayName{Bartky, Walter}
+
+
+\DOB{1901}
+\DOD{1958-03-19}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=409629}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:bartky.walter}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=6302}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18409750}{Microsoft Academic: Bartky, Walter}
+
+
+\subsection*{Education}
+\Degree{1926}{Ph.D.}{The University of Chicago}[A Method for Computing an Ephemeris Directly from Three Observations]<http://genealogy.math.ndsu.nodak.edu/id.php?id=6302>
+
+
+\subsection*{Honors}
+\Honor{1944}{IMS Fellow}
+
+
+\subsection*{Archive}
+\Archive{bartky__walter_s:9}
+
+
+\subsection*{Obituary}
+\Obituary{bartky__walter_s:594517}
+\end{document}

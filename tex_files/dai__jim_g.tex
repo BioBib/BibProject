@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Dai, J. G. Jim
+\end{filecontents}
+
+\begin{document}
+
+\Name{Dai, J. G. Jim}
+\ID{dai__jim_g}
+\AltID{dai__jim}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=228962}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:dai.jim-g}{zbMATH}
+\Profile{http://people.orie.cornell.edu/jdai/}{Homepage}
+\Profile{http://www2.isye.gatech.edu/people/faculty/dai/dai-resume-110718.pdf}{CV}
+\Profile{http://www2.isye.gatech.edu/people/faculty/dai/publications/index.html}{Publication List}
+
+
+\subsection*{Honors}
+\Honor{2003}{IMS Fellow}{For fundamental contributions to applied probability through his work on fluid and diffusion approximations to multiclass queueing networks, and in particular for key contributions relating to the stability of such networks}
+\end{document}

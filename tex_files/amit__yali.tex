@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Amit, Yali
+\end{filecontents}
+
+\begin{document}
+
+\Name{Amit, Yali}
+\ID{amit__yali}
+
+
+
+
+\Homepage{http://galton.uchicago.edu/~amit/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:amit.yali}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/1133876}{Microsoft Academic: Yali Amit}
+
+
+\subsection*{Honors}
+\Honor{2012}{IMS Fellow}{For seminal work in statistical learning and the mathematical foundations of computational vision and neuroscience}
+\end{document}

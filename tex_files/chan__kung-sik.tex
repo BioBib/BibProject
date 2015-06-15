@@ -1,0 +1,29 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Chan, Kung-Sik
+\end{filecontents}
+
+\begin{document}
+
+\Name{Chan, Kung-Sik}
+\ID{chan__kung-sik}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:chan.kung-sik}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/52668905}{Microsoft Academic: Chan, Kung-sik}
+
+
+\subsection*{Honors}
+\Honor{2006}{IMS Fellow}{For major contributions to time-series analysis, introducing important new methodologies for inference from nonlinear time-series, and developing new theory describing properties of those techniques and of methods introduced by others}
+\end{document}

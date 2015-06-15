@@ -1,0 +1,64 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Fienberg, Stephen E.
+
+@misc{fienberg__stephen_e:413531,
+year={2012},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Biele, J. Stephen Fienberg: Applying statistics to make a difference. Amstat News, Sept. 2012, pp. 6-8},
+}
+
+@misc{fienberg__stephen_e:828756,
+year={2013},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Straf, M. L. and Tanur, J. M. (2013). A conversation with Stephen E. Fienberg. Statist. Sci., Vol. 28, pp. 447-463},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Fienberg, Stephen E.}
+\ID{fienberg__stephen_e}
+\AltID{fienberg__stephen}
+
+\DisplayName{Fienberg, Stephen}
+
+
+\Homepage{http://www.stat.cmu.edu/~fienberg/DLindex.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=66725}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:fienberg.stephen-e}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=58815}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/320510}{Microsoft Academic: Fienberg, Stephen E.}
+
+
+\subsection*{Education}
+\Degree{1968}{Ph.D.}{Harvard University}[The Estimation of Cell Probabilities in Two-Way Contingency Tables]<http://genealogy.math.ndsu.nodak.edu/id.php?id=58815>
+
+
+\subsection*{Honors}
+\Honor{1973}{IMS Fellow}
+\Honor{1982}{COPSS Presidents' Award}
+\Honor{1999}{IMS President}
+\Honor{1999}{National Academy of Sciences, Member}
+\Honor{2000}{Samuel S. Wilks Award}
+\Honor{2004}{The Royal Society of Canada, Fellow}
+\Honor{2007}{American Academy of Arts and Sciences, Fellow}
+
+
+\subsection*{Biographies}
+\Biography{fienberg__stephen_e:413531}
+\Biography{fienberg__stephen_e:828756}
+\end{document}

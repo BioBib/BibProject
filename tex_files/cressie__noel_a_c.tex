@@ -1,0 +1,53 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Cressie, Noel A. C.
+
+@article{cressie__noel_a_c:7,
+year={2009},
+author={Mulekar, M. S.},
+title={{C}{O}{P}{S}{S} {F}isher {L}ecturer: {N}oel {C}ressie},
+journal={IMS Bulletin},
+pages={4},
+volume={38(5)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Cressie, Noel A. C.}
+\ID{cressie__noel_a_c}
+\AltID{cressie__noel}
+
+
+
+\Homepage{http://www.stat.osu.edu/~ncressie/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=52735}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:cressie.noel}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:cressie.noel-a-c}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=40626}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/277530}{Microsoft Academic: Cressie, Noel}
+
+
+\subsection*{Education}
+\Degree{1975}{Ph.D.}{Princeton University}[Testing for Uniformity against a Clustering Alternative]<http://genealogy.math.ndsu.nodak.edu/id.php?id=40626>
+
+
+\subsection*{Honors}
+\Honor{1988}{IMS Fellow}
+\Honor{2009}{R. A. Fisher Lecturer}
+
+
+\subsection*{Biography}
+\Biography{cressie__noel_a_c:7}
+\end{document}

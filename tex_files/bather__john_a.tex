@@ -1,0 +1,76 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Bather, John A.
+
+@misc{bather__john_a:819410,
+year={2012},
+author={Anonymous},
+title={{P}rofessor {J}ohn {B}ather; {S}tatistician who developed mathematical tools to optimize the operations of big and complex organisations.},
+journal={The Times},
+}
+
+@misc{bather__john_a:40650,
+year={2012},
+author={Haigh, John and Goldie, Charles},
+title={{O}bituary: {J}ohn and {J}une {B}ather},
+addendum={Department of Mathematics, University of Sussex},
+url={http://www.sussex.ac.uk/internal/bulletin/staff/2012-13/140912/johnandjunebather},
+}
+
+@misc{bather__john_a:851289,
+year={2013},
+author={Haigh, J.},
+title={{J}ohn {B}ather, 1936-2012},
+journal={IMS Bulletin},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Bather, John A.} \Deceased
+\ID{bather__john_a}
+\AltID{bather__john}
+
+\DisplayName{Bather, John}
+
+
+\DOB{1936-01-20}
+\DOD{2012-09-07}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=32505}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:bather.john-a}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=79386}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/52755731}{Microsoft Academic: Bather, John}
+\Profile{http://academic.research.microsoft.com/Author/12873497}{Microsoft Academic: Bather, John A.}
+
+
+\subsection*{Education}
+\Degree{year?}{Ph.D.}{}<http://genealogy.math.ndsu.nodak.edu/id.php?id=79386>
+
+
+\subsection*{Career}
+\Position{1967-2003}{University of Sussex}{University of Sussex}
+
+
+\subsection*{Honors}
+\Honor{1975}{IMS Fellow}
+
+
+\subsection*{Obituaries}
+\Obituary{bather__john_a:819410}
+\Obituary{bather__john_a:40650}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{bather__john_a:851289}
+\end{document}

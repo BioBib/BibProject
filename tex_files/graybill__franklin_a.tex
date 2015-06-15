@@ -1,0 +1,61 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Graybill, Franklin A.
+
+@article{graybill__franklin_a:8,
+year={2012},
+author={Boes, D. and Breidt, J. and Iyer, H.},
+title={{F}ranklin {G}raybill, 1921-2012},
+journal={IMS Bulletin},
+pages={6-7},
+volume={41(3)},
+}
+
+@misc{graybill__franklin_a:478677,
+year={2013},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Boes, D. and Breidt, J. and Iyer, H. (2013). Franklin Arno Graybill (1921-2012). Amstat News, May, p. 37. Also at},
+url={http://www.stat.colostate.edu/statdepartment/statnews/stat2012graybillobit.html},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Graybill, Franklin A.} \Deceased
+\ID{graybill__franklin_a}
+\AltID{graybill__franklin}
+
+
+
+\DOB{1921-09-23}
+\DOD{2012-02-17}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=237912}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:graybill.franklin-a}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=13260}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/53936739}{Microsoft Academic: Graybill, Franklin A.}
+
+
+\subsection*{Education}
+\Degree{1952}{Ph.D.}{Iowa State University}[On Quadratic Estimates of Variance Components]<http://genealogy.math.ndsu.nodak.edu/id.php?id=13260>
+
+
+\subsection*{Honors}
+\Honor{1967}{IMS Fellow}
+
+
+\subsection*{Memorials}
+\InMemoriam{graybill__franklin_a:8}
+\InMemoriam{graybill__franklin_a:478677}
+\end{document}

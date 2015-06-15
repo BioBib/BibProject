@@ -1,0 +1,53 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Tintner, Gerhard
+
+@article{tintner__gerhard:7,
+year={1984},
+author={Anonymous},
+title={{U}ntitled},
+journal={IMS Bulletin},
+pages={92},
+volume={13},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Tintner, Gerhard} \Deceased
+\ID{tintner__gerhard}
+
+
+
+
+\DOB{1907-09-29}
+\DOD{1983-11-13}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=247524}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:tintner.gerhard}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=9428}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/42776159}{Microsoft Academic: Tintner, Gerhard}
+\Profile{http://academic.research.microsoft.com/Author/54277246}{Microsoft Academic: Huang, Weihong}
+
+
+\subsection*{Education}
+\Degree{1929}{Ph.D.}{Universit\"{a}t Wien}<http://genealogy.math.ndsu.nodak.edu/id.php?id=9428>
+
+
+\subsection*{Honors}
+\Honor{1947}{IMS Fellow}
+
+
+\subsection*{Death Notice}
+\DeathNotice{tintner__gerhard:7}
+\end{document}

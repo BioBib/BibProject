@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Samorodnitsky, Gennady
+\end{filecontents}
+
+\begin{document}
+
+\Name{Samorodnitsky, Gennady}
+\ID{samorodnitsky__gennady}
+
+
+
+
+\Homepage{http://www.orie.cornell.edu/~gennady/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=153865}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:samorodnitsky.gennady}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=73312}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12527509}{Microsoft Academic: Samorodnitsky, Gennady}
+
+
+\subsection*{Education}
+\Degree{1986}{Ph.D.}{Technion-Israel Institute of Technology}[Bounds on the Supremum Distrinution of Gaussian Processes - Metric Enthropy Approach]<http://genealogy.math.ndsu.nodak.edu/id.php?id=73312>
+
+
+\subsection*{Honors}
+\Honor{2000}{IMS Fellow}{For outstanding research and exposition on stable processes, including co-authorship of the standard reference on the subject; for outstanding research in heavy tailed modeling and for promoting its use in applications to data networks, finance and insurance; for outstanding and stimulating scholarship on the foundations of long-range dependence and Gaussian processes; and for outstanding service to the profession in the form of editorial work and conference organization}
+\end{document}

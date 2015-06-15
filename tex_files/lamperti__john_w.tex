@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Lamperti, John W.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Lamperti, John W.}
+\ID{lamperti__john_w}
+\AltID{lamperti__john}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=484050}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:lamperti.john-w}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=10357}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12607616}{Microsoft Academic: Lamperti, John}
+
+
+\subsection*{Education}
+\Degree{1957}{Ph.D.}{California Institute of Technology}[On the Asymptotic Behavior of Recurrent and "Almost Recurrent" Events]<http://genealogy.math.ndsu.nodak.edu/id.php?id=10357>
+
+
+\subsection*{Honors}
+\Honor{1970}{IMS Fellow}
+\end{document}

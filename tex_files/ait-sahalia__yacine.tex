@@ -1,0 +1,34 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Aït-Sahalia, Yacine
+\end{filecontents}
+
+\begin{document}
+
+\Name{A\"{\i}t-Sahalia, Yacine}
+\ID{ait-sahalia__yacine}
+
+
+
+
+\Homepage{http://www.princeton.edu/~yacine/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=660153}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:ait-sahalia.yacine}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/22689525}{Microsoft Academic: Yacin Ait-Sahalia}
+\Profile{http://academic.research.microsoft.com/Author/593644}{Microsoft Academic: Yacine Ait-Sahalia (Yacine A\"{\i}t-Sahalia)}
+
+
+\subsection*{Honors}
+\Honor{2004}{IMS Fellow}{For developing new statistical methods for diffusion and other stochastic processes, for identifying and opening new fields of applications of statistics including nonparametric inference and testing to the analysis and pricing of financial instruments, and for his conscientious professional service}
+\end{document}

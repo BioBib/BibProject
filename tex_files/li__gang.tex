@@ -1,0 +1,34 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Li, Gang
+\end{filecontents}
+
+\begin{document}
+
+\Name{Li, Gang}
+\ID{li__gang}
+
+
+
+
+\Homepage{http://www.surrey.ac.uk/shtm/people/gang_li/index.htm}
+\Homepage{http://www.biostat.ucla.edu/people/gangli/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:zhou.li-gang}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/10229758}{Microsoft Academic: Li, Gang}
+\Profile{http://academic.research.microsoft.com/Author/53320919}{Microsoft Academic: Li, Gang}
+
+
+\subsection*{Honors}
+\Honor{2007}{IMS Fellow}{For important contributions to research in the fields of non-parametric likelihood ratio methods for survival analysis, ROC curves, goodness-of-fit, and non-parametric/semi-parametric inference}
+\end{document}

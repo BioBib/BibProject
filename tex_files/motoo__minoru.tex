@@ -1,0 +1,31 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Motoo, Minoru
+\end{filecontents}
+
+\begin{document}
+
+\Name{Motoo, Minoru}
+\ID{motoo__minoru}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=216505}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:motoo.minoru}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/18725090}{Microsoft Academic: Motoo, Minoru}
+\Profile{http://academic.research.microsoft.com/Author/18725151}{Microsoft Academic: Motoo, Mlnoru}
+
+
+\subsection*{Honors}
+\Honor{1984}{IMS Fellow}
+\end{document}

@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Koopmans, Lambert H.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Koopmans, Lambert H.}
+\ID{koopmans__lambert_h}
+\AltID{koopmans__lambert}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=104720}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:koopmans.lambert-h}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=34361}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12765315}{Microsoft Academic: Koopmans, L. H.}
+
+
+\subsection*{Education}
+\Degree{1958}{Ph.D.}{University of California, Berkeley}[Asymptotic Rate of Discrimination for Markov Processes]<http://genealogy.math.ndsu.nodak.edu/id.php?id=34361>
+
+
+\subsection*{Honors}
+\Honor{1966}{IMS Fellow}
+\end{document}

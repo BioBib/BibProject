@@ -1,0 +1,33 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Fung, Wing-Kam
+\end{filecontents}
+
+\begin{document}
+
+\Name{Fung, Wing-Kam}
+\ID{fung__wing-kam}
+
+
+
+
+\Homepage{http://www.saasweb.hku.hk/staff/wingfung/index.php}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:fung.wing-kam}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/12820676}{Microsoft Academic: Fung, Wing-Kam}
+\Profile{http://academic.research.microsoft.com/Author/11081724}{Microsoft Academic: Fung, Wing Kam}
+
+
+\subsection*{Honors}
+\Honor{2009}{IMS Fellow}{For significant contributions to robust statistics and forensic statistics, and for leadership in Asia for statistical research and education}
+\end{document}

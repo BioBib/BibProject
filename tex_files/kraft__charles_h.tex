@@ -1,0 +1,53 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Kraft, Charles H.
+
+@article{kraft__charles_h:8,
+year={1985},
+author={Anonymous},
+title={{U}ntitled},
+journal={IMS Bulletin},
+pages={175},
+volume={14},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Kraft, Charles H.} \Deceased
+\ID{kraft__charles_h}
+\AltID{kraft__charles}
+
+
+
+\DOB{1924-03-20}
+\DOD{1985-03-17}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=106010}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:kraft.charles-h}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=32073}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/42446980}{Microsoft Academic: Charles H. Kraft}
+\Profile{http://academic.research.microsoft.com/Author/56369914}{Microsoft Academic: Charles H. Kraft}
+
+
+\subsection*{Education}
+\Degree{1954}{Ph.D.}{University of California, Berkeley}[On the Problem of Consistent and Uniformly Consistent Statistical Procedures]<http://genealogy.math.ndsu.nodak.edu/id.php?id=32073>
+
+
+\subsection*{Honors}
+\Honor{1973}{IMS Fellow}
+
+
+\subsection*{Death Notice}
+\DeathNotice{kraft__charles_h:8}
+\end{document}

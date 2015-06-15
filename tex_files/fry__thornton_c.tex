@@ -1,0 +1,54 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Fry, Thornton C.
+
+@article{fry__thornton_c:8,
+year={1991},
+author={Anonymous},
+title={{T}hornton {C}arl {F}ry, 1892-1991},
+journal={IMS Bulletin},
+pages={2},
+volume={20},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Fry, Thornton C.} \Deceased
+\ID{fry__thornton_c}
+\AltID{fry__thornton}
+
+
+
+\DOB{1892-01-07}
+\DOD{1991-01-01}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=446205}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:fry.thornton-c}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=7947}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/47825194}{Microsoft Academic: Fry, Thornton C.}
+\Profile{http://academic.research.microsoft.com/Author/42178212}{Microsoft Academic: Fry, Thornton C.}
+\Profile{http://academic.research.microsoft.com/Author/23217232}{Microsoft Academic: Fry, Thornton C.}
+
+
+\subsection*{Education}
+\Degree{1920}{Ph.D.}{University of Wisconsin-Madison}[The Application of Modern Theories of Integration to the Solution of Differential Equations]<http://genealogy.math.ndsu.nodak.edu/id.php?id=7947>
+
+
+\subsection*{Honors}
+\Honor{before 1943}{IMS Fellow}
+
+
+\subsection*{Obituary}
+\Obituary{fry__thornton_c:8}
+\end{document}

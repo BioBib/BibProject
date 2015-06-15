@@ -1,0 +1,81 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Banerjee, Kali S.
+
+@article{banerjee__k_s:8,
+year={2002},
+author={Sinha, B. K.},
+title={{K}ali {S}hankar {B}anerjee, 1914-2002},
+journal={IMS Bulletin},
+pages={10},
+volume={31(4)},
+}
+
+@misc{banerjee__k_s:304515,
+year={2002},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Sinha, B. K. (2002). Kali S. Banerjee (1914-2002). International Statistical Institute Newsletter, Vol. 26(3), p. 7},
+}
+
+@misc{banerjee__k_s:377417,
+year={2002},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Kali S. Banerjee. UDaily, University of Delaware, Jul. 17,2002},
+url={http://www.udel.edu/PR/UDaily/01-02/banerjee.html},
+}
+
+@misc{banerjee__k_s:497021,
+year={2002},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Sinha, B. K. (2002). Kali Shankar Banerjee. IMS Bulletin, Vol. 31(4), p. 10},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Banerjee, Kali S.} \Deceased
+\ID{banerjee__k_s}
+\AltID{banerjee__k}
+
+\DisplayName{Banerjee, K. S.}
+
+
+\DOB{1914-09-17}
+\DOD{2002-04-09}
+
+
+\subsection*{Profiles}
+\Profile{http://en.wikipedia.org/wiki/Kali_S._Banerjee}{Wikipedia}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=30505}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:banerjee.kali-s}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=43898}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/53010343}{Microsoft Academic: Banerjee, K. S.}
+\Profile{http://academic.research.microsoft.com/Author/54244912}{Microsoft Academic: Banerjee, Kali S.}
+\Profile{http://academic.research.microsoft.com/Author/54244911}{Microsoft Academic: Banerjee, K. S.}
+
+
+\subsection*{Education}
+\Degree{year?}{Ph.D.}{}<http://genealogy.math.ndsu.nodak.edu/id.php?id=43898>
+
+
+\subsection*{Honors}
+\Honor{1970}{IMS Fellow}
+
+
+\subsection*{Memorials}
+\InMemoriam{banerjee__k_s:8}
+\InMemoriam{banerjee__k_s:304515}
+\InMemoriam{banerjee__k_s:377417}
+\InMemoriam{banerjee__k_s:497021}
+\end{document}

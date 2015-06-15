@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Yang, Grace Lo
+\end{filecontents}
+
+\begin{document}
+
+\Name{Yang, Grace Lo}
+\ID{yang__grace_lo}
+\AltID{yang__grace}
+
+\DisplayName{Yang, Grace}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=185300}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:yang.grace-l}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=34515}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/54251558}{Microsoft Academic: Yang, Grace Lo}
+
+
+\subsection*{Education}
+\Degree{1966}{Ph.D.}{University of California, Berkeley}[Contagion in Stochastic Models for Epidemics]<http://genealogy.math.ndsu.nodak.edu/id.php?id=34515>
+
+
+\subsection*{Honors}
+\Honor{1989}{IMS Fellow}
+\end{document}

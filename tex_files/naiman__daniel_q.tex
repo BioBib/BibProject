@@ -1,0 +1,37 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Naiman, Daniel Q.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Naiman, Daniel Q.}
+\ID{naiman__daniel_q}
+\AltID{naiman__daniel}
+
+
+
+\Homepage{http://www.ccbm.jhu.edu/people/dNaiman.php}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:naiman.daniel-q}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=4017}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/1188610}{Microsoft Academic: Naiman, Daniel Q.}
+
+
+\subsection*{Education}
+\Degree{1982}{Ph.D.}{University of Illinois at Urbana-Champaign}[Optimal Simultaneous Confidence Bounds in Regression]<http://genealogy.math.ndsu.nodak.edu/id.php?id=4017>
+
+
+\subsection*{Honors}
+\Honor{1997}{IMS Fellow}
+\end{document}

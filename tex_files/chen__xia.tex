@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Chen, Xia
+\end{filecontents}
+
+\begin{document}
+
+\Name{Chen, Xia}
+\ID{chen__xia}
+
+
+
+
+\Homepage{http://www.math.utk.edu/~xchen/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:chen.xia}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/53340531}{Microsoft Academic: Chen, Xia}
+
+
+\subsection*{Honors}
+\Honor{2008}{IMS Fellow}{For contributions to the theory of ergodic Markov chains with general state space, to limit laws, and to large and moderate deviations for intersection local times}
+\end{document}

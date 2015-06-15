@@ -1,0 +1,33 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Taniguchi, Masanobu
+\end{filecontents}
+
+\begin{document}
+
+\Name{Taniguchi, Masanobu}
+\ID{taniguchi__masanobu}
+
+
+
+
+\Homepage{http://jglobal.jst.go.jp/crawler_target.php?JGLOBAL_ID=200901076664570623&amp;row24=3}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=211188}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:taniguchi.masanobu}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/2098}{Microsoft Academic: Masanobu Taniguchi (谷口正信)}
+
+
+\subsection*{Honors}
+\Honor{1987}{IMS Fellow}
+\end{document}

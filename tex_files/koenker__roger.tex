@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Koenker, Roger
+\end{filecontents}
+
+\begin{document}
+
+\Name{Koenker, Roger}
+\ID{koenker__roger}
+
+
+
+
+\Homepage{http://www.economics.illinois.edu/people/rkoenker/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:koenker.roger-w}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/1631846}{Microsoft Academic: Koenker, Roger}
+
+
+\subsection*{Honors}
+\Honor{2008}{IMS Fellow}{For contributions to statistical theory and methodology, especially regression quantiles, robustness and econometrics}
+\end{document}

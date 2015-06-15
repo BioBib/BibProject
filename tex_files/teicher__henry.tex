@@ -1,0 +1,37 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Teicher, Henry
+\end{filecontents}
+
+\begin{document}
+
+\Name{Teicher, Henry}
+\ID{teicher__henry}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=171350}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:teicher.henry}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=16931}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18092236}{Microsoft Academic: Teicher, Henry}
+\Profile{http://academic.research.microsoft.com/Author/54276409}{Microsoft Academic: Teicher, Henry}
+\Profile{http://academic.research.microsoft.com/Author/54276410}{Microsoft Academic: Teicher, Henry}
+
+
+\subsection*{Education}
+\Degree{1953}{Ph.D.}{Columbia University}[On the Factorization of Distributions]<http://genealogy.math.ndsu.nodak.edu/id.php?id=16931>
+
+
+\subsection*{Honors}
+\Honor{1968}{IMS Fellow}
+\end{document}

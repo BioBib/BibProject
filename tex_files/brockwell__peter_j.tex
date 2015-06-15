@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Brockwell, Peter J.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Brockwell, Peter J.}
+\ID{brockwell__peter_j}
+\AltID{brockwell__peter}
+
+
+
+\Homepage{http://www.stat.colostate.edu/Facultystaff/brockwell.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=41805}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:brockwell.peter-j}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=31323}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/53249956}{Microsoft Academic: Brockwell, Peter J.}
+\Profile{http://academic.research.microsoft.com/Author/2953706}{Microsoft Academic: Brockwell, Peter J.}
+
+
+\subsection*{Education}
+\Degree{1967}{Ph.D.}{Australian National University}<http://genealogy.math.ndsu.nodak.edu/id.php?id=31323>
+
+
+\subsection*{Honors}
+\Honor{1985}{IMS Fellow}
+\end{document}

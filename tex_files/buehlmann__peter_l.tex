@@ -1,0 +1,40 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Bühlmann, Peter L.
+\end{filecontents}
+
+\begin{document}
+
+\Name{B\"{u}hlmann, Peter L.}
+\ID{buehlmann__peter_l}
+\AltID{buehlmann__peter}
+
+\DisplayName{B\"{u}hlmann, Peter}
+
+
+\Homepage{http://stat.ethz.ch/~buhlmann/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=353774}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:buhlmann.peter}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=84086}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/1766159}{Microsoft Academic: Peter Buhlmann}
+
+
+\subsection*{Education}
+\Degree{1993}{Ph.D.}{Eidgen\"{o}ssische Technische Hochschule Z\"{u}rich}[The Blockwise Bootstrap in Time Series and Empirical Processes]<http://genealogy.math.ndsu.nodak.edu/id.php?id=84086>
+
+
+\subsection*{Honors}
+\Honor{2006}{IMS Fellow}{For deep contributions to the bootstrap under dependence, to time series analysis, machine learning, and applications in molecular biology}
+\Honor{2009}{IMS Medallion Lecturer}
+\end{document}

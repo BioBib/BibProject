@@ -1,0 +1,53 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Linder, Arthur
+
+@article{linder__arthur:7,
+year={1993},
+author={Anonymous},
+title={{U}ntitled},
+journal={IMS Bulletin},
+pages={216},
+volume={22},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Linder, Arthur} \Deceased
+\ID{linder__arthur}
+
+
+
+
+\DOB{1904}
+\DOD{1993-02-08}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=342477}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:linder.arthur}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=72287}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18678666}{Microsoft Academic: Linder, Arthur}
+\Profile{http://academic.research.microsoft.com/Author/55031149}{Microsoft Academic: Linder, A.}
+
+
+\subsection*{Education}
+\Degree{1934}{Dr.}{phil. Universit\"{a}t Bern}[Methoden zur Berechnung von Volkssterbetafeln]<http://genealogy.math.ndsu.nodak.edu/id.php?id=72287>
+
+
+\subsection*{Honors}
+\Honor{1965}{IMS Fellow}
+
+
+\subsection*{Death Notice}
+\DeathNotice{linder__arthur:7}
+\end{document}

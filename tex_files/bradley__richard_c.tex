@@ -1,0 +1,37 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Bradley, Richard C.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Bradley, Richard C.}
+\ID{bradley__richard_c}
+\AltID{bradley__richard}
+
+\DisplayName{Bradley, Richard}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=40810}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:bradley.richard}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:bradley.richard-c-jun}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=9731}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/52092508}{Microsoft Academic: Richard C. Bradley}
+
+
+\subsection*{Education}
+\Degree{1978}{Ph.D.}{University of California, San Diego}[Measures of Dependence on Stationary Sequences of Random Variables]<http://genealogy.math.ndsu.nodak.edu/id.php?id=9731>
+
+
+\subsection*{Honors}
+\Honor{1997}{IMS Fellow}
+\end{document}

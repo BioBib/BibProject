@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Thompson, William R.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Thompson, William R.} \Deceased
+\ID{thompson__william_r}
+\AltID{thompson__william}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=552860}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:thompson.william-r}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=42775}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/51887348}{Microsoft Academic: Thompson, William R.}
+
+
+\subsection*{Education}
+\Degree{1930}{Ph.D.}{Yale University}[On the Possible Forms of Discriminants of Algebraic Fields]<http://genealogy.math.ndsu.nodak.edu/id.php?id=42775>
+
+
+\subsection*{Honors}
+\Honor{1943}{IMS Fellow}
+\end{document}

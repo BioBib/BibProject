@@ -1,0 +1,66 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Brown, Lawrence D.
+
+@misc{brown__lawrence_d:600469,
+year={2010},
+author={Anonymous},
+title={{U}ntitled},
+addendum={(2010). Biography of Lawrence D. Brown. In Borrowing Strength: Theory Powering Applications---a Festschrift for Lawrence D. Brown (J. O. Berger, T. T. Cai, and I. M. Johnstone, eds.). Institute of Mathematical Statistics Collections, Vol. 6, pp. ix-x. Institute of Mathematical Statistics, Beachwood, OH},
+}
+
+@misc{brown__lawrence_d:539805,
+year={2010},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Berger, J. O, Cai, T. T., and Johnstone, I. M., eds. (2010). Borrowing Strength: Theory Powering Applications---a Festschrift for Lawrence D. Brown. Institute of Mathematical Collections, Vol. 6. Institute of Mathematical Statistics, Beachwood, OH, with portrait},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Brown, Lawrence D.}
+\ID{brown__lawrence_d}
+\AltID{brown__lawrence}
+
+
+
+\Homepage{http://www-stat.wharton.upenn.edu/~lbrown/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=42155}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:brown.lawrence-d}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=13280}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12537366}{Microsoft Academic: Brown, Lawrence D.}
+
+
+\subsection*{Education}
+\Degree{1964}{Ph.D.}{Cornell University}[On the Admissibility of Invariant Estimators of Location Parameters]<http://genealogy.math.ndsu.nodak.edu/id.php?id=13280>
+
+
+\subsection*{Honors}
+\Honor{1970}{IMS Fellow}
+\Honor{1985}{Wald Lecturer}
+\Honor{1990}{National Academy of Sciences, Member}
+\Honor{1993}{IMS President}
+\Honor{2002}{Samuel S. Wilks Award}
+\Honor{2006}{IMS Medallion Lecturer}
+\Honor{2013}{American Academy of Arts and Sciences, Fellow}
+
+
+\subsection*{Biography}
+\Biography{brown__lawrence_d:600469}
+
+
+\subsection*{Festschrift}
+\Festschrift{brown__lawrence_d:539805}
+\end{document}

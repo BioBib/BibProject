@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Gray, Lawrence F.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Gray, Lawrence F.}
+\ID{gray__lawrence_f}
+\AltID{gray__lawrence}
+
+
+
+\Homepage{http://www.math.umn.edu/~gray/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=76385}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:gray.lawrence-f}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=31304}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/398495}{Microsoft Academic: Gray, Lawrence F.}
+
+
+\subsection*{Education}
+\Degree{1977}{Ph.D.}{Cornell University}[Controlled Spin-Flip Systems]<http://genealogy.math.ndsu.nodak.edu/id.php?id=31304>
+
+
+\subsection*{Honors}
+\Honor{1989}{IMS Fellow}
+\end{document}

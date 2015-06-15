@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Owen, Donald B.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Owen, Donald B.} \Deceased
+\ID{owen__donald_b}
+\AltID{owen__donald}
+
+
+
+\DOB{1922-01-24}
+\DOD{1991-05-05}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:owen.donald-b}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=27998}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/55060538}{Microsoft Academic: Owen, Donald B.}
+
+
+\subsection*{Education}
+\Degree{1951}{Ph.D.}{University of Washington}[A two sample test procedure]<http://genealogy.math.ndsu.nodak.edu/id.php?id=27998>
+
+
+\subsection*{Honors}
+\Honor{1966}{IMS Fellow}
+\end{document}

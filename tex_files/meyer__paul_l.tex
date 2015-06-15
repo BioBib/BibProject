@@ -1,0 +1,51 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Meyer, Paul L.
+
+@article{meyer__paul_l:8,
+year={1971},
+author={Birnbaum, Z. W.},
+title={{I}n memory of {P}aul {L}. {M}eyer},
+journal={Ann. Math. Statist.},
+pages={847},
+volume={42},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Meyer, Paul L.} \Deceased
+\ID{meyer__paul_l}
+\AltID{meyer__paul}
+
+
+
+\DOB{1926-03-23}
+\DOD{1970-11-17}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=500024}{MathSciNet}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=69994}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18725183}{Microsoft Academic: Meyer, Paul L.}
+
+
+\subsection*{Education}
+\Degree{1955}{Ph.D.}{Stanford University}[An Application of the Invariance Principle to the Student Hypothesis]<http://genealogy.math.ndsu.nodak.edu/id.php?id=69994>
+
+
+\subsection*{Honors}
+\Honor{1968}{IMS Fellow}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{meyer__paul_l:8}
+\end{document}

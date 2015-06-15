@@ -1,0 +1,41 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Laird, Nan M.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Laird, Nan M.}
+\ID{laird__nan_m}
+\AltID{laird__nan}
+
+
+
+\Homepage{http://www.hsph.harvard.edu/faculty/nan-laird/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=109350}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:laird.nan-m}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=80964}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/106387}{Microsoft Academic: Laird, Nan}
+
+
+\subsection*{Education}
+\Degree{1975}{Ph.D.}{Harvard University}[Log-Linear Models with Random Parameters: An Empirical Bayes Approach]<http://genealogy.math.ndsu.nodak.edu/id.php?id=80964>
+
+
+\subsection*{Honors}
+\Honor{1992}{IMS Medallion Lecturer}
+\Honor{1993}{IMS Fellow}
+\Honor{2001}{F. N. David Award}
+\Honor{2011}{Samuel S. Wilks Award}
+\end{document}

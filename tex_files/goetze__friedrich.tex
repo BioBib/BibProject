@@ -1,0 +1,33 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Götze, Friedrich
+\end{filecontents}
+
+\begin{document}
+
+\Name{G\"{o}tze, Friedrich}
+\ID{goetze__friedrich}
+
+
+
+
+\Homepage{http://www.math.uni-bielefeld.de/~goetze/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:gotze.friedrich}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/12537782}{Microsoft Academic: Friedrich Gotze (Friedrich G\"{o}tze)}
+
+
+\subsection*{Honors}
+\Honor{1986}{IMS Fellow}
+\Honor{1993}{IMS Medallion Lecturer}
+\end{document}

@@ -1,0 +1,37 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Stein, Michael L.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Stein, Michael L.}
+\ID{stein__michael_l}
+\AltID{stein__michael}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=211798}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:stein.michael-l}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=52256}{Math. Genealogy}
+
+
+\subsection*{Education}
+\Degree{1984}{Ph.D.}{Stanford University}[Estimation of Spatial Variability]<http://genealogy.math.ndsu.nodak.edu/id.php?id=52256>
+
+
+\subsection*{Honors}
+\Honor{1993}{IMS Medallion Lecturer}
+\Honor{1999}{IMS Fellow}{For fundamental contributions to the theory and application of spatial processes, including efficient spatial prediction, Latin hypercube sampling, and covariance function estimation}
+\Honor{2004}{IMS Medallion Lecturer}
+\Honor{2010}{Rietz Lecturer}
+\end{document}

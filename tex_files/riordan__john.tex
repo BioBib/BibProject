@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Riordan, John
+\end{filecontents}
+
+\begin{document}
+
+\Name{Riordan, John} \Deceased
+\ID{riordan__john}
+
+
+
+
+\DOB{1903-04-22}
+\DOD{1988-08-26}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=148535}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:riordan.john-f}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:riordan.john-j}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/53229361}{Microsoft Academic: Riordan, John}
+\Profile{http://academic.research.microsoft.com/Author/53926606}{Microsoft Academic: Riordan, John}
+
+
+\subsection*{Honors}
+\Honor{1963}{IMS Fellow}
+\end{document}

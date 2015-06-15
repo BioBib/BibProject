@@ -1,0 +1,33 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Yao, Yi-Ching
+\end{filecontents}
+
+\begin{document}
+
+\Name{Yao, Yi-Ching}
+\ID{yao__yi-ching}
+
+
+
+
+\Homepage{http://stat.nccu.edu.tw/people/bio.php?PID=29}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=185385}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:yao.yi-ching}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/521794}{Microsoft Academic: Yao, Yi-ching}
+
+
+\subsection*{Honors}
+\Honor{2002}{IMS Fellow}{For his path-breaking contributions to change-point problems and outstanding work in sequential analysis, group testing, probabilistic methods in combinatorics and algorithms, and applied probability}
+\end{document}

@@ -1,0 +1,45 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Styan, George P. H.
+
+@article{styan__george_p_h:7,
+year={2003},
+author={Howell, T.},
+title={{G}eorge {S}tyan to receive {I}{M}{S} {C}arver {M}edal},
+journal={IMS Bulletin},
+pages={11},
+volume={32(4)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Styan, George P. H.}
+\ID{styan__george_p_h}
+\AltID{styan__george}
+
+\DisplayName{Styan, George}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=168510}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:styan.george-p-h}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/52573578}{Microsoft Academic: Styan, George P. H.}
+
+
+\subsection*{Honors}
+\Honor{1992}{IMS Fellow}
+\Honor{2003}{Harry C. Carver Medal}
+
+
+\subsection*{Biography}
+\Biography{styan__george_p_h:7}
+\end{document}

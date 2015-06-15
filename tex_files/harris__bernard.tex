@@ -1,0 +1,72 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Harris, Bernard
+
+@misc{harris__bernard:472702,
+year={2011},
+author={Anonymous},
+title={{U}ntitled},
+addendum={(2011). Bernard's obituary. Cress Funeral Service},
+url={http://www.cressfuneralservice.com/obituary/30887/Bernard-Harris-of-Madison/},
+}
+
+@misc{harris__bernard:130976,
+year={2011},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Bernard Harris. Amstat News, Apr. 2011, p. 35},
+}
+
+@article{harris__bernard:7,
+year={2011},
+author={Members of Harris family},
+title={{B}ernard {H}arris, 1926-2011},
+journal={IMS Bulletin},
+pages={10},
+volume={40(5)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Harris, Bernard} \Deceased
+\ID{harris__bernard}
+
+
+
+
+\DOB{1926-06-20}
+\DOD{2011-01-28}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=194874}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:harris.bernard-j}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=14452}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12738773}{Microsoft Academic: Harris, Bernard}
+
+
+\subsection*{Education}
+\Degree{1977}{Ph.D.}{Cardiff University}[Some Problems in the Theory of Linear Differential Operators]<http://genealogy.math.ndsu.nodak.edu/id.php?id=14452>
+
+
+\subsection*{Honors}
+\Honor{1975}{IMS Fellow}
+
+
+\subsection*{Obituaries}
+\Obituary{harris__bernard:472702}
+\Obituary{harris__bernard:130976}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{harris__bernard:7}
+\end{document}

@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Bhattacharya, P. K.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Bhattacharya, P. K.}
+\ID{bhattacharya__p_k}
+\AltID{bhattacharya__p}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=201477}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:bhattacharya.p-k}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=45490}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/56342515}{Microsoft Academic: Bhattacharya, P. K.}
+
+
+\subsection*{Education}
+\Degree{year?}{Ph.D.}{}<http://genealogy.math.ndsu.nodak.edu/id.php?id=45490>
+
+
+\subsection*{Honors}
+\Honor{1980}{IMS Fellow}
+\end{document}

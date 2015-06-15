@@ -1,0 +1,55 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Harris, Theodore E.
+
+@article{harris__theodore_e:8,
+year={2007},
+author={Alexander, K.},
+title={{T}ed {H}arris, 1919-2005},
+journal={IMS Bulletin},
+pages={6},
+volume={36(2)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Harris, Theodore E.} \Deceased
+\ID{harris__theodore_e}
+\AltID{harris__theodore}
+
+
+
+\DOB{1919-01-11}
+\DOD{2005-11-03}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=81640}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:harris.theodore-e}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=9745}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/53368086}{Microsoft Academic: Harris, Theodore E.}
+
+
+\subsection*{Education}
+\Degree{1947}{Ph.D.}{Princeton University}[Some Theorems on the Bernoullian Multiplicative Process]<http://genealogy.math.ndsu.nodak.edu/id.php?id=9745>
+
+
+\subsection*{Honors}
+\Honor{1951}{IMS Fellow}
+\Honor{1967}{IMS President}
+\Honor{1986}{IMS Medallion Lecturer}
+\Honor{1988}{National Academy of Sciences, Member}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{harris__theodore_e:8}
+\end{document}

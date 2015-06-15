@@ -1,0 +1,74 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Linnik, Yuri V.
+
+@incollection{linnik__yuri_v:8,
+year={2006},
+author={Aivazian, S. A. and Kagan, A. M.},
+title={{L}innik, {Y}urii {V}ladimirovitch},
+crossref={booktitle:encyclopedia-of-statistical-sciences},
+}
+
+@incollection{linnik__yuri_v:9,
+year={2008},
+author={Ibragimov, I. A.},
+title={{L}innik, {I}urii {V}ladimirovich},
+pages={561-562},
+volume={18},
+crossref={booktitle:complete-dictionary-of-scientific-biography},
+}
+
+@incollection{linnik__yuri_v:10,
+year={2008},
+author={O'Connor, J. J. and Robertson, E. F.},
+title={{Y}uri {V}ladimirovich {L}innik},
+addendum={MacTutor biography},
+url={http://www-history.mcs.st-andrews.ac.uk/Biographies/Linnik.html},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Linnik, Yuri V.} \Deceased
+\ID{linnik__yuri_v}
+\AltID{linnik__yuri}
+
+\DisplayName{Linnik, Yuri}
+
+
+\DOB{1915-01-08}
+\DOD{1972-06-30}
+
+
+\Homepage{http://en.wikipedia.org/wiki/Yuri_Linnik}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=281480}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:linnik.yuri-vladimirovitch}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=44401}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18040078}{Microsoft Academic: Linnik, Yu. V.}
+\Profile{http://academic.research.microsoft.com/Author/12403733}{Microsoft Academic: Linnik, Ju. V.}
+
+
+\subsection*{Education}
+\Degree{1940}{Ph.D.}{St. Petersburg State University}[Representation of Big Numbers by Positive Ternary Quadratic Forms]<http://genealogy.math.ndsu.nodak.edu/id.php?id=44401>
+
+
+\subsection*{Honors}
+\Honor{1965}{IMS Fellow}
+
+
+\subsection*{Biographies}
+\Biography{linnik__yuri_v:8}
+\Biography{linnik__yuri_v:9}
+\Biography{linnik__yuri_v:10}
+\end{document}

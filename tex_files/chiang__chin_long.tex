@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Chiang, Chin Long
+\end{filecontents}
+
+\begin{document}
+
+\Name{Chiang, Chin Long}
+\ID{chiang__chin_long}
+\AltID{chiang__chin}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=48245}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:chiang.chin-long}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=32307}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/54553436}{Microsoft Academic: Chiang, Chin Long}
+
+
+\subsection*{Education}
+\Degree{1954}{Ph.D.}{University of California, Berkeley}[On Regular Best Asymptotically Normal Estimates with an Application to a Stochastic Process]<http://genealogy.math.ndsu.nodak.edu/id.php?id=32307>
+
+
+\subsection*{Honors}
+\Honor{1975}{IMS Fellow}
+\end{document}

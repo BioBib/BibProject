@@ -1,0 +1,44 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Lindley, Dennis V.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Lindley, Dennis V.} \Deceased
+\ID{lindley__dennis_v}
+\AltID{lindley__dennis}
+
+
+
+\DOB{1923-07-25}
+\DOD{2013-12-14}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=114295}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:lindley.dennis-v}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=81763}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12602717}{Microsoft Academic: Lindley, Dennis V.}
+\Profile{http://en.wikipedia.org/wiki/Dennis_Lindley}{Wikipedia}
+
+
+\subsection*{Education}
+\Degree{year?}{Ph.D.}{}<http://genealogy.math.ndsu.nodak.edu/id.php?id=81763>
+
+
+\subsection*{Honors}
+\Honor{1968}{Guy Medal in Silver}
+\Honor{1982}{IMS Medallion Lecturer}
+\Honor{1988}{Wald Lecturer}
+\Honor{19??}{IMS Fellow}
+\Honor{2002}{Guy Medal in Gold}
+\end{document}

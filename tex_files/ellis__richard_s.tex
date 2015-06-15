@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Ellis, Richard S.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Ellis, Richard S.}
+\ID{ellis__richard_s}
+\AltID{ellis__richard}
+
+\DisplayName{Ellis, Richard}
+
+
+\Homepage{http://www.math.umass.edu/~rsellis/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=63040}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:ellis.richard-s}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=33264}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/52626955}{Microsoft Academic: Ellis, Richard S.}
+
+
+\subsection*{Education}
+\Degree{1972}{Ph.D.}{New York University}[Chapman-Eskog-Hilbert Expansion for Models of the Boltzman Equation]<http://genealogy.math.ndsu.nodak.edu/id.php?id=33264>
+
+
+\subsection*{Honors}
+\Honor{1999}{IMS Fellow}{For fundamental contributions to the theory of large deviations, including two research-level monographs; for outstanding research on the linearized Boltzmann equation, on correlation inequalities in statistical mechanics, and on the asymptotic analysis of Gaussian integrals and of systems in statistical mechanics, queueing theory, and turbulence}
+\end{document}

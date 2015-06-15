@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Duncan, Acheson J.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Duncan, Acheson J.} \Deceased
+\ID{duncan__acheson_j}
+\AltID{duncan__acheson}
+
+\DisplayName{Duncan, Acheson}
+
+
+\DOB{1904-09-24}
+\DOD{1995-01-07}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=60570}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:duncan.acheson-j}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/18749871}{Microsoft Academic: Duncan, Acheson J.}
+
+
+\subsection*{Honors}
+\Honor{1973}{IMS Fellow}
+\end{document}

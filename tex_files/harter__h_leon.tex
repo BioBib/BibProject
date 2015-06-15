@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Harter, H. Leon
+\end{filecontents}
+
+\begin{document}
+
+\Name{Harter, H. Leon} \Deceased
+\ID{harter__h_leon}
+\AltID{harter__h}
+
+
+
+\DOB{1919-08-15}
+\DOD{2010-03-03}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=81820}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:harter.herman-leon}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=16625}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12169213}{Microsoft Academic: Harter, H. Leon}
+
+
+\subsection*{Education}
+\Degree{1949}{Ph.D.}{Purdue University}[On The Distribution Of Wald\~{o}s Classification Statistic.]<http://genealogy.math.ndsu.nodak.edu/id.php?id=16625>
+
+
+\subsection*{Honors}
+\Honor{1972}{IMS Fellow}
+\end{document}

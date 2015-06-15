@@ -1,0 +1,61 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Johnson, Richard A.
+
+@article{johnson__richard_a:7,
+year={2008},
+author={Doksum, K. and Tsui, K.},
+title={{R}ichard {J}ohnson, {C}arver {A}ward},
+journal={IMS Bulletin},
+pages={4},
+volume={37(7)},
+}
+
+@misc{johnson__richard_a:458731,
+year={2009},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Richard A. Johnson. Amstat News, July 2009, p. 50},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Johnson, Richard A.}
+\ID{johnson__richard_a}
+\AltID{johnson__richard}
+
+\DisplayName{Johnson, Richard}
+
+
+\Homepage{http://www.stat.wisc.edu/~rich/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=95175}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:johnson.richard-a}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=61784}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/50345695}{Microsoft Academic: Johnson, Richard A.}
+
+
+\subsection*{Education}
+\Degree{1966}{Ph.D.}{University of Minnesota-Minneapolis}[Asymptotic Expansions Associated with the n-th Power of a Density]<http://genealogy.math.ndsu.nodak.edu/id.php?id=61784>
+
+
+\subsection*{Honors}
+\Honor{1977}{IMS Fellow}
+\Honor{2008}{Harry C. Carver Medal}
+
+
+\subsection*{Biographies}
+\Biography{johnson__richard_a:7}
+\Biography{johnson__richard_a:458731}
+\end{document}

@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Tiao, George C.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Tiao, George C.}
+\ID{tiao__george_c}
+\AltID{tiao__george}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=172490}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:tiao.george-c}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=52257}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/54743341}{Microsoft Academic: Tiao, George C.}
+\Profile{http://academic.research.microsoft.com/Author/242239}{Microsoft Academic: Tiao, George C.}
+
+
+\subsection*{Education}
+\Degree{1962}{Ph.D.}{University of Wisconsin-Madison}[Bayesian Assessment of Statistical Assumptions]<http://genealogy.math.ndsu.nodak.edu/id.php?id=52257>
+
+
+\subsection*{Honors}
+\Honor{1974}{IMS Fellow}
+\Honor{1981}{IMS Medallion Lecturer}
+\Honor{2001}{Samuel S. Wilks Award}
+\end{document}

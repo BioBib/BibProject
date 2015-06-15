@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Brown, Bruce M.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Brown, Bruce M.}
+\ID{brown__bruce_m}
+\AltID{brown__bruce
+
+}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=190999}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:brown.bruce-m}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/54317384}{Microsoft Academic: Brown, B. M.}
+
+
+\subsection*{Honors}
+\Honor{1989}{IMS Fellow}
+\end{document}

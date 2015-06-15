@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Young, G. Alastair
+\end{filecontents}
+
+\begin{document}
+
+\Name{Young, G. Alastair}
+\ID{young__g_alastair}
+\AltID{young__g
+
+}
+
+\DisplayName{Young, Alastair}
+
+
+\Homepage{http://www3.imperial.ac.uk/people/alastair.young}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=255675}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:young.g-alastair}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/10740556}{Microsoft Academic: Young, G. Alastair}
+
+
+\subsection*{Honors}
+\Honor{2000}{IMS Fellow}{For contributions to contemporary non-parametric methods, particularly algorithms for the bootstrap (e.g. saddlepoint methods), bootstrap methods for confidence procedures, and applications of computer algebra to resampling; and for service to the profession, for example in the roles of editor and associate editor of scholarly journals}
+\end{document}

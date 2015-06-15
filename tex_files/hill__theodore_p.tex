@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Hill, Theodore P.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Hill, Theodore P.}
+\ID{hill__theodore_p}
+\AltID{hill__theodore}
+
+
+
+\Homepage{http://digitalcommons.calpoly.edu/rgp_rsr/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=85925}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:hill.theodore-preston}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=31648}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12532210}{Microsoft Academic: Hill, Theodore P.}
+
+
+\subsection*{Education}
+\Degree{1977}{Ph.D.}{University of California, Berkeley}[On the Existence of Good Markovian Strategies]<http://genealogy.math.ndsu.nodak.edu/id.php?id=31648>
+
+
+\subsection*{Honors}
+\Honor{1999}{IMS Fellow}{For his outstanding research work in optimal stopping theory, fair-division problems, and strong limit laws; and for his international reputation as a researcher and as a lecturer}
+\end{document}

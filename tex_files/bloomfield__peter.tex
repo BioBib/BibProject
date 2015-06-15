@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Bloomfield, Peter
+\end{filecontents}
+
+\begin{document}
+
+\Name{Bloomfield, Peter}
+\ID{bloomfield__peter}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=192019}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:bloomfield.peter}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=52460}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/54586623}{Microsoft Academic: Bloomfield, Peter}
+\Profile{http://academic.research.microsoft.com/Author/54586621}{Microsoft Academic: Bloomfield, Peter}
+
+
+\subsection*{Education}
+\Degree{1970}{Ph.D.}{University of London}[Some Problems in the Spectral Analysis of Time Series with Missing Values]<http://genealogy.math.ndsu.nodak.edu/id.php?id=52460>
+
+
+\subsection*{Honors}
+\Honor{1976}{IMS Fellow}
+\end{document}

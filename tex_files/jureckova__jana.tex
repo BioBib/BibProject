@@ -1,0 +1,56 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Jurečková, Jana
+
+@misc{jureckova__jana:776641,
+year={2010},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Antoch, J., Hu\v{s}kov\'{a}, M., and Sen, P. K. (2010). Life and work of Jana Jure\v{c}kov\'{a}. In Nonparametrics and Robustness in Modern Statistical Inference and Time Series Analysis: A Festschrift for Jana Jure\v{c}kov\'{a} (J. Antoch, M. Hu\v{s}kov\'{a}, and P. K. Sen, eds.). Institute of Mathematical Statistics Collections, Vol. 7, pp. 1-11. Institute of Mathematical Statistics, Beachwood, OH},
+}
+
+@misc{jureckova__jana:348733,
+year={2010},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Antoch, J., Hu\v{s}kov\'{a}, M., and Sen, P. K., eds. (2010). Nonparametrics and Robustness in Modern Statistical Inference and Time Series Analysis: A Festschrift for Jana Jure\v{c}kov\'{a}. Institute of Mathematical Collections, Vol. 7. Institute of Mathematical Statistics, Beachwood, OH, with portrait},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Jure\v{c}kov\'{a}, Jana}
+\ID{jureckova__jana}
+
+
+
+
+\Homepage{http://www.karlin.mff.cuni.cz/~jurecko/janaus.htm}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:jureckova.jana}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/50691943}{Microsoft Academic: Jureckova Jana (Jure\v{c}kov\'{a} Jana)}
+\Profile{http://academic.research.microsoft.com/Author/12782370}{Microsoft Academic: Jana Jureckova (Jana Jure\v{c}kov\'{a})}
+\Profile{http://academic.research.microsoft.com/Author/43446772}{Microsoft Academic: Jana Jureckova (Jana Jure\v{c}kov\'{a})}
+
+
+\subsection*{Honors}
+\Honor{1980}{IMS Fellow}
+
+
+\subsection*{Biography}
+\Biography{jureckova__jana:776641}
+
+
+\subsection*{Festschrift}
+\Festschrift{jureckova__jana:348733}
+\end{document}

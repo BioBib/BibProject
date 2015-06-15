@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for West, Mike
+\end{filecontents}
+
+\begin{document}
+
+\Name{West, Mike}
+\ID{west__mike}
+
+
+
+
+\Homepage{http://www.isds.duke.edu/~mw/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=217864}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:west.mike}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=48007}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/53172}{Microsoft Academic: MIKE WEST}
+
+
+\subsection*{Education}
+\Degree{1982}{Ph.D.}{University of Nottingham}[Aspects Of Recursive Bayesian Estimation]<http://genealogy.math.ndsu.nodak.edu/id.php?id=48007>
+
+
+\subsection*{Honors}
+\Honor{1993}{IMS Fellow}
+\Honor{2000}{IMS Medallion Lecturer}
+\end{document}

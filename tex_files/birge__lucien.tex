@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Birgé, Lucien
+\end{filecontents}
+
+\begin{document}
+
+\Name{Birg\'{e}, Lucien}
+\ID{birge__lucien}
+
+
+
+
+\Homepage{http://www.proba.jussieu.fr/pageperso/birge/birge.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=37135}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:birge.lucien}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/3693593}{Microsoft Academic: Lucien Birge (Lucien Birg\'{e})}
+\Profile{http://academic.research.microsoft.com/Author/12761269}{Microsoft Academic: Lucien Birge (Lucien Birg\'{e})}
+\Profile{http://academic.research.microsoft.com/Author/44806043}{Microsoft Academic: L. Birge}
+
+
+\subsection*{Honors}
+\Honor{1993}{IMS Medallion Lecturer}
+\Honor{1996}{IMS Fellow}
+\end{document}

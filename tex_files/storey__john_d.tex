@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Storey, John D.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Storey, John D.}
+\ID{storey__john_d}
+\AltID{storey__john}
+
+
+
+\Homepage{http://www.molbio.princeton.edu/index.php?option=content&amp;task=view&amp;id=405}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:storey.john-d}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/935381}{Microsoft Academic: Storey, John D.}
+
+
+\subsection*{Honors}
+\Honor{2012}{IMS Fellow}{For contributions to the theory and methods of large-scale statistical inference, and its applications to genomics}
+\end{document}

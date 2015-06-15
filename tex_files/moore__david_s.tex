@@ -1,0 +1,34 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Moore, David S.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Moore, David S.}
+\ID{moore__david_s}
+\AltID{moore__david}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=126685}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:moore.david-s}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=88410}{Math. Genealogy}
+
+
+\subsection*{Education}
+\Degree{1967}{Ph.D.}{Cornell University}[Topics in Asymptotic Estimation Using Order Statistics]<http://genealogy.math.ndsu.nodak.edu/id.php?id=88410>
+
+
+\subsection*{Honors}
+\Honor{1982}{IMS Fellow}
+\end{document}

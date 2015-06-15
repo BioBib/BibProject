@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Syski, Ryszard
+\end{filecontents}
+
+\begin{document}
+
+\Name{Syski, Ryszard} \Deceased
+\ID{syski__ryszard}
+
+
+
+
+\DOB{1924-04-08}
+\DOD{2007-06-11}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:syski.ryszard}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=42047}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/51705026}{Microsoft Academic: Syski, R.}
+
+
+\subsection*{Education}
+\Degree{1961}{Ph.D.}{University of London}[Stochastic Process in Banach Space and its Applications to Congestion Theory]<http://genealogy.math.ndsu.nodak.edu/id.php?id=42047>
+
+
+\subsection*{Honors}
+\Honor{1973}{IMS Fellow}
+\end{document}

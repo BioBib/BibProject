@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Genton, Marc G.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Genton, Marc G.}
+\ID{genton__marc_g}
+\AltID{genton__marc
+
+}
+
+\DisplayName{Genton, Marc}
+
+
+\Homepage{http://iamcs.tamu.edu/Marc_Genton-21.html}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:genton.marc-g}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/20130}{Microsoft Academic: Genton, Marc G.}
+
+
+\subsection*{Honors}
+\Honor{2010}{IMS Fellow}{For contributions to spatial statistics with applications to environmental sciences, for construction of and inference from skew-elliptical distributions, and for editorial and leadership services}
+\end{document}

@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Székely, Gábor J.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Sz\'{e}kely, G\'{a}bor J.}
+\ID{szekely__gabor_j}
+\AltID{szekely__gabor
+
+}
+
+\DisplayName{Sz\'{e}kely, G\'{a}bor}
+
+
+\Homepage{http://www.vision.ee.ethz.ch/members/get_member.cgi?id=3}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:szekely.gabor-j}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/828845}{Microsoft Academic: G\'{a}bor Sz\'{e}kely}
+
+
+\subsection*{Honors}
+\Honor{1988}{Rollo Davidson Prize}
+\Honor{2010}{IMS Fellow}{For his theorems on factorization of characteristic functions, for the deep stochastics underlying his empirical distance that tests independence, and for his organizational and administrative leadership}
+\end{document}

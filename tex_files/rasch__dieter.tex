@@ -1,0 +1,30 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Rasch, Dieter
+\end{filecontents}
+
+\begin{document}
+
+\Name{Rasch, Dieter}
+\ID{rasch__dieter}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=145050}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:rasch.dieter}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:rasch.dieter-a-m-k}{zbMATH}
+
+
+\subsection*{Honors}
+\Honor{1991}{IMS Fellow}
+\end{document}

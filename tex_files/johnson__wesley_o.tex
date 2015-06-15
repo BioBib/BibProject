@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Johnson, Wesley O.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Johnson, Wesley O.}
+\ID{johnson__wesley_o}
+\AltID{johnson__wesley}
+
+
+
+\Homepage{http://www.stat.ucdavis.edu/~johnson/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:johnson.wesley-orin}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/12525310}{Microsoft Academic: Johnson, Wesley O.}
+
+
+\subsection*{Honors}
+\Honor{2011}{IMS Fellow}{For world-class contributions in various areas of statistical methodology and applications, including the topics of influential observations, diagnostic screening tests, asymptotics and Bayesian nonparametric survival analysis; and for authoritative editorial service}
+\end{document}

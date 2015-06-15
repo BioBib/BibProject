@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Winsor, Charles P.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Winsor, Charles P.} \Deceased
+\ID{winsor__charles_p}
+\AltID{winsor__charles}
+
+
+
+\DOB{1895}
+\DOD{1951-04-04}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=566248}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:winsor.charles-p}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=89313}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/47414584}{Microsoft Academic: C. P. Winsor}
+
+
+\subsection*{Education}
+\Degree{1935}{Ph.D.}{Harvard University}[The Relations of Density of Population to Growth and Reproduction in Pond Snails of the Genus Lymnaea]<http://genealogy.math.ndsu.nodak.edu/id.php?id=89313>
+
+
+\subsection*{Honors}
+\Honor{1947}{IMS Fellow}
+\end{document}

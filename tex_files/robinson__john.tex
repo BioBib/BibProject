@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Robinson, John
+\end{filecontents}
+
+\begin{document}
+
+\Name{Robinson, John}
+\ID{robinson__john}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:robinson.john-e}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:robinson.john-t}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:robinson.john-alan}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:robinson.john-s}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:robinson.john-p}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:robinson.john-w-c}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=34005}{Math. Genealogy}
+
+
+\subsection*{Education}
+\Degree{2005}{Ph.D.}{The Johns Hopkins University}[A Hierarchical Multivariate Two-Part Model for Profiling Providers' Effects on Healthcare Charges]<http://genealogy.math.ndsu.nodak.edu/id.php?id=34005>
+
+
+\subsection*{Honors}
+\Honor{1990}{IMS Fellow}
+\end{document}

@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Chan, Ngai Hang
+\end{filecontents}
+
+\begin{document}
+
+\Name{Chan, Ngai Hang}
+\ID{chan__ngai_h}
+\AltID{chan__ngai}
+
+
+
+\Homepage{http://www.stat.cmu.edu/GSS/chan.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=47200}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:chan.ngai-hang}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=55093}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12752715}{Microsoft Academic: Chan, Ngai Hang}
+\Profile{http://academic.research.microsoft.com/Author/23007503}{Microsoft Academic: Chan, Ngai-Hang}
+
+
+\subsection*{Education}
+\Degree{1985}{Ph.D.}{University of Maryland College Park}[Asymptotic Inference of Nonstationary Autore-gressive Processes]<http://genealogy.math.ndsu.nodak.edu/id.php?id=55093>
+
+
+\subsection*{Honors}
+\Honor{2002}{IMS Fellow}{For path breaking contributions to the study of unstable time series, for applications of time series to economics and finance, and for the development of statistical programs in computational finance and risk management}
+\end{document}

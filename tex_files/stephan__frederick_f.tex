@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Stephan, Frederick F.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Stephan, Frederick F.} \Deceased
+\ID{stephan__frederick_f}
+\AltID{stephan__frederick}
+
+
+
+\DOB{1903-05-17}
+\DOD{1971-08-02}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=544896}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:stephan.frederick-f}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/53564314}{Microsoft Academic: Frederick F. Stephan}
+\Profile{http://academic.research.microsoft.com/Author/56921575}{Microsoft Academic: Frederick F. Stephan}
+
+
+\subsection*{Honors}
+\Honor{1943}{IMS Fellow}
+\end{document}

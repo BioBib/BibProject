@@ -1,0 +1,30 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Kudo, Hirokichi
+\end{filecontents}
+
+\begin{document}
+
+\Name{Kudo, Hirokichi}
+\ID{kudo__hirokichi}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=306700}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:kudo.hirokichi}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/18768080}{Microsoft Academic: Kudo, Hirokichi}
+
+
+\subsection*{Honors}
+\Honor{1968}{IMS Fellow}
+\end{document}

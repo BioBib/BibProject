@@ -1,0 +1,70 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Wold, Herman O. A.
+
+@incollection{wold__herman_o_a:11,
+year={2006},
+author={Anonymous},
+title={{U}ntitled},
+year={2006},
+crossref={booktitle:encyclopedia-of-statistical-sciences},
+}
+
+@article{wold__herman_o_a:9,
+year={1993},
+author={Anderson, T. W.},
+title={{H}erman {O}le {A}ndreas {W}old, 1908-1992},
+journal={IMS Bulletin},
+pages={376-377},
+volume={22},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Wold, Herman O. A.} \Deceased
+\ID{wold__herman_o_a}
+\AltID{wold__herman}
+
+\DisplayName{Wold, Herman}
+
+
+\DOB{1908-12-25}
+\DOD{1992-02-16}
+
+
+\Homepage{http://de.wikipedia.org/wiki/Herman_Wold}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=189884}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:wold.herman-o-a}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:wold.herman}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=44712}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/34120332}{Microsoft Academic: Wold, Herman O. A.}
+
+
+\subsection*{Education}
+\Degree{1938}{Ph.D.}{Stockholm University}[A Study in the Analysis of Stationary Time Series]<http://genealogy.math.ndsu.nodak.edu/id.php?id=44712>
+
+
+\subsection*{Honors}
+\Honor{1946}{IMS Fellow}
+\Honor{1978}{American Academy of Arts and Sciences, Foreign Honorary Member}
+
+
+\subsection*{Biography}
+\Biography{wold__herman_o_a:11}
+
+
+\subsection*{Obituary}
+\Obituary{wold__herman_o_a:9}
+\end{document}

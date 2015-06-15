@@ -1,0 +1,51 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Arnold, Kenneth J.
+
+@misc{arnold__kenneth_j:8,
+year={2010},
+author={Anonymous},
+title={{U}ntitled},
+addendum={News, Michigan State University, Aug. 2, 2010},
+url={http://news.msu.edu/news/results.php?page=4&keyword_search=died&keyword_action=exact_phrase&perPage=50},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Arnold, Kenneth J.} \Deceased
+\ID{arnold__kenneth_j}
+\AltID{arnold__kenneth}
+
+\DisplayName{Arnold, Kenneth}
+
+
+\DOB{1914-08-20}
+\DOD{2010-07-17}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=405249}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:arnold.kenneth-j}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=42991}{Math. Genealogy}
+
+
+\subsection*{Education}
+\Degree{1941}{Ph.D.}{Massachusetts Institute of Technology}[On Spherical Probability Distributions]<http://genealogy.math.ndsu.nodak.edu/id.php?id=42991>
+
+
+\subsection*{Honors}
+\Honor{1955}{IMS Fellow}
+
+
+\subsection*{Death Notice}
+\DeathNotice{arnold__kenneth_j:8}
+\end{document}

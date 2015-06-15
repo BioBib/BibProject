@@ -1,0 +1,41 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Billard, Lynne
+\end{filecontents}
+
+\begin{document}
+
+\Name{Billard, Lynne}
+\ID{billard__lynne}
+
+
+
+
+\Homepage{http://www.stat.uga.edu/people/faculty/lynne-billard}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=202181}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:billard.lynne}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=64548}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12553996}{Microsoft Academic: Billard, Lynne}
+
+
+\subsection*{Education}
+\Degree{year?}{Ph.D.}{}<http://genealogy.math.ndsu.nodak.edu/id.php?id=64548>
+
+
+\subsection*{Honors}
+\Honor{1988}{IMS Fellow}
+\Honor{1999}{Samuel S. Wilks Award}
+\Honor{2008}{Elizabeth L. Scott Award}
+\Honor{2013}{F. N. David Award}
+\end{document}

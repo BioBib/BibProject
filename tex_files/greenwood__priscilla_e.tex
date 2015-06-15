@@ -1,0 +1,55 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Greenwood, Priscilla E.
+
+@book{greenwood__priscilla_e-1,
+year={2008},
+author={Nick H. Bingham and Igor Evstigneev},
+title={{F}estschrift for {P}riscilla {G}reenwood},
+addendum={Stochastics Vol. 80 Numbers 2-3},
+url={http://dx.doi.org/10.1080/17442500801886176},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Greenwood, Priscilla E.}
+\ID{greenwood__priscilla_e}
+\AltID{greenwood__priscilla}
+
+\DisplayName{Greenwood, Priscilla}
+
+
+\Homepage{http://www.stat.ubc.ca/~pgreenw/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=76690}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:greenwood.priscilla-e}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=8409}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12543615}{Microsoft Academic: Greenwood, Priscilla E.}
+\Profile{http://academic.research.microsoft.com/Author/54382472}{Microsoft Academic: Greenwood, Priscilla E.}
+\Profile{http://www.stat.ubc.ca/~pgreenw/cv/index.html}{CV}
+\Profile{http://www.stat.ubc.ca/~pgreenw/publications/index.html}{Publication List}
+\Profile{http://www.stat.ubc.ca/~pgreenw/books/index.html}{Books List}
+
+
+\subsection*{Education}
+\Degree{1963}{Ph.D.}{University of Wisconsin-Madison}[The Convolution Equation Over a Compact Real Interval for Some Special Kernels]<http://genealogy.math.ndsu.nodak.edu/id.php?id=8409>
+
+
+\subsection*{Honors}
+\Honor{1985}{IMS Fellow}
+
+
+\subsection*{Festschrift}
+\Festschrift{greenwood__priscilla_e-1}
+\end{document}

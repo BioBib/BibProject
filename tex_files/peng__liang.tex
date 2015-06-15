@@ -1,0 +1,28 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Peng, Liang
+\end{filecontents}
+
+\begin{document}
+
+\Name{Peng, Liang}
+\ID{peng__liang}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:peng.liang}{zbMATH}
+
+
+\subsection*{Honors}
+\Honor{2009}{IMS Fellow}{For innovative contributions to extreme value theory and heavy-tailed data analysis, and for dedicated editorial service}
+\end{document}

@@ -1,0 +1,40 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for McKeague, Ian W.
+\end{filecontents}
+
+\begin{document}
+
+\Name{McKeague, Ian W.}
+\ID{mckeague__ian_w}
+\AltID{mckeague__ian}
+
+\DisplayName{McKeague, Ian}
+
+
+\Homepage{http://www.columbia.edu/~im2131/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=122500}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:mckeague.ian-w}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=51900}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/54950084}{Microsoft Academic: McKeague, Ian W.}
+\Profile{http://academic.research.microsoft.com/Author/12525795}{Microsoft Academic: McKeague, Ian W.}
+
+
+\subsection*{Education}
+\Degree{1980}{Ph.D.}{The University of North Carolina at Chapel Hill}[Covariance Operators and Their Applications in Probability and Information Theory]<http://genealogy.math.ndsu.nodak.edu/id.php?id=51900>
+
+
+\subsection*{Honors}
+\Honor{1995}{IMS Fellow}
+\end{document}

@@ -1,0 +1,40 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Jenkins, Gwilym M.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Jenkins, Gwilym M.} \Deceased
+\ID{jenkins__gwilym_m}
+\AltID{jenkins__gwilym}
+
+
+
+\DOB{1933}
+\DOD{1982-07-10}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=94275}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:jenkins.gwilym-m}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=42256}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/36389974}{Microsoft Academic: Jenkins, Gwilym M.}
+\Profile{http://academic.research.microsoft.com/Author/54729051}{Microsoft Academic: Jenkins, G. M.}
+
+
+\subsection*{Education}
+\Degree{1956}{Ph.D.}{University of London}[Some Aspects of Distribution Theory in Time-Series Analysis]<http://genealogy.math.ndsu.nodak.edu/id.php?id=42256>
+
+
+\subsection*{Honors}
+\Honor{19??}{IMS Fellow}
+\end{document}

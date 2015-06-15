@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Dykstra, Richard L.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Dykstra, Richard L.}
+\ID{dykstra__richard_l}
+\AltID{dykstra__richard}
+
+\DisplayName{Dykstra, Richard}
+
+
+\Homepage{http://www.stat.uiowa.edu/~dykstra/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=61215}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:dykstra.richard-l}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=23793}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/889250}{Microsoft Academic: Dykstra, Richard L.}
+
+
+\subsection*{Education}
+\Degree{1968}{Ph.D.}{University of Iowa}[Characterization of Conditional Expectation with Respect to a Sigma-Lattice]<http://genealogy.math.ndsu.nodak.edu/id.php?id=23793>
+
+
+\subsection*{Honors}
+\Honor{1985}{IMS Fellow}
+\end{document}

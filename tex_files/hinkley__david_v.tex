@@ -1,0 +1,41 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Hinkley, David V.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Hinkley, David V.}
+\ID{hinkley__david_v}
+\AltID{hinkley__david}
+
+\DisplayName{Hinkley, David}
+
+
+\Homepage{http://en.wikipedia.org/wiki/D._V._Hinkley}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=86145}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:hinkley.david-v}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=45589}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12757261}{Microsoft Academic: Hinkley, David V.}
+
+
+\subsection*{Education}
+\Degree{1969}{Ph.D.}{University of London}<http://genealogy.math.ndsu.nodak.edu/id.php?id=45589>
+
+
+\subsection*{Honors}
+\Honor{1975}{IMS Fellow}
+\Honor{1980}{IMS Medallion Lecturer}
+\Honor{1984}{COPSS Presidents' Award}
+\end{document}

@@ -1,0 +1,52 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Utts, Jessica M.
+
+@article{utts__jessica_m:6,
+year={2005},
+author={Harkness, W.},
+title={{J}essica {U}tts: {C}arver {M}edal recipient 2005},
+journal={IMS Bulletin},
+pages={4},
+volume={34(9)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Utts, Jessica M.}
+\ID{utts__jessica_m}
+\AltID{utts__jessica}
+
+\DisplayName{Utts, Jessica}
+
+
+\Homepage{http://anson.ucdavis.edu/~utts/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:utts.jessica-m}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=99452}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/23452149}{Microsoft Academic: Utts, Jessica M.}
+
+
+\subsection*{Education}
+\Degree{1978}{Ph.D.}{The Pennsylvania State University}[A Robust Class of Tests and Estimates for Multivariate Location Based on Ranks]<http://genealogy.math.ndsu.nodak.edu/id.php?id=99452>
+
+
+\subsection*{Honors}
+\Honor{1991}{IMS Fellow}
+\Honor{2005}{Harry C. Carver Medal}
+
+
+\subsection*{Biography}
+\Biography{utts__jessica_m:6}
+\end{document}

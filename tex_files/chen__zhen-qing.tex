@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Chen, Zhen-Qing
+\end{filecontents}
+
+\begin{document}
+
+\Name{Chen, Zhen-Qing}
+\ID{chen__zhen-qing}
+
+
+
+
+\Homepage{http://www.math.washington.edu/~zchen/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:chen.zhen-qing}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/978228}{Microsoft Academic: Chen, Zhen-Qing}
+
+
+\subsection*{Honors}
+\Honor{2007}{IMS Fellow}{For research on the Dirichlet form approach to Markov processes, reflected Brownian motion, stable processes, and for editorial services for the IMS affiliated journals}
+\end{document}

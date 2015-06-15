@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Mason, David M.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Mason, David M.}
+\ID{mason__david_m}
+\AltID{mason__david}
+
+
+
+\Homepage{http://ag.udel.edu/frec/faculty/mason.htm}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=120985}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:mason.david-m}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=67047}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/515047}{Microsoft Academic: Mason, David M.}
+
+
+\subsection*{Education}
+\Degree{2002}{Ph.D.}{University of Waterloo}[Probabilistic Program Analysis for Software Component Reliability]<http://genealogy.math.ndsu.nodak.edu/id.php?id=67047>
+
+
+\subsection*{Honors}
+\Honor{1984}{IMS Fellow}
+\end{document}

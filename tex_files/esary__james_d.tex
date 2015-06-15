@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Esary, James D.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Esary, James D.} \Deceased
+\ID{esary__james_d}
+\AltID{esary__james}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=440304}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:esary.james-d}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=34510}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/22846704}{Microsoft Academic: Esary, James D.}
+
+
+\subsection*{Education}
+\Degree{1957}{Ph.D.}{University of California, Berkeley}[A Stochastic Theory of Accident Survival and Fatality]<http://genealogy.math.ndsu.nodak.edu/id.php?id=34510>
+
+
+\subsection*{Honors}
+\Honor{1973}{IMS Fellow}
+\end{document}

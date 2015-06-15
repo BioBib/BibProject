@@ -1,0 +1,40 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Berk, Robert H.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Berk, Robert H.}
+\ID{berk__robert_h}
+\AltID{berk__robert}
+
+\DisplayName{Berk, Robert}
+
+
+\Homepage{http://www.stat.rutgers.edu/people/faculty/cv/berkcv.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=35370}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:berk.robert-h}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=7577}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12759618}{Microsoft Academic: Berk, Robert H.}
+
+
+\subsection*{Education}
+\Degree{1964}{Ph.D.}{Harvard University}[Asymptotic Properties of Sequential Probability Ratio Tests]<http://genealogy.math.ndsu.nodak.edu/id.php?id=7577>
+
+
+\subsection*{Honors}
+\Honor{1970}{IMS Fellow}
+\Honor{1985}{IMS Medallion Lecturer}
+\end{document}

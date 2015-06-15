@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Hwang, J. T. Gene
+\end{filecontents}
+
+\begin{document}
+
+\Name{Hwang, J. T. Gene}
+\ID{hwang__j_t_gene}
+\AltID{hwang__j_t}
+
+\AltName{Jiunn Tzon Hwang}
+
+\Homepage{http://www.math.cornell.edu/~hwang/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:hwang.j-t-gene}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=68617}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/3494767}{Microsoft Academic: Hwang, J. T. Gene}
+\Profile{http://www.math.cornell.edu/~hwang/}{Homepage}
+\Profile{http://www.math.cornell.edu/~hwang/publications.html}{Publication List}
+
+
+\subsection*{Education}
+\Degree{1979}{Ph.D.}{Purdue University}[Improving Upon Inadmissible Estimators in Discrete Exponential Families]<http://genealogy.math.ndsu.nodak.edu/id.php?id=68617>
+
+
+\subsection*{Honors}
+\Honor{1988}{IMS Fellow}
+\end{document}

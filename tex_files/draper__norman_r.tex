@@ -1,0 +1,41 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Draper, Norman R.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Draper, Norman R.}
+\ID{draper__norman_r}
+\AltID{draper__norman}
+
+\DisplayName{Draper, Norman}
+
+
+\Homepage{http://pages.cs.wisc.edu/~draper/}
+\Homepage{http://www.stat.wisc.edu/~draper/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=59660}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:draper.norman-r}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=47287}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12394866}{Microsoft Academic: Norman R. Draper}
+\Profile{http://academic.research.microsoft.com/Author/52663813}{Microsoft Academic: Norman R. Draper}
+
+
+\subsection*{Education}
+\Degree{1958}{Ph.D.}{The University of North Carolina at Chapel Hill}[Investigation of Response Surface Designs]<http://genealogy.math.ndsu.nodak.edu/id.php?id=47287>
+
+
+\subsection*{Honors}
+\Honor{1972}{IMS Fellow}
+\end{document}

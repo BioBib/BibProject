@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Masuyama, Motosaburo
+\end{filecontents}
+
+\begin{document}
+
+\Name{Masuyama, Motosaburo} \Deceased
+\ID{masuyama__motosaburo}
+
+
+
+
+\DOB{1912}
+\DOD{2005-07-03}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=121150}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:masuyama.motosaburo}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/54092856}{Microsoft Academic: Masuyama, M.}
+\Profile{http://academic.research.microsoft.com/Author/18635619}{Microsoft Academic: Masuyama, M.}
+
+
+\subsection*{Honors}
+\Honor{1966}{IMS Fellow}
+\end{document}

@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Fisz, Marek
+\end{filecontents}
+
+\begin{document}
+
+\Name{Fisz, Marek} \Deceased
+\ID{fisz__marek}
+
+
+
+
+\DOB{1910-01-15}
+\DOD{1963-11-04}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=257656}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:fisz.marek}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=36991}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18660934}{Microsoft Academic: Fisz, Marek}
+
+
+\subsection*{Education}
+\Degree{1950}{Ph.D.}{Politechnika Wroc\&\#322;awska}[Quality Control of Mass Production by Variables]<http://genealogy.math.ndsu.nodak.edu/id.php?id=36991>
+
+
+\subsection*{Honors}
+\Honor{1959}{IMS Fellow}
+\end{document}

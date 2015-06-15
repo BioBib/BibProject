@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Zeng, Donglin
+\end{filecontents}
+
+\begin{document}
+
+\Name{Zeng, Donglin}
+\ID{zeng__donglin}
+
+
+
+
+\Homepage{http://www.bios.unc.edu/~dzeng/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:zeng.donglin}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/13025705}{Microsoft Academic: Zeng, Donglin}
+
+
+\subsection*{Honors}
+\Honor{2010}{IMS Fellow}{For research on survival analysis with dependent censoring, on asymptotic theory for joint modeling of longitudinal and survival data, and on haplotype-based analysis of genetic data}
+\end{document}

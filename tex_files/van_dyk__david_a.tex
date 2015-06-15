@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for van Dyk, David A.
+\end{filecontents}
+
+\begin{document}
+
+\Name{van Dyk, David A.}
+\ID{van_dyk__david_a}
+\AltID{van_dyk__david
+
+}
+
+\DisplayName{van Dyk, David}
+
+
+\Homepage{http://www.ics.uci.edu/~dvd/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:van-dyk.david-a}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/12759941}{Microsoft Academic: David A. van Dyk}
+
+
+\subsection*{Honors}
+\Honor{2010}{IMS Fellow}{For contributions to EM-type algorithms, MCMC methods, Bayesian computations, and applications in astrophysics, and for organizational and editorial leadership in astrostatistics}
+\end{document}

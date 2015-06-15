@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Fishburn, Peter C.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Fishburn, Peter C.}
+\ID{fishburn__peter_c}
+\AltID{fishburn__peter
+
+}
+
+\DisplayName{Fishburn, Peter}
+
+
+\Homepage{http://en.wikipedia.org/wiki/Peter_C._Fishburn}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=67200}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:fishburn.peter-c}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/1337759}{Microsoft Academic: Fishburn, Peter C.}
+\Profile{http://academic.research.microsoft.com/Author/47825780}{Microsoft Academic: Fishburn, Peter C.}
+\Profile{http://academic.research.microsoft.com/Author/54474459}{Microsoft Academic: Fishburn, Peter C.}
+
+
+\subsection*{Honors}
+\Honor{1984}{IMS Fellow}
+\Honor{1996}{John von Neumann Theory Prize}
+\end{document}

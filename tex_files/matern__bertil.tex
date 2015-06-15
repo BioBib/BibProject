@@ -1,0 +1,30 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Matérn, Bertil
+\end{filecontents}
+
+\begin{document}
+
+\Name{Mat\'{e}rn, Bertil}
+\ID{matern__bertil}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=204663}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:matern.bertil}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/28205051}{Microsoft Academic: BERTIL MATERN (BERTIL MAT\'{E}RN)}
+
+
+\subsection*{Honors}
+\Honor{1975}{IMS Fellow}
+\end{document}

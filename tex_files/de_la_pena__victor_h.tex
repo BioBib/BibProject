@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for de la Peña, Victor H.
+\end{filecontents}
+
+\begin{document}
+
+\Name{de la Pe\~{n}a, Victor H.}
+\ID{de_la_pena__victor_h}
+\AltID{de_la_pena__victor}
+
+\DisplayName{de la Pe\~{n}a, Victor}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:de-la-pena.victor-h}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=34505}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/1073577}{Microsoft Academic: Victor H. de la Pena (Victor H. de la Pe\~{n}a)}
+
+
+\subsection*{Education}
+\Degree{1988}{Ph.D.}{University of California, Berkeley}[L-Bounds for Best Possible Type for Martingales, Degenerate U-Statistics, and Certain Linear Forms]<http://genealogy.math.ndsu.nodak.edu/id.php?id=34505>
+
+
+\subsection*{Honors}
+\Honor{1999}{IMS Fellow}{For basic contributions to the general theory of dependent random variables through the development of decoupling inequalities and their applications to martingale theory, sequential analysis, U-statistics and exponential inequalities}
+\Honor{2007}{IMS Medallion Lecturer}
+\end{document}

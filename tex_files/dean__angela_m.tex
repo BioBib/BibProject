@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Dean, Angela M.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Dean, Angela M.}
+\ID{dean__angela_m}
+\AltID{dean__angela}
+
+\DisplayName{Dean, Angela}
+
+
+\Homepage{http://www.stat.osu.edu/~amd/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=217809}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:dean.angela-m}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=48090}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12845318}{Microsoft Academic: Dean, Angela M.}
+
+
+\subsection*{Education}
+\Degree{1975}{Ph.D.}{University of Southampton}<http://genealogy.math.ndsu.nodak.edu/id.php?id=48090>
+
+
+\subsection*{Honors}
+\Honor{2002}{IMS Fellow}{For outstanding contributions to research and education in the design and analysis of experiments and service to the profession}
+\end{document}

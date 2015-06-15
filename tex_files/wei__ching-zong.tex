@@ -1,0 +1,77 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Wei, Ching-Zong
+
+@misc{wei__ching-zong:506354,
+year={2006},
+author={Anonymous},
+title={{U}ntitled},
+addendum={(2006). Biographical sketch. In Time Series and Related Topics: In Memory of Ching-Zong Wei (H.-C. Ho, C.-K. Ing, and T. L. Lai, eds.). Lecture Notes-Monograph Series, Vol. 52, p. ix. Institute of Mathematical Statistics, Beachwood, OH},
+url={http://www.jstor.org/stable/20461423},
+}
+
+@article{wei__ching-zong:7,
+year={2005},
+author={Cheng, C.-S. and Yao, Y.-C.},
+title={{C}hing-{Z}ong {W}ei, 1949-2004},
+journal={IMS Bulletin},
+pages={3},
+volume={34(4)},
+}
+
+@misc{wei__ching-zong:452365,
+year={2006},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Ho, H.-C., Ing, C.-K., and Lai, T. L., eds. (2006). Time Series and Related Topics: In Memory of Ching-Zong Wei. Lecture Notes-Monograph Series, Vol. 52. Institute of Mathematical Statistics, Beachwood, OH, with photographs},
+url={http://www.jstor.org/stable/i20461420},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Wei, Ching-Zong} \Deceased
+\ID{wei__ching-zong}
+
+
+
+
+\DOB{1949-08-15}
+\DOD{2004-11-18}
+
+
+\Homepage{http://www.hnweishi.cn/wsmr/ShowArticle.asp?ArticleID=310}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=181300}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:wei.ching-zong}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=42622}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/53416975}{Microsoft Academic: Wei, Ching Zong}
+\Profile{http://academic.research.microsoft.com/Author/251331}{Microsoft Academic: Wei, Ching-zong}
+
+
+\subsection*{Education}
+\Degree{1980}{Ph.D.}{Columbia University}[Limit Theorems for Weighted Sums with Applications to Regression and Time Series Models]<http://genealogy.math.ndsu.nodak.edu/id.php?id=42622>
+
+
+\subsection*{Honors}
+\Honor{1989}{IMS Fellow}
+
+
+\subsection*{Biography}
+\Biography{wei__ching-zong:506354}
+
+
+\subsection*{Memorials}
+\InMemoriam{wei__ching-zong:7}
+\InMemoriam{wei__ching-zong:452365}
+\end{document}

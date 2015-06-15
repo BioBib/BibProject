@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Huber, Peter J.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Huber, Peter J.}
+\ID{huber__peter_j}
+\AltID{huber__peter}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=89280}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:huber.peter-j}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=18363}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/17920416}{Microsoft Academic: Huber, Peter J.}
+\Profile{http://academic.research.microsoft.com/Author/54354373}{Microsoft Academic: Huber, Peter J.}
+\Profile{http://academic.research.microsoft.com/Author/12833588}{Microsoft Academic: Huber, Peter J.}
+
+
+\subsection*{Education}
+\Degree{1962}{Ph.D.}{Eidgen\"{o}ssische Technische Hochschule Z\"{u}rich}[Homotopy Theory in General Categories]<http://genealogy.math.ndsu.nodak.edu/id.php?id=18363>
+
+
+\subsection*{Honors}
+\Honor{1970}{IMS Fellow}
+\Honor{1972}{Wald Lecturer}
+\Honor{1987}{American Academy of Arts and Sciences, Fellow}
+\end{document}

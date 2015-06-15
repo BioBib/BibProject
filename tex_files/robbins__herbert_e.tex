@@ -1,0 +1,86 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Robbins, Herbert E.
+
+@incollection{robbins__herbert_e:15,
+year={2008},
+author={Page, W.},
+title={{H}erbert {R}obbins},
+pages={281-297},
+crossref={booktitle:mathematical-people-profiles-and-interviews},
+}
+
+@incollection{robbins__herbert_e:16,
+year={2010},
+author={O'Connor, J. J. and Robertson, E. F.},
+title={{H}erbert {E}llis {R}obbins},
+addendum={MacTutor biography},
+url={http://www-history.mcs.st-andrews.ac.uk/Biographies/Robbins.html},
+}
+
+@misc{robbins__herbert_e:217028,
+year={2001},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Siegmund, D. and Levin, B. (2001). Herbert E. Robbins (12 January 1915-12 February 2001). International Statistical Institute Newsletter, Vol. 25(3)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Robbins, Herbert E.} \Deceased
+\ID{robbins__herbert_e}
+\AltID{robbins__herbert}
+
+\DisplayName{Robbins, Herbert}
+
+
+\DOB{1915-01-12}
+\DOD{2001-02-12}
+
+
+\Homepage{http://de.wikipedia.org/wiki/Herbert_Robbins}
+\Homepage{http://en.wikipedia.org/wiki/Herbert_Robbins}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=148845}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:robbins.herbert-e}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=7781}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/53001835}{Microsoft Academic: Robbins, Herbert}
+\Profile{http://academic.research.microsoft.com/Author/51264873}{Microsoft Academic: Robbins, Herbert}
+\Profile{http://academic.research.microsoft.com/Author/24193760}{Microsoft Academic: Robbins, Herbert E.}
+\Profile{http://academic.research.microsoft.com/Author/51264802}{Microsoft Academic: Robbins, Herbert}
+
+
+\subsection*{Education}
+\Degree{1938}{Ph.D.}{Harvard University}[On the Classification of the Maps of a 2-Complex into a Space]<http://genealogy.math.ndsu.nodak.edu/id.php?id=7781>
+
+
+\subsection*{Honors}
+\Honor{1948}{IMS Fellow}
+\Honor{1963}{Rietz Lecturer}
+\Honor{1966}{IMS President}
+\Honor{1969}{Wald Lecturer}
+\Honor{1974}{National Academy of Sciences, Member}
+\Honor{1975}{American Academy of Arts and Sciences, Fellow}
+\Honor{1982}{Neyman Lecturer}
+\Honor{1993}{R. A. Fisher Lecturer}
+
+
+\subsection*{Biographies}
+\Biography{robbins__herbert_e:15}
+\Biography{robbins__herbert_e:16}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{robbins__herbert_e:217028}
+\end{document}

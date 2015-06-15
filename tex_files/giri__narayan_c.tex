@@ -1,0 +1,53 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Giri, Narayan Chandra
+
+@article{giri__narayan_c:8,
+year={2006},
+author={Sinha, B. K.},
+title={{N}arayan {C}handra {G}iri, 1928-2006},
+journal={IMS Bulletin},
+pages={11},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Giri, Narayan Chandra} \Deceased
+\ID{giri__narayan_c}
+\AltID{giri__narayan}
+
+\DisplayName{Giri, Narayan C.}
+
+
+\DOB{1928-05-01}
+\DOD{2006-01-29}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=74000}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:giri.narayan-c}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=73095}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18641435}{Microsoft Academic: Giri, Narayan C.}
+\Profile{http://academic.research.microsoft.com/Author/42782740}{Microsoft Academic: Giri, N. C.}
+
+
+\subsection*{Education}
+\Degree{1962}{Ph.D.}{Stanford University}[On Tests with Likelihood Ratio Criteria in Some Problems of Multivariate Analysis]<http://genealogy.math.ndsu.nodak.edu/id.php?id=73095>
+
+
+\subsection*{Honors}
+\Honor{1973}{IMS Fellow}
+
+
+\subsection*{Obituary}
+\Obituary{giri__narayan_c:8}
+\end{document}

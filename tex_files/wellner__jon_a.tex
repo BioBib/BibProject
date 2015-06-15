@@ -1,0 +1,61 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Wellner, Jon A.
+
+@misc{wellner__jon_a:376645,
+year={2013},
+author={Anonymous},
+title={{U}ntitled},
+addendum={(2013). Biography. In From Probability to Statistics and Back: High-Dimensional Models and Processes---A Festschrift for Jon A. Wellner (M. Banerjee, F. Bunea, J. Huang, V. Koltchinskii, and M. H. Maathuis, eds.). Institute of Mathematical Statistics Collections, Vol. 9, p. vii. Institute of Mathematical Statistics, Beachwood, OH},
+}
+
+@misc{wellner__jon_a:257175,
+year={2013},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Banerjee, M., Bunea, F., Huang, J., Koltchinskii, V., and Maathuis, M. H., eds. (2013). From Probability to Statistics and Back: High-Dimensional Models and Processes---A Festschrift for Jon A. Wellner. Institute of Mathematical Collections, Vol. 9. Institute of Mathematical Statistics, Beachwood, OH, with photographs},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Wellner, Jon A.}
+\ID{wellner__jon_a}
+\AltID{wellner__jon}
+
+
+
+\Homepage{http://www.stat.washington.edu/jaw/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=181750}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:wellner.jon-a}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=22361}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/702040}{Microsoft Academic: Wellner, Jon A.}
+
+
+\subsection*{Education}
+\Degree{1975}{Ph.D.}{University of Washington}[Convergence of the Sequential Uniform Empirical Process with Bounds for Centered Beta Random Variables and a Log-Log Law]<http://genealogy.math.ndsu.nodak.edu/id.php?id=22361>
+
+
+\subsection*{Honors}
+\Honor{1984}{IMS Fellow}
+\Honor{1992}{IMS Medallion Lecturer}
+
+
+\subsection*{Biography}
+\Biography{wellner__jon_a:376645}
+
+
+\subsection*{Festschrift}
+\Festschrift{wellner__jon_a:257175}
+\end{document}

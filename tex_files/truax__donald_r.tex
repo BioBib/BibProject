@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Truax, Donald R.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Truax, Donald R.}
+\ID{truax__donald_r}
+\AltID{truax__donald}
+
+\DisplayName{Truax, Donald}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=174595}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:truax.donald-r}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=12423}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/10493010}{Microsoft Academic: Truax, Donald R.}
+\Profile{http://academic.research.microsoft.com/Author/47197025}{Microsoft Academic: Truax, Donald}
+
+
+\subsection*{Education}
+\Degree{1956}{Ph.D.}{Stanford University}[Multi-Decision Problems for the Multivariate Exponential Family]<http://genealogy.math.ndsu.nodak.edu/id.php?id=12423>
+
+
+\subsection*{Honors}
+\Honor{1981}{IMS Fellow}
+\Honor{2009}{Harry C. Carver Medal}
+\end{document}

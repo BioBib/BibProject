@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Shorack, Galen R.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Shorack, Galen R.}
+\ID{shorack__galen_r}
+\AltID{shorack__galen}
+
+\DisplayName{Shorack, Galen}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=161120}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:shorack.galen-r}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=28319}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12598123}{Microsoft Academic: Shorack, Galen R.}
+
+
+\subsection*{Education}
+\Degree{1965}{Ph.D.}{Stanford University}[Nonparametric Tests and Estimation of Scale in the Two Sample Problem]<http://genealogy.math.ndsu.nodak.edu/id.php?id=28319>
+
+
+\subsection*{Honors}
+\Honor{1974}{IMS Fellow}
+\end{document}

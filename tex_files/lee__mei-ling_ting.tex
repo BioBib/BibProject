@@ -1,0 +1,41 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Lee, Mei-Ling Ting
+\end{filecontents}
+
+\begin{document}
+
+\Name{Lee, Mei-Ling Ting}
+\ID{lee__mei-ling_ting}
+\AltID{lee__mei-ling}
+
+
+
+\Homepage{http://sph.umd.edu/epib/faculty/mltlee/}
+\Homepage{http://brac.umd.edu/~meiling/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=217679}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:lee.mei-ling-ting}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=6815}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/52552125}{Microsoft Academic: Lee, Mei-Ling Ting}
+\Profile{http://academic.research.microsoft.com/Author/52552614}{Microsoft Academic: Lee, Mei Ling T.}
+\Profile{http://academic.research.microsoft.com/Author/12973993}{Microsoft Academic: Lee, Mei-Ling Ting}
+
+
+\subsection*{Education}
+\Degree{year?}{Ph.D.}{}<http://genealogy.math.ndsu.nodak.edu/id.php?id=6815>
+
+
+\subsection*{Honors}
+\Honor{2005}{IMS Fellow}{For significant theoretical contributions to distribution theory; development of innovative statistical models and methodology for survival data analysis; valuable contributions to biostatistics and the analysis of medical data in areas of application ranging from microbiology to occupational health; pathbreaking work on statistical models and methods for microarray data analysis; for vision and leadership in founding the journal Lifetime Data Analysis}
+\end{document}

@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Prabhu, Narahari U.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Prabhu, Narahari U.}
+\ID{prabhu__n_u}
+\AltID{prabhu__narahari}
+
+\DisplayName{Prabhu, N. U.}
+
+
+\Homepage{http://en.wikipedia.org/wiki/Narahari_Umanath_Prabhu}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=197139}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:prabhu.narahari-u}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/52833617}{Microsoft Academic: Prabhu, N. U.}
+\Profile{http://academic.research.microsoft.com/Author/52833619}{Microsoft Academic: Prabhu, N. U.}
+
+
+\subsection*{Honors}
+\Honor{1972}{IMS Fellow}
+\end{document}

@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Berman, Simeon M.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Berman, Simeon M.}
+\ID{berman__simeon_m}
+\AltID{berman__simeon}
+
+\DisplayName{Berman, Simeon}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=35510}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:berman.simeon-m}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=95287}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/53752244}{Microsoft Academic: Berman, Simeon M.}
+\Profile{http://academic.research.microsoft.com/Author/12781885}{Microsoft Academic: Berman, Simeon M.}
+
+
+\subsection*{Education}
+\Degree{1961}{Ph.D.}{Columbia University}<http://genealogy.math.ndsu.nodak.edu/id.php?id=95287>
+
+
+\subsection*{Honors}
+\Honor{1978}{IMS Fellow}
+\Honor{1979}{IMS Medallion Lecturer}
+\end{document}

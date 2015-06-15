@@ -1,0 +1,53 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Pisier, Gilles I.
+
+@incollection{pisier__gilles_i:7,
+year={2010},
+author={O'Connor, J. J. and Robertson, E. F.},
+title={{J}ean {G}eorges {G}illes {P}isier},
+addendum={MacTutor biography},
+url={http://www-history.mcs.st-andrews.ac.uk/Biographies/Pisier.html},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Pisier, Gilles I.}
+\ID{pisier__gilles_i}
+\AltID{pisier__gilles}
+
+\DisplayName{Pisier, Gilles}
+
+
+\Homepage{http://www.math.tamu.edu/~pisier/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=140010}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:pisier.gilles}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=67948}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/10499970}{Microsoft Academic: Pisier, Gilles}
+
+
+\subsection*{Education}
+\Degree{1977}{Ph.D.}{Universit\'{e} Denis Diderot - Paris VII}<http://genealogy.math.ndsu.nodak.edu/id.php?id=67948>
+
+
+\subsection*{Honors}
+\Honor{1989}{IMS Fellow}
+\Honor{2002}{Acad\'{e}mie des sciences, Member}
+\Honor{2011}{Indian National Science Academy, Foreign Fellow}
+
+
+\subsection*{Biography}
+\Biography{pisier__gilles_i:7}
+\end{document}

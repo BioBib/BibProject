@@ -1,0 +1,71 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Marschak, Jacob
+
+@article{marschak__jacob:10,
+year={1991},
+author={Arrow, K. J.},
+title={{J}acob {M}arschak, {J}uly 23, 1898-{J}uly 27, 1977},
+journal={Biographical Memoirs},
+pages={128-146},
+publisher={National Academies Press},
+url={http://books.nap.edu/html/biomems/jmarschak.pdf},
+}
+
+@article{marschak__jacob:7,
+year={1978},
+author={Anonymous},
+title={{U}ntitled},
+journal={IMS Bulletin},
+pages={329},
+volume={7},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Marschak, Jacob} \Deceased
+\ID{marschak__jacob}
+
+
+
+
+\DOB{1898-07-23}
+\DOD{1977-07-27}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=495564}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:marschak.jacob}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/2793106}{Microsoft Academic: Jacob Marschak}
+\Profile{http://academic.research.microsoft.com/Author/57111200}{Microsoft Academic: JACOB MARSCHAK}
+\Profile{http://academic.research.microsoft.com/Author/50091475}{Microsoft Academic: Jacob Marschak}
+\Profile{http://academic.research.microsoft.com/Author/48305886}{Microsoft Academic: Jackob Marschak}
+\Profile{http://academic.research.microsoft.com/Author/56847054}{Microsoft Academic: Jacob Marschak}
+\Profile{http://academic.research.microsoft.com/Author/45043720}{Microsoft Academic: J. Marschak}
+\Profile{http://academic.research.microsoft.com/Author/45043719}{Microsoft Academic: J. Marschak}
+\Profile{http://academic.research.microsoft.com/Author/56847071}{Microsoft Academic: Jacob Marschak}
+\Profile{http://academic.research.microsoft.com/Author/42774100}{Microsoft Academic: Jacob Marschak}
+
+
+\subsection*{Honors}
+\Honor{1953}{IMS Fellow}
+\Honor{1961}{American Academy of Arts and Sciences, Fellow}
+\Honor{1973}{National Academy of Sciences, Member}
+
+
+\subsection*{Biography}
+\Biography{marschak__jacob:10}
+
+
+\subsection*{Death Notice}
+\DeathNotice{marschak__jacob:7}
+\end{document}

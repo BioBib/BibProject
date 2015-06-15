@@ -1,0 +1,60 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Zacks, Shelemyahu
+
+@article{zacks__shelemyahu:5,
+year={2010},
+author={Mukhopadhyay, N.},
+title={{C}onference for {S}helemyahu {Z}acks},
+journal={IMS Bulletin},
+pages={7},
+volume={39(3)},
+}
+
+@misc{zacks__shelemyahu:308927,
+year={2010},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Mukhopadhyay, N. Shelemyahu Zacks. Amstat News, Feb. 2010, p. 25},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Zacks, Shelemyahu}
+\ID{zacks__shelemyahu}
+
+
+
+
+\Homepage{http://www.math.binghamton.edu/shelly/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=186135}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:zacks.shelemyahu}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=6775}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/53147467}{Microsoft Academic: Zacks, Shelley}
+\Profile{http://academic.research.microsoft.com/Author/12923807}{Microsoft Academic: Zacks, Shelemyahu}
+
+
+\subsection*{Education}
+\Degree{1962}{Ph.D.}{Columbia University}[Optimal Strategies in Randomized Factorial Experiments]<http://genealogy.math.ndsu.nodak.edu/id.php?id=6775>
+
+
+\subsection*{Honors}
+\Honor{1972}{IMS Fellow}
+
+
+\subsection*{Biographies}
+\Biography{zacks__shelemyahu:5}
+\Biography{zacks__shelemyahu:308927}
+\end{document}

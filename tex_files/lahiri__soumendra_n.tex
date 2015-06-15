@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Lahiri, Soumendra N.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Lahiri, Soumendra N.}
+\ID{lahiri__soumendra_n}
+\AltID{lahiri__soumendra}
+
+
+
+\Homepage{http://www.stat.tamu.edu/~snlahiri/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=310114}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:lahiri.soumendra-nath}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=40633}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/500270}{Microsoft Academic: Lahiri, Soumendra Nath}
+
+
+\subsection*{Education}
+\Degree{1989}{Ph.D.}{Michigan State University}[Bootstrap Approximations to the Distributions of M-Estimators]<http://genealogy.math.ndsu.nodak.edu/id.php?id=40633>
+
+
+\subsection*{Honors}
+\Honor{2001}{IMS Fellow}{For penetrating and pioneering contributions in bootstrap methodology for dependent data, in spatial statistics; for excellence in teaching; and for service to the profession}
+\end{document}

@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Phillips, Peter C. B.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Phillips, Peter C. B.}
+\ID{phillips__peter_c_b}
+\AltID{phillips__peter}
+
+
+
+\Homepage{http://cowles.econ.yale.edu/faculty/phillips.htm}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=139150}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:phillips.peter-c-b}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=61476}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12752900}{Microsoft Academic: Phillips, Peter Charles Bonest}
+
+
+\subsection*{Education}
+\Degree{1974}{Ph.D.}{London School of Economics}[Problems in the Estimation of Continuous Time Models]<http://genealogy.math.ndsu.nodak.edu/id.php?id=61476>
+
+
+\subsection*{Honors}
+\Honor{2005}{IMS Fellow}{For extensive and influential contributions to time series analysis, especially unit root series; for considerably developing finite sample theory and higher order asymptotic theory; for founding and editing for 20 years a journal, Econometric Theory, on the interface between econometrics and statistics}
+\Honor{2008}{British Academy, Corresponding Fellow}
+\end{document}

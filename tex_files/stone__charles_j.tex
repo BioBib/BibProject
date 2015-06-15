@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Stone, Charles J.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Stone, Charles J.}
+\ID{stone__charles_j}
+\AltID{stone__charles}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=191908}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:stone.charles-j}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=26991}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/10667014}{Microsoft Academic: Stone, Charles J.}
+
+
+\subsection*{Education}
+\Degree{1961}{Ph.D.}{Stanford University}[Limit Theorems for Birth and Death Processes and Diffusion Processes]<http://genealogy.math.ndsu.nodak.edu/id.php?id=26991>
+
+
+\subsection*{Honors}
+\Honor{1970}{IMS Fellow}
+\Honor{1981}{IMS Medallion Lecturer}
+\Honor{1993}{National Academy of Sciences, Member}
+\Honor{1994}{Wald Lecturer}
+\end{document}

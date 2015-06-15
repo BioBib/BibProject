@@ -1,0 +1,89 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Shohat, James A.
+
+@incollection{shohat__james_a:11,
+year={1989},
+author={Kaplan, W.},
+title={{M}athematics at the {U}niversity of {M}ichigan},
+pages={179-189},
+crossref={booktitle:century-of-mathematics-in-america-part-iii},
+}
+
+@article{shohat__james_a:8,
+year={1945},
+author={Anonymous},
+title={{U}ntitled},
+journal={Ann. Math. Statist.},
+pages={100},
+volume={16},
+}
+
+@misc{shohat__james_a:647987,
+year={1944},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Dr. James A. Shohat. The New York Times, Oct. 10, 1944},
+}
+
+@article{shohat__james_a:10,
+year={1944},
+author={Kline, J. R.},
+title={{J}ames {A}lexander {S}hohat},
+journal={Science},
+pages={397-398},
+volume={100},
+url={http://www.jstor.org/stable/1671949},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Shohat, James A.} \Deceased
+\ID{shohat__james_a}
+\AltID{shohat__james}
+
+
+
+\DOB{1886-11-18}
+\DOD{1944-10-08}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=538818}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:shohat.j-a}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=7801}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12800210}{Microsoft Academic: Shohat, J. A.}
+
+
+\subsection*{Education}
+\Degree{year?}{Ph.D.}{}<http://genealogy.math.ndsu.nodak.edu/id.php?id=7801>
+
+
+\subsection*{Honors}
+\Honor{before 1943}{IMS Fellow}
+
+
+\subsection*{Biography}
+\Biography{shohat__james_a:11}
+
+
+\subsection*{Death Notice}
+\DeathNotice{shohat__james_a:8}
+
+
+\subsection*{Obituary}
+\Obituary{shohat__james_a:647987}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{shohat__james_a:10}
+\end{document}

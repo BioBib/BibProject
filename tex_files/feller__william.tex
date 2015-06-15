@@ -1,0 +1,111 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Feller, William
+
+@incollection{feller__william:18,
+year={2005},
+author={O'Connor, J. J. and Robertson, E. F.},
+title={{W}illiam {F}eller},
+addendum={MacTutor biography},
+url={http://www-history.mcs.st-andrews.ac.uk/Biographies/Feller.html},
+}
+
+@incollection{feller__william:14,
+year={2006},
+author={Anonymous},
+title={{U}ntitled},
+year={2006},
+crossref={booktitle:encyclopedia-of-statistical-sciences},
+}
+
+@misc{feller__william:15,
+year={2006},
+author={Zubrinic, D.},
+title={{W}illiam {F}eller (1906-1970)},
+author={Zubrinic, {D}.},
+title={William {F}eller (1906-1970)},
+year={2006},
+url={http://www.croatianhistory.net/etf/feller.html},
+}
+
+@article{feller__william:16,
+year={2007},
+author={Rosenblatt, M.},
+title={{W}illiam {F}eller, {J}uly 7, 1906-{J}anuary 14, 1970},
+journal={Biographical Memoirs},
+pages={2-17},
+publisher={National Academies Press},
+url={http://books.nap.edu/html/biomems/wfeller.pdf},
+}
+
+@incollection{feller__william:17,
+year={2008},
+author={Doob, J. L.},
+title={{F}eller, {W}illiam},
+pages={287-289},
+volume={17},
+crossref={booktitle:complete-dictionary-of-scientific-biography},
+}
+
+@article{feller__william:7,
+year={1970},
+author={Cram\'{e}r, H.},
+title={{W}illiam {F}eller, 1906-1970},
+journal={Rev. l'Inst. Internat. Statist.},
+pages={435-436},
+volume={38},
+url={http://www.jstor.org/stable/1402220},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Feller, William} \Deceased
+\ID{feller__william}
+
+
+
+
+\DOB{1906-07-07}
+\DOD{1970-01-14}
+
+
+\Homepage{http://en.wikipedia.org/wiki/William_Feller}
+
+
+\subsection*{Profiles}
+\Profile{http://www.york.ac.uk/depts/maths/histstat/people/feller.gif}{www.york.ac.uk}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=217063}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:feller.william}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/574622}{Microsoft Academic: Feller, William}
+
+
+\subsection*{Honors}
+\Honor{1943}{IMS Fellow}
+\Honor{1947}{IMS President}
+\Honor{1955}{Rietz Lecturer}
+\Honor{1958}{American Academy of Arts and Sciences, Fellow}
+\Honor{1960}{National Academy of Sciences, Member}
+\Honor{1966}{American Philosophical Society, Member}
+\Honor{1969}{National Medal of Science}
+
+
+\subsection*{Biographies}
+\Biography{feller__william:18}
+\Biography{feller__william:14}
+\Biography{feller__william:15}
+\Biography{feller__william:16}
+\Biography{feller__william:17}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{feller__william:7}
+\end{document}

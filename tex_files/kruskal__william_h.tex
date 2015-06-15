@@ -1,0 +1,81 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Kruskal, William H.
+
+@incollection{kruskal__william_h:14,
+year={2006},
+author={O'Connor, J. J. and Robertson, E. F.},
+title={{W}illiam {H}enry {K}ruskal},
+addendum={MacTutor biography},
+url={http://www-history.mcs.st-andrews.ac.uk/Biographies/Kruskal_William.html},
+}
+
+@misc{kruskal__william_h:952830,
+year={2005},
+author={Anonymous},
+title={{U}ntitled},
+addendum={(2005). In Memoriam archive, Mathematical Association of America},
+url={http://www.maa.org/news/inmemoriam_archive.html},
+}
+
+@article{kruskal__william_h:9,
+year={2005},
+author={Anonymous},
+title={{U}ntitled},
+journal={The University of Chicago News Office},
+url={http://www-news.uchicago.edu/releases/05/050427.kruskal.shtml},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Kruskal, William H.} \Deceased
+\ID{kruskal__william_h}
+\AltID{kruskal__william}
+
+
+
+\DOB{1919-10-10}
+\DOD{2005-04-21}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=107115}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:kruskal.william-h}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=58995}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/44155054}{Microsoft Academic: William H. Kruskal}
+\Profile{http://academic.research.microsoft.com/Author/51660222}{Microsoft Academic: William H. Kruskal}
+\Profile{http://academic.research.microsoft.com/Author/50594135}{Microsoft Academic: W. H. Kruskal}
+
+
+\subsection*{Education}
+\Degree{1955}{Ph.D.}{Columbia University}<http://genealogy.math.ndsu.nodak.edu/id.php?id=58995>
+
+
+\subsection*{Honors}
+\Honor{1956}{IMS Fellow}
+\Honor{1971}{IMS President}
+\Honor{1973}{American Academy of Arts and Sciences, Fellow}
+\Honor{1978}{R. A. Fisher Lecturer}
+\Honor{1978}{Samuel S. Wilks Award}
+
+
+\subsection*{Biography}
+\Biography{kruskal__william_h:14}
+
+
+\subsection*{Death Notice}
+\DeathNotice{kruskal__william_h:952830}
+
+
+\subsection*{Obituary}
+\Obituary{kruskal__william_h:9}
+\end{document}

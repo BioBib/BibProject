@@ -1,0 +1,56 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Lieberman, Gerald J.
+
+@article{lieberman__gerald_j:8,
+year={2000},
+author={Anderson, T. W. and Olkin, I.},
+title={{G}erald {J}. {L}ieberman},
+journal={IMS Bulletin},
+pages={206-208},
+volume={29},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Lieberman, Gerald J.} \Deceased
+\ID{lieberman__gerald_j}
+\AltID{lieberman__gerald}
+
+
+
+\DOB{1925-12-31}
+\DOD{1999-05-18}
+
+
+\Homepage{http://highered.mcgraw-hill.com/sites/9701034864/information_center_view0/gerald_j__lieberman.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=113860}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:lieberman.gerald-j}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=14686}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/1885217}{Microsoft Academic: Lieberman, Gerald J.}
+
+
+\subsection*{Education}
+\Degree{1953}{Ph.D.}{Stanford University}[Contributions to Sampling Inspection]<http://genealogy.math.ndsu.nodak.edu/id.php?id=14686>
+
+
+\subsection*{Honors}
+\Honor{1959}{IMS Fellow}
+\Honor{1987}{National Academy of Engineering, Member}
+
+
+\subsection*{Obituary}
+\Obituary{lieberman__gerald_j:8}
+\end{document}

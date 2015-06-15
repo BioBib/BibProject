@@ -1,0 +1,125 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Pearson, Egon S.
+
+@article{pearson__egon_s:12,
+year={1981},
+author={Bartlett, M. S.},
+title={{E}gon {S}harpe {P}earson, 11 {A}ugust 1895-12 {J}une 1980},
+journal={Biogr. Mems. Fell. R. Soc.},
+pages={425-443},
+volume={27},
+url={http://www.jstor.org/stable/769879},
+}
+
+@incollection{pearson__egon_s:14,
+year={2001},
+author={Bartholomew, D. J.},
+title={{E}gon {S}harpe {P}earson},
+pages={373-376},
+crossref={booktitle:statisticians-of-the-centuries},
+}
+
+@incollection{pearson__egon_s:17,
+year={2003},
+author={O'Connor, J. J. and Robertson, E. F.},
+title={{E}gon {S}harpe {P}earson},
+addendum={MacTutor biography},
+url={http://www-history.mcs.st-andrews.ac.uk/Biographies/Pearson_Egon.html},
+}
+
+@incollection{pearson__egon_s:15,
+year={2004},
+author={Bartlett, M. S.},
+title={{P}earson, {E}gon {S}harpe (1895-1980)},
+crossref={booktitle:oxford-dictionary-of-national-biography-in-association-with-the-british-academy-from-the-earliest-times-to-the-year-2000},
+url={http://www.oxforddnb.com/view/article/31535},
+}
+
+@incollection{pearson__egon_s:16,
+year={2005},
+author={Anonymous},
+title={{P}earson, {E}gon {S}harpe},
+crossref={booktitle:encyclopedia-of-biostatistics},
+}
+
+@incollection{pearson__egon_s:13,
+year={2006},
+author={Anonymous},
+title={{U}ntitled},
+year={2006},
+crossref={booktitle:encyclopedia-of-statistical-sciences},
+}
+
+@misc{pearson__egon_s:302903,
+year={1980},
+author={Anonymous},
+title={{U}ntitled},
+addendum={The Times, Jun. 20, 1980, p. 16f},
+}
+
+@article{pearson__egon_s:9,
+year={year?},
+author={Anonymous},
+title={{U}ntitled},
+publisher={American {S}tatistical {A}ssociation},
+booktitle={Statisticians in {H}istory},
+url={http://www.amstat.org/about/statisticiansinhistory/bios/pearsonkarl.pdf},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Pearson, Egon S.} \Deceased
+\ID{pearson__egon_s}
+\AltID{pearson__egon}
+
+
+
+\DOB{1895-08-11}
+\DOD{1980-06-12}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=345332}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:pearson.egon-s}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=29652}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/56774510}{Microsoft Academic: Pearson, E. S.}
+\Profile{http://academic.research.microsoft.com/Author/56774477}{Microsoft Academic: Pearson, E. S.}
+
+
+\subsection*{Education}
+\Degree{year?}{Ph.D.}{}<http://genealogy.math.ndsu.nodak.edu/id.php?id=29652>
+
+
+\subsection*{Honors}
+\Honor{1944}{IMS Fellow}
+\Honor{1946}{Commander of the Order of the British Empire}
+\Honor{1955}{Guy Medal in Gold}
+\Honor{1966}{The Royal Society, Fellow}
+
+
+\subsection*{Biographies}
+\Biography{pearson__egon_s:12}
+\Biography{pearson__egon_s:14}
+\Biography{pearson__egon_s:17}
+\Biography{pearson__egon_s:15}
+\Biography{pearson__egon_s:16}
+\Biography{pearson__egon_s:13}
+
+
+\subsection*{Obituary}
+\Obituary{pearson__egon_s:302903}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{pearson__egon_s:9}
+\end{document}

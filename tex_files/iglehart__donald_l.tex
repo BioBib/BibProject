@@ -1,0 +1,37 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Iglehart, Donald L.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Iglehart, Donald L.}
+\ID{iglehart__donald_l}
+\AltID{iglehart__donald}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=90750}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:iglehart.donald-l}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=51367}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/56124599}{Microsoft Academic: Iglehart, Donald L.}
+
+
+\subsection*{Education}
+\Degree{1961}{Ph.D.}{Stanford University}[Dynamic Programming and Stationary Analysis of Inventory Problems]<http://genealogy.math.ndsu.nodak.edu/id.php?id=51367>
+
+
+\subsection*{Honors}
+\Honor{1971}{IMS Fellow}
+\Honor{1999}{National Academy of Engineering, Member}
+\Honor{2002}{John von Neumann Theory Prize}
+\end{document}

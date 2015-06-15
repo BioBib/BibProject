@@ -1,0 +1,33 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Pollak, Moshe
+\end{filecontents}
+
+\begin{document}
+
+\Name{Pollak, Moshe}
+\ID{pollak__moshe}
+
+
+
+
+\Homepage{http://www.stat.huji.ac.il/faculty/pollak.htm}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=215479}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:pollak.moshe}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/12968918}{Microsoft Academic: Pollak, Moshe}
+
+
+\subsection*{Honors}
+\Honor{1986}{IMS Fellow}
+\end{document}

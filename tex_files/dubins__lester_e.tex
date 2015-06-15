@@ -1,0 +1,75 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Dubins, Lester E.
+
+@article{dubins__lester_e:8,
+year={2010},
+author={Anonymous},
+title={{U}ntitled},
+journal={Notices Amer. Math. Soc.},
+pages={660},
+volume={57},
+}
+
+@article{dubins__lester_e:9,
+year={2010},
+author={Anonymous},
+title={{U}ntitled},
+journal={Bernoulli News},
+volume={17(1)},
+}
+
+@misc{dubins__lester_e:244414,
+year={2010},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Gilat, D., Hill, T. and Sudderth, B. (2010). Lester Eli Dubins, 1920-2010. IMS Bulletin, Vol. 39(8), p. 13. Also see (2010) Bernoulli News, Vol. 17(1)},
+url={http://www.bernoulli-society.org/index.php/news/38/85-obituary-for-lester-eli-dubins},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Dubins, Lester E.} \Deceased
+\ID{dubins__lester_e}
+\AltID{dubins__lester}
+
+\DisplayName{Dubins, Lester}
+
+
+\DOB{1920-04-27}
+\DOD{2010-02-11}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=60075}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:dubins.lester-e}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=6447}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12757583}{Microsoft Academic: Dubins, Lester E.}
+\Profile{http://academic.research.microsoft.com/Author/50565749}{Microsoft Academic: Dubins, Lester E.}
+
+
+\subsection*{Education}
+\Degree{1955}{Ph.D.}{The University of Chicago}[Generalized Random Variables]<http://genealogy.math.ndsu.nodak.edu/id.php?id=6447>
+
+
+\subsection*{Honors}
+\Honor{1978}{IMS Fellow}
+
+
+\subsection*{Death Notice}
+\DeathNotice{dubins__lester_e:8}
+
+
+\subsection*{Memorials}
+\InMemoriam{dubins__lester_e:9}
+\InMemoriam{dubins__lester_e:244414}
+\end{document}

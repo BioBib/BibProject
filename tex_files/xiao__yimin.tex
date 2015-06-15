@@ -1,0 +1,29 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Xiao, Yimin
+\end{filecontents}
+
+\begin{document}
+
+\Name{Xiao, Yimin}
+\ID{xiao__yimin}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:xiao.yimin}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/53626776}{Microsoft Academic: Xiao, Yimin}
+
+
+\subsection*{Honors}
+\Honor{2011}{IMS Fellow}{For world-leading contributions in the fractal analysis of stochastic processes and sample functions of random fields, for developing a potential theory for a wide class of Markov random fields, and for the solution of long-standing problems concerning additive L/u00e9vy processes}
+\end{document}

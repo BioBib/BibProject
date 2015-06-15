@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Kohn, Robert J.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Kohn, Robert J.}
+\ID{kohn__robert_j}
+\AltID{kohn__robert}
+
+
+
+\Homepage{http://www.asb.unsw.edu.au/schools/Pages/RobertKohn.aspx}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=192559}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:kohn.robert-j}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=57291}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12528447}{Microsoft Academic: Kohn, Robert J.}
+
+
+\subsection*{Education}
+\Degree{1977}{Ph.D.}{Australian National University}[Estimation and Identification for Vector Linear Time Series Models]<http://genealogy.math.ndsu.nodak.edu/id.php?id=57291>
+
+
+\subsection*{Honors}
+\Honor{2002}{IMS Fellow}{For novel and influential contributions to smoothing methods in statistics, time series, computational algorithms and Bayesian statistics; substantial leadership to the profession, through training graduate students and directing the work of one of Australia's leading groups of academic statisticians}
+\end{document}

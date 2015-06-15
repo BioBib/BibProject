@@ -1,0 +1,41 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Heathcote, Christopher R.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Heathcote, Christopher R.}
+\ID{heathcote__christopher_r}
+\AltID{heathcote__christopher}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=196033}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:heathcote.christopher-r}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=13769}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/53883678}{Microsoft Academic: Heathcote, Christopher}
+\Profile{http://academic.research.microsoft.com/Author/53883676}{Microsoft Academic: Heathcote, C. R.}
+
+
+\subsection*{Education}
+\Degree{year?}{Ph.D.}{Australian National University}<http://genealogy.math.ndsu.nodak.edu/id.php?id=13769>
+
+
+\subsection*{Career}
+\Position{year?}{Stanford University}{Stanford University}
+\Position{1971--96}{Professor of Statistics}{ Australian National University}
+
+
+\subsection*{Honors}
+\Honor{1977}{IMS Fellow}
+\end{document}

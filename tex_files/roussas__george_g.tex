@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Roussas, George G.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Roussas, George G.}
+\ID{roussas__george_g}
+\AltID{roussas__george}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=151135}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:roussas.george-g}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=34374}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/54588119}{Microsoft Academic: Roussas, George G.}
+\Profile{http://academic.research.microsoft.com/Author/10774466}{Microsoft Academic: Roussas, George G.}
+
+
+\subsection*{Education}
+\Degree{1964}{Ph.D.}{University of California, Berkeley}[Some Extensions of Dubins' and Savage's Work on Red and Black]<http://genealogy.math.ndsu.nodak.edu/id.php?id=34374>
+
+
+\subsection*{Honors}
+\Honor{1983}{IMS Fellow}
+\end{document}

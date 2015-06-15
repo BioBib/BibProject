@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Peng, Shige
+\end{filecontents}
+
+\begin{document}
+
+\Name{Peng, Shige}
+\ID{peng__shige}
+
+
+
+
+\Homepage{http://mathfinance.sdu.edu.cn/peng/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:peng.shige}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/53697135}{Microsoft Academic: Peng, Shige}
+
+
+\subsection*{Honors}
+\Honor{2010}{IMS Fellow}{For basic contributions to backward stochastic differential equations and their applications to stochastic control, partial differential equations, and mathematical finance; and for pioneering work on a non-linear theory of probability under model uncertainty}
+\end{document}

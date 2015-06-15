@@ -1,0 +1,37 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for McDonald, David R.
+\end{filecontents}
+
+\begin{document}
+
+\Name{McDonald, David R.}
+\ID{mcdonald__david_r}
+\AltID{mcdonald__david}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=122295}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:mcdonald.david-d}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:mcdonald.david-r}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=26372}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/17921832}{Microsoft Academic: McDonald, David R.}
+\Profile{http://academic.research.microsoft.com/Author/52775824}{Microsoft Academic: McDonald, D.}
+
+
+\subsection*{Education}
+\Degree{1976}{Ph.D.}{Universit\'{e} de Montr\'{e}al}<http://genealogy.math.ndsu.nodak.edu/id.php?id=26372>
+
+
+\subsection*{Honors}
+\Honor{2000}{IMS Fellow}{For his contribution to the theory of large deviations of queuing systems, and the application of this work to the telecommunication industry}
+\end{document}

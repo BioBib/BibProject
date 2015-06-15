@@ -1,0 +1,34 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Schwarz, Gideon E.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Schwarz, Gideon E.} \Deceased
+\ID{schwarz__gideon_e}
+\AltID{schwarz__gideon}
+
+\DisplayName{Schwarz, Gideon}
+
+
+\DOB{1933}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=214911}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:schwarz.gideon-e}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/18672090}{Microsoft Academic: Schwarz, Gideon}
+
+
+\subsection*{Honors}
+\Honor{1971}{IMS Fellow}
+\end{document}

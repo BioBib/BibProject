@@ -1,0 +1,74 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Gnedenko, Boris V.
+
+@incollection{gnedenko__boris_v:8,
+year={1997},
+author={Aivazian, S. A.},
+title={{G}nedenko, {B}oris {V}ladimirovich},
+pages={244-246},
+crossref={booktitle:leading-personalities-in-statistical-sciences-from-the-17th-century-to-the-present},
+}
+
+@incollection{gnedenko__boris_v:10,
+year={2000},
+author={O'Connor, J. J. and Robertson, E. F.},
+title={{B}oris {V}ladimirovich {G}nedenko},
+addendum={MacTutor biography},
+url={http://www-history.mcs.st-andrews.ac.uk/Biographies/Gnedenko.html},
+}
+
+@incollection{gnedenko__boris_v:9,
+year={2006},
+author={Aivazian, S.},
+title={{G}nedenko, {B}oris {V}ladimirovich},
+crossref={booktitle:encyclopedia-of-statistical-sciences},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Gnedenko, Boris V.} \Deceased
+\ID{gnedenko__boris_v}
+\AltID{gnedenko__boris}
+
+\DisplayName{Gnedenko, Boris}
+
+
+\DOB{1912-01-01}
+\DOD{1995-12-27}
+
+
+\Homepage{http://www.umass.edu/wsp/statistics/tales/gnedenko.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=74335}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:gnedenko.boris-vladimirovic}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=17513}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18464495}{Microsoft Academic: Gnedenko, Boris Vladimirovich}
+\Profile{http://academic.research.microsoft.com/Author/18727784}{Microsoft Academic: Gnedenko, B. D.}
+\Profile{http://academic.research.microsoft.com/Author/54532184}{Microsoft Academic: Gnedenko, B. V.}
+
+
+\subsection*{Education}
+\Degree{year?}{Ph.D.}{Moscow State University}<http://genealogy.math.ndsu.nodak.edu/id.php?id=17513>
+
+
+\subsection*{Honors}
+\Honor{1962}{IMS Fellow}
+
+
+\subsection*{Biographies}
+\Biography{gnedenko__boris_v:8}
+\Biography{gnedenko__boris_v:10}
+\Biography{gnedenko__boris_v:9}
+\end{document}

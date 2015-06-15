@@ -1,0 +1,40 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Scott, David W.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Scott, David W.}
+\ID{scott__david_w}
+\AltID{scott__david}
+
+
+
+\Homepage{http://www.stat.rice.edu/~scottdw/}
+\Homepage{http://www.stat.rice.edu/~scottdw/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=157700}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:scott.david-w}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=35389}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/54450176}{Microsoft Academic: Scott, David W.}
+\Profile{http://academic.research.microsoft.com/Author/12551521}{Microsoft Academic: Scott, David W.}
+
+
+\subsection*{Education}
+\Degree{1976}{Ph.D.}{Rice University}[Nonparametric Probability Density Estimation by Optimization Theoretic Techniques]<http://genealogy.math.ndsu.nodak.edu/id.php?id=35389>
+
+
+\subsection*{Honors}
+\Honor{1990}{IMS Fellow}
+\end{document}

@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Sun, Jiayang
+\end{filecontents}
+
+\begin{document}
+
+\Name{Sun, Jiayang}
+\ID{sun__jiayang}
+
+
+
+
+\Homepage{http://sun.cwru.edu/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=238039}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:sun.jiayang}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=83250}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/602265}{Microsoft Academic: Sun, Jiayang}
+
+
+\subsection*{Education}
+\Degree{1989}{Ph.D.}{Stanford University}[P-Values in Projection Pursuit]<http://genealogy.math.ndsu.nodak.edu/id.php?id=83250>
+
+
+\subsection*{Honors}
+\Honor{2005}{IMS Fellow}{For important contributions to projection pursuit, confidence bands, biased sampling, and bump-hunting; for innovative interdisciplinary contributions; and for valuable service to the profession}
+\end{document}

@@ -1,0 +1,48 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Yamamoto, Sumiyasu
+
+@article{yamamoto__sumiyasu:7,
+year={1998},
+author={Anonymous},
+title={{U}ntitled},
+journal={IMS Bulletin},
+pages={267},
+volume={27},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Yamamoto, Sumiyasu} \Deceased
+\ID{yamamoto__sumiyasu}
+
+
+
+
+\DOB{1917}
+\DOD{1998-03-20}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=209178}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:yamamoto.sumiyasu}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/3357440}{Microsoft Academic: Yamamoto, Sumiyasu}
+\Profile{http://academic.research.microsoft.com/Author/54466720}{Microsoft Academic: Yamamoto, Sumiyasu}
+
+
+\subsection*{Honors}
+\Honor{1977}{IMS Fellow}
+
+
+\subsection*{Death Notice}
+\DeathNotice{yamamoto__sumiyasu:7}
+\end{document}

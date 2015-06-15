@@ -1,0 +1,33 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Wong, Weng Kee
+\end{filecontents}
+
+\begin{document}
+
+\Name{Wong, Weng Kee}
+\ID{wong__weng_kee}
+\AltID{wong__weng}
+
+
+
+\Homepage{http://www.biostat.ucla.edu/Directory/Wwong}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:wong.weng-kee}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/18744266}{Microsoft Academic: Wong, Weng-Kee}
+\Profile{http://academic.research.microsoft.com/Author/53623543}{Microsoft Academic: Wong, Weng Kee}
+
+
+\subsection*{Honors}
+\Honor{2011}{IMS Fellow}{For prolific and path-breaking work on optimal design, including continuous optimal designs, min-max, heteroscedastic and multi-objective optimal designs, and for substantial editorial service}
+\end{document}

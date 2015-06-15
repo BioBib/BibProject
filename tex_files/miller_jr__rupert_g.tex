@@ -1,0 +1,49 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Miller, Rupert G., Jr.
+
+@article{miller_jr__rupert_g:9,
+year={1986},
+author={Anonymous},
+title={{U}ntitled},
+journal={IMS Bulletin},
+pages={271},
+volume={15},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Miller, Rupert G., Jr.} \Deceased
+\ID{miller_jr__rupert_g}
+\AltID{miller__rupert}
+
+
+
+\DOB{1933-01-31}
+\DOD{1986-03-15}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=124930}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:miller.rupert}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:miller.rupert-g-jun}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/55003856}{Microsoft Academic: Jr, Rupert G. Miller}
+\Profile{http://academic.research.microsoft.com/Author/12605356}{Microsoft Academic: Jr, Rupert G. Miller}
+
+
+\subsection*{Honors}
+\Honor{1968}{IMS Fellow}
+
+
+\subsection*{Death Notice}
+\DeathNotice{miller_jr__rupert_g:9}
+\end{document}

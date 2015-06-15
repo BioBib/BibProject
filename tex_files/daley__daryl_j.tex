@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Daley, Daryl J.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Daley, Daryl J.}
+\ID{daley__daryl_j}
+\AltID{daley__daryl}
+
+\DisplayName{Daley, Daryl}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=54210}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:daley.daryl-j}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=69763}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/53973905}{Microsoft Academic: Daley, Daryl J.}
+\Profile{http://academic.research.microsoft.com/Author/53973901}{Microsoft Academic: Daley, D. J.}
+\Profile{http://academic.research.microsoft.com/Author/12608294}{Microsoft Academic: Daley, Daryl}
+
+
+\subsection*{Education}
+\Degree{1969}{Ph.D.}{University of Cambridge}<http://genealogy.math.ndsu.nodak.edu/id.php?id=69763>
+
+
+\subsection*{Honors}
+\Honor{1978}{IMS Fellow}
+\end{document}

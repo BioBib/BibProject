@@ -1,0 +1,64 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Barankin, Edward W.
+
+@article{barankin__edward_w:8,
+year={1985},
+author={Anonymous},
+title={{U}ntitled},
+journal={IMS Bulletin},
+pages={339},
+volume={14},
+}
+
+@misc{barankin__edward_w:518097,
+year={1986},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Blackwell, D., Bellah, R. N., Bickel, P. J., Borah, W. W. and Lehmann, E. L. (1986). Edward William Barankin, Statistics: Berkeley. University of California: In memoriam},
+url={http://content.cdlib.org/view?docId=hb767nb3z6&doc.view=frames&chunk.id=div00005&toc.depth=1&toc.id=},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Barankin, Edward W.} \Deceased
+\ID{barankin__edward_w}
+\AltID{barankin__edward}
+
+
+
+\DOB{1920}
+\DOD{1985-05-01}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=30865}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:barankin.edward-w}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=31715}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18725128}{Microsoft Academic: Barankin, Edward W.}
+
+
+\subsection*{Education}
+\Degree{1946}{Ph.D.}{University of California, Berkeley}[The Characteristic Values of Linear Transformations]<http://genealogy.math.ndsu.nodak.edu/id.php?id=31715>
+
+
+\subsection*{Honors}
+\Honor{1951}{IMS Fellow}
+
+
+\subsection*{Death Notice}
+\DeathNotice{barankin__edward_w:8}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{barankin__edward_w:518097}
+\end{document}

@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Getoor, Ronald K.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Getoor, Ronald K.}
+\ID{getoor__ronald_k}
+\AltID{getoor__ronald}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=72885}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:getoor.ronald-k}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=5112}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12009}{Microsoft Academic: Getoor, Ronald K.}
+\Profile{http://academic.research.microsoft.com/Author/55281855}{Microsoft Academic: Getoor, Ronald}
+
+
+\subsection*{Education}
+\Degree{1954}{Ph.D.}{University of Michigan}[Some Connections Between Operators in Hilbert Space and Random Functions of Second Order]<http://genealogy.math.ndsu.nodak.edu/id.php?id=5112>
+
+
+\subsection*{Honors}
+\Honor{1971}{IMS Fellow}
+\end{document}

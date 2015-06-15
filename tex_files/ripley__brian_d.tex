@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Ripley, Brian D.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Ripley, Brian D.}
+\ID{ripley__brian_d}
+\AltID{ripley__brian}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=148565}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:ripley.brian-david}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=76975}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/55109849}{Microsoft Academic: Ripley, Brian D.}
+
+
+\subsection*{Education}
+\Degree{1976}{Ph.D.}{University of Cambridge}[Stochastic Geometry and the Analysis of Spatial Patterns]<http://genealogy.math.ndsu.nodak.edu/id.php?id=76975>
+
+
+\subsection*{Honors}
+\Honor{1976}{Rollo Davidson Prize}
+\Honor{1987}{IMS Fellow}
+\Honor{1987}{IMS Medallion Lecturer}
+\Honor{1990}{The Royal Society of Edinburgh, Fellow}
+\Honor{2013}{Guy Medal in Silver}
+\end{document}

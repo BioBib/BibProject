@@ -1,0 +1,29 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Cheng, Ming-Yen
+\end{filecontents}
+
+\begin{document}
+
+\Name{Cheng, Ming-Yen}
+\ID{cheng__ming-yen}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:cheng.ming-yen}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/846368}{Microsoft Academic: Cheng, Ming-Yen}
+
+
+\subsection*{Honors}
+\Honor{2007}{IMS Fellow}{For her outstanding contributions to nonparametric and semiparametric statistics, and for her dedicated service to the statistical profession}
+\end{document}

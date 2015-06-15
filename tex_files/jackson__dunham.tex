@@ -1,0 +1,70 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Jackson, Dunham
+
+@article{jackson__dunham:10,
+year={1959},
+author={Hart, W. L.},
+title={{D}unham {J}ackson, {J}uly 24, 1888-{N}ovember 6, 1946},
+journal={Biographical Memoirs},
+pages={141-179},
+publisher={National Academies Press},
+url={http://books.nap.edu/html/biomems/djackson.pdf},
+}
+
+@incollection{jackson__dunham:11,
+year={2010},
+author={O'Connor, J. J. and Robertson, E. F.},
+title={{D}unham {J}ackson},
+addendum={MacTutor biography},
+url={http://www-history.mcs.st-andrews.ac.uk/Biographies/Jackson_Dunham.html},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Jackson, Dunham} \Deceased
+\ID{jackson__dunham}
+
+
+
+
+\DOB{1888-07-24}
+\DOD{1946-11-06}
+
+
+\Homepage{http://www-history.mcs.st-and.ac.uk/Printonly/Jackson_Dunham.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=467492}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:jackson.dunham}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=45028}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12762075}{Microsoft Academic: Jackson, Dunham}
+\Profile{http://academic.research.microsoft.com/Author/51115026}{Microsoft Academic: Jackson, Dunham}
+\Profile{http://academic.research.microsoft.com/Author/49911696}{Microsoft Academic: Jackson, Dunham}
+
+
+\subsection*{Education}
+\Degree{1911}{Ph.D.}{Georg-August-Universit\"{a}t G\"{o}ttingen}[\"{U}ber die Genauigkeit der Ann\"{a}herung stetiger Funktionen durch ganze rationale Funktionen gegebenen Grades und trigonometrische Summen gegebener Ordnung]<http://genealogy.math.ndsu.nodak.edu/id.php?id=45028>
+
+
+\subsection*{Honors}
+\Honor{1915}{American Academy of Arts and Sciences, Fellow}
+\Honor{1935}{Chauvenet Prize}
+\Honor{1935}{National Academy of Sciences, Member}
+\Honor{before 1943}{IMS Fellow}
+
+
+\subsection*{Biographies}
+\Biography{jackson__dunham:10}
+\Biography{jackson__dunham:11}
+\end{document}

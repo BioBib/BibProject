@@ -1,0 +1,112 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Barnard, George A.
+
+@article{barnard__george_a:13,
+year={1988},
+author={DeGroot, M. H.},
+title={{A} conversation with {G}eorge {A}. {B}arnard},
+journal={Statist. Sci.},
+pages={196-212},
+volume={3},
+url={http://www.jstor.org/stable/2245568},
+}
+
+@incollection{barnard__george_a:14,
+year={2005},
+author={Lindley, D. V.},
+title={{B}arnard, {G}eorge {A}lfred},
+crossref={booktitle:encyclopedia-of-biostatistics},
+}
+
+@misc{barnard__george_a:169312,
+year={2002},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Lindley, D. George Barnard, anti-establishment statistician concerned with quality control. The Guardian, Aug. 9, 2002},
+}
+
+@misc{barnard__george_a:163624,
+year={2002},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Professor George Barnard. The Times, Aug. 16, 2002},
+}
+
+@article{barnard__george_a:10,
+year={2002},
+author={Lindley, D. V.},
+title={{U}ntitled},
+journal={IMS Bulletin},
+pages={8},
+volume={31(5)},
+}
+
+@article{barnard__george_a:11,
+year={2003},
+author={Lindley, D. V.},
+title={{P}rofessor {G}eorge {A}. {B}arnard, 1915-2002},
+journal={J. Roy. Statist. Soc. Ser. D},
+pages={231-234},
+volume={52},
+url={http://www.jstor.org/stable/4128249},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Barnard, George A.} \Deceased
+\ID{barnard__george_a}
+\AltID{barnard__george}
+
+\DisplayName{Barnard, George}
+
+
+\DOB{1915-09-23}
+\DOD{2002-08-09}
+\DOD{2002-07-30}
+
+
+\subsection*{Profiles}
+\Profile{http://en.wikipedia.org/wiki/George_Alfred_Barnard}{Wikipedia}
+\Profile{http://www.york.ac.uk/depts/maths/histstat/people/barnard.gif}{www.york.ac.uk}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=31350}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:barnard.george-a}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=82303}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12884931}{Microsoft Academic: Barnard, George A.}
+\Profile{http://academic.research.microsoft.com/Author/52859646}{Microsoft Academic: Barnard, G. A.}
+
+
+\subsection*{Education}
+\Degree{1936}{Princeton}{University}<http://genealogy.math.ndsu.nodak.edu/id.php?id=82303>
+
+
+\subsection*{Honors}
+\Honor{1958}{Guy Medal in Silver}
+\Honor{1959}{IMS Fellow}
+\Honor{1975}{Guy Medal in Gold}
+\Honor{1976}{R. A. Fisher Lecturer}
+
+
+\subsection*{Biographies}
+\Biography{barnard__george_a:13}
+\Biography{barnard__george_a:14}
+
+
+\subsection*{Obituaries}
+\Obituary{barnard__george_a:169312}
+\Obituary{barnard__george_a:163624}
+
+
+\subsection*{Memorials}
+\InMemoriam{barnard__george_a:10}
+\InMemoriam{barnard__george_a:11}
+\end{document}

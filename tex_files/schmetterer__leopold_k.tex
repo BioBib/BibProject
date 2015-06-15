@@ -1,0 +1,83 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Schmetterer, Leopold K.
+
+@incollection{schmetterer__leopold_k:9,
+year={2008},
+author={O'Connor, J. J. and Robertson, E. F.},
+title={{L}eopold {S}chmetterer},
+addendum={MacTutor biography},
+url={http://www-history.mcs.st-andrews.ac.uk/Biographies/Schmetterer.html},
+}
+
+@article{schmetterer__leopold_k:8,
+year={2004},
+author={Pflug, G.},
+title={{L}eopold {S}chmetterer, 1919-2004},
+journal={IMS Bulletin},
+pages={8},
+volume={33(5)},
+}
+
+@misc{schmetterer__leopold_k:667572,
+year={2004},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Pflug, G. (2004). Professor Leopold K. Schmetterer (1919-2004). International Statistical Institute Newsletter, Vol. 28(3)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Schmetterer, Leopold K.} \Deceased
+\ID{schmetterer__leopold_k}
+\AltID{schmetterer__leopold}
+
+\DisplayName{Schmetterer, Leopold}
+
+
+\DOB{1919-11-08}
+\DOD{2004-08-23}
+
+
+\Homepage{http://www.zbp.univie.ac.at/ausstellung/zbp/schmetterer/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=156295}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:schmetterer.leopold}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=52322}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/49688889}{Microsoft Academic: Leopold K. Schmetterer}
+\Profile{http://academic.research.microsoft.com/Author/52097950}{Microsoft Academic: Leopold Schmetterer}
+\Profile{http://academic.research.microsoft.com/Author/23716036}{Microsoft Academic: Leopold F. Schmetterer}
+\Profile{http://academic.research.microsoft.com/Author/45723805}{Microsoft Academic: Leopold Schmetterer}
+\Profile{http://academic.research.microsoft.com/Author/52964761}{Microsoft Academic: Leopold Schmetterer}
+
+
+\subsection*{Education}
+\Degree{1941}{Dr.}{phil. Universit\"{a}t Wien}[Approximation komplexer Zahlen durch Zahlen $K(i\sqrt{11})$]<http://genealogy.math.ndsu.nodak.edu/id.php?id=52322>
+
+
+\subsection*{Honors}
+\Honor{1961}{IMS Fellow}
+
+
+\subsection*{Biography}
+\Biography{schmetterer__leopold_k:9}
+
+
+\subsection*{Obituary}
+\Obituary{schmetterer__leopold_k:8}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{schmetterer__leopold_k:667572}
+\end{document}

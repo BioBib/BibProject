@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Dryden, Ian L.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Dryden, Ian L.}
+\ID{dryden__ian_l}
+\AltID{dryden__ian}
+
+
+
+\Homepage{http://www.stat.sc.edu/~dryden/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:dryden.ian-l}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/520958}{Microsoft Academic: Dryden, Ian L.}
+
+
+\subsection*{Honors}
+\Honor{2012}{IMS Fellow}{For important contributions to non-Euclidean data analysis, especially methodology for statistical shape analysis, and for inter-disciplinary applications in image analysis, and the biomedical sciences}
+\end{document}

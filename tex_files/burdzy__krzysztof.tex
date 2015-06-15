@@ -1,0 +1,40 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Burdzy, Krzysztof
+\end{filecontents}
+
+\begin{document}
+
+\Name{Burdzy, Krzysztof}
+\ID{burdzy__krzysztof}
+
+
+
+
+\Homepage{http://www.math.washington.edu/~burdzy/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=43385}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:burdzy.krzysztof}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=28295}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/154229}{Microsoft Academic: Burdzy, Krzysztof}
+\Profile{http://scholar.google.be/citations?user=v5lrJCIAAAAJ&hl=en}{Google Scholar}
+
+
+\subsection*{Education}
+\Degree{1984}{Ph.D.}{University of California, Berkeley}[Excursions of Complex Brownian Motion]<http://genealogy.math.ndsu.nodak.edu/id.php?id=28295>
+
+
+\subsection*{Honors}
+\Honor{1992}{Rollo Davidson Prize}
+\Honor{1999}{IMS Fellow}{For fundamental work on Brownian motion, especially path properties and applications to analysis}
+\end{document}

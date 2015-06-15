@@ -1,0 +1,81 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Kou, S. C. Samuel
+
+@misc{kou__s_c_samuel:995504,
+year={2008},
+author={Anonymous},
+title={{U}ntitled},
+addendum={(2008). Samuel Kou appointed Professor of Statistics. Harvard Gazette, Aug. 28},
+url={http://news.harvard.edu/gazette/story/2008/08/samuel-kou-appointed-professor-of-statistics/},
+}
+
+@article{kou__s_c_samuel:7,
+year={2009},
+author={Ireland, C.},
+title={{K}ou is shaking up the world of statistics},
+journal={Harvard Gazette},
+}
+
+@misc{kou__s_c_samuel:653762,
+year={2009},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Ireland, C. (2009). Kou is shaking up the world of statistics. Harvard Gazette, Feb. 2},
+url={http://news.harvard.edu/gazette/story/2009/02/kou-is-shaking-up-the-world-of-statistics/},
+}
+
+@misc{kou__s_c_samuel:75090,
+year={2009},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Samuel Kou. Amstat News, May 2009, p. 43},
+}
+
+@misc{kou__s_c_samuel:594919,
+year={2012},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Mukherjee, B. (2012). COPSS Presidents' Award: Samuel Kou. IMS Bulletin, Vol. 41(7), pp. 10-11},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Kou, S. C. Samuel}
+\ID{kou__s_c_samuel}
+\AltID{kou__samuel}
+
+\DisplayName{Kou, Samuel}
+
+
+\Homepage{http://www.stat.harvard.edu/faculty_page.php?page=kou.html}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:kou.samuel}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/2853373}{Microsoft Academic: Kou, Samuel}
+
+
+\subsection*{Honors}
+\Honor{2007}{Tweedie New Researcher Award}
+\Honor{2009}{IMS Medallion Lecturer}
+\Honor{2012}{COPSS Presidents' Award}
+\Honor{2012}{IMS Fellow}{For influential and pioneering contributions to stochastic modeling and statistical inference in biophysics, and to Monte Carlo, Bayesian and nonparametric methods}
+
+
+\subsection*{Biographies}
+\Biography{kou__s_c_samuel:995504}
+\Biography{kou__s_c_samuel:7}
+\Biography{kou__s_c_samuel:653762}
+\Biography{kou__s_c_samuel:75090}
+\Biography{kou__s_c_samuel:594919}
+\end{document}

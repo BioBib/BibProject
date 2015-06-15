@@ -1,0 +1,77 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Wu, C. F. Jeff
+
+@article{wu__c-f_jeff:9,
+year={2004},
+author={Sitter, R. R. and Tang, B.},
+title={{C}. {F}. {J}eff {W}u: {A} {P}rofile},
+journal={IMS Bulletin},
+pages={4-5},
+volume={33(4)},
+}
+
+@article{wu__c-f_jeff:10,
+year={2011},
+author={Newton, M.},
+title={{C}{O}{P}{S}{S} {F}isher {L}ecture: {C}. {F}. {J}eff {W}u},
+journal={IMS Bulletin},
+pages={6},
+volume={40(3)},
+}
+
+@misc{wu__c-f_jeff:711959,
+year={2013},
+author={Anonymous},
+title={{U}ntitled},
+addendum={C. F. Jeff Wu. Amstat News, Feb. 2013, p. 34},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Wu, C. F. Jeff}
+\ID{wu__c-f_jeff}
+\AltID{wu__c-f}
+
+
+
+\Homepage{http://www2.isye.gatech.edu/~jeffwu/publications/}
+\Homepage{http://www.isye.gatech.edu/~jeffwu/publications/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=184765}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:wu.chien-fu-jeff}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:wu.chien-fu}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=34328}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/52989013}{Microsoft Academic: Wu, C. F. Jeff}
+\Profile{http://academic.research.microsoft.com/Author/53442797}{Microsoft Academic: Wu, Chien-Fu}
+\Profile{http://academic.research.microsoft.com/Author/12604663}{Microsoft Academic: Wu, C. F. Jeff}
+
+
+\subsection*{Education}
+\Degree{1976}{Ph.D.}{University of California, Berkeley}[Contributions to Optimization Theory with Applications to Optimal Design of Experiments]<http://genealogy.math.ndsu.nodak.edu/id.php?id=34328>
+
+
+\subsection*{Honors}
+\Honor{1984}{IMS Fellow}
+\Honor{1985}{IMS Medallion Lecturer}
+\Honor{1987}{COPSS Presidents' Award}
+\Honor{2004}{National Academy of Engineering, Member}
+\Honor{2011}{R. A. Fisher Lecturer}
+
+
+\subsection*{Biographies}
+\Biography{wu__c-f_jeff:9}
+\Biography{wu__c-f_jeff:10}
+\Biography{wu__c-f_jeff:711959}
+\end{document}

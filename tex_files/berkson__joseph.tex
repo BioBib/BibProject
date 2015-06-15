@@ -1,0 +1,89 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Berkson, Joseph
+
+@incollection{berkson__joseph:10,
+year={2005},
+author={O'Fallon, W. M.},
+title={{B}erkson, {J}oseph},
+crossref={booktitle:encyclopedia-of-biostatistics},
+}
+
+@misc{berkson__joseph:12,
+year={year?},
+author={Anonymous},
+title={{J}oseph {B}erkson {P}apers,},
+addendum={MS 575, Special Collections Department, Iowa State University Library},
+url={http://www.lib.iastate.edu/spcl/manuscripts/MS575.html},
+}
+
+@article{berkson__joseph:7,
+year={1983},
+author={Taylor, W. F.},
+title={{J}oseph {B}erkson, 1899-1982},
+journal={J. Roy. Statist. Soc. Ser. A},
+pages={438-439},
+volume={146},
+url={http://www.jstor.org/stable/2981468},
+}
+
+@article{berkson__joseph:8,
+year={1983},
+author={O'Fallon, J. R.},
+title={{J}oseph {B}erkson, 1899-1982},
+journal={Biometrics},
+pages={1107-1108},
+volume={39},
+url={http://www.jstor.org/stable/2531346},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Berkson, Joseph} \Deceased
+\ID{berkson__joseph}
+
+
+
+
+\DOB{1899-05-14}
+\DOD{1982-09-12}
+
+
+\subsection*{Profiles}
+\Profile{http://en.wikipedia.org/wiki/Joseph_Berkson}{Wikipedia}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=279825}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:berkson.joseph}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=49767}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/23301565}{Microsoft Academic: Joseph Berkson}
+
+
+\subsection*{Education}
+\Degree{1928}{Sc.D.}{The Johns Hopkins University}[Growth Changes in Physical Correlation: Height Weight and Chest Circumference in Males]<http://genealogy.math.ndsu.nodak.edu/id.php?id=49767>
+
+
+\subsection*{Honors}
+\Honor{1948}{IMS Fellow}
+\Honor{1979}{National Academy of Sciences, Member}
+
+
+\subsection*{Biography}
+\Biography{berkson__joseph:10}
+
+
+\subsection*{Archive}
+\Archive{berkson__joseph:12}
+
+
+\subsection*{Memorials}
+\InMemoriam{berkson__joseph:7}
+\InMemoriam{berkson__joseph:8}
+\end{document}

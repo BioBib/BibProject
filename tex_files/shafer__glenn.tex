@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Shafer, Glenn
+\end{filecontents}
+
+\begin{document}
+
+\Name{Shafer, Glenn}
+\ID{shafer__glenn}
+
+
+
+
+\Homepage{http://www.glennshafer.com/personal.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=198394}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:shafer.glenn-r}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=100562}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/41033627}{Microsoft Academic: Shafer, Glenn}
+\Profile{http://academic.research.microsoft.com/Author/17877820}{Microsoft Academic: Shafer, Grundbegriffe Glenn}
+
+
+\subsection*{Education}
+\Degree{1973}{Ph.D.}{Princeton University}[Allocations of Probability: A Theory of Partial Belief]<http://genealogy.math.ndsu.nodak.edu/id.php?id=100562>
+
+
+\subsection*{Honors}
+\Honor{1990}{IMS Fellow}
+\end{document}

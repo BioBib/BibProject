@@ -1,0 +1,103 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Daniel, Cuthbert
+
+@article{daniel__cuthbert:12,
+year={1988},
+author={Tufte, E. R.},
+title={{A} conversation with {C}uthbert {D}aniel},
+journal={Statist. Sci.},
+pages={413-424},
+volume={3},
+url={http://www.jstor.org/stable/2245394},
+}
+
+@misc{daniel__cuthbert:13,
+year={1988},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Hunter, J. S. (1988). An interview with Cuthbert Daniel, parts I and II. Distinguished Statistician Video Series, DS018. Pfizer, University of Connecticut-Storrs and American Statistical Association. Available at},
+url={http://www.amstat.org},
+}
+
+@book{daniel__cuthbert:7,
+year={1987},
+author={Anonymous},
+title={{D}esign, {D}ata and {A}nalysis, by {S}ome {F}riends of {C}uthbert {D}aniel},
+addendum={contain biography and bibliography},
+publisher={Wiley},
+}
+
+@article{daniel__cuthbert:8,
+year={1998},
+author={Hunter, J. S.},
+title={{C}uthbert {D}aniel: {I}ndustrial statistician},
+journal={Amer. Statist.},
+pages={89-92},
+volume={52},
+url={http://www.jstor.org/stable/2685465},
+}
+
+@article{daniel__cuthbert:9,
+year={2000},
+author={Mallows, C.},
+title={{C}uthbert {D}aniel, 1905-1997},
+journal={J. Roy. Statist. Soc. Ser. D},
+pages={111},
+volume={49},
+url={http://www.jstor.org/stable/2681261},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Daniel, Cuthbert} \Deceased
+\ID{daniel__cuthbert}
+
+
+
+
+\DOB{1904-08-27}
+\DOD{1997-08-08}
+
+
+\Homepage{http://www.irsst.qc.ca/fr/_personne_0723.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.york.ac.uk/depts/maths/histstat/people/daniel.gif}{www.york.ac.uk}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=431378}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:daniel.cuthbert}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/12526350}{Microsoft Academic: Cuthbert Daniel}
+
+
+\subsection*{Honors}
+\Honor{1963}{IMS Fellow}
+\Honor{1971}{R. A. Fisher Lecturer}
+\Honor{1974}{Samuel S. Wilks Award}
+
+
+\subsection*{Biography}
+\Biography{daniel__cuthbert:12}
+
+
+\subsection*{DVD}
+\DVD{daniel__cuthbert:13}
+
+
+\subsection*{Festschrift}
+\Festschrift{daniel__cuthbert:7}
+
+
+\subsection*{Memorials}
+\InMemoriam{daniel__cuthbert:8}
+\InMemoriam{daniel__cuthbert:9}
+\end{document}

@@ -1,0 +1,40 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Rosenblatt, Murray
+\end{filecontents}
+
+\begin{document}
+
+\Name{Rosenblatt, Murray}
+\ID{rosenblatt__murray}
+
+
+
+
+\Homepage{http://www.math.ucsd.edu/~mrosenbl/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=202295}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:rosenblatt.murray}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=11769}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12628413}{Microsoft Academic: Rosenblatt, Murray}
+
+
+\subsection*{Education}
+\Degree{1949}{Ph.D.}{Cornell University}[On Distributions of Certain Weiner Functionals]<http://genealogy.math.ndsu.nodak.edu/id.php?id=11769>
+
+
+\subsection*{Honors}
+\Honor{1955}{IMS Fellow}
+\Honor{1970}{Wald Lecturer}
+\Honor{1984}{National Academy of Sciences, Member}
+\end{document}

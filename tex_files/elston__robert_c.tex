@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Elston, Robert C.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Elston, Robert C.}
+\ID{elston__robert_c}
+\AltID{elston__robert}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=63200}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:elston.robert-c}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=51029}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/56614844}{Microsoft Academic: Elston, Robert C.}
+
+
+\subsection*{Education}
+\Degree{1959}{Ph.D.}{Cornell University}[The Estimation of Genetic Gain in Milk Yield Due to Sire Selection over a Period of Time]<http://genealogy.math.ndsu.nodak.edu/id.php?id=51029>
+
+
+\subsection*{Honors}
+\Honor{2001}{IMS Fellow}{For a lifetime of developing novel statistical methods for genetic research and their application to data; and for rigorously training both statisticians in genetics and geneticists in statistics}
+\end{document}

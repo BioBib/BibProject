@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Pierce, Donald A.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Pierce, Donald A.}
+\ID{pierce__donald_a}
+\AltID{pierce__donald}
+
+\DisplayName{Pierce, Donald}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=219872}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:pierce.donald-a}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=43460}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/56378345}{Microsoft Academic: Donald A. Pierce}
+
+
+\subsection*{Education}
+\Degree{1965}{Ph.D.}{Oklahoma State University}[A Method for Determining the Sensitivity of A Bayes Procedure to the Prior Distribution]<http://genealogy.math.ndsu.nodak.edu/id.php?id=43460>
+
+
+\subsection*{Honors}
+\Honor{1979}{IMS Fellow}
+\end{document}

@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Elashoff, Robert M.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Elashoff, Robert M.}
+\ID{elashoff__robert_m}
+\AltID{elashoff__robert}
+
+\DisplayName{Elashoff, Robert}
+
+
+\Homepage{http://www.biostat.ucla.edu/Directory/Relashoff}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=227052}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:elashoff.robert-m}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=34698}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/54319731}{Microsoft Academic: Elashoff, Robert M.}
+
+
+\subsection*{Education}
+\Degree{1963}{Ph.D.}{Harvard University}[Multivariate Two Sample Problems with Discrete and Continuous Variables]<http://genealogy.math.ndsu.nodak.edu/id.php?id=34698>
+
+
+\subsection*{Honors}
+\Honor{1977}{IMS Fellow}
+\end{document}

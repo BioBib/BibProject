@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Dickey, James M.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Dickey, James M.} \Deceased
+\ID{dickey__james_m}
+\AltID{dickey__james}
+
+
+
+\DOB{1939-10-04}
+\DOD{2008-11-27}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=57765}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:dickey.james-m}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=5522}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/41782447}{Microsoft Academic: James M. Dickey}
+
+
+\subsection*{Education}
+\Degree{1965}{Ph.D.}{University of Michigan}[Bayesian Statistical Inference for Multivariate Location Parameters]<http://genealogy.math.ndsu.nodak.edu/id.php?id=5522>
+
+
+\subsection*{Honors}
+\Honor{1982}{IMS Fellow}
+\end{document}

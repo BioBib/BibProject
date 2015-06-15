@@ -1,0 +1,29 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Wang, Naisyin
+\end{filecontents}
+
+\begin{document}
+
+\Name{Wang, Naisyin}
+\ID{wang__naisyin}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:wang.naisyin}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/53820099}{Microsoft Academic: Wang, Npindex}
+
+
+\subsection*{Honors}
+\Honor{2006}{IMS Fellow}{For fundamental contributions in the area of non- and semiparametric modeling of longitudinal/clustered data, measurement error problems and imputation inferences; for innovative interdisciplinary contributions; and for valuable editorial service to the profession}
+\end{document}

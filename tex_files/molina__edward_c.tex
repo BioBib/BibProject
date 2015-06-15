@@ -1,0 +1,34 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Molina, Edward C.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Molina, Edward C.} \Deceased
+\ID{molina__edward_c}
+\AltID{molina__edward}
+
+
+
+\DOB{1877-12-13}
+\DOD{1964-04-19}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=502839}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:molina.edward-c}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/47157841}{Microsoft Academic: Molina, Edward C.}
+
+
+\subsection*{Honors}
+\Honor{before 1943}{IMS Fellow}
+\end{document}

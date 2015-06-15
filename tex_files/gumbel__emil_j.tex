@@ -1,0 +1,55 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Gumbel, Emil J.
+
+@incollection{gumbel__emil_j:9,
+year={2001},
+author={Hertz, S.},
+title={{E}mil {J}ulius {G}umbel},
+pages={406-410},
+crossref={booktitle:statisticians-of-the-centuries},
+}
+
+@incollection{gumbel__emil_j:8,
+year={2006},
+author={Anonymous},
+title={{U}ntitled},
+year={2006},
+crossref={booktitle:encyclopedia-of-statistical-sciences},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Gumbel, Emil J.} \Deceased
+\ID{gumbel__emil_j}
+\AltID{gumbel__emil}
+
+
+
+\DOB{1891-07-18}
+\DOD{1966-09-10}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=455846}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:gumbel.emil-julius}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/17963827}{Microsoft Academic: Gumbel, Emil J.}
+
+
+\subsection*{Honors}
+\Honor{before 1943}{IMS Fellow}
+
+
+\subsection*{Biographies}
+\Biography{gumbel__emil_j:9}
+\Biography{gumbel__emil_j:8}
+\end{document}

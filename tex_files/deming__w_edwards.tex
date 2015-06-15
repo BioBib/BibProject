@@ -1,0 +1,89 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Deming, W. Edwards
+
+@incollection{deming__w_edwards:15,
+year={1993},
+author={Anonymous},
+title={{M}ann, {N}. {R}. {W}. {E}dwards {D}eming, 1900-1993},
+publisher={American {S}tatistical {A}ssociation},
+booktitle={Statisticians in {H}istory},
+url={http://www.amstat.org/about/statisticiansinhistory/index.cfm?fuseaction=biosinfo&BioID=4},
+}
+
+@incollection{deming__w_edwards:14,
+year={2001},
+author={Fienberg, S. E. and Stigler, S. M.},
+title={{W}. {E}dwards {D}eming},
+pages={485-490},
+crossref={booktitle:statisticians-of-the-centuries},
+}
+
+@incollection{deming__w_edwards:13,
+year={2006},
+author={Anonymous},
+title={{U}ntitled},
+year={2006},
+crossref={booktitle:encyclopedia-of-statistical-sciences},
+}
+
+@article{deming__w_edwards:8,
+year={1994},
+author={Stigler, S. M.},
+title={{W}. {E}dwards {D}eming: 1900-1993},
+journal={IMS Bulletin},
+pages={6-7},
+volume={23},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Deming, W. Edwards} \Deceased
+\ID{deming__w_edwards}
+\AltID{deming__w}
+
+
+
+\DOB{1900-10-14}
+\DOD{1993-12-20}
+
+
+\Homepage{http://deming.org/?content=652}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=239809}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:deming-w-e.}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:edwards.deming-w}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:deming.w-edwars}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:deming.w-edwards}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/54445100}{Microsoft Academic: Deming, W. Edwards}
+\Profile{http://academic.research.microsoft.com/Author/51352181}{Microsoft Academic: Deming, W. Edwards}
+
+
+\subsection*{Honors}
+\Honor{1945}{IMS President}
+\Honor{1983}{National Academy of Engineering, Member}
+\Honor{1983}{Samuel S. Wilks Award}
+\Honor{1987}{National Medal of Technology and Innovation}
+\Honor{before 1943}{IMS Fellow}
+
+
+\subsection*{Biographies}
+\Biography{deming__w_edwards:15}
+\Biography{deming__w_edwards:14}
+\Biography{deming__w_edwards:13}
+
+
+\subsection*{Obituary}
+\Obituary{deming__w_edwards:8}
+\end{document}

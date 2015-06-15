@@ -1,0 +1,33 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Koltchinskii, Vladimir
+\end{filecontents}
+
+\begin{document}
+
+\Name{Koltchinskii, Vladimir}
+\ID{koltchinskii__vladimir}
+
+
+
+
+\Homepage{http://www.math.gatech.edu/users/vlad}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:koltchinskii.vladimir-i}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/1161692}{Microsoft Academic: Koltchinskii, Vladimir I.}
+
+
+\subsection*{Honors}
+\Honor{2004}{IMS Fellow}{For outstanding research on empirical processes, statistical theory of learning and multivariate statistics}
+\Honor{2004}{IMS Medallion Lecturer}
+\end{document}

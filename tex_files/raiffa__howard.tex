@@ -1,0 +1,41 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Raiffa, Howard
+\end{filecontents}
+
+\begin{document}
+
+\Name{Raiffa, Howard}
+\ID{raiffa__howard}
+
+
+
+
+\Homepage{http://iiasa.ac.at/IIASA_Society/docs/raiffavisit.htm}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=144050}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:raiffa.howard}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=5139}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/25105}{Microsoft Academic: Raiffa, Howard}
+
+
+\subsection*{Education}
+\Degree{1952}{Ph.D.}{University of Michigan}[Arbitration Schemes for Generalized Two-Person Games]<http://genealogy.math.ndsu.nodak.edu/id.php?id=5139>
+
+
+\subsection*{Honors}
+\Honor{1958}{IMS Fellow}
+\Honor{1968}{American Academy of Arts and Sciences, Fellow}
+\Honor{1993}{Royal Spanish Academy of Sciences, Foreign Member}
+\Honor{2005}{National Academy of Engineering, Member}
+\end{document}

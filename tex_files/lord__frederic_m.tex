@@ -1,0 +1,73 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Lord, Frederic M.
+
+@incollection{lord__frederic_m:10,
+year={2005},
+author={Hambleton, R. K.},
+title={{L}ord, {F}rederic {M}ather},
+pages={1104-1106},
+crossref={booktitle:encyclopedia-of-statistics-in-behavioral-science},
+}
+
+@misc{lord__frederic_m:274410,
+year={2000},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Frederic Lord, who devised testing yardstick, dies at 87. The New York Times, Feb. 10, 2000},
+}
+
+@article{lord__frederic_m:9,
+year={2000},
+author={Wainer, H. and Stocking, M.},
+title={{F}rederic {M}ather {L}ord (1912-2000)},
+journal={Psychometrika},
+pages={143-144},
+volume={65},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Lord, Frederic M.} \Deceased
+\ID{lord__frederic_m}
+\AltID{lord__frederic}
+
+
+
+\DOB{1912-11-12}
+\DOD{2000-02-05}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=490302}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:lord.frederic-m}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/42488585}{Microsoft Academic: Frederic M. Lord}
+\Profile{http://academic.research.microsoft.com/Author/46149749}{Microsoft Academic: Frederic M. Lord}
+\Profile{http://academic.research.microsoft.com/Author/52425111}{Microsoft Academic: Frederic M. Lord}
+\Profile{http://academic.research.microsoft.com/Author/56911807}{Microsoft Academic: Frederic M. Lord}
+
+
+\subsection*{Honors}
+\Honor{1968}{IMS Fellow}
+
+
+\subsection*{Biography}
+\Biography{lord__frederic_m:10}
+
+
+\subsection*{Obituary}
+\Obituary{lord__frederic_m:274410}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{lord__frederic_m:9}
+\end{document}

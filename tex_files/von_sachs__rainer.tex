@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for von Sachs, Rainer
+\end{filecontents}
+
+\begin{document}
+
+\Name{von Sachs, Rainer}
+\ID{von_sachs__rainer}
+
+
+
+
+\Homepage{http://www.stat.ucl.ac.be/ISpersonnel/rvs/info.html}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:von-sachs.rainer}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/446046}{Microsoft Academic: Rainer von Sachs}
+
+
+\subsection*{Honors}
+\Honor{2009}{IMS Fellow}{For outstanding contributions in time series analysis and nonparametric smoothing of correlated data using wavelet and time-frequency localization methods}
+\end{document}

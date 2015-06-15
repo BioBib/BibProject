@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Grubbs, Frank E.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Grubbs, Frank E.}
+\ID{grubbs__frank_e}
+\AltID{grubbs__frank}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=455146}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:grubbs.frank-e}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=5160}{Math. Genealogy}
+
+
+\subsection*{Education}
+\Degree{1949}{Ph.D.}{University of Michigan}[Sample Criteria for Testing Outlying Observations]<http://genealogy.math.ndsu.nodak.edu/id.php?id=5160>
+
+
+\subsection*{Honors}
+\Honor{1964}{Samuel S. Wilks Award}
+\Honor{1972}{IMS Fellow}
+\end{document}

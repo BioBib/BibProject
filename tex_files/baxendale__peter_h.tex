@@ -1,0 +1,40 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Baxendale, Peter H.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Baxendale, Peter H.}
+\ID{baxendale__peter_h}
+\AltID{baxendale__peter}
+
+\DisplayName{Baxendale, Peter}
+
+
+\Homepage{http://almaak.usc.edu/~baxendal/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=32845}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:baxendale.peter-h}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=14988}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/2984614}{Microsoft Academic: Baxendale, Peter H.}
+
+
+\subsection*{Education}
+\Degree{1973}{Ph.D.}{University of Warwick}[Gaussian Measures on Function Spaces]<http://genealogy.math.ndsu.nodak.edu/id.php?id=14988>
+
+
+\subsection*{Honors}
+\Honor{1988}{Rollo Davidson Prize}
+\Honor{1993}{IMS Fellow}
+\end{document}

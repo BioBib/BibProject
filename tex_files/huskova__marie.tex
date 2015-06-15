@@ -1,0 +1,34 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Hušková, Marie
+\end{filecontents}
+
+\begin{document}
+
+\Name{Hu\v{s}kov\'{a}, Marie}
+\ID{huskova__marie}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:huskova.marie}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/18258568}{Microsoft Academic: Marie Huskova (Marie Hu\v{s}kov\'{a})}
+\Profile{http://academic.research.microsoft.com/Author/53497028}{Microsoft Academic: Marie Huskova (Marie Huskov\'{a})}
+\Profile{http://academic.research.microsoft.com/Author/51084708}{Microsoft Academic: M. Huskova (M. Huskov\'{a})}
+\Profile{http://academic.research.microsoft.com/Author/44764791}{Microsoft Academic: Marie Huskova}
+\Profile{http://academic.research.microsoft.com/Author/50505021}{Microsoft Academic: Marie Huskova (Marie Hu\v{s}kov\'{a})}
+\Profile{http://academic.research.microsoft.com/Author/51084677}{Microsoft Academic: M. Huskova (M. Huskov\'{a})}
+
+
+\subsection*{Honors}
+\Honor{1999}{IMS Fellow}{For excellent research on rank statistics, adaptation, robustness, and change-point problems; for outstanding service as an editor and organizer; and for dignity as a scholar}
+\end{document}

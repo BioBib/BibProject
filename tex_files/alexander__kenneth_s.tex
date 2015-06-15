@@ -1,0 +1,40 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Alexander, Kenneth S.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Alexander, Kenneth S.}
+\ID{alexander__kenneth_s}
+\AltID{alexander__kenneth}
+
+\DisplayName{Alexander, Kenneth}
+
+
+\Homepage{http://www-bcf.usc.edu/~alexandr/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=212312}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:alexander.kenneth-s}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=69275}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12522295}{Microsoft Academic: Alexander, Kenneth S.}
+
+
+\subsection*{Education}
+\Degree{1982}{Ph.D.}{Massachusetts Institute of Technology}[Some Limit Theorems and Inequalities for Weighted and Non-Identically Distributed Empirical Processes]<http://genealogy.math.ndsu.nodak.edu/id.php?id=69275>
+
+
+\subsection*{Honors}
+\Honor{1991}{IMS Fellow}
+\Honor{1996}{IMS Medallion Lecturer}
+\end{document}

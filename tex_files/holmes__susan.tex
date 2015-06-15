@@ -1,0 +1,30 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Holmes, Susan
+\end{filecontents}
+
+\begin{document}
+
+\Name{Holmes, Susan}
+\ID{holmes__susan}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:holmes.susan-p}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:holmes-susan.}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/54382419}{Microsoft Academic: Holmes, S. J.}
+
+
+\subsection*{Honors}
+\Honor{2006}{IMS Fellow}{For lifetime contributions to the statistics/probability community through service to professional societies and her departments; for development of tools for the education of probabilists; for mentoring women and students; and for applied statistical research in cancer testing}
+\end{document}

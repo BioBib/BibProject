@@ -1,0 +1,33 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Koziol, James A.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Koziol, James A.}
+\ID{koziol__james_a}
+\AltID{koziol__james}
+
+
+
+\Homepage{http://www.scripps.edu/research/faculty/koziol}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=105940}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:koziol.james-a}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/12686122}{Microsoft Academic: Koziol, James A.}
+
+
+\subsection*{Honors}
+\Honor{1982}{IMS Fellow}
+\end{document}

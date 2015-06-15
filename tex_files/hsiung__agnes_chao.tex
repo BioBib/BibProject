@@ -1,0 +1,29 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Hsiung, Agnes Chao
+\end{filecontents}
+
+\begin{document}
+
+\Name{Hsiung, Agnes Chao}
+\ID{hsiung__agnes_chao}
+\AltID{hsiung__agnes}
+
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:hsiung.agnes-chao}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/53416961}{Microsoft Academic: Hsiung, Chao A.}
+
+
+\subsection*{Honors}
+\Honor{1994}{IMS Fellow}
+\end{document}

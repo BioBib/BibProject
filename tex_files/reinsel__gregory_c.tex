@@ -1,0 +1,55 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Reinsel, Gregory C.
+
+@article{reinsel__gregory_c:9,
+year={2006},
+author={Clayton, M.},
+title={{G}regory {C}. {R}einsel, 1948-2004},
+journal={IMS Bulletin},
+pages={9},
+volume={35(2)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Reinsel, Gregory C.} \Deceased
+\ID{reinsel__gregory_c}
+\AltID{reinsel__gregory}
+
+
+
+\DOB{1948-03-10}
+\DOD{2004-05-05}
+
+
+\Homepage{http://www.stat.wisc.edu/~reinsel/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=146615}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:reinsel.gregory-c}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=49280}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12766796}{Microsoft Academic: Reinsel, Gregory C.}
+
+
+\subsection*{Education}
+\Degree{1976}{Ph.D.}{University of Pittsburgh}[Estimation of Linear Time Series Models]<http://genealogy.math.ndsu.nodak.edu/id.php?id=49280>
+
+
+\subsection*{Honors}
+\Honor{2000}{IMS Fellow}{For pioneering research in multivariate time series methods and in statistical trend analysis of global atmospheric ozone and temperature data, and for outstanding editorial and other service to the profession}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{reinsel__gregory_c:9}
+\end{document}

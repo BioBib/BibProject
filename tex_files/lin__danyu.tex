@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Lin, Danyu
+\end{filecontents}
+
+\begin{document}
+
+\Name{Lin, Danyu}
+\ID{lin__danyu}
+
+
+
+
+\Homepage{http://www.bios.unc.edu/~lin}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=305274}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:lin.danyu-y}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=61502}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/4329417}{Microsoft Academic: Lin, Dan-Yu}
+
+
+\subsection*{Education}
+\Degree{year?}{Ph.D.}{}<http://genealogy.math.ndsu.nodak.edu/id.php?id=61502>
+
+
+\subsection*{Honors}
+\Honor{1999}{IMS Fellow}{For significant contributions to survival analysis, design and analysis of clinical trials, and epidemiological methods; and for editorial and other services to the profession}
+\end{document}

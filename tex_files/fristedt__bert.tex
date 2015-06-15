@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Fristedt, Bert
+\end{filecontents}
+
+\begin{document}
+
+\Name{Fristedt, Bert}
+\ID{fristedt__bert}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=69605}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:fristedt.bert-e}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=37240}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/42779226}{Microsoft Academic: Fristedt, Bert E.}
+
+
+\subsection*{Education}
+\Degree{1963}{Ph.D.}{Massachusetts Institute of Technology}[Generalized Variations, Continuity, and Hausdorff Measures of Sample Functions of Stochastic Processes with Independent Increments]<http://genealogy.math.ndsu.nodak.edu/id.php?id=37240>
+
+
+\subsection*{Honors}
+\Honor{1986}{IMS Fellow}
+\end{document}

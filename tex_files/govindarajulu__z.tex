@@ -1,0 +1,54 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Govindarajulu, Z.
+
+@misc{govindarajulu__z:294966,
+year={2011},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Zakkula Govindarajulu. Amstat News, Feb. 2011, p. 33},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Govindarajulu, Z.} \Deceased
+\ID{govindarajulu__z}
+
+
+
+
+\DOB{1933-05-15}
+\DOD{2010-12-05}
+
+
+\Homepage{http://it.wikipedia.org/wiki/Zakkula_Govindarajulu}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=75825}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:govindarajulu.zakkula}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:govindarajulu-z.}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=89322}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12963891}{Microsoft Academic: Govindarajulu, Zakkula}
+
+
+\subsection*{Education}
+\Degree{1961}{Ph.D.}{University of Minnesota-Minneapolis}[Central Limit Theorems and Asymptotic Efficiency for One Sample Non-Parametric Procedures]<http://genealogy.math.ndsu.nodak.edu/id.php?id=89322>
+
+
+\subsection*{Honors}
+\Honor{1974}{IMS Fellow}
+
+
+\subsection*{Obituary}
+\Obituary{govindarajulu__z:294966}
+\end{document}

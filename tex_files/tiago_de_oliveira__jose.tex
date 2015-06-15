@@ -1,0 +1,47 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Tiago da Fonseca Oliveira, José
+
+@article{tiago_de_oliveira__jose:8,
+year={1992},
+author={Anonymous},
+title={{J}os\'{e} {T}iago da {F}onseca {O}liveira, 1928-1992},
+journal={IMS Bulletin},
+pages={467},
+volume={21},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Tiago da Fonseca Oliveira, Jos\'{e}} \Deceased
+\ID{tiago_de_oliveira__jose}
+\AltID{tiago_de_oliveira__j}
+
+\DisplayName{Tiago de Oliveira, J.}
+
+
+\DOB{1928-12-22}
+\DOD{1992-06-23}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:tiago-de-oliveira.jose}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/50909173}{Microsoft Academic: Jose Tiago de Oliveira (Jos\'{e} Tiago de Oliveira)}
+
+
+\subsection*{Honors}
+\Honor{1974}{IMS Fellow}
+
+
+\subsection*{Obituary}
+\Obituary{tiago_de_oliveira__jose:8}
+\end{document}

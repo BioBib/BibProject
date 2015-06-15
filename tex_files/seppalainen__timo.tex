@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Seppäläinen, Timo
+\end{filecontents}
+
+\begin{document}
+
+\Name{Sepp\"{a}l\"{a}inen, Timo}
+\ID{seppalainen__timo}
+
+
+
+
+\Homepage{http://www.math.wisc.edu/~seppalai/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:seppalainen.timo}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/534180}{Microsoft Academic: Timo Seppalainen (Timo Sepp\"{a}l\"{a}inen)}
+
+
+\subsection*{Honors}
+\Honor{2010}{IMS Fellow}{For seminal contributions to the study of hydrodynamic limits of particle systems, for developing new tools for the study of random walks in random environments, and for editorial and organizational services}
+\end{document}

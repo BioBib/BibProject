@@ -1,0 +1,37 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Sprott, David A.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Sprott, David A.}
+\ID{sprott__david_a}
+\AltID{sprott__david}
+
+\DisplayName{Sprott, David}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=165770}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:sprott.david-a}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=16191}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18028690}{Microsoft Academic: Sprott, David A.}
+
+
+\subsection*{Education}
+\Degree{1955}{Ph.D.}{University of Toronto}[Balanced Incomplete Block Design]<http://genealogy.math.ndsu.nodak.edu/id.php?id=16191>
+
+
+\subsection*{Honors}
+\Honor{1973}{IMS Fellow}
+\Honor{1975}{The Royal Society of Canada, Fellow}
+\end{document}

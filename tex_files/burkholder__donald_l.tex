@@ -1,0 +1,72 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Burkholder, Donald L.
+
+@article{burkholder__donald_l:1,
+year={2013},
+author={Peter Burkholder and William Burkholder and Rodrigo Ba\~{n}uelos and Burgess Davis and Renming Song},
+title={{O}bituary: {D}onald {L}. {B}urkholder 1927--2013},
+journal={IMS Bulletin},
+url={http://bulletin.imstat.org/wp-content/uploads/Bulletin42_4.pdf},
+}
+
+@article{burkholder__donald_l:408678,
+year={2013},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Burkholder, P., Burkholder, W., Ba\~{n}uelos, R., Davis, B., and Song, R. (2013). Donald L. Burkholder, 1927-2013. IMS Bulletin, Vol. 42(4), pp. 6-7},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Burkholder, Donald L.} \Deceased
+\ID{burkholder__donald_l}
+\AltID{burkholder__donald}
+
+\DisplayName{Burkholder, Donald}
+
+
+\DOB{1927-01-19}
+\DOD{2013-04-14}
+
+
+\Homepage{http://www.math.uiuc.edu/~donburk/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=43510}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:burkholder.donald-l}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=4599}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/10717548}{Microsoft Academic: Burkholder, D. L.}
+\Profile{http://academic.research.microsoft.com/Author/52809173}{Microsoft Academic: Burkholder, D. L.}
+
+
+\subsection*{Education}
+\Degree{1955}{Ph.D.}{The University of North Carolina at Chapel Hill}[On a Certain Class of Stochastic Approximation Processes]<http://genealogy.math.ndsu.nodak.edu/id.php?id=4599>
+
+
+\subsection*{Honors}
+\Honor{1963}{IMS Fellow}
+\Honor{1971}{Wald Lecturer}
+\Honor{1976}{IMS President}
+\Honor{1982}{IMS Medallion Lecturer}
+\Honor{1992}{American Academy of Arts and Sciences, Fellow}
+\Honor{1992}{National Academy of Sciences, Member}
+
+
+\subsection*{Obituary}
+\Obituary{burkholder__donald_l:1}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{burkholder__donald_l:408678}
+\end{document}

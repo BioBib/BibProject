@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Lo, Albert Y.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Lo, Albert Y.}
+\ID{lo__albert_y}
+\AltID{lo__albert}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=200419}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:lo.albert-y}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=34452}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/53416723}{Microsoft Academic: Lo, Albert Y.}
+\Profile{http://academic.research.microsoft.com/Author/23027839}{Microsoft Academic: Lo, A. Y. LoAY}
+
+
+\subsection*{Education}
+\Degree{1978}{Ph.D.}{University of California, Berkeley}[Some Contributions to Bayesian Non-Parametric Statistical Inference]<http://genealogy.math.ndsu.nodak.edu/id.php?id=34452>
+
+
+\subsection*{Honors}
+\Honor{1992}{IMS Fellow}
+\end{document}

@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Dunson, David B.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Dunson, David B.}
+\ID{dunson__david_b}
+\AltID{dunson__david
+
+}
+
+\DisplayName{Dunson, David}
+
+
+\Homepage{http://www.isds.duke.edu/~dunson/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:dunson.david-b}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/1515802}{Microsoft Academic: Dunson, David B.}
+
+
+\subsection*{Honors}
+\Honor{2010}{COPSS Presidents' Award}
+\Honor{2010}{IMS Fellow}{For theoretical contributions to latent variable research, non-parametric Bayesian methods, and isotonic inference; and for his editorial services and leadership in the practice of biostatistics}
+\end{document}

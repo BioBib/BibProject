@@ -1,0 +1,37 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for O'Brien, George L.
+\end{filecontents}
+
+\begin{document}
+
+\Name{O'Brien, George L.}
+\ID{obrien__george_l}
+\AltID{obrien__george}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=132755}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:obrien.george-l}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:obrien.george-g}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=38756}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/55724025}{Microsoft Academic: O'Brien, George L.}
+\Profile{http://academic.research.microsoft.com/Author/18641587}{Microsoft Academic: O'Brien, George L.}
+
+
+\subsection*{Education}
+\Degree{1971}{Ph.D.}{Dartmouth College}[Comparison Methods in Stochastic Processes]<http://genealogy.math.ndsu.nodak.edu/id.php?id=38756>
+
+
+\subsection*{Honors}
+\Honor{1987}{IMS Fellow}
+\end{document}

@@ -1,0 +1,59 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Proschan, Frank
+
+@article{proschan__frank:7,
+year={2004},
+author={Hollander, M.},
+title={{F}rank {P}roschan},
+journal={IMS Bulletin},
+pages={9},
+volume={33(2)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Proschan, Frank} \Deceased
+\ID{proschan__frank}
+
+
+
+
+\DOB{1921-04-07}
+\DOD{2003-12-27}
+
+
+\Homepage{http://www.informs.org/Recognize-Excellence/Award-Recipients/Frank-Proschan}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=142290}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:proschan.frank}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=78421}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/53133277}{Microsoft Academic: Proschan, Frank}
+\Profile{http://academic.research.microsoft.com/Author/18014094}{Microsoft Academic: Proschan, Frank}
+
+
+\subsection*{Education}
+\Degree{1959}{Ph.D.}{Stanford University}[Polya-Type Distributions in Renewal Theory, with an Application to an Inventory Problem]<http://genealogy.math.ndsu.nodak.edu/id.php?id=78421>
+
+
+\subsection*{Honors}
+\Honor{1967}{IMS Fellow}
+\Honor{1979}{IMS Medallion Lecturer}
+\Honor{1982}{Samuel S. Wilks Award}
+\Honor{1991}{John von Neumann Theory Prize}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{proschan__frank:7}
+\end{document}

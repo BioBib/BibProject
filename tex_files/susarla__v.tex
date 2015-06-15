@@ -1,0 +1,53 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Susarla, Vyaghreshwarudu
+
+@article{susarla__v:8,
+year={1989},
+author={Schick, A.},
+title={{V}yaghra {S}warudu {S}usarla, 1943-1989},
+journal={IMS Bulletin},
+pages={171},
+volume={18},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Susarla, Vyaghreshwarudu} \Deceased
+\ID{susarla__v}
+\AltID{susarla__vyaghra}
+
+\DisplayName{Susarla, V.}
+
+
+\DOB{1943-10-02}
+\DOD{1989-01-04}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=192677}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:susarla.v}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=81645}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/13124826}{Microsoft Academic: Susarla, V.}
+
+
+\subsection*{Education}
+\Degree{1970}{Ph.D.}{Michigan State University}[Rates of Convergence in Sequence-Compound Squared-Distance Loss Estimation and Two-Action Problems]<http://genealogy.math.ndsu.nodak.edu/id.php?id=81645>
+
+
+\subsection*{Honors}
+\Honor{1984}{IMS Fellow}
+
+
+\subsection*{Obituary}
+\Obituary{susarla__v:8}
+\end{document}

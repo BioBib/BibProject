@@ -1,0 +1,37 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Millar, P. Warwick
+\end{filecontents}
+
+\begin{document}
+
+\Name{Millar, P. Warwick}
+\ID{millar__p_warwick}
+\AltID{millar__p}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=124830}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:millar.p-warwick}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=4079}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/52092283}{Microsoft Academic: P. Warwick Millar}
+\Profile{http://academic.research.microsoft.com/Author/51326000}{Microsoft Academic: P. Warwick Millar}
+
+
+\subsection*{Education}
+\Degree{1967}{Ph.D.}{University of Illinois at Urbana-Champaign}[Martingale Integrals]<http://genealogy.math.ndsu.nodak.edu/id.php?id=4079>
+
+
+\subsection*{Honors}
+\Honor{1973}{IMS Fellow}
+\Honor{1984}{IMS Medallion Lecturer}
+\end{document}

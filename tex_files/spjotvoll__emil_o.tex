@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Spjøtvoll, Emil O.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Spj{\o}tvoll, Emil O.} \Deceased
+\ID{spjotvoll__emil_o}
+\AltID{spjotvoll__emil}
+
+\DisplayName{Spj{\o}tvoll, Emil}
+
+
+\DOB{1940-07-21}
+\DOD{2002-03-04}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=165670}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:spjotvoll.emil}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/41814618}{Microsoft Academic: Emil Spjotvoll (Emil Spj{\o}tvoll)}
+\Profile{http://academic.research.microsoft.com/Author/41814619}{Microsoft Academic: EMIL SPJOTVOLL (EMIL SPJ{\O}TVOLL)}
+\Profile{http://academic.research.microsoft.com/Author/12864687}{Microsoft Academic: Emil Spjotvoll}
+\Profile{http://academic.research.microsoft.com/Author/18750408}{Microsoft Academic: Emil Spjotvoll (Emil Spj{\o}tvoll)}
+
+
+\subsection*{Honors}
+\Honor{1984}{IMS Fellow}
+\end{document}

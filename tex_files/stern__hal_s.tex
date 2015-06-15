@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Stern, Hal S.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Stern, Hal S.}
+\ID{stern__hal_s}
+\AltID{stern__hal}
+
+
+
+\Homepage{http://www.ics.uci.edu/~sternh/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:stern.hal-s}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/2890050}{Microsoft Academic: Stern, Hal S.}
+
+
+\subsection*{Honors}
+\Honor{2011}{IMS Fellow}{For world-class Bayesian methodological research, especially in the context of hierarchical models, for influential interdisciplinary work in disease mapping and health statistics, medicinal imaging, biology and the atmospheric sciences, and for extensive professional service}
+\end{document}

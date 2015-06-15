@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Kosorok, Michael R.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Kosorok, Michael R.}
+\ID{kosorok__michael_r}
+\AltID{kosorok__michael}
+
+
+
+\Homepage{http://www.bios.unc.edu/%7Ekosorok/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:kosorok.michael-r}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/12557059}{Microsoft Academic: Kosorok, Michael R.}
+
+
+\subsection*{Honors}
+\Honor{2007}{IMS Fellow}{For contributions to the applications of empirical processes and semiparametric methods in biostatistics, especially in event-time analysis, clinical trials, and microarray analysis; and for dedicated editorial service}
+\end{document}

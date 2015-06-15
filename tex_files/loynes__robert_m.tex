@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Loynes, Robert M.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Loynes, Robert M.}
+\ID{loynes__robert_m}
+\AltID{loynes__robert}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=228983}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:loynes.r-m}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=42590}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12832261}{Microsoft Academic: Loynes, R. M.}
+\Profile{http://academic.research.microsoft.com/Author/55102884}{Microsoft Academic: Loynes, R. M.}
+
+
+\subsection*{Education}
+\Degree{1963}{Ph.D.}{University of Cambridge}[Queues with a General Arrival Pattern]<http://genealogy.math.ndsu.nodak.edu/id.php?id=42590>
+
+
+\subsection*{Honors}
+\Honor{1972}{IMS Fellow}
+\end{document}

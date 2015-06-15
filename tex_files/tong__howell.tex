@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Tong, Howell
+\end{filecontents}
+
+\begin{document}
+
+\Name{Tong, Howell}
+\ID{tong__howell}
+
+
+
+
+\Homepage{http://stats.lse.ac.uk/tong/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=195164}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:tong.howell}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/1058057}{Microsoft Academic: Tong, Hung Man}
+\Profile{http://academic.research.microsoft.com/Author/12525984}{Microsoft Academic: Tong, Howell}
+\Profile{http://academic.research.microsoft.com/Author/55711397}{Microsoft Academic: Tong, Howel}
+
+
+\subsection*{Honors}
+\Honor{1993}{IMS Fellow}
+\Honor{2007}{Guy Medal in Silver}
+\end{document}

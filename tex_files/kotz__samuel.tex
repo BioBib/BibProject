@@ -1,0 +1,61 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Kotz, Samuel
+
+@misc{kotz__samuel:165290,
+year={2010},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Samuel Kotz. Amstat News, May 2010, p. 60},
+}
+
+@article{kotz__samuel:7,
+year={2010},
+author={Nadarajah, S.},
+title={{S}amuel {K}otz, 1930-2010},
+journal={IMS Bulletin},
+pages={6},
+volume={39(6)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Kotz, Samuel} \Deceased
+\ID{kotz__samuel}
+
+
+
+
+\DOB{1930-08-28}
+\DOD{2010-03-16}
+
+
+\Homepage{http://www.seas.gwu.edu/~kotz/SamuelKotzPapers05-09.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=105490}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:kotz.samuel}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/12601244}{Microsoft Academic: Kotz, Samuel}
+
+
+\subsection*{Honors}
+\Honor{1974}{IMS Fellow}
+
+
+\subsection*{Obituary}
+\Obituary{kotz__samuel:165290}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{kotz__samuel:7}
+\end{document}

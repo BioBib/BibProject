@@ -1,0 +1,37 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Morris, Carl N.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Morris, Carl N.}
+\ID{morris__carl_n}
+\AltID{morris__carl}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=127135}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:morris.carl-n}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=28244}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/55225166}{Microsoft Academic: Carl N. Morris}
+\Profile{http://academic.research.microsoft.com/Author/48137722}{Microsoft Academic: Carl N. Morris}
+
+
+\subsection*{Education}
+\Degree{1966}{Ph.D.}{Stanford University}[Admissible Bayes Procedures and Classes of Epsilon Bayes Procedures for Testing Hypothesis in a Multinomial Distribution]<http://genealogy.math.ndsu.nodak.edu/id.php?id=28244>
+
+
+\subsection*{Honors}
+\Honor{1980}{IMS Fellow}
+\Honor{1986}{IMS Medallion Lecturer}
+\end{document}

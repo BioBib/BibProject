@@ -1,0 +1,66 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Singh, Kesar
+
+@article{singh__kesar:8,
+year={2012},
+author={Babu, J. and Liu, R. and Strawderman, W. and Xie, M.},
+title={{K}esar {S}ingh, 1955-2012},
+journal={IMS Bulletin},
+pages={5},
+volume={41(5)},
+}
+
+@misc{singh__kesar:959336,
+year={year?},
+author={Anonymous},
+title={{U}ntitled},
+addendum={In memory of Professor Kesar Singh. Department of Statistics and Biostatistics, Rutgers University},
+url={http://www.stat.rutgers.edu/announcements/62/176-in-memory-of-professor-kesar-singh},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Singh, Kesar} \Deceased
+\ID{singh__kesar}
+
+
+
+
+\DOB{1955-06-20}
+\DOD{2012-05-16}
+
+
+\Homepage{http://stat.rutgers.edu/people/faculty/singh.html}
+\Homepage{http://stat.rutgers.edu/people/faculty/singh.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=211204}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:singh.kesar}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=46319}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12761314}{Microsoft Academic: Singh, Kesar}
+\Profile{http://academic.research.microsoft.com/Author/55106716}{Microsoft Academic: Singh, Kesar}
+
+
+\subsection*{Education}
+\Degree{1979}{Ph.D.}{Indian Statistical Institute, Calcutta}<http://genealogy.math.ndsu.nodak.edu/id.php?id=46319>
+
+
+\subsection*{Honors}
+\Honor{1987}{IMS Fellow}
+
+
+\subsection*{Memorials}
+\InMemoriam{singh__kesar:8}
+\InMemoriam{singh__kesar:959336}
+\end{document}

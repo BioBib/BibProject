@@ -1,0 +1,65 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Koopmans, Tjalling C.
+
+@article{koopmans__tjalling_c:12,
+year={1995},
+author={Scarf, H. E.},
+title={{T}jalling {C}harles {K}oopmans, {A}ugust 28, 1910-{F}ebruary 26, 1985},
+journal={Biographical Memoirs},
+pages={262-291},
+publisher={National Academies Press},
+volume={67},
+url={http://books.nap.edu/html/biomems/tkoopmans.pdf},
+}
+
+@incollection{koopmans__tjalling_c:13,
+year={2008},
+author={Dimand, R. W.},
+title={{K}oopmans, {T}jalling},
+crossref={booktitle:international-encyclopedia-of-the-social-sciences},
+url={http://www.encyclopedia.com/topic/Tjalling_Charles_Koopmans.aspx#1-1G2:3045301268-full},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Koopmans, Tjalling C.} \Deceased
+\ID{koopmans__tjalling_c}
+\AltID{koopmans__tjalling}
+
+
+
+\DOB{1910-08-28}
+\DOD{1985-02-26}
+
+
+\Homepage{http://www.newschool.edu/nssr/het/profiles/koopmans.htm}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=104725}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:koopmans.tjalling-charles}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/2680836}{Microsoft Academic: Koopmans, Tjalling C.}
+
+
+\subsection*{Honors}
+\Honor{1943}{IMS Fellow}
+\Honor{1950}{The Royal Netherlands Academy of Arts and Sciences, Corresponding Member}
+\Honor{1960}{American Academy of Arts and Sciences, Fellow}
+\Honor{1969}{National Academy of Sciences, Member}
+\Honor{1975}{Nobel Prize in Economic Sciences}
+
+
+\subsection*{Biographies}
+\Biography{koopmans__tjalling_c:12}
+\Biography{koopmans__tjalling_c:13}
+\end{document}

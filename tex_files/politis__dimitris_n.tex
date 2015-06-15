@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Politis, Dimitris N.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Politis, Dimitris N.}
+\ID{politis__dimitris_n}
+\AltID{politis__dimitris}
+
+\DisplayName{Politis, Dimitris}
+
+
+\Homepage{http://www.math.ucsd.edu/~politis/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=322785}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:politis.dimitris-nicolas}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=40952}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12528241}{Microsoft Academic: Politis, Dimitris Nicolas}
+
+
+\subsection*{Education}
+\Degree{1990}{Ph.D.}{Stanford University}[A General Resampling Scheme for Time-Series with Weak Dependence]<http://genealogy.math.ndsu.nodak.edu/id.php?id=40952>
+
+
+\subsection*{Honors}
+\Honor{2004}{IMS Fellow}{For innovative methodology in the analysis of time series and models of spatial dependence, as well as groundbreaking theory in nonparametric statistics}
+\end{document}

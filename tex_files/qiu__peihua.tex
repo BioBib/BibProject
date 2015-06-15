@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Qiu, Peihua
+\end{filecontents}
+
+\begin{document}
+
+\Name{Qiu, Peihua}
+\ID{qiu__peihua}
+
+
+
+
+\Homepage{http://www.stat.umn.edu/%7Eqiu/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:qiu.peihua}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/1029815}{Microsoft Academic: Qiu, Peihua}
+
+
+\subsection*{Honors}
+\Honor{2010}{IMS Fellow}{For theoretical and computational advances in jump detection in regression surfaces, and for a novel approach to process control using bootstrap methods and sequences of control limits}
+\end{document}

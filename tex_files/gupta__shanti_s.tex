@@ -1,0 +1,83 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Gupta, Shanti S.
+
+@incollection{gupta__shanti_s:9,
+year={2006},
+author={Panchapakesan, S.},
+title={{G}upta, {S}hanti {S}warup},
+crossref={booktitle:encyclopedia-of-statistical-sciences},
+}
+
+@incollection{gupta__shanti_s:10,
+year={2006},
+author={O'Connor, J. J. and Robertson, E. F.},
+title={{S}hanti {S}warup {G}upta},
+addendum={MacTutor biography},
+url={http://www-history.mcs.st-andrews.ac.uk/Biographies/Gupta.html},
+}
+
+@misc{gupta__shanti_s:963293,
+year={2002},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Berger, J. (2002). Shanti S. Gupta. IMS Bulletin, Vol. 31(3), p. 14},
+}
+
+@misc{gupta__shanti_s:352287,
+year={2002},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Purdue Department of Statistics (2002). Shanti Swarup Gupta (January 25, 1925-January 11, 2002). International Statistical Institute Newsletter, Vol. 26(1)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Gupta, Shanti S.} \Deceased
+\ID{gupta__shanti_s}
+\AltID{gupta__shanti}
+
+
+
+\DOB{1925-01-25}
+\DOD{2002-01-11}
+
+
+\Homepage{http://www.gap-system.org/~history/Printonly/Gupta.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=78435}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:gupta.shanti-s}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=24941}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/53309444}{Microsoft Academic: Gupta, Shanti S.}
+\Profile{http://academic.research.microsoft.com/Author/12595150}{Microsoft Academic: Gupta, Shanti S.}
+
+
+\subsection*{Education}
+\Degree{1956}{Ph.D.}{The University of North Carolina at Chapel Hill}[On a Decision Rule for a Problem in Ranking Means]<http://genealogy.math.ndsu.nodak.edu/id.php?id=24941>
+
+
+\subsection*{Honors}
+\Honor{1968}{IMS Fellow}
+\Honor{1990}{IMS President}
+
+
+\subsection*{Biographies}
+\Biography{gupta__shanti_s:9}
+\Biography{gupta__shanti_s:10}
+
+
+\subsection*{Memorials}
+\InMemoriam{gupta__shanti_s:963293}
+\InMemoriam{gupta__shanti_s:352287}
+\end{document}

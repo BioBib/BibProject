@@ -1,0 +1,40 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Robert, Christian P.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Robert, Christian P.}
+\ID{robert__christian_p}
+\AltID{robert__christian}
+
+\DisplayName{Robert, Christian}
+
+
+\Homepage{http://www.ceremade.dauphine.fr/~xian/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=241770}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:robert.christian-p}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=56675}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/1498189}{Microsoft Academic: Robert, Christian P.}
+
+
+\subsection*{Education}
+\Degree{1987}{Ph.D.}{Universit\'{e} de Rouen}[Estimateurs a retrecisseur]<http://genealogy.math.ndsu.nodak.edu/id.php?id=56675>
+
+
+\subsection*{Honors}
+\Honor{1996}{IMS Fellow}
+\Honor{2005}{IMS Medallion Lecturer}
+\end{document}

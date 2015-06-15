@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Wilkinson, Roger I.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Wilkinson, Roger I.} \Deceased
+\ID{wilkinson__roger_i}
+\AltID{wilkinson__roger}
+
+
+
+\DOB{1903}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=565610}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:wilkinson.roger-i}{zbMATH}
+
+
+\subsection*{Honors}
+\Honor{before 1943}{IMS Fellow}
+\end{document}

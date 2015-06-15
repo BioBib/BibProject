@@ -1,0 +1,105 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Guttman, Louis
+
+@incollection{guttman__louis:15,
+year={2006},
+author={Anonymous},
+title={{U}ntitled},
+year={2006},
+crossref={booktitle:encyclopedia-of-statistical-sciences},
+}
+
+@misc{guttman__louis:364248,
+year={1987},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Louis Guttman, a leader of social research in Israel. The New York Times, Oct. 27, 1987},
+}
+
+@article{guttman__louis:8,
+year={1988},
+author={Anonymous},
+title={{L}ouis {G}uttman, 1916-1987},
+journal={IMS Bulletin},
+pages={284},
+volume={17},
+}
+
+@article{guttman__louis:9,
+year={1988},
+author={Lingoes, J. C. and Tucker, L. R. and Shye, S.},
+title={{L}ouis {E}. {G}uttman (1916-1987)},
+journal={Psychometrika},
+pages={153-159},
+volume={53},
+}
+
+@article{guttman__louis:10,
+year={1988},
+author={Katz, E.},
+title={{L}ouis {G}uttman, 1916-1987},
+journal={Public Opinion Quarterly},
+pages={240-242},
+volume={52},
+url={http://www.jstor.org/stable/2749277},
+}
+
+@article{guttman__louis:11,
+year={1988},
+author={Shye, S.},
+title={{L}ouis {G}uttman, 1916-1987},
+journal={Applied Stochastic Models and Data Analysis},
+pages={75-77},
+volume={4},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Guttman, Louis} \Deceased
+\ID{guttman__louis}
+
+
+
+
+\DOB{1916-02-10}
+\DOD{1987-10-25}
+
+
+\subsection*{Profiles}
+\Profile{http://en.wikipedia.org/wiki/Louis_Guttman}{Wikipedia}
+\Profile{http://www.york.ac.uk/depts/maths/histstat/people/guttman.gif}{www.york.ac.uk}
+\Profile{http://zbmath.org/authors/?q=ai:guttman.louis}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/42213490}{Microsoft Academic: Guttman, Louis}
+
+
+\subsection*{Honors}
+\Honor{1946}{IMS Fellow}
+\Honor{1971}{Israel Academy of Sciences and Humanities, Member}
+\Honor{1975}{American Academy of Arts and Sciences, Foreign Honorary Member}
+\Honor{1978}{Israel Prize}
+
+
+\subsection*{Biography}
+\Biography{guttman__louis:15}
+
+
+\subsection*{Obituaries}
+\Obituary{guttman__louis:364248}
+\Obituary{guttman__louis:8}
+
+
+\subsection*{Memorials}
+\InMemoriam{guttman__louis:9}
+\InMemoriam{guttman__louis:10}
+\InMemoriam{guttman__louis:11}
+\end{document}

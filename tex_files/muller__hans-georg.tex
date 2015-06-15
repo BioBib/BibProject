@@ -1,0 +1,33 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Müller, Hans-Georg
+\end{filecontents}
+
+\begin{document}
+
+\Name{M\"{u}ller, Hans-Georg}
+\ID{muller__hans-georg}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=128040}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:muller.hans-georg}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/19812044}{Microsoft Academic: Hans-Georg Muller (Hans-Georg M\"{u}ller)}
+\Profile{http://academic.research.microsoft.com/Author/18336186}{Microsoft Academic: Hans-Georg Muller (Hans-Georg M\"{u}ller)}
+\Profile{http://academic.research.microsoft.com/Author/47827447}{Microsoft Academic: Hans-Georg Muller (Hans-Georg M\"{u}ller)}
+
+
+\subsection*{Honors}
+\Honor{1993}{IMS Fellow}
+\Honor{2007}{IMS Medallion Lecturer}
+\end{document}

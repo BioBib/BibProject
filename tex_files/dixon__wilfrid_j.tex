@@ -1,0 +1,79 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Dixon, Wilfrid J.
+
+@misc{dixon__wilfrid_j:977163,
+year={2009},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Dixon Award. Amstat News, Apr. 2009, p. 47},
+}
+
+@article{dixon__wilfrid_j:8,
+year={2008},
+author={Anonymous},
+title={{W}ilfrid {J}. {D}ixon},
+journal={Amstat News},
+pages={36-37},
+volume={Dec. 2008},
+}
+
+@article{dixon__wilfrid_j:9,
+year={2009},
+author={Anonymous},
+title={{W}ilfrid {J}. {D}ixon, 1915-2008},
+journal={IMS Bulletin},
+pages={6},
+volume={38(3)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Dixon, Wilfrid J.} \Deceased
+\ID{dixon__wilfrid_j}
+\AltID{dixon__wilfrid}
+
+\DisplayName{Dixon, Wilfrid}
+
+
+\DOB{1915-12-13}
+\DOD{2008-09-20}
+
+
+\Homepage{http://de.wikipedia.org/wiki/Wilfrid_Dixon}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=344047}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:dixon.wilfrid-j}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=43006}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/53898358}{Microsoft Academic: Dixon, Wilfrid}
+\Profile{http://academic.research.microsoft.com/Author/12602173}{Microsoft Academic: Dixon, W. J.}
+
+
+\subsection*{Education}
+\Degree{year?}{?type?}{?school?}<http://genealogy.math.ndsu.nodak.edu/id.php?id=43006>
+
+
+\subsection*{Honors}
+\Honor{1957}{IMS Fellow}
+\Honor{1992}{Samuel S. Wilks Award}
+
+
+\subsection*{Biography}
+\Biography{dixon__wilfrid_j:977163}
+
+
+\subsection*{Obituaries}
+\Obituary{dixon__wilfrid_j:8}
+\Obituary{dixon__wilfrid_j:9}
+\end{document}

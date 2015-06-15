@@ -1,0 +1,34 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Einmahl, Uwe
+\end{filecontents}
+
+\begin{document}
+
+\Name{Einmahl, Uwe}
+\ID{einmahl__uwe}
+
+
+
+
+\Homepage{http://homepages.vub.ac.be/~ueinmahl/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=243869}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:einmahl.uwe}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/1046681}{Microsoft Academic: Einmahl, Uwe}
+\Profile{http://academic.research.microsoft.com/Author/52690416}{Microsoft Academic: Einmahl, Uwe}
+
+
+\subsection*{Honors}
+\Honor{2000}{IMS Fellow}{For lasting contributions to the areas of laws of the iterated logarithm on Banach spaces, the Darling-Erd\u00f6s theorum for partial sums and martingale differences, strong approximations to multivariate partial sums, weighted approximations and local empirical processes}
+\end{document}

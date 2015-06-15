@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Hollander, Myles
+\end{filecontents}
+
+\begin{document}
+
+\Name{Hollander, Myles}
+\ID{hollander__myles}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=87435}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:hollander.myles}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=48317}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/8368306}{Microsoft Academic: Hollander, Myles}
+
+
+\subsection*{Education}
+\Degree{1966}{Ph.D.}{Stanford University}[Rank Tests for Randomized Blocks when the Alternatives Have an A Priori Ordering]<http://genealogy.math.ndsu.nodak.edu/id.php?id=48317>
+
+
+\subsection*{Honors}
+\Honor{1973}{IMS Fellow}
+\end{document}

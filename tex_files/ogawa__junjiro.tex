@@ -1,0 +1,53 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Ogawa, Junjiro
+
+@article{ogawa__junjiro:7,
+year={2000},
+author={Siotani, M. and Hayakawa, T.},
+title={{D}r. {J}unjiro {O}gawa},
+journal={IMS Bulletin},
+pages={413-414},
+volume={29},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Ogawa, Junjiro} \Deceased
+\ID{ogawa__junjiro}
+
+
+
+
+\DOB{1915-04-18}
+\DOD{2000-03-08}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=234340}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:ogawa.junjiro}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=52471}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/42777210}{Microsoft Academic: Ogawa, Junjiro}
+\Profile{http://academic.research.microsoft.com/Author/56754463}{Microsoft Academic: Ogawa, Junjiro}
+
+
+\subsection*{Education}
+\Degree{year?}{Ph.D.}{}<http://genealogy.math.ndsu.nodak.edu/id.php?id=52471>
+
+
+\subsection*{Honors}
+\Honor{1975}{IMS Fellow}
+
+
+\subsection*{Obituary}
+\Obituary{ogawa__junjiro:7}
+\end{document}

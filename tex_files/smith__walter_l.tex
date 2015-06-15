@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Smith, Walter L.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Smith, Walter L.}
+\ID{smith__walter_l}
+\AltID{smith__walter}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=194873}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:smith.walter-l}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=42167}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12764496}{Microsoft Academic: Smith, Walter L.}
+
+
+\subsection*{Education}
+\Degree{1954}{Ph.D.}{University of Cambridge}[Stochastic Sequences of Events]<http://genealogy.math.ndsu.nodak.edu/id.php?id=42167>
+
+
+\subsection*{Honors}
+\Honor{1956}{IMS Fellow}
+\end{document}

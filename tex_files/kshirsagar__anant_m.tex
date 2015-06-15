@@ -1,0 +1,37 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Kshirsagar, Anant M.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Kshirsagar, Anant M.}
+\ID{kshirsagar__anant_m}
+\AltID{kshirsagar__a}
+
+\DisplayName{Kshirsagar, A.}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=107205}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:kshirsagar.anant-m}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=42688}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/54469495}{Microsoft Academic: Kshirsagar, A. M.}
+\Profile{http://academic.research.microsoft.com/Author/18702000}{Microsoft Academic: Kshirsagar, Anant M.}
+
+
+\subsection*{Education}
+\Degree{1961}{Ph.D.}{University of Manchester}[Some Aspects of Multivariate Analysis]<http://genealogy.math.ndsu.nodak.edu/id.php?id=42688>
+
+
+\subsection*{Honors}
+\Honor{1977}{IMS Fellow}
+\end{document}

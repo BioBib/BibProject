@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Kuelbs, James D.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Kuelbs, James D.}
+\ID{kuelbs__james_d}
+\AltID{kuelbs__james}
+
+\DisplayName{Kuelbs, James}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=107460}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:kuelbs.james-d}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=9222}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/10723719}{Microsoft Academic: Kuelbs, James}
+\Profile{http://academic.research.microsoft.com/Author/53899967}{Microsoft Academic: Kuelbs, James D.}
+
+
+\subsection*{Education}
+\Degree{1965}{Ph.D.}{University of Minnesota-Minneapolis}[Integration on Spaces of Continuous Functions]<http://genealogy.math.ndsu.nodak.edu/id.php?id=9222>
+
+
+\subsection*{Honors}
+\Honor{1977}{IMS Fellow}
+\Honor{1981}{IMS Medallion Lecturer}
+\end{document}

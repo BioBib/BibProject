@@ -1,0 +1,40 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Griffeath, David
+\end{filecontents}
+
+\begin{document}
+
+\Name{Griffeath, David}
+\ID{griffeath__david}
+
+
+
+
+\Homepage{http://www.math.wisc.edu/~griffeat/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=76905}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:griffeath.david}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=9592}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/718307}{Microsoft Academic: Griffeath, David}
+
+
+\subsection*{Education}
+\Degree{1976}{Ph.D.}{Cornell University}[Coupling Methods for Markov Processes]<http://genealogy.math.ndsu.nodak.edu/id.php?id=9592>
+
+
+\subsection*{Honors}
+\Honor{1981}{IMS Fellow}
+\Honor{1982}{IMS Medallion Lecturer}
+\Honor{1992}{IMS Medallion Lecturer}
+\end{document}

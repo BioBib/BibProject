@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Chambers, John M.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Chambers, John M.}
+\ID{chambers__john_m}
+\AltID{chambers__john
+
+}
+
+\DisplayName{Chambers, John}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=423475}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:chambers.john-m}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/52749505}{Microsoft Academic: Chambers, John M.}
+
+
+\subsection*{Honors}
+\Honor{1982}{IMS Medallion Lecturer}
+\Honor{1998}{Neyman Lecturer}
+\Honor{1999}{IMS Fellow}{For pioneering work in statistical computing, especially in the design of an environment for computing with data that enables statistical research and analysis}
+\end{document}

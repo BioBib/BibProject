@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Dieulefait, Carlos E.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Dieulefait, Carlos E.} \Deceased
+\ID{dieulefait__carlos_e}
+\AltID{dieulefait__carlos}
+
+\DisplayName{Dieulefait, Carlos}
+
+
+\DOB{1901-07-27}
+\DOD{1982-11-03}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=200834}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:dieulefait.carlos-e}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/42787958}{Microsoft Academic: CARLOS E. PAR DIEULEFAIT}
+
+
+\subsection*{Honors}
+\Honor{1943}{IMS Fellow}
+\end{document}

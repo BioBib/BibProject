@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Vitale, Richard A.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Vitale, Richard A.}
+\ID{vitale__richard_a}
+\AltID{vitale__richard
+
+}
+
+\DisplayName{Vitale, Richard}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:vitale.richard-a}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/54237923}{Microsoft Academic: Vitale, Richard A.}
+
+
+\subsection*{Honors}
+\Honor{2007}{IMS Fellow}{For deep and influential contributions to probability inequalities, random sets and stochastic geometry, and symmetric statistics; and dedicated editorial service}
+\end{document}

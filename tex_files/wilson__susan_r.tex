@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Wilson, Susan R.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Wilson, Susan R.}
+\ID{wilson__susan_r}
+\AltID{wilson__susan}
+
+
+
+\Homepage{http://wwwmaths.anu.edu.au/~sue/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=183420}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:wilson.susan-r}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=57329}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18249800}{Microsoft Academic: Wilson, Susan R.}
+
+
+\subsection*{Education}
+\Degree{1972}{Ph.D.}{Australian National University}[Some Statistical Results in Genetics]<http://genealogy.math.ndsu.nodak.edu/id.php?id=57329>
+
+
+\subsection*{Honors}
+\Honor{1995}{IMS Fellow}
+\end{document}

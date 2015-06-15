@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Wallis, W. Allen
+\end{filecontents}
+
+\begin{document}
+
+\Name{Wallis, W. Allen} \Deceased
+\ID{wallis__w_allen}
+\AltID{wallis__w}
+
+
+
+\DOB{1912-11-05}
+\DOD{1998-10-12}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=314321}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:wallis.w-allen}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/52619415}{Microsoft Academic: Wallis, W. Allen}
+
+
+\subsection*{Honors}
+\Honor{1944}{IMS Fellow}
+\Honor{1964}{American Academy of Arts and Sciences, Fellow}
+\Honor{1980}{Samuel S. Wilks Award}
+\end{document}

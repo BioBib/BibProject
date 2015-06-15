@@ -1,0 +1,33 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Aitchison, John
+\end{filecontents}
+
+\begin{document}
+
+\Name{Aitchison, John}
+\ID{aitchison__john}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=203718}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:aitchison.john}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/45139029}{Microsoft Academic: John Aitchison}
+\Profile{http://academic.research.microsoft.com/Author/47728184}{Microsoft Academic: John Aitchison}
+
+
+\subsection*{Honors}
+\Honor{1968}{The Royal Society of Edinburgh, Fellow}
+\Honor{1988}{Guy Medal in Silver}
+\Honor{1993}{IMS Fellow}
+\end{document}

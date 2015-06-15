@@ -1,0 +1,41 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Wei, Lee-Jen
+\end{filecontents}
+
+\begin{document}
+
+\Name{Wei, Lee-Jen}
+\ID{wei__l_j}
+\AltID{wei__lee-jen}
+
+
+
+\Homepage{http://www.hsph.harvard.edu/faculty/l-wei/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=193355}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:wei.lee-jen}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=76211}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18002115}{Microsoft Academic: Wei, L. J.}
+\Profile{http://academic.research.microsoft.com/Author/23221249}{Microsoft Academic: Wei, Lee-Jen}
+\Profile{http://academic.research.microsoft.com/Author/54439951}{Microsoft Academic: Wei, L. J.}
+
+
+\subsection*{Education}
+\Degree{1975}{Ph.D.}{University of Wisconsin-Madison}[The Design of Sequential Experiments]<http://genealogy.math.ndsu.nodak.edu/id.php?id=76211>
+
+
+\subsection*{Honors}
+\Honor{1993}{IMS Fellow}
+\Honor{2009}{Samuel S. Wilks Award}
+\end{document}

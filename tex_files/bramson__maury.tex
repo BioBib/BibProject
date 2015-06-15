@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Bramson, Maury
+\end{filecontents}
+
+\begin{document}
+
+\Name{Bramson, Maury}
+\ID{bramson__maury}
+
+
+
+
+\Homepage{http://www.statslab.cam.ac.uk/~ptrf/bramson.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=40920}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:bramson.maury-d}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/12526617}{Microsoft Academic: Bramson, Maury}
+
+
+\subsection*{Honors}
+\Honor{1983}{IMS Medallion Lecturer}
+\Honor{2002}{IMS Medallion Lecturer}
+\Honor{2003}{IMS Fellow}{For important contributions that advanced the theory of interacting particle systems and revolutionized the subject of queueing networks}
+\end{document}

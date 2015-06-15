@@ -1,0 +1,40 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Fill, James A.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Fill, James A.}
+\ID{fill__james_a}
+\AltID{fill__james}
+
+\DisplayName{Fill, James}
+
+
+\Homepage{http://www.mts.jhu.edu/~fill/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=210286}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:fill.james-allen}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=6749}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/53508827}{Microsoft Academic: Fill, James Allen}
+\Profile{http://academic.research.microsoft.com/Author/1731636}{Microsoft Academic: Fill, James Allen}
+
+
+\subsection*{Education}
+\Degree{1980}{Ph.D.}{The University of Chicago}[Convergence Rates Related to the Strong Law of Large Numbers]<http://genealogy.math.ndsu.nodak.edu/id.php?id=6749>
+
+
+\subsection*{Honors}
+\Honor{1999}{IMS Fellow}{For his important work concerning Markov chains, including rates of convergence to stationarity and perfect sampling algorithms, for his authoritative probabilistic analysis of self-organizing data structures, and for sustained service to the profession}
+\end{document}

@@ -1,0 +1,33 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Chen, Jiahua
+\end{filecontents}
+
+\begin{document}
+
+\Name{Chen, Jiahua}
+\ID{chen__jiahua}
+
+
+
+
+\Homepage{http://www.stat.ubc.ca/~jhchen/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=233628}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:chen.jiahua}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/1315123}{Microsoft Academic: Chen, Jiahua}
+
+
+\subsection*{Honors}
+\Honor{2005}{IMS Fellow}{For outstanding contributions to research in the areas of mixture models, experimental design, sample surveys, and empirical likelihood; for exceptional contributions to mentorship and education of graduate students; and for notable service to the statistical profession in Canada and beyond}
+\end{document}

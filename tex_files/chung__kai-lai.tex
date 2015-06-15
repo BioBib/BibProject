@@ -1,0 +1,102 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Chung, Kai-Lai
+
+@misc{chung:01,
+year={2012},
+author={Elton P. Hsu, Louis Chen, Zhen-Qing Chen and Ruth Williams (eds.)},
+title={{K}ai {L}ai {C}hung},
+address={Berkeley, CA},
+publisher={Mathematical Sciences Publishers},
+url={http://celebratio.org/Chung_KL},
+}
+
+@book{chung__kai-lai:10,
+year={2004},
+author={Chung, K. L.},
+title={{C}hance and {C}hoice: {M}emorabilia},
+publisher={World Scientific},
+}
+
+@book{chung__kai-lai:11,
+year={2008},
+author={Anonymous},
+title={{S}elected {W}orks of {K}ai {L}ai {C}hung},
+addendum={Preface, pp. v-vi, has biographical information},
+publisher={World Scientific},
+}
+
+@misc{chung__kai-lai:160431,
+year={2009},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Kai Lai Chung, emeritus math. professor, to be remembered at Nov. 6 gathering. News, Stanford University, Oct. 20, 2009},
+url={http://news.stanford.edu/news/2009/october19/kl-chung-memorial-101909.html},
+}
+
+@article{chung__kai-lai:7b,
+year={2009},
+author={Farid AitSahlia and Erhan Cinlar and Elton P. Hsu and Ruth J. Williams},
+title={{K}ai {L}ai {C}hung, 1917-2009},
+journal={IMS Bulletin},
+volume={38(7)},
+url={http://isi.cbs.nl/bnews/09b/index.html},
+url={http://www.math.ucsd.edu/~williams/chung/obit.pdf},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Chung, Kai-Lai} \Deceased
+\ID{chung__kai-lai}
+
+
+
+
+\DOB{1917-09-19}
+\DOD{2009-06-02}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=189338}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:chung.kai-lai}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=14682}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12759883}{Microsoft Academic: Chung, Kai Lai}
+\Profile{http://academic.research.microsoft.com/Author/18771827}{Microsoft Academic: Chung, Kai-Lai}
+\Profile{http://academic.research.microsoft.com/Author/1909870}{Microsoft Academic: Chung, Kai Lai}
+\Profile{http://en.wikipedia.org/wiki/Kai_Lai_Chung}{Wikipedia}
+\Profile{http://celebratio.org/Chung_KL}{Celebratio}
+
+
+\subsection*{Education}
+\Degree{1947}{Ph.D.}{Princeton University}[On the Maximum Partial Sums of Sequences of Independent Random Variables]<http://genealogy.math.ndsu.nodak.edu/id.php?id=14682>
+
+
+\subsection*{Honors}
+\Honor{19??}{IMS Fellow}
+
+
+\subsection*{Biography}
+\Biography{chung:01}
+
+
+\subsection*{Selected Works}
+\SelectedWorks{chung__kai-lai:10}
+\SelectedWorks{chung__kai-lai:11}
+
+
+\subsection*{Obituary}
+\Obituary{chung__kai-lai:160431}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{chung__kai-lai:7b}
+\end{document}

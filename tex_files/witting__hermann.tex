@@ -1,0 +1,52 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Witting, Hermann
+
+@article{witting__hermann:7,
+year={2010},
+author={Lerche, H. R.},
+title={{H}ermann {W}itting, 1927-2010},
+journal={IMS Bulletin},
+pages={6},
+volume={39(10)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Witting, Hermann} \Deceased
+\ID{witting__hermann}
+
+
+
+
+\DOB{1927-05-29}
+\DOD{2010-10-05}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=183855}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:witting.hermann}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=21639}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18645246}{Microsoft Academic: Witting, Hermann}
+
+
+\subsection*{Education}
+\Degree{1953}{Ph.D.}{Albert-Ludwigs-Universit\"{a}t Freiburg im Breisgau}[Verbesserung des Differenzenverfahrens von H. Goertler zur Berechnung laminarer Grenzschichten]<http://genealogy.math.ndsu.nodak.edu/id.php?id=21639>
+
+
+\subsection*{Honors}
+\Honor{1968}{IMS Fellow}
+
+
+\subsection*{Obituary}
+\Obituary{witting__hermann:7}
+\end{document}

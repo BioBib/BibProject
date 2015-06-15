@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Mallick, Bani K.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Mallick, Bani K.}
+\ID{mallick__bani_k}
+\AltID{mallick__bani}
+
+
+
+\Homepage{http://iamcs.tamu.edu/Bani_Mallick-12.html}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:mallick.bani-k}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/12530317}{Microsoft Academic: Mallick, Bani K.}
+
+
+\subsection*{Honors}
+\Honor{2008}{IMS Fellow}{For contributions to Bayesian classification and regression, nonparametric hierarchical modeling, survival analysis, spatial statistics, and time series modeling; for excellent mentoring of graduate students and postdocs}
+\end{document}

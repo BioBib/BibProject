@@ -1,0 +1,53 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Roy, Samarendra N.
+
+@incollection{roy__s_n:8,
+year={2008},
+author={O'Connor, J. J. and Robertson, E. F.},
+title={{S}amarendra {N}ath {R}oy},
+addendum={MacTutor biography},
+url={http://www-history.mcs.st-andrews.ac.uk/Biographies/Roy.html},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Roy, Samarendra N.} \Deceased
+\ID{roy__s_n}
+\AltID{roy__samarendra}
+
+\DisplayName{Roy, S. N.}
+
+
+\DOB{1906-12-11}
+\DOD{1964-07-23}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=529198}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:roy.samarendra-nath}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=29412}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/53415084}{Microsoft Academic: Roy, S. N.}
+
+
+\subsection*{Education}
+\Degree{1951}{M.Sc.}{Calcutta University}[Post master's work at the Indian Statistical Institute where he worked under Mahalanobis]<http://genealogy.math.ndsu.nodak.edu/id.php?id=29412>
+
+
+\subsection*{Honors}
+\Honor{1946}{Indian National Science Academy, Foreign Fellow}
+\Honor{1949}{IMS Fellow}
+
+
+\subsection*{Biography}
+\Biography{roy__s_n:8}
+\end{document}

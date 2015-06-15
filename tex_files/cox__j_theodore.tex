@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Cox, J. Theodore
+\end{filecontents}
+
+\begin{document}
+
+\Name{Cox, J. Theodore}
+\ID{cox__j_theodore}
+\AltID{cox__j}
+
+
+
+\Homepage{http://math.syr.edu/Bios/Cox.htm}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=52395}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:cox.j-theodore}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=31305}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/375747}{Microsoft Academic: Cox, J. Theodore}
+
+
+\subsection*{Education}
+\Degree{1976}{Ph.D.}{Cornell University}[Entrance Laws for Markov Chains and One-Dimensional Diffusions]<http://genealogy.math.ndsu.nodak.edu/id.php?id=31305>
+
+
+\subsection*{Honors}
+\Honor{1989}{IMS Fellow}
+\end{document}

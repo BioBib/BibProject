@@ -1,0 +1,45 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Moriguti, Sigeiti
+
+@misc{moriguti__sigeiti:349391,
+year={2003},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Takeuchi, K. (2003). Sigeiti Moriguti (1916-2002). International Statistical Institute Newsletter, Vol. 27(1)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Moriguti, Sigeiti} \Deceased
+\ID{moriguti__sigeiti}
+
+
+
+
+\DOB{1916-09-16}
+\DOD{2002-10-02}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=232243}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:moriguti.sigeiti}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/2610851}{Microsoft Academic: Moriguti, Sigeiti}
+
+
+\subsection*{Honors}
+\Honor{1963}{IMS Fellow}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{moriguti__sigeiti:349391}
+\end{document}

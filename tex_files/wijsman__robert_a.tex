@@ -1,0 +1,40 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Wijsman, Robert A.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Wijsman, Robert A.} \Deceased
+\ID{wijsman__robert_a}
+\AltID{wijsman__robert}
+
+
+
+\DOB{1920-09-20}
+\DOD{2005-02-05}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=182875}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:wijsman.robert-a}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=4693}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18095188}{Microsoft Academic: Wijsman, Robert A.}
+\Profile{http://academic.research.microsoft.com/Author/54743146}{Microsoft Academic: Wijsman, Robert A.}
+
+
+\subsection*{Education}
+\Degree{1952}{Ph.D.}{University of California, Berkeley}[Mathematical Thoery of the Lethal Action of Radiation on Yeast Cells (physics)]<http://genealogy.math.ndsu.nodak.edu/id.php?id=4693>
+
+
+\subsection*{Honors}
+\Honor{1966}{IMS Fellow}
+\end{document}

@@ -1,0 +1,49 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Khatri, Chinubal G.
+
+@article{khatri__c_g:8,
+year={1989},
+author={Shah, K. R.},
+title={{C}hinubhai {G}helabhai {K}hatri, 1931-1989},
+journal={IMS Bulletin},
+pages={339},
+volume={18},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Khatri, Chinubal G.} \Deceased
+\ID{khatri__c_g}
+\AltID{khatri__chinubal}
+
+
+
+\DOB{1931-08-08}
+\DOD{1989-03-31}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=101030}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:khatri.chinubal-g}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/12609361}{Microsoft Academic: Khatri, C. G.}
+\Profile{http://academic.research.microsoft.com/Author/54820883}{Microsoft Academic: Khatri, C. G.}
+\Profile{http://academic.research.microsoft.com/Author/54820884}{Microsoft Academic: Khatri, Chinubal G.}
+
+
+\subsection*{Honors}
+\Honor{1972}{IMS Fellow}
+
+
+\subsection*{Obituary}
+\Obituary{khatri__c_g:8}
+\end{document}

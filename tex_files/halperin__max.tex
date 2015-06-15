@@ -1,0 +1,77 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Halperin, Max
+
+@incollection{halperin__max:9,
+year={2005},
+author={Greenhouse, S. W.},
+title={{H}alperin, {M}ax},
+crossref={booktitle:encyclopedia-of-biostatistics},
+}
+
+@article{halperin__max:7,
+year={1988},
+author={Lachin, J. M.},
+title={{M}ax {H}alperin, 1917-1988},
+journal={IMS Bulletin},
+pages={161},
+volume={17},
+}
+
+@article{halperin__max:8,
+year={1990},
+author={Colton, T., et al.},
+title={{R}emembrances of {M}ax {H}alperin},
+journal={Statistics in Medicine},
+pages={863-870},
+volume={9},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Halperin, Max} \Deceased
+\ID{halperin__max}
+
+
+
+
+\DOB{1917-11-5}
+\DOD{1988-02-01}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=269695}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:halperin.max}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=47411}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18741570}{Microsoft Academic: Halperin, Max}
+\Profile{http://academic.research.microsoft.com/Author/54453831}{Microsoft Academic: Halperin, Max}
+
+
+\subsection*{Education}
+\Degree{1950}{Ph.D.}{The University of North Carolina at Chapel Hill}[Estimation in Truncated Sampling Processes]<http://genealogy.math.ndsu.nodak.edu/id.php?id=47411>
+
+
+\subsection*{Honors}
+\Honor{1967}{IMS Fellow}
+
+
+\subsection*{Biography}
+\Biography{halperin__max:9}
+
+
+\subsection*{Obituary}
+\Obituary{halperin__max:7}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{halperin__max:8}
+\end{document}

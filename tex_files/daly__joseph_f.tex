@@ -1,0 +1,64 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Daly, Joseph F.
+
+@misc{daly__joseph_f:9,
+year={1985},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Aspray, W. (1985). Joseph Daly and Churchill Eisenhart. The Princeton Mathematics Community in the 1930s, no. 7. Seeley G. Mudd Manuscript Library, Princeton University},
+url={http://www.princeton.edu/~mudd/finding_aids/mathoral/pmc07.htm},
+}
+
+@misc{daly__joseph_f:864909,
+year={1987},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Joseph Daly, Ex-Census official, dies. The Washington Post, Sep. 13, 1987},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Daly, Joseph F.} \Deceased
+\ID{daly__joseph_f}
+\AltID{daly__joseph}
+
+
+
+\DOB{1911-09-07}
+\DOD{}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=431213}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:daly.joseph-f}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=34707}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/49985989}{Microsoft Academic: Joseph F. Daly}
+\Profile{http://academic.research.microsoft.com/Author/41951271}{Microsoft Academic: Joseph F. Daly}
+\Profile{http://academic.research.microsoft.com/Author/45560542}{Microsoft Academic: Joseph F. Daly}
+
+
+\subsection*{Education}
+\Degree{1940}{Ph.D.}{Princeton University}[On the Unbiased Character of Likelihood Ratio Tests for Independence in Normal Systems]<http://genealogy.math.ndsu.nodak.edu/id.php?id=34707>
+
+
+\subsection*{Honors}
+\Honor{1943}{IMS Fellow}
+
+
+\subsection*{Oral History}
+\OralHistory{daly__joseph_f:9}
+
+
+\subsection*{Obituary}
+\Obituary{daly__joseph_f:864909}
+\end{document}

@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Taylor, Robert L.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Taylor, Robert L.}
+\ID{taylor__robert_l}
+\AltID{taylor__robert}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=189720}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:taylor.robert-lee}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:taylor.robert-leroy}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=22471}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/54919300}{Microsoft Academic: Taylor, Robert Lee}
+
+
+\subsection*{Education}
+\Degree{1951}{D.Phil.}{University of Oxford}[Theory of Homotopy and Fibre Bundles]<http://genealogy.math.ndsu.nodak.edu/id.php?id=22471>
+
+
+\subsection*{Honors}
+\Honor{1984}{IMS Fellow}
+\end{document}

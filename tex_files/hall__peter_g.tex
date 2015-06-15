@@ -1,0 +1,66 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Hall, Peter G.
+
+@article{hall__peter_g:13,
+year={1997},
+author={Anonymous},
+title={{P}eter {H}all. {T}ribute read at honorary doctorate ceremony at {U}niversit\'{e} catholique de {L}ouvain},
+journal={IMS Bulletin},
+pages={87},
+volume={26},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Hall, Peter G.}
+\ID{hall__peter_g}
+\AltID{hall__peter}
+
+\DisplayName{Hall, Peter}
+
+
+\Homepage{http://www.ms.unimelb.edu.au/Personnel/profile.php?PC_id=308}
+\Homepage{http://en.wikipedia.org/wiki/Peter_Gavin_Hall}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=190188}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:hall.peter-g}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=79323}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/128303}{Microsoft Academic: Hall, Peter}
+\Profile{http://academic.research.microsoft.com/Author/18768824}{Microsoft Academic: Hall, Peter Gavin}
+\Profile{http://scholar.google.be/citations?user=Tgz4GT8AAAAJ&hl=en}{Google Scholar}
+
+
+\subsection*{Education}
+\Degree{1976}{D.Phil.}{University of Oxford}<http://genealogy.math.ndsu.nodak.edu/id.php?id=79323>
+
+
+\subsection*{Honors}
+\Honor{1984}{IMS Fellow}
+\Honor{1986}{Rollo Davidson Prize}
+\Honor{1987}{Australian Academy of Science, Fellow}
+\Honor{1987}{IMS Medallion Lecturer}
+\Honor{1989}{COPSS Presidents' Award}
+\Honor{2000}{The Royal Society, Fellow}
+\Honor{2002}{The Royal Society of Edinburgh, /Corresponding Fellow}
+\Honor{2006}{Wald Lecturer}
+\Honor{2011}{Guy Medal in Silver}
+\Honor{2011}{IMS President}
+\Honor{2012}{Samuel S. Wilks Award}
+\Honor{2013}{National Academy of Sciences, Foreign Associate}
+
+
+\subsection*{Biography}
+\Biography{hall__peter_g:13}
+\end{document}

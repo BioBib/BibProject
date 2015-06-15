@@ -1,0 +1,28 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Yang, Yuhong
+\end{filecontents}
+
+\begin{document}
+
+\Name{Yang, Yuhong}
+\ID{yang__yuhong}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:yang.yuhong}{zbMATH}
+
+
+\subsection*{Honors}
+\Honor{2010}{IMS Fellow}{For research on aggregation of estimators, non-parametric classification, and information-theoretic derivation of minimax rates of convergence; and for editorial services}
+\end{document}

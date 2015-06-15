@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Davidian, Marie
+\end{filecontents}
+
+\begin{document}
+
+\Name{Davidian, Marie}
+\ID{davidian__marie}
+
+
+
+
+\Homepage{http://www4.stat.ncsu.edu/~davidian/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:davidian.marie-louise}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/54562175}{Microsoft Academic: Davidian, Marie}
+\Profile{http://academic.research.microsoft.com/Author/12765945}{Microsoft Academic: Davidian, Marie}
+
+
+\subsection*{Honors}
+\Honor{2006}{IMS Fellow}{For fundamental research contributions in the areas of estimation of variance functions, longitudinal data analysis, nonlinear models, joint modeling of longitudinal and survival data; for outstanding interdisciplinary research in biomedical sciences and pharmacokinetics; and for leadership service to the profession}
+\Honor{2009}{George W. Snedecor Award}
+\Honor{2010}{IMS Medallion Lecturer}
+\Honor{2011}{F. N. David Award}
+\end{document}

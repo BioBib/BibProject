@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for James, Lancelot F.
+\end{filecontents}
+
+\begin{document}
+
+\Name{James, Lancelot F.}
+\ID{james__lancelot_f}
+\AltID{james__lancelot}
+
+
+
+\Homepage{http://ihome.ust.hk/~lancelot/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:james.lancelot-f}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/51231991}{Microsoft Academic: James, Lancelot F.}
+
+
+\subsection*{Honors}
+\Honor{2008}{IMS Fellow}{For contributions to Bayesian nonparametric statistics, the development of Poisson partition calculus for L\u00e9vy processes; and for dedicated service to IMS}
+\end{document}

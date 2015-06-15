@@ -1,0 +1,46 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Kitagawa, Tosio
+
+@incollection{kitagawa__tosio:8,
+year={2006},
+author={Anonymous},
+title={{U}ntitled},
+year={2006},
+crossref={booktitle:encyclopedia-of-statistical-sciences},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Kitagawa, Tosio} \Deceased
+\ID{kitagawa__tosio}
+
+
+
+
+\DOB{1909-10-03}
+\DOD{1993-03-13}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=193609}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:kitagawa.tosio}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/50829901}{Microsoft Academic: Tosio KITAGAWA}
+
+
+\subsection*{Honors}
+\Honor{1962}{IMS Fellow}
+
+
+\subsection*{Biography}
+\Biography{kitagawa__tosio:8}
+\end{document}

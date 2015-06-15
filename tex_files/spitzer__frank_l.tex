@@ -1,0 +1,74 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Spitzer, Frank L.
+
+@article{spitzer__frank_l:10,
+year={1996},
+author={Kesten, H.},
+title={{F}rank {L}udvig {S}pitzer, {J}uly 24, 1926-{F}ebruary 1, 1992},
+journal={Biographical Memoirs},
+pages={388-405},
+publisher={National Academies Press},
+volume={70},
+url={http://books.nap.edu/html/biomems/fspitzer.pdf},
+}
+
+@article{spitzer__frank_l:7,
+year={1992},
+author={Kesten, H.},
+title={{F}rank {L}udvig {S}pitzer, 1926-1992},
+journal={IMS Bulletin},
+pages={101},
+volume={21},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Spitzer, Frank L.} \Deceased
+\ID{spitzer__frank_l}
+\AltID{spitzer__frank}
+
+\DisplayName{Spitzer, Frank}
+
+
+\DOB{1926-07-24}
+\DOD{1992-02-01}
+
+
+\Homepage{http://www.nap.edu/html/biomems/fspitzer.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=165650}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:spitzer.frank-l}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=5129}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/53161703}{Microsoft Academic: Spitzer, Frank}
+\Profile{http://academic.research.microsoft.com/Author/138505}{Microsoft Academic: Spitzer, Frank}
+
+
+\subsection*{Education}
+\Degree{1953}{Ph.D.}{University of Michigan}[On the Theory of the Stochastic Processes Which Appear in the Description of Two Dimensional Brownian Motion By Polar Coordinates]<http://genealogy.math.ndsu.nodak.edu/id.php?id=5129>
+
+
+\subsection*{Honors}
+\Honor{1971}{IMS Fellow}
+\Honor{1979}{Wald Lecturer}
+\Honor{1981}{National Academy of Sciences, Member}
+
+
+\subsection*{Biography}
+\Biography{spitzer__frank_l:10}
+
+
+\subsection*{Obituary}
+\Obituary{spitzer__frank_l:7}
+\end{document}

@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Fujikoshi, Yasunori
+\end{filecontents}
+
+\begin{document}
+
+\Name{Fujikoshi, Yasunori}
+\ID{fujikoshi__yasunori}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=69955}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:fujikoshi.yasunori}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/54755664}{Microsoft Academic: Fujikoshi, Yasunori}
+\Profile{http://academic.research.microsoft.com/Author/18028699}{Microsoft Academic: Fujikoshi, Yasunori}
+\Profile{http://academic.research.microsoft.com/Author/54755662}{Microsoft Academic: Fujikoshi, Yasunori}
+
+
+\subsection*{Honors}
+\Honor{2004}{IMS Fellow}{For outstanding contributions in multivariate analysis, in particular in the asymptotic theory of test statistics in normal and non-normal samples, selection of variables, providing error bounds in asymptotic expansions, and for inspiring teaching and supervision of graduate students}
+\end{document}

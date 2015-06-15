@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Randles, Ronald H.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Randles, Ronald H.}
+\ID{randles__ronald_h}
+\AltID{randles__ronald}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=144655}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:randles.ronald-herman}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=61508}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/42348546}{Microsoft Academic: Randles, Ronald Herman}
+
+
+\subsection*{Education}
+\Degree{1969}{Ph.D.}{The Florida State University}[T-Minimax Procedures for Use of Incomplete Prior Information in Selection and Classification Problems]<http://genealogy.math.ndsu.nodak.edu/id.php?id=61508>
+
+
+\subsection*{Honors}
+\Honor{1995}{IMS Fellow}
+\end{document}

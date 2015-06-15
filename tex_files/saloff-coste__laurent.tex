@@ -1,0 +1,34 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Saloff-Coste, Laurent
+\end{filecontents}
+
+\begin{document}
+
+\Name{Saloff-Coste, Laurent}
+\ID{saloff-coste__laurent}
+
+
+
+
+\Homepage{http://www.math.cornell.edu/People/Faculty/saloffcoste.html}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:saloff-coste.laurent}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/1792895}{Microsoft Academic: Saloff-Coste, Laurent}
+
+
+\subsection*{Honors}
+\Honor{1994}{Rollo Davidson Prize}
+\Honor{2011}{American Academy of Arts and Sciences, Fellow}
+\Honor{2011}{IMS Fellow}{For exceptional contributions at the interface between probability and analysis, especially concerning the mixing of Markov chains, random walks on groups, and the use of probabilistic methods for the study of heat kernel bounds}
+\end{document}

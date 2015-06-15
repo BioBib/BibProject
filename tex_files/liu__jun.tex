@@ -1,0 +1,59 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Liu, Jun
+
+@misc{liu__jun:679137,
+year={2001},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Cromie, W. J. (2001). Mathematics is a game of life. Harvard Gazette, Feb. 1},
+url={http://news.harvard.edu/gazette/2001/02.01/03-mathematics.html},
+}
+
+@misc{liu__jun:265411,
+year={2002},
+author={Anonymous},
+title={{U}ntitled},
+addendum={(2002). Jun Liu, COPSS Presidents' awardee. IMS Bulletin, Vol. 31(6), p. 10},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Liu, Jun}
+\ID{liu__jun}
+
+
+
+
+\Homepage{http://www.hsph.harvard.edu/faculty/jun-liu/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:liu.jun}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=24250}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/54951882}{Microsoft Academic: Liu, Jun S.}
+
+
+\subsection*{Education}
+\Degree{2004}{Ph.D.}{Rutgers University, New Brunswick}[Stochastical Control Problems With Limitations on the Set of Allowable Controls]<http://genealogy.math.ndsu.nodak.edu/id.php?id=24250>
+
+
+\subsection*{Honors}
+\Honor{2002}{COPSS Presidents' Award}
+\Honor{2002}{IMS Medallion Lecturer}
+\Honor{2004}{IMS Fellow}{For his fundamental contributions to computation in statistics, especially MCMC methods in Bayesian models, and for scientifically innovative and important applications in bioinformatics and computational biology}
+
+
+\subsection*{Biographies}
+\Biography{liu__jun:679137}
+\Biography{liu__jun:265411}
+\end{document}

@@ -1,0 +1,44 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Whittle, Peter
+\end{filecontents}
+
+\begin{document}
+
+\Name{Whittle, Peter}
+\ID{whittle__peter}
+
+
+
+
+\Homepage{http://en.wikipedia.org/wiki/Peter_Whittle}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=182525}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:whittle.peter}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=8717}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12608195}{Microsoft Academic: Whittle, Peter}
+\Profile{http://academic.research.microsoft.com/Author/55923778}{Microsoft Academic: Whittle, P.}
+
+
+\subsection*{Education}
+\Degree{1951}{Ph.D.}{Uppsala Universitet}[Hypothesis Testing in Time Series]<http://genealogy.math.ndsu.nodak.edu/id.php?id=8717>
+
+
+\subsection*{Honors}
+\Honor{1962}{IMS Fellow}
+\Honor{1966}{Guy Medal in Silver}
+\Honor{1978}{The Royal Society, Fellow}
+\Honor{1990}{Neyman Lecturer}
+\Honor{1996}{Guy Medal in Gold}
+\Honor{1997}{John von Neumann Theory Prize}
+\end{document}

@@ -1,0 +1,85 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Anderson, Richard L.
+
+@incollection{anderson__richard_l:11,
+year={2003},
+author={Anonymous},
+title={{R}ichard {L}. {A}nderson, 1915-2003},
+publisher={American {S}tatistical {A}ssociation},
+booktitle={Statisticians in {H}istory},
+url={http://www.amstat.org/about/statisticiansinhistory/index.cfm?fuseaction=biosinfo&BioID=19},
+}
+
+@misc{anderson__richard_l:3705,
+year={2003},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Richard L. Anderson. The News and Observer, Raleigh, NC, Jan. 22, 2003},
+}
+
+@misc{anderson__richard_l:252352,
+year={2003},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Memorial resolution, University of Kentucky Senate. Minutes, Feb. 10, 2003, pp. 5-7},
+url={http://www.uky.edu/Faculty/Senate/university_senate/minutes_transcripts/transcripts/2002-2003/2003-02-03.pdf},
+}
+
+@article{anderson__richard_l:9,
+year={2004},
+author={Nelson, L. A.},
+title={{R}ichard {L}. {A}nderson},
+journal={IMS Bulletin},
+pages={10},
+volume={33(1)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Anderson, Richard L.} \Deceased
+\ID{anderson__richard_l}
+\AltID{anderson__richard}
+
+
+
+\DOB{1915-04-20}
+\DOD{2003-01-19}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=281481}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:anderson.richard-l}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=13426}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/48427500}{Microsoft Academic: Richard L. Anderson}
+
+
+\subsection*{Education}
+\Degree{1941}{Ph.D.}{Iowa State University}[Serial Correlation in the Analysis of Time Series]<http://genealogy.math.ndsu.nodak.edu/id.php?id=13426>
+
+
+\subsection*{Honors}
+\Honor{19??}{IMS Fellow}
+
+
+\subsection*{Biography}
+\Biography{anderson__richard_l:11}
+
+
+\subsection*{Obituary}
+\Obituary{anderson__richard_l:3705}
+
+
+\subsection*{Memorials}
+\InMemoriam{anderson__richard_l:252352}
+\InMemoriam{anderson__richard_l:9}
+\end{document}

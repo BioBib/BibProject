@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Park, Byeong U.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Park, Byeong U.}
+\ID{park__byeong_u}
+\AltID{park__byeong}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=136225}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:park.byeong-uk}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=34342}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/10712892}{Microsoft Academic: Park, Byeong Uk}
+
+
+\subsection*{Education}
+\Degree{1987}{Ph.D.}{University of California, Berkeley}[Efficient Estimation in the Two-Sample Semiparametric Location Scale Model and the Orientation Shift Model]<http://genealogy.math.ndsu.nodak.edu/id.php?id=34342>
+
+
+\subsection*{Honors}
+\Honor{2005}{IMS Fellow}{For seminal work in bandwidth selection for kernel smoothing, which led to a large, fruitful and well-cited body of work in that area; for his leadership research in semiparametrics, smoothing, additive and single index models, stochastic frontier estimation, and asymptotic analysis in general; for a leading role in Korean statistics, including valued editorial work; for strong mentoring of, and inspiration of, a generation of Korea statisticians}
+\end{document}

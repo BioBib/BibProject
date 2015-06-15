@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Van Ness, John W.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Van Ness, John W.}
+\ID{van_ness__john_w}
+\AltID{van_ness__john}
+
+
+
+\Homepage{http://www.utdallas.edu/~ness/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=270514}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:van-ness.john-w}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=10303}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/53134172}{Microsoft Academic: John W. Van Ness}
+\Profile{http://academic.research.microsoft.com/Author/10558646}{Microsoft Academic: John W. Van Ness}
+
+
+\subsection*{Education}
+\Degree{1964}{Ph.D.}{Brown University}[Estimates of the Bispectrum of Stationary Random Processes]<http://genealogy.math.ndsu.nodak.edu/id.php?id=10303>
+
+
+\subsection*{Honors}
+\Honor{1992}{IMS Fellow}
+\end{document}

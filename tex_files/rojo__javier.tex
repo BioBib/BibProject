@@ -1,0 +1,49 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Rojo, Javier
+
+@misc{rojo__javier:567185,
+year={2010},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Javier Rojo wins 2010 Don Owen Award. Amstat News, July 2010, p. 34},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Rojo, Javier}
+\ID{rojo__javier}
+
+
+
+
+\Homepage{http://www.stat.rice.edu/~jrojo/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=228102}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:rojo.javier}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=34578}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/53551975}{Microsoft Academic: Rojo, Javier}
+
+
+\subsection*{Education}
+\Degree{1984}{Ph.D.}{University of California, Berkeley}[On Lehmann's General Concept of Unbiasedness and the Existence of L-unbiased Estimators]<http://genealogy.math.ndsu.nodak.edu/id.php?id=34578>
+
+
+\subsection*{Honors}
+\Honor{2001}{IMS Fellow}{For outstanding research contributions to nonparametric statistics and survival analysis; for outstanding work as a consultant and teacher; for supporting graduate and undergraduate students; and for service to the profession}
+
+
+\subsection*{Biography}
+\Biography{rojo__javier:567185}
+\end{document}

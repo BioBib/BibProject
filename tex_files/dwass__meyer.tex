@@ -1,0 +1,53 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Dwass, Meyer
+
+@article{dwass__meyer:7,
+year={1998},
+author={Zabell, S.},
+title={{M}eyer {D}wass, 1923-96},
+journal={IMS Bulletin},
+pages={4-6},
+volume={27},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Dwass, Meyer} \Deceased
+\ID{dwass__meyer}
+
+
+
+
+\DOB{1923-04-09}
+\DOD{1996-07-15}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=61065}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:dwass.meyer}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=12551}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18661004}{Microsoft Academic: Dwass, Meyer}
+\Profile{http://academic.research.microsoft.com/Author/55564602}{Microsoft Academic: Dwass, Meyer}
+
+
+\subsection*{Education}
+\Degree{1952}{Ph.D.}{The University of North Carolina at Chapel Hill}[On the Large Sample Power of Certain Rank Order Tests]<http://genealogy.math.ndsu.nodak.edu/id.php?id=12551>
+
+
+\subsection*{Honors}
+\Honor{1960}{IMS Fellow}
+
+
+\subsection*{Obituary}
+\Obituary{dwass__meyer:7}
+\end{document}

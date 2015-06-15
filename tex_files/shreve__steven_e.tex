@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Shreve, Steven E.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Shreve, Steven E.}
+\ID{shreve__steven_e}
+\AltID{shreve__steven}
+
+
+
+\Homepage{http://www.math.cmu.edu/users/shreve}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=161235}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:shreve.steven-e}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=4008}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/188105}{Microsoft Academic: Shreve, Steven E.}
+
+
+\subsection*{Education}
+\Degree{1977}{Ph.D.}{University of Illinois at Urbana-Champaign}[Dynamic Programming in Complete Separable Spaces]<http://genealogy.math.ndsu.nodak.edu/id.php?id=4008>
+
+
+\subsection*{Honors}
+\Honor{1994}{IMS Fellow}
+\Honor{1997}{IMS Medallion Lecturer}
+\end{document}

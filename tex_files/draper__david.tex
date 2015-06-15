@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Draper, David
+\end{filecontents}
+
+\begin{document}
+
+\Name{Draper, David}
+\ID{draper__david}
+
+
+
+
+\Homepage{http://users.soe.ucsc.edu/~draper/writings.html}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:draper.david}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/12523504}{Microsoft Academic: Draper, David}
+
+
+\subsection*{Honors}
+\Honor{2009}{IMS Fellow}{For seminal contributions to Bayesian hierarchical modeling, nonparametric methods, Markov chain Monte Carlo, quality assessment in health and education, and stochastic optimization, for extraordinary service to the profession and for broad and high-impact contributions to statistics education}
+\end{document}

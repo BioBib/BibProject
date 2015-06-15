@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Savits, Thomas H.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Savits, Thomas H.}
+\ID{savits__thomas_h}
+\AltID{savits__thomas}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=155165}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:savits.thomas-h}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=48237}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/54950997}{Microsoft Academic: Savits, Thomas H.}
+\Profile{http://academic.research.microsoft.com/Author/12875859}{Microsoft Academic: Savits, Thomas H.}
+
+
+\subsection*{Education}
+\Degree{1968}{Ph.D.}{Stanford University}[The Explosion Problem for Branching Markov Processes]<http://genealogy.math.ndsu.nodak.edu/id.php?id=48237>
+
+
+\subsection*{Honors}
+\Honor{1988}{IMS Fellow}
+\end{document}

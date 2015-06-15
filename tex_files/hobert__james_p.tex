@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Hobert, James P.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Hobert, James P.}
+\ID{hobert__james_p}
+\AltID{hobert__james}
+
+
+
+\Homepage{http://www.stat.ufl.edu/~jhobert/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:hobert.james-p}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/1167692}{Microsoft Academic: Hobert, James P.}
+
+
+\subsection*{Honors}
+\Honor{2006}{IMS Fellow}{For fundamental contributions to Markov chain theory, its connections to decision theory and admissibility, and its application in Monte Carlo methods; for important contributions to the theory and applications of mixed models; and for excellence in teaching, mentoring, and service to the profession}
+\end{document}

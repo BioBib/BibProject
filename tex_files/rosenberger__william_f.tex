@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Rosenberger, William F.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Rosenberger, William F.}
+\ID{rosenberger__william_f}
+\AltID{rosenberger__william}
+
+
+
+\Homepage{http://mason.gmu.edu/~wrosenbe/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:rosenberger.william-f}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/12762357}{Microsoft Academic: Rosenberger, William F.}
+
+
+\subsection*{Honors}
+\Honor{2011}{IMS Fellow}{For major contributions in sequential analysis and clinical trials, involving rigorous treatment of adaptive randomization and response-adaptive design and including development of a framework for optimal allocations, work that has been accepted by practitioners as the standard in the field}
+\end{document}

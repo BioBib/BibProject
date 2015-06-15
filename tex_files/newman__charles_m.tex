@@ -1,0 +1,56 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Newman, Charles M.
+
+@article{newman__charles_m:9,
+year={2005},
+author={Varadhan, R.},
+title={{P}rofile: {C}harles {N}ewman},
+journal={IMS Bulletin},
+pages={3},
+volume={34(1)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Newman, Charles M.}
+\ID{newman__charles_m}
+\AltID{newman__charles}
+
+
+
+\Homepage{http://math.nyu.edu/faculty/newman/index.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=130765}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:newman.charles-m}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=11638}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/1069870}{Microsoft Academic: Newman, Charles M.}
+
+
+\subsection*{Education}
+\Degree{1971}{Ph.D.}{Princeton University}[Ultralocal Quantum Field Theory in Terms of Currents]<http://genealogy.math.ndsu.nodak.edu/id.php?id=11638>
+
+
+\subsection*{Honors}
+\Honor{1985}{IMS Fellow}
+\Honor{1987}{IMS Medallion Lecturer}
+\Honor{1997}{IMS Medallion Lecturer}
+\Honor{1999}{Wald Lecturer}
+\Honor{2004}{National Academy of Sciences, Member}
+\Honor{2006}{American Academy of Arts and Sciences, Fellow}
+
+
+\subsection*{Biography}
+\Biography{newman__charles_m:9}
+\end{document}

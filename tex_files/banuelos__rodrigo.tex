@@ -1,0 +1,33 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Bañuelos, Rodrigo
+\end{filecontents}
+
+\begin{document}
+
+\Name{Ba\~{n}uelos, Rodrigo}
+\ID{banuelos__rodrigo}
+
+
+
+
+\Homepage{http://www.math.purdue.edu/~banuelos/site/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=30705}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:banuelos.rodrigo}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/52866071}{Microsoft Academic: Rodrigo Banuelos (Rodrigo Ba\~{n}uelos)}
+
+
+\subsection*{Honors}
+\Honor{2003}{IMS Fellow}{For enlarging the scope and power of martingale theory, conditioned Brownian motion, the law of the iterated logarithm, and other parts of probability theory; for remarkable results in harmonic analysis; for editorial services, administrative work and mentoring of young people}
+\end{document}

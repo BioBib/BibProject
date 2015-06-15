@@ -1,0 +1,41 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Bailey, Rosemary A.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Bailey, Rosemary A.}
+\ID{bailey__rosemary_a}
+\AltID{bailey__rosemary}
+
+\DisplayName{Bailey, Rosemary}
+
+
+\Homepage{http://www.maths.qmul.ac.uk/~rab/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=29380}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:bailey.rosemary-a}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=73424}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/52962843}{Microsoft Academic: Bailey, R. A.}
+\Profile{http://www.maths.qmul.ac.uk/~rab/}{Homepage}
+\Profile{http://www.maths.qmul.ac.uk/~rab/#books}{Books List}
+
+
+\subsection*{Education}
+\Degree{1974}{D.Phil.}{University of Oxford}[Finite Permutation Groups]<http://genealogy.math.ndsu.nodak.edu/id.php?id=73424>
+
+
+\subsection*{Honors}
+\Honor{2004}{IMS Fellow}{For fundamental contributions to the design and analysis of experiments, and for outstanding editorial service to the profession}
+\end{document}

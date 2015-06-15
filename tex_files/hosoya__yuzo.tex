@@ -1,0 +1,33 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Hosoya, Yuzo
+\end{filecontents}
+
+\begin{document}
+
+\Name{Hosoya, Yuzo}
+\ID{hosoya__yuzo}
+
+
+
+
+\Homepage{http://www.hino.meisei-u.ac.jp/econ/yhosoya/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:hosoya.yuzo}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/52743511}{Microsoft Academic: Hosoya, Yuzo}
+\Profile{http://academic.research.microsoft.com/Author/23615732}{Microsoft Academic: Hosoya, Yuzo}
+
+
+\subsection*{Honors}
+\Honor{2007}{IMS Fellow}{For theoretical contributions of outstanding originality, depth, and breadth to statistical time series analysis}
+\end{document}

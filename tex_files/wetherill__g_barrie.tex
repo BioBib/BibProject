@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Wetherill, G. Barrie
+\end{filecontents}
+
+\begin{document}
+
+\Name{Wetherill, G. Barrie}
+\ID{wetherill__g_barrie}
+\AltID{wetherill__g}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=182155}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:wetherill.g-barrie}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:wetherill.g-berry}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=42307}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18733666}{Microsoft Academic: Wetherill, G. B.}
+
+
+\subsection*{Education}
+\Degree{1957}{Ph.D.}{University of London}[Application of the Theory of Decision Functions to Sampling Inspection with Special Reference to Cost of Inspection]<http://genealogy.math.ndsu.nodak.edu/id.php?id=42307>
+
+
+\subsection*{Honors}
+\Honor{1967}{IMS Fellow}
+\end{document}

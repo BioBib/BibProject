@@ -1,0 +1,56 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Barlow, Martin T.
+
+@article{barlow__martin_t:9,
+year={2005},
+author={Lyons, T.},
+title={{P}rofile: {M}artin {B}arlow, {F}{R}{S}},
+journal={IMS Bulletin},
+pages={14},
+volume={34(7)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Barlow, Martin T.}
+\ID{barlow__martin_t}
+\AltID{barlow__martin}
+
+\DisplayName{Barlow, Martin}
+
+
+\Homepage{http://www.math.ubc.ca/~barlow/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=31300}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:barlow.martin-t}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=44866}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/170688}{Microsoft Academic: Barlow, Martin T.}
+
+
+\subsection*{Education}
+\Degree{1979}{Ph.D.}{University of Wales, Swansea}[Honest Times and Martingale Representation.]<http://genealogy.math.ndsu.nodak.edu/id.php?id=44866>
+
+
+\subsection*{Honors}
+\Honor{1984}{Rollo Davidson Prize}
+\Honor{1991}{IMS Fellow}
+\Honor{1998}{The Royal Society of Canada, Fellow}
+\Honor{2005}{The Royal Society, Fellow}
+\Honor{2008}{IMS Medallion Lecturer}
+
+
+\subsection*{Biography}
+\Biography{barlow__martin_t:9}
+\end{document}

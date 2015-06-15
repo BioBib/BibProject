@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Davison, Anthony C.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Davison, Anthony C.}
+\ID{davison__anthony_c}
+\AltID{davison__anthony}
+
+\DisplayName{Davison, Anthony}
+
+
+\Homepage{http://personnes.epfl.ch/111184}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=55165}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:davison.anthony-c}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=67230}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12767921}{Microsoft Academic: Davison, Anthony C.}
+
+
+\subsection*{Education}
+\Degree{1984}{Ph.D.}{University of London}[A Statistical Model for Contamination Due to Long-Range Atmospheric Transport of Radionuclides]<http://genealogy.math.ndsu.nodak.edu/id.php?id=67230>
+
+
+\subsection*{Honors}
+\Honor{1999}{IMS Fellow}{For contributions to the development of statistical methodology, in particular extreme-value methods, the bootstrap and related topics, diagnostics for regression, and predictive inference}
+\end{document}

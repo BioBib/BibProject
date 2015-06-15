@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Chow, Yuan S.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Chow, Yuan S.}
+\ID{chow__y_s}
+\AltID{chow__yuan}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=194199}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:chow.yuan-shih}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=4215}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/54243708}{Microsoft Academic: Yuan-Shih Chow}
+\Profile{http://academic.research.microsoft.com/Author/53874158}{Microsoft Academic: Yuan Shih Chow}
+
+
+\subsection*{Education}
+\Degree{1958}{Ph.D.}{University of Illinois at Urbana-Champaign}[The Theory of Martingales in an S-Finite Measure Space Indexed by Directed Sets]<http://genealogy.math.ndsu.nodak.edu/id.php?id=4215>
+
+
+\subsection*{Honors}
+\Honor{1967}{IMS Fellow}
+\end{document}

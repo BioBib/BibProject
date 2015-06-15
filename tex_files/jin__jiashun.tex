@@ -1,0 +1,46 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Jin, Jiashun
+
+@article{jin__jiashun:7,
+year={2007},
+author={Anonymous},
+title={{P}rofile: {J}iashun {J}in},
+journal={IMS Bulletin},
+pages={10-11},
+volume={36(5)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Jin, Jiashun}
+\ID{jin__jiashun}
+
+
+
+
+\Homepage{http://www.stat.cmu.edu/%7Ejiashun/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:jin.jiashun}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/12810077}{Microsoft Academic: Jin, Jiashun}
+
+
+\subsection*{Honors}
+\Honor{2009}{Tweedie New Researcher Award}
+\Honor{2011}{IMS Fellow}{For outstanding contributions to sparse signal recovery, the analysis of high-dimensional data more generally and the optimality of statistical methods, exhibiting deep technical expertise and the ability to create path-breaking new research strategies}
+
+
+\subsection*{Biography}
+\Biography{jin__jiashun:7}
+\end{document}

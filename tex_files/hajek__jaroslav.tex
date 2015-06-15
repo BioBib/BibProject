@@ -1,0 +1,68 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Hájek, Jaroslav
+
+@incollection{hajek__jaroslav:9,
+year={1997},
+author={Johnson, N. L. and Kotz, S.},
+title={{H}\'{a}jek, {J}aroslav},
+pages={194-196},
+crossref={booktitle:leading-personalities-in-statistical-sciences-from-the-17th-century-to-the-present},
+}
+
+@incollection{hajek__jaroslav:10,
+year={2001},
+author={O'Connor, J. J. and Robertson, E. F.},
+title={{J}aroslav {H}\'{a}jek},
+addendum={MacTutor biography},
+url={http://www-history.mcs.st-andrews.ac.uk/Biographies/Hajek.html},
+}
+
+@article{hajek__jaroslav:8,
+year={1974},
+author={Anonymous},
+title={{U}ntitled},
+journal={IMS Bulletin},
+pages={181},
+volume={3},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{H\'{a}jek, Jaroslav} \Deceased
+\ID{hajek__jaroslav}
+
+
+
+
+\DOB{1926-02-04}
+\DOD{1974-06-10}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=79760}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:hajek.jaroslav}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/10862573}{Microsoft Academic: Jaroslav Hajek}
+
+
+\subsection*{Honors}
+\Honor{1964}{IMS Fellow}
+
+
+\subsection*{Biographies}
+\Biography{hajek__jaroslav:9}
+\Biography{hajek__jaroslav:10}
+
+
+\subsection*{Death Notice}
+\DeathNotice{hajek__jaroslav:8}
+\end{document}

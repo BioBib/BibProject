@@ -1,0 +1,24 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Delaigle, Aurore
+\end{filecontents}
+
+\begin{document}
+
+\Name{Delaigle, Aurore}
+\ID{delaigle__aurore}
+
+
+
+
+\subsection*{Honors}
+\Honor{2013}{IMS Fellow}{For research contributions in non-parametric function estimation, measurement error problems, and functional data; and service to the statistical community}
+\end{document}

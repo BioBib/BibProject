@@ -1,0 +1,43 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Kailath, Thomas
+\end{filecontents}
+
+\begin{document}
+
+\Name{Kailath, Thomas}
+\ID{kailath__thomas}
+
+
+
+
+\Homepage{http://www.stanford.edu/~tkailath/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=96845}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:kailath.thomas}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=41399}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/42747774}{Microsoft Academic: Kailath Thomas}
+\Profile{http://academic.research.microsoft.com/Author/293271}{Microsoft Academic: Thomas Kailath}
+
+
+\subsection*{Education}
+\Degree{1961}{Sc.D.}{Massachusetts Institute of Technology}[Communication via Randomly Varying Channels]<http://genealogy.math.ndsu.nodak.edu/id.php?id=41399>
+
+
+\subsection*{Honors}
+\Honor{1975}{IMS Fellow}
+\Honor{1994}{American Academy of Arts and Sciences, Fellow}
+\Honor{2000}{National Academy of Sciences, Member}
+\Honor{2009}{The Royal Society, Foreign Member}
+\Honor{2013}{Indian Academy of Sciences, Honorary Fellow}
+\end{document}

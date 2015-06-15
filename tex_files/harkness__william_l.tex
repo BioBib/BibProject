@@ -1,0 +1,53 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Harkness, William L.
+
+@article{harkness__william_l:6,
+year={2007},
+author={Rosenberger, J.},
+title={{P}rofile: 2007 {C}arver {M}edal recipient, {B}ill {H}arkness},
+journal={IMS Bulletin},
+pages={19},
+volume={36(8)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Harkness, William L.}
+\ID{harkness__william_l}
+\AltID{harkness__william}
+
+\DisplayName{Harkness, William}
+
+
+\Homepage{http://www.stat.psu.edu/oldpage2/people/faculty/harkness.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=81385}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:harkness.william-l}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=13513}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18725214}{Microsoft Academic: Harkness, William L.}
+
+
+\subsection*{Education}
+\Degree{1959}{Ph.D.}{Michigan State University}[An Investigation of the Power Function for the Test of Independence in 2 x 2 Contingency Tables]<http://genealogy.math.ndsu.nodak.edu/id.php?id=13513>
+
+
+\subsection*{Honors}
+\Honor{19??}{IMS Fellow}
+\Honor{2007}{Harry C. Carver Medal}
+
+
+\subsection*{Biography}
+\Biography{harkness__william_l:6}
+\end{document}

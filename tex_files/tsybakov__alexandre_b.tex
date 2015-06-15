@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Tsybakov, Alexandre B.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Tsybakov, Alexandre B.}
+\ID{tsybakov__alexandre_b}
+\AltID{tsybakov__alexandre
+
+}
+
+\DisplayName{Tsybakov, Alexandre}
+
+
+\Homepage{http://www.crest.fr/ses.php?user=2891}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=193566}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:tsybakov.alexandre-b}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/183988}{Microsoft Academic: Tsybakov, Alexandre B.}
+\Profile{http://academic.research.microsoft.com/Author/55158049}{Microsoft Academic: Tsybakov, Alexander B.}
+
+
+\subsection*{Honors}
+\Honor{2004}{IMS Fellow}{For excellent research in mathematical statistics, such as frontier work on empirical risk, nonparametric regression and image reconstruction, and for service to the international statistical community}
+\Honor{2012}{IMS Medallion Lecturer}
+\end{document}

@@ -1,0 +1,64 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Crathorne, Arthur R.
+
+@misc{crathorne__arthur_r:9,
+year={year?},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Arthur R. Crathorne Papers, 1900-44. Series number 15/14/24, University of Illinois Archives},
+url={http://www.library.illinois.edu/archives/archon/?p=collections/controlcard&id=3867},
+}
+
+@article{crathorne__arthur_r:8,
+year={1946},
+author={Anonymous},
+title={{U}ntitled},
+journal={Ann. Math. Statist.},
+pages={373},
+volume={17},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Crathorne, Arthur R.} \Deceased
+\ID{crathorne__arthur_r}
+\AltID{crathorne__arthur}
+
+
+
+\DOB{1873}
+\DOD{1946-03-07}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=428718}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:crathorne.arthur-robert}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=7367}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/54299617}{Microsoft Academic: Crathorne, A. R.}
+
+
+\subsection*{Education}
+\Degree{1907}{Ph.D.}{Georg-August-Universit\"{a}t G\"{o}ttingen}[Das r\"{a}umliche isoperimetrische Problem]<http://genealogy.math.ndsu.nodak.edu/id.php?id=7367>
+
+
+\subsection*{Honors}
+\Honor{1935}{IMS Fellow}
+
+
+\subsection*{Archive}
+\Archive{crathorne__arthur_r:9}
+
+
+\subsection*{Death Notice}
+\DeathNotice{crathorne__arthur_r:8}
+\end{document}

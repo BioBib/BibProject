@@ -1,0 +1,102 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Henderson, Robert
+
+@book{henderson__robert:11,
+year={1988},
+author={Pitcher, E.},
+title={{A} {H}istory of the {S}econd {F}ifty {Y}ears: {A}merican {M}athematical {S}ociety, 1939-1988},
+pages={307-308},
+publisher={American Mathematical Society},
+url={http://www.worldcat.org/18350186},
+}
+
+@article{henderson__robert:12,
+year={1946},
+author={Anonymous},
+title={{U}ntitled},
+journal={Bull. Amer. Math. Soc.},
+pages={5-6},
+volume={52(part 2)},
+url={http://www.ams.org/journals/bull/1946-52-11/S0002-9904-1946-08699-1/S0002-9904-1946-08699-1.pdf},
+}
+
+@article{henderson__robert:7,
+year={1943},
+author={Anonymous},
+title={{U}ntitled},
+journal={Ann. Math. Statist.},
+pages={100-101},
+volume={14},
+}
+
+@misc{henderson__robert:482020,
+year={1942},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Robt. Henderson, retired actuary. The New York Times, Feb. 18, 1942, p. 19},
+}
+
+@article{henderson__robert:9,
+year={1942},
+author={Murphy, R. D. and Richardson, R. G. D.},
+title={{R}obert {H}enderson---{I}n memoriam},
+journal={Bull. Amer. Math. Soc.},
+pages={504-505},
+volume={48},
+url={http://www.ams.org/journals/bull/1942-48-07/S0002-9904-1942-07695-6/S0002-9904-1942-07695-6.pdf},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Henderson, Robert} \Deceased
+\ID{henderson__robert}
+
+
+
+
+\DOB{1871-05-24}
+\DOD{1942-02-16}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=351932}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:henderson.robert-d}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:henderson.robert-j}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/23561391}{Microsoft Academic: Henderson, Robert}
+\Profile{http://academic.research.microsoft.com/Author/18754690}{Microsoft Academic: Henderson, Robert D.}
+
+
+\subsection*{Honors}
+\Honor{1927}{American Philosophical Society, Member}
+\Honor{before 1943}{IMS Fellow}
+
+
+\subsection*{Biography}
+\Biography{henderson__robert:11}
+
+
+\subsection*{Endowment}
+\Endowment{henderson__robert:12}
+
+
+\subsection*{Death Notice}
+\DeathNotice{henderson__robert:7}
+
+
+\subsection*{Obituary}
+\Obituary{henderson__robert:482020}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{henderson__robert:9}
+\end{document}

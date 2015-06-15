@@ -1,0 +1,62 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Girshick, Meyer A.
+
+@incollection{girshick__meyer_a:9,
+year={1968},
+author={Arrow, K. J.},
+title={{G}irshick, {M}eyer {A}.},
+crossref={booktitle:international-encyclopedia-of-the-social-sciences},
+url={http://www.encyclopedia.com/doc/1G2-3045000468.html},
+}
+
+@incollection{girshick__meyer_a:10,
+year={1978},
+author={Arrow, K. J.},
+title={{G}irshick, {M}eyer {A}.},
+pages={398-399},
+crossref={booktitle:international-encyclopedia-of-statistics},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Girshick, Meyer A.} \Deceased
+\ID{girshick__meyer_a}
+\AltID{girshick__meyer}
+
+\DisplayName{Girshick, Meyer}
+
+
+\DOB{1908-07-25}
+\DOD{1955-03-02}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=450814}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:girshick.m-a}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=42961}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12601739}{Microsoft Academic: Girshick, M. A.}
+
+
+\subsection*{Education}
+\Degree{1947}{Ph.D.}{Columbia University}[Contributions to the Theory of Sequential Analysis]<http://genealogy.math.ndsu.nodak.edu/id.php?id=42961>
+
+
+\subsection*{Honors}
+\Honor{1943}{IMS Fellow}
+\Honor{1952}{IMS President}
+
+
+\subsection*{Biographies}
+\Biography{girshick__meyer_a:9}
+\Biography{girshick__meyer_a:10}
+\end{document}

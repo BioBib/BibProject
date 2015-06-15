@@ -1,0 +1,33 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Gneiting, Tilmann
+\end{filecontents}
+
+\begin{document}
+
+\Name{Gneiting, Tilmann}
+\ID{gneiting__tilmann}
+
+
+
+
+\Homepage{http://www.stat.washington.edu/tilmann/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:gneiting.tilmann}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/12769332}{Microsoft Academic: Gneiting, Tilmann}
+
+
+\subsection*{Honors}
+\Honor{2005}{Tweedie New Researcher Award}
+\Honor{2010}{IMS Fellow}{For elegant contributions to spatial statistics with applications in pure mathematics and atmospheric sciences, and for editorial service}
+\end{document}

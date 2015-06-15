@@ -1,0 +1,41 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Glynn, Peter W.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Glynn, Peter W.}
+\ID{glynn__peter_w}
+\AltID{glynn__peter}
+
+
+
+\Homepage{http://soe.stanford.edu/research/layoutMSnE.php?sunetid=glynn}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=74325}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:glynn.peter-w}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=39913}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/679106}{Microsoft Academic: Peter W. Glynn}
+
+
+\subsection*{Education}
+\Degree{1982}{Ph.D.}{Stanford University}[Simulation Output Analysis for General State Space Markov Chains]<http://genealogy.math.ndsu.nodak.edu/id.php?id=39913>
+
+
+\subsection*{Honors}
+\Honor{1995}{IMS Medallion Lecturer}
+\Honor{1998}{IMS Fellow}
+\Honor{2010}{John von Neumann Theory Prize}
+\Honor{2012}{National Academy of Engineering, Member}
+\end{document}

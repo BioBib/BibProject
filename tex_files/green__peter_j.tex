@@ -1,0 +1,60 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Green, Peter J.
+
+@article{green__peter_j:7,
+year={2003},
+author={Anonymous},
+title={{P}eter {G}reen elected {F}{R}{S}},
+journal={IMS Bulletin},
+pages={2},
+volume={32(3)},
+}
+
+@article{green__peter_j:8,
+year={2003},
+author={Anonymous},
+title={{P}eter {G}reen: {F}ellow of the {R}oyal {S}ociety},
+journal={Bernoulli News},
+volume={10(1)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Green, Peter J.}
+\ID{green__peter_j}
+\AltID{green__peter}
+
+\DisplayName{Green, Peter}
+
+
+\Homepage{http://www.stats.bris.ac.uk/~peter/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=76540}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:green.peter-j}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/1696939}{Microsoft Academic: Green, Peter}
+
+
+\subsection*{Honors}
+\Honor{1987}{Guy Medal in Bronze}
+\Honor{1991}{IMS Fellow}
+\Honor{1997}{IMS Medallion Lecturer}
+\Honor{1999}{Guy Medal in Silver}
+\Honor{2003}{The Royal Society, Fellow}
+
+
+\subsection*{Biographies}
+\Biography{green__peter_j:7}
+\Biography{green__peter_j:8}
+\end{document}

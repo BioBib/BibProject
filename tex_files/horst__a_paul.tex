@@ -1,0 +1,70 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Horst, A. Paul
+
+@misc{horst__a_paul:10,
+year={year?},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Paul Horst Papers, 2910-001, 2910-002, 2910-003. Special Collections Division, University Libraries, University of Washington},
+}
+
+@misc{horst__a_paul:8,
+year={1999},
+author={Anonymous},
+title={{U}ntitled},
+addendum={(1999). In memory. Univ. Washington Alumni Magazine, Sept.},
+url={http://www.washington.edu/alumni/columns/sept99/index.html},
+}
+
+@article{horst__a_paul:9,
+year={1999},
+author={Anonymous},
+title={{P}aul {H}orst, 1904-1999},
+journal={Psychometrika},
+pages={107},
+volume={64},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Horst, A. Paul} \Deceased
+\ID{horst__a_paul}
+\AltID{horst__a}
+
+\DisplayName{Horst, A. Paul}
+
+
+\DOB{1904?}
+\DOD{1999-03-16}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:horst.paul}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/50562328}{Microsoft Academic: Paul Horst}
+
+
+\subsection*{Honors}
+\Honor{1944}{IMS Fellow}
+
+
+\subsection*{Archive}
+\Archive{horst__a_paul:10}
+
+
+\subsection*{Death Notice}
+\DeathNotice{horst__a_paul:8}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{horst__a_paul:9}
+\end{document}

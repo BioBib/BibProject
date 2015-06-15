@@ -1,0 +1,44 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Jordan, Michael I.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Jordan, Michael I.}
+\ID{jordan__michael_i}
+\AltID{jordan__michael}
+
+\DisplayName{Jordan, Michael}
+
+
+\Homepage{http://www.cs.berkeley.edu/~jordan/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=327478}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:jordan.michael-i}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=87388}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/1135555}{Microsoft Academic: Jordan, Michael I.}
+
+
+\subsection*{Education}
+\Degree{1985}{Ph.D.}{University of California, San Diego}[The Learning of Representations for Sequential Performance]<http://genealogy.math.ndsu.nodak.edu/id.php?id=87388>
+
+
+\subsection*{Honors}
+\Honor{2004}{IMS Medallion Lecturer}
+\Honor{2005}{IMS Fellow}{For contributions to graphical models and machine learning}
+\Honor{2010}{National Academy of Engineering, Member}
+\Honor{2010}{National Academy of Sciences, Member}
+\Honor{2011}{American Academy of Arts and Sciences, Fellow}
+\Honor{2011}{Neyman Lecturer}
+\end{document}

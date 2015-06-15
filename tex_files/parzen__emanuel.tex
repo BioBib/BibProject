@@ -1,0 +1,60 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Parzen, Emanuel
+
+@misc{parzen__emanuel:244531,
+year={2009},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Emanuel Parzen. Amstat News, Nov. 2009, pp. 33-34},
+}
+
+@misc{parzen__emanuel:875249,
+year={2010},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Emanuel Parzen retires. Amstat News, Jan. 2010, p. 42},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Parzen, Emanuel}
+\ID{parzen__emanuel}
+
+
+
+
+\Homepage{http://www.stat.tamu.edu/~eparzen/}
+\Homepage{http://www.stat.tamu.edu/~eparzen/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=202294}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:parzen.emanuel}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=14685}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/2597640}{Microsoft Academic: Parzen, Emanuel}
+\Profile{http://academic.research.microsoft.com/Author/12795167}{Microsoft Academic: Parzen, Emanuel}
+
+
+\subsection*{Education}
+\Degree{1953}{Ph.D.}{University of California, Berkeley}[On Uniform Convergence of Families of Sequences of Random Variables]<http://genealogy.math.ndsu.nodak.edu/id.php?id=14685>
+
+
+\subsection*{Honors}
+\Honor{1960}{IMS Fellow}
+\Honor{1994}{Samuel S. Wilks Award}
+
+
+\subsection*{Biographies}
+\Biography{parzen__emanuel:244531}
+\Biography{parzen__emanuel:875249}
+\end{document}

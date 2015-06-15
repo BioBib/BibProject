@@ -1,0 +1,83 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Blumenthal, Robert M.
+
+@misc{blumenthal__robert_m:319083,
+year={2013},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Bob Blumenthal: 1931-2012 (2013). IMS Bulletin, Vol. 42(1), p. 2},
+}
+
+@misc{blumenthal__robert_m:635920,
+year={2013},
+author={Anonymous},
+title={{U}ntitled},
+addendum={(2013). Notices Amer. Math. Soc., Vol. 60, p. 626},
+}
+
+@article{blumenthal__robert_m:1,
+year={2013},
+author={Ronald Getoor},
+title={{O}bituary: {B}ob {B}lumenthal (1931-2012)},
+journal={IMS Bulletin},
+url={http://bulletin.imstat.org/wp-content/uploads/Bulletin42_3.pdf},
+}
+
+@misc{blumenthal__robert_m:430405,
+year={2013},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Getoor, R. (2013). Bob Blumenthal, 1931-2012. IMS Bulletin, Vol. 42(3), pp. 7,9},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Blumenthal, Robert M.} \Deceased
+\ID{blumenthal__robert_m}
+\AltID{blumenthal__robert}
+
+\DisplayName{Blumenthal, Robert}
+
+
+\DOB{1931-02-07}
+\DOD{2012-11-08}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=191743}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:blumenthal.robert-m}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=1863}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/10536719}{Microsoft Academic: Blumenthal, R. M.}
+\Profile{http://academic.research.microsoft.com/Author/54986147}{Microsoft Academic: Blumenthal, R. M.}
+
+
+\subsection*{Education}
+\Degree{1956}{Ph.D.}{Cornell University}[An Extended Markov Property]<http://genealogy.math.ndsu.nodak.edu/id.php?id=1863>
+
+
+\subsection*{Honors}
+\Honor{1970}{IMS Fellow}
+
+
+\subsection*{Death Notices}
+\DeathNotice{blumenthal__robert_m:319083}
+\DeathNotice{blumenthal__robert_m:635920}
+
+
+\subsection*{Obituary}
+\Obituary{blumenthal__robert_m:1}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{blumenthal__robert_m:430405}
+\end{document}

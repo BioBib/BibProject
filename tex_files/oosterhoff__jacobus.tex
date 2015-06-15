@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Oosterhoff, Jacobus
+\end{filecontents}
+
+\begin{document}
+
+\Name{Oosterhoff, Jacobus}
+\ID{oosterhoff__jacobus}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=225786}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:oosterhoff.j}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=66007}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/55281621}{Microsoft Academic: Oosterhoff, J.}
+\Profile{http://academic.research.microsoft.com/Author/2708468}{Microsoft Academic: Oosterhoff, J.}
+
+
+\subsection*{Education}
+\Degree{1969}{Ph.D.}{Universiteit Leiden}[Combinations of One-Sided Statistical Tests]<http://genealogy.math.ndsu.nodak.edu/id.php?id=66007>
+
+
+\subsection*{Honors}
+\Honor{1984}{IMS Fellow}
+\end{document}

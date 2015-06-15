@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Loh, Wei-Liem
+\end{filecontents}
+
+\begin{document}
+
+\Name{Loh, Wei-Liem}
+\ID{loh__wei-liem}
+
+
+
+
+\Homepage{http://www.stat.nus.edu.sg/%7Ewloh/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:loh.wei-liem}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/10870134}{Microsoft Academic: Loh, Wei-Liem}
+
+
+\subsection*{Honors}
+\Honor{2007}{IMS Fellow}{For important contributions to statistics of random fields, Latin hypercube sampling, and orthogonal arrays, for creative use of Stein-Chen methods in challenging central limit problems, and for dedicated editorial service}
+\end{document}

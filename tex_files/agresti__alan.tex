@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Agresti, Alan
+\end{filecontents}
+
+\begin{document}
+
+\Name{Agresti, Alan}
+\ID{agresti__alan}
+
+
+
+
+\Homepage{http://www.stat.ufl.edu/~aa/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:agresti.alan}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/12602858}{Microsoft Academic: Agresti, Alan}
+
+
+\subsection*{Honors}
+\Honor{2008}{IMS Fellow}{For contributions to categorical data analysis, through research and exceptional textbooks, and for excellence in teaching and mentoring of students}
+\end{document}

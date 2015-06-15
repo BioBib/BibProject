@@ -1,0 +1,40 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Barlow, Richard E.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Barlow, Richard E.}
+\ID{barlow__richard_e}
+\AltID{barlow__richard}
+
+\DisplayName{Barlow, Richard}
+
+
+\Homepage{http://www.ieor.berkeley.edu/People/Faculty/barlow.htm}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=31305}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:barlow.richard-e}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=46566}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/10228621}{Microsoft Academic: Barlow, Richard E.}
+
+
+\subsection*{Education}
+\Degree{1961}{Ph.D.}{Stanford University}[Applications of Semi-Markov Processes to Counter and Reliability Problems]<http://genealogy.math.ndsu.nodak.edu/id.php?id=46566>
+
+
+\subsection*{Honors}
+\Honor{1968}{IMS Fellow}
+\Honor{1991}{John von Neumann Theory Prize}
+\end{document}

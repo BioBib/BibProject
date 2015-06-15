@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Gordon, Louis
+\end{filecontents}
+
+\begin{document}
+
+\Name{Gordon, Louis}
+\ID{gordon__louis}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=75445}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:gordon.louis}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=6561}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/54503804}{Microsoft Academic: Gordon, Louis}
+
+
+\subsection*{Education}
+\Degree{1967}{Ph.D.}{The University of Chicago}[Perron's Integral for Derivatives in $L^r$]<http://genealogy.math.ndsu.nodak.edu/id.php?id=6561>
+
+
+\subsection*{Honors}
+\Honor{1988}{IMS Fellow}
+\end{document}

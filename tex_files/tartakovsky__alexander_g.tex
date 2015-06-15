@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Tartakovsky, Alexander G.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Tartakovsky, Alexander G.}
+\ID{tartakovsky__alexander_g}
+\AltID{tartakovsky__alexander
+
+}
+
+\DisplayName{Tartakovsky, Alexander}
+
+
+\Homepage{http://www.usc.edu/dept/LAS/CAMS/usr/facmemb/tartakov/main.html}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:tartakovsky.alexander-g}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/1236687}{Microsoft Academic: Tartakovsky, Alexander G.}
+
+
+\subsection*{Honors}
+\Honor{2012}{IMS Fellow}{For significant contributions to sequential multiple decision problems, rapid changepoint detection and identification, multiple hypothesis testing, minimax changepoint detection, intrusion detection, and target tracking}
+\end{document}

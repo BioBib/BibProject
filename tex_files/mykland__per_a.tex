@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Mykland, Per A.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Mykland, Per A.}
+\ID{mykland__per_a}
+\AltID{mykland__per}
+
+
+
+\Homepage{http://galton.uchicago.edu/~mykland/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:mykland.per-aslak}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=34308}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/897638}{Microsoft Academic: Per Aslak Mykland}
+
+
+\subsection*{Education}
+\Degree{1989}{Ph.D.}{University of California, Berkeley}[Bootstrap and Edgeworth Methods for Dependent Variables]<http://genealogy.math.ndsu.nodak.edu/id.php?id=34308>
+
+
+\subsection*{Honors}
+\Honor{1999}{IMS Fellow}{For fundamental work on asymptotic expansions for martingales, for developing Bartlett-type identities for martingales, and for innovative applications of artificial likelihoods}
+\Honor{2002}{IMS Medallion Lecturer}
+\end{document}

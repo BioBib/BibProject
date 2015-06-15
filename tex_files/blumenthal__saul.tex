@@ -1,0 +1,33 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Blumenthal, Saul
+\end{filecontents}
+
+\begin{document}
+
+\Name{Blumenthal, Saul}
+\ID{blumenthal__saul}
+
+
+
+
+\Homepage{http://or.journal.informs.org/cgi/content/abstract/41/2/409}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=38255}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:blumenthal.saul}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/18725215}{Microsoft Academic: Blumenthal, Saul}
+
+
+\subsection*{Honors}
+\Honor{1977}{IMS Fellow}
+\end{document}

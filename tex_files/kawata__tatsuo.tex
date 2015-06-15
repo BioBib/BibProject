@@ -1,0 +1,31 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Kawata, Tatsuo
+\end{filecontents}
+
+\begin{document}
+
+\Name{Kawata, Tatsuo}
+\ID{kawata__tatsuo}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=199072}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:kawata.tatsuo}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/22683898}{Microsoft Academic: Kawata, Tatsuo}
+\Profile{http://projecteuclid.org/euclid.pja/1195573048}{Article}
+
+
+\subsection*{Honors}
+\Honor{1958}{IMS Fellow}
+\end{document}

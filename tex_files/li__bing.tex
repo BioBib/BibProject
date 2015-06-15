@@ -1,0 +1,28 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Li, Bing
+\end{filecontents}
+
+\begin{document}
+
+\Name{Li, Bing}
+\ID{li__bing}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:li.bing}{zbMATH}
+
+
+\subsection*{Honors}
+\Honor{2007}{IMS Fellow}{For his contributions to sufficient dimension reduction, and semi-parametric optimal estimating equations and inference methods, and for conscientious editorial service}
+\end{document}

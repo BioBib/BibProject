@@ -1,0 +1,59 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Kurtz, Thomas G.
+
+@misc{kurtz__thomas_g:793012,
+year={2008},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Ethier, S. N., Feng, J., and Stockbridge, R. H. (2008). Preface. In Markov Processes and Related Topics: A Festschrift for Thomas G. Kurtz (S. N. Ethier, J. Feng, and R. H. Stockbridge, eds.). Institute of Mathematical Statistics Collections, Vol. 4, pp. vii-viii. Institute of Mathematical Statistics, Beachwood, OH},
+}
+
+@misc{kurtz__thomas_g:956547,
+year={2008},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Ethier, S. N., Feng, J., and Stockbridge, R. H., eds. (2008). Markov Processes and Related Topics: A Festschrift for Thomas G. Kurtz. Institute of Mathematical Collections, Vol. 4. Institute of Mathematical Statistics, Beachwood, OH},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Kurtz, Thomas G.}
+\ID{kurtz__thomas_g}
+\AltID{kurtz__thomas}
+
+
+
+\Homepage{http://www.math.wisc.edu/~kurtz/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:kurtz.thomas-g}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/52727579}{Microsoft Academic: Kurtz, T. C.}
+\Profile{http://academic.research.microsoft.com/Author/379869}{Microsoft Academic: Kurtz, Thomas G.}
+
+
+\subsection*{Honors}
+\Honor{1979}{IMS Fellow}
+\Honor{1980}{IMS Medallion Lecturer}
+\Honor{1989}{IMS Medallion Lecturer}
+\Honor{2005}{American Academy of Arts and Sciences, Fellow}
+\Honor{2006}{IMS President}
+
+
+\subsection*{Biography}
+\Biography{kurtz__thomas_g:793012}
+
+
+\subsection*{Festschrift}
+\Festschrift{kurtz__thomas_g:956547}
+\end{document}

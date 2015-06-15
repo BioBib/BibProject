@@ -1,0 +1,52 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Elfving, Erik Gustav
+
+@incollection{elfving__gustav:7,
+year={1997},
+author={M\"{a}kel\"{a}inen, T.},
+title={{E}lfving, {G}ustav},
+pages={96-98},
+crossref={booktitle:leading-personalities-in-statistical-sciences-from-the-17th-century-to-the-present},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Elfving, Erik Gustav} \Deceased
+\ID{elfving__gustav}
+
+
+\DisplayName{Elfving, Gustav}
+
+
+\DOB{1908-06-25}
+\DOD{1984-03-25}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=62815}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:elfving.gustav}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=20422}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/3046342}{Microsoft Academic: Elfving, G.}
+
+
+\subsection*{Education}
+\Degree{1934}{Ph.D.}{Helsingin Yliopisto}[\"{U}ber eine Klasse von Riemannschen Fl\~{a}chen und ihre Uniformisierung]<http://genealogy.math.ndsu.nodak.edu/id.php?id=20422>
+
+
+\subsection*{Honors}
+\Honor{1955}{IMS Fellow}
+
+
+\subsection*{Biography}
+\Biography{elfving__gustav:7}
+\end{document}

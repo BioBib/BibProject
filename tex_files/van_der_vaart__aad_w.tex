@@ -1,0 +1,43 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for van der Vaart, Aad W.
+\end{filecontents}
+
+\begin{document}
+
+\Name{van der Vaart, Aad W.}
+\ID{van_der_vaart__aad_w}
+\AltID{van_der_vaart__aad}
+
+\DisplayName{van der Vaart, Aad}
+
+
+\Homepage{http://www.few.vu.nl/~aad/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=176415}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:van-der-vaart.aad-w}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:der-vaart.aad-van}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=75590}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/493791}{Microsoft Academic: Aad W. van der Vaart}
+
+
+\subsection*{Education}
+\Degree{1987}{Ph.D.}{Universiteit Leiden}[Statistical Estimation in Large Parameter Spaces]<http://genealogy.math.ndsu.nodak.edu/id.php?id=75590>
+
+
+\subsection*{Honors}
+\Honor{2000}{IMS Medallion Lecturer}
+\Honor{2001}{IMS Fellow}{For great distinction in research in mathematical statistics and probability by independent and innovating publications, in particular in semiparametrics, asymptotic statistics and empirical processes; and for editorial service to the profession}
+\Honor{2009}{Le Cam Lecturer}
+\Honor{2009}{The Royal Netherlands Academy of Arts and Sciences, Member}
+\end{document}

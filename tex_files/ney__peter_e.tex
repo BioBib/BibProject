@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Ney, Peter E.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Ney, Peter E.}
+\ID{ney__peter_e}
+\AltID{ney__peter}
+
+\DisplayName{Ney, Peter}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=130860}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:ney.peter-e}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=9053}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/55091948}{Microsoft Academic: Ney, Peter}
+\Profile{http://academic.research.microsoft.com/Author/909427}{Microsoft Academic: Ney, Peter}
+\Profile{http://academic.research.microsoft.com/Author/55037799}{Microsoft Academic: Ney, Peter E.}
+
+
+\subsection*{Education}
+\Degree{1961}{Ph.D.}{Columbia University}[Some Contributions to the Theory of Cascades]<http://genealogy.math.ndsu.nodak.edu/id.php?id=9053>
+
+
+\subsection*{Honors}
+\Honor{1970}{IMS Fellow}
+\end{document}

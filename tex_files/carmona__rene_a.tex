@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Carmona, Rene A.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Carmona, Rene A.}
+\ID{carmona__rene_a}
+\AltID{carmona__rene}
+
+\DisplayName{Carmona, Rene}
+
+
+\Homepage{http://www.orfe.princeton.edu/~rcarmona/index.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=45505}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:carmona.rene-a}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=31313}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/23355385}{Microsoft Academic: Carmona, Rene}
+
+
+\subsection*{Education}
+\Degree{1977}{Ph.D.}{Universit\'{e} Aix-Marseille}<http://genealogy.math.ndsu.nodak.edu/id.php?id=31313>
+
+
+\subsection*{Honors}
+\Honor{1985}{IMS Fellow}
+\end{document}

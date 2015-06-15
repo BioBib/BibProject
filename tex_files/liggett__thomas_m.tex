@@ -1,0 +1,55 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Liggett, Thomas M.
+
+@article{liggett__thomas_m:9,
+year={2008},
+author={Durrett, R.},
+title={{P}rofile: {T}om {L}iggett, {N}{A}{S} member},
+journal={IMS Bulletin},
+pages={9},
+volume={37(6)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Liggett, Thomas M.}
+\ID{liggett__thomas_m}
+\AltID{liggett__thomas}
+
+\DisplayName{Liggett, Thomas}
+
+
+\Homepage{http://www.math.ucla.edu/~tml/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=113985}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:liggett.thomas-m}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=36685}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/2035401}{Microsoft Academic: Liggett, Thomas M.}
+
+
+\subsection*{Education}
+\Degree{1969}{Ph.D.}{Stanford University}[Weak Convergence of Conditioned Sums of Independent Random Vectors]<http://genealogy.math.ndsu.nodak.edu/id.php?id=36685>
+
+
+\subsection*{Honors}
+\Honor{1976}{IMS Fellow}
+\Honor{1996}{Wald Lecturer}
+\Honor{2008}{National Academy of Sciences, Member}
+\Honor{2012}{American Academy of Arts and Sciences, Fellow}
+
+
+\subsection*{Biography}
+\Biography{liggett__thomas_m:9}
+\end{document}

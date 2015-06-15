@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Ross, Sheldon M.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Ross, Sheldon M.}
+\ID{ross__sheldon_m}
+\AltID{ross__sheldon}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=150775}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:ross.sheldon-mark}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=72362}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/55063921}{Microsoft Academic: Ross, Sheldon M.}
+\Profile{http://academic.research.microsoft.com/Author/55063904}{Microsoft Academic: Ross, Sheldon M.}
+
+
+\subsection*{Education}
+\Degree{1968}{Ph.D.}{Stanford University}[Denumerable Markovial Decision Models]<http://genealogy.math.ndsu.nodak.edu/id.php?id=72362>
+
+
+\subsection*{Honors}
+\Honor{1994}{IMS Fellow}
+\end{document}

@@ -1,0 +1,40 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Jain, Naresh C.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Jain, Naresh C.} \Deceased
+\ID{jain__naresh_c}
+\AltID{jain__naresh}
+
+
+
+\DOB{1937}
+\DOD{2009-01-01}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=681971}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:jain.naresh-c}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=11311}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12814362}{Microsoft Academic: Jain, Naresh C.}
+\Profile{http://academic.research.microsoft.com/Author/54354517}{Microsoft Academic: Jain, Naresh C.}
+
+
+\subsection*{Education}
+\Degree{1965}{Ph.D.}{Stanford University}[Some Limit Theorems for a General Markov Process]<http://genealogy.math.ndsu.nodak.edu/id.php?id=11311>
+
+
+\subsection*{Honors}
+\Honor{1977}{IMS Fellow}
+\end{document}

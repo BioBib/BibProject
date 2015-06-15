@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Holley, Richard A.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Holley, Richard A.}
+\ID{holley__richard_a}
+\AltID{holley__richard}
+
+\DisplayName{Holley, Richard}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=87460}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:holley.richard-a}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=31309}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12607969}{Microsoft Academic: Holley, Richard A.}
+
+
+\subsection*{Education}
+\Degree{1969}{Ph.D.}{Cornell University}[The Motion of a Heavy Particle in an Infinite One-Dimensional Diffusions]<http://genealogy.math.ndsu.nodak.edu/id.php?id=31309>
+
+
+\subsection*{Honors}
+\Honor{1991}{IMS Fellow}
+\end{document}

@@ -1,0 +1,52 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Weida, Frank M.
+
+@article{weida__frank_m:8,
+year={1978},
+author={Anonymous},
+title={{U}ntitled},
+journal={IMS Bulletin},
+pages={329},
+volume={7},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Weida, Frank M.} \Deceased
+\ID{weida__frank_m}
+\AltID{weida__frank}
+
+
+
+\DOB{1891-09-28}
+\DOD{1977-09}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=714587}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:weida.frank-m}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=27153}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/52840934}{Microsoft Academic: Frank M. Weida}
+
+
+\subsection*{Education}
+\Degree{1923}{Ph.D.}{University of Iowa}[The Valuation of Life Annuities with Refund of an Arbitrarily Assigned Part of the Purchase Price]<http://genealogy.math.ndsu.nodak.edu/id.php?id=27153>
+
+
+\subsection*{Honors}
+\Honor{before 1943}{IMS Fellow}
+
+
+\subsection*{Death Notice}
+\DeathNotice{weida__frank_m:8}
+\end{document}

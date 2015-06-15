@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Kent, John T.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Kent, John T.}
+\ID{kent__john_t}
+\AltID{kent__john}
+
+
+
+\Homepage{http://www.maths.leeds.ac.uk/~john/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=100350}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:kent.john-t}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=70128}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12763163}{Microsoft Academic: Kent, John T.}
+
+
+\subsection*{Education}
+\Degree{1977}{Ph.D.}{University of Cambridge}[Distributions, Processes and Statistics on 'Spheres']<http://genealogy.math.ndsu.nodak.edu/id.php?id=70128>
+
+
+\subsection*{Honors}
+\Honor{1990}{IMS Fellow}
+\end{document}

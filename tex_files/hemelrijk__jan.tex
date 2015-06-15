@@ -1,0 +1,51 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Hemelrijk, Jan
+
+@misc{hemelrijk__jan:282736,
+year={2005},
+author={Anonymous},
+title={{U}ntitled},
+addendum={van Zwet, W. (2005). Professor Emeritus Jan Hemelrijk. International Statistical Institute Newsletter, Vol. 29(2)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Hemelrijk, Jan} \Deceased
+\ID{hemelrijk__jan}
+
+
+
+
+\DOB{1918}
+\DOD{2005-03-16}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=279707}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:hemelrijk.jan}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=61292}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18756162}{Microsoft Academic: Hemelrijk, J.}
+\Profile{http://academic.research.microsoft.com/Author/52794774}{Microsoft Academic: Hemelrijk, J.}
+
+
+\subsection*{Education}
+\Degree{1950}{Ph.D.}{Universiteit van Amsterdam}[Symmetrietoetsen en andere toepassingen van de theorie van Neyman en Pearson]<http://genealogy.math.ndsu.nodak.edu/id.php?id=61292>
+
+
+\subsection*{Honors}
+\Honor{1958}{IMS Fellow}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{hemelrijk__jan:282736}
+\end{document}

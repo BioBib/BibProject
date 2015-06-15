@@ -1,0 +1,90 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Kempthorne, Oscar
+
+@incollection{kempthorne__oscar:10,
+year={2000},
+author={Hinkelmann, K.},
+title={{O}scar {K}empthorne, 1919-2000},
+publisher={American {S}tatistical {A}ssociation},
+booktitle={Statisticians in {H}istory},
+url={http://www.amstat.org/about/statisticiansinhistory/index.cfm?fuseaction=biosinfo&BioID=8},
+}
+
+@incollection{kempthorne__oscar:9,
+year={2005},
+author={David, H. A. and Pollak, E.},
+title={{K}empthorne, {O}scar},
+crossref={booktitle:encyclopedia-of-biostatistics},
+}
+
+@article{kempthorne__oscar:6,
+year={2001},
+author={Weiser, B.},
+title={{O}scar {K}empthorne},
+journal={IMS Bulletin},
+pages={85-86},
+volume={30},
+}
+
+@misc{kempthorne__oscar:451554,
+year={2001},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Weiser, B. (2001). Oscar Kempthorne (January 31, 1919-November 15, 2000). International Statistical Institute Newsletter, Vol. 25(2)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Kempthorne, Oscar} \Deceased
+\ID{kempthorne__oscar}
+
+
+
+
+\DOB{1911-01-31}
+\DOD{2000-11-15}
+
+
+\Homepage{http://en.wikipedia.org/wiki/Oscar_Kempthorne}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=100190}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:kempthorne.oscar}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=43260}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12598935}{Microsoft Academic: Kempthorne, Oscar}
+
+
+\subsection*{Education}
+\Degree{1943}{M.S.}{University of Cambridge}<http://genealogy.math.ndsu.nodak.edu/id.php?id=43260>
+\Degree{1960}{Sc.D.(honorary)}{University of Cambridge}<http://genealogy.math.ndsu.nodak.edu/id.php?id=43260>
+
+
+\subsection*{Honors}
+\Honor{1965}{R. A. Fisher Lecturer}
+\Honor{1985}{IMS President}
+\Honor{19??}{IMS Fellow}
+
+
+\subsection*{Biographies}
+\Biography{kempthorne__oscar:10}
+\Biography{kempthorne__oscar:9}
+
+
+\subsection*{Obituary}
+\Obituary{kempthorne__oscar:6}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{kempthorne__oscar:451554}
+\end{document}

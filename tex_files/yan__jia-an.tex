@@ -1,0 +1,31 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Yan, Jia-An
+\end{filecontents}
+
+\begin{document}
+
+\Name{Yan, Jia-An}
+\ID{yan__jia-an}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:yan.jiaan}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:yan.jia-an}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/42291510}{Microsoft Academic: Yan, J.-A.}
+\Profile{http://academic.research.microsoft.com/Author/54929594}{Microsoft Academic: Yan, Jia'an}
+
+
+\subsection*{Honors}
+\Honor{2010}{IMS Fellow}{For deep contributions to martingales, stochastic analysis, and mathematical finance; for his books disseminating probability theory; and for his editorial and international leadership in the probability community}
+\end{document}

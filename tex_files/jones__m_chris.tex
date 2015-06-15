@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Jones, M. Chris
+\end{filecontents}
+
+\begin{document}
+
+\Name{Jones, M. Chris}
+\ID{jones__m_chris}
+\AltID{jones__m}
+
+\DisplayName{Jones, Chris}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=235548}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:jones.m-christopher-w}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=55431}{Math. Genealogy}
+
+
+\subsection*{Education}
+\Degree{1983}{Ph.D.}{University of Bath}[The Projection Pursuit Algorithm for Exploratory Data Analysis]<http://genealogy.math.ndsu.nodak.edu/id.php?id=55431>
+
+
+\subsection*{Career}
+\Position{2012}{Department of Mathematics and Statistics}{ The Open University, Walton Hall, Milton Keynes, MK7 6AA, UK}
+
+
+\subsection*{Honors}
+\Honor{1999}{IMS Fellow}{For outstanding contributions to nonparametric statistics, particularly curve estimation; and for leadership of the profession in research, editorial service and innovative teaching}
+\end{document}

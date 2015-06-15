@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Dupuis, Paul
+\end{filecontents}
+
+\begin{document}
+
+\Name{Dupuis, Paul}
+\ID{dupuis__paul}
+
+
+
+
+\Homepage{http://www.dam.brown.edu/lcds/people/dupuis.php}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:dupuis.paul-g}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/86923}{Microsoft Academic: Dupuis, Paul}
+
+
+\subsection*{Honors}
+\Honor{2011}{IMS Fellow}{For seminal research in broad areas of pure and applied probability, for expository publications that have helped shape important research areas, for editorial work for many leading journals, and for vital leadership within his university and in the wider academic community}
+\end{document}

@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for He, Xuming
+\end{filecontents}
+
+\begin{document}
+
+\Name{He, Xuming}
+\ID{he__xuming}
+
+
+
+
+\Homepage{http://www.stat.ucla.edu/~hexm/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=294490}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:he.xuming}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/53506678}{Microsoft Academic: He, Xuming}
+\Profile{http://academic.research.microsoft.com/Author/12542080}{Microsoft Academic: He, Xuming}
+
+
+\subsection*{Honors}
+\Honor{2002}{IMS Fellow}{For fundamental contributions to the theory and practice of statistics in a number of areas, including robust statistics, regression quantiles, data smoothing, data depth, and the MCMC bootstrap; consulting in government and industry, including directing the Illinois Statistics Office; excellent teaching and mentoring of young researchers; and service to the profession in editorial and other organizational duties}
+\Honor{2007}{IMS Medallion Lecturer}
+\end{document}

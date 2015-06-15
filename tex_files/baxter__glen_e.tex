@@ -1,0 +1,54 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Baxter, Glen E.
+
+@article{baxter__glen_e:8,
+year={1983},
+author={Anonymous},
+title={{U}ntitled},
+journal={IMS Bulletin},
+pages={249},
+volume={12},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Baxter, Glen E.} \Deceased
+\ID{baxter__glen_e}
+\AltID{baxter__glen}
+
+\DisplayName{Baxter, Glen}
+
+
+\DOB{1930-03-19}
+\DOD{1983-03-27}
+
+
+\subsection*{Profiles}
+\Profile{http://en.wikipedia.org/wiki/Glen_Baxter_(mathematician)}{Wikipedia}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=410364}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:baxter.glen}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=16590}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12600331}{Microsoft Academic: Baxter, Glen}
+
+
+\subsection*{Education}
+\Degree{1954}{Ph.D.}{University of Minnesota-Minneapolis}[An Application of Stochastic Processes to Certain Problems in the Brownian Motion of Continuous Media]<http://genealogy.math.ndsu.nodak.edu/id.php?id=16590>
+
+
+\subsection*{Honors}
+\Honor{1968}{IMS Fellow}
+
+
+\subsection*{Death Notice}
+\DeathNotice{baxter__glen_e:8}
+\end{document}

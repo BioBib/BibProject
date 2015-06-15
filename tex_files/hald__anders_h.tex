@@ -1,0 +1,61 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Hald, Anders H.
+
+@article{hald__anders_h:7,
+year={2008},
+author={Keiding, N.},
+title={{A}nders {H}ald, 1913-2007},
+journal={IMS Bulletin},
+pages={12},
+volume={37(1)},
+}
+
+@misc{hald__anders_h:946931,
+year={2008},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Keiding, N. (2008). Anders Hald (1913-2007). International Statistical Institute Newsletter, Vol. 32(1)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Hald, Anders H.} \Deceased
+\ID{hald__anders_h}
+\AltID{hald__anders}
+
+\DisplayName{Hald, Anders}
+
+
+\DOB{1913-07-03}
+\DOD{2007-11-11}
+
+
+\subsection*{Profiles}
+\Profile{http://www.york.ac.uk/depts/maths/histstat/people/hald.gif}{www.york.ac.uk}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=79915}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:hald.anders}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/18749880}{Microsoft Academic: Hald, A.}
+
+
+\subsection*{Honors}
+\Honor{19??}{IMS Fellow}
+\Honor{2001}{The Royal Society of Edinburgh, Corresponding Fellow}
+
+
+\subsection*{Obituary}
+\Obituary{hald__anders_h:7}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{hald__anders_h:946931}
+\end{document}

@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Berry, Donald A.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Berry, Donald A.}
+\ID{berry__donald_a}
+\AltID{berry__donald}
+
+\DisplayName{Berry, Donald}
+
+
+\Homepage{http://cancercenter.mayo.edu/mayo/research/staff/publications-listed.cfm?personid=10961542}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=35765}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:berry.donald-a}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=40296}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/23305371}{Microsoft Academic: Berry, Donald A.}
+
+
+\subsection*{Education}
+\Degree{1971}{Ph.D.}{Yale University}[A Bernoulli Two-Armed Bandit]<http://genealogy.math.ndsu.nodak.edu/id.php?id=40296>
+
+
+\subsection*{Honors}
+\Honor{1984}{IMS Fellow}
+\end{document}

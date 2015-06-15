@@ -1,0 +1,73 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for van Eeden, Constance
+
+@misc{van_eeden__constance:844145,
+year={2003},
+author={Anonymous},
+title={{U}ntitled},
+addendum={(2003). Biography. In Mathematical Statistics and Applications: Festschrift for Constance van Eeden (M. Moore, S. Froda, and C. L\'{e}ger, eds.). Lecture Notes-Monograph Series, Vol. 42, pp. xiv-xviii. Institute of Mathematical Statistics, Beachwood, OH},
+url={http://www.jstor.org/stable/4356224},
+}
+
+@misc{van_eeden__constance:351048,
+year={2003},
+author={Anonymous},
+title={{U}ntitled},
+addendum={(2003). The scientific family tree of Constance van Eeden. In Mathematical Statistics and Applications: Festschrift for Constance van Eeden (M. Moore, S. Froda, and C. L\'{e}ger, eds.). Lecture Notes-Monograph Series, Vol. 42, pp. xxv-xxix. Institute of Mathematical Statistics, Beachwood, OH},
+url={http://www.jstor.org/stable/4356226},
+}
+
+@misc{van_eeden__constance:331682,
+year={2003},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Moore, M., Froda, S., and L\'{e}ger, C., eds. (2003). Mathematical Statistics and Applications: Festschrift for Constance van Eeden. Lecture Notes-Monograph Series, Vol. 42. Institute of Mathematical Statistics, Beachwood, OH, with portrait},
+url={http://www.jstor.org/stable/i397615},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{van Eeden, Constance}
+\ID{van_eeden__constance}
+
+
+
+
+\Homepage{http://www.stat.ubc.ca/~vaneeden/}
+\Homepage{http://www.stat.ubc.ca/~vaneeden/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=61930}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:van-eeden.constance}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=73217}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12547554}{Microsoft Academic: Constance van Eeden}
+\Profile{http://academic.research.microsoft.com/Author/53113520}{Microsoft Academic: Constance van Eeden}
+
+
+\subsection*{Education}
+\Degree{1958}{Ph.D.}{Universiteit van Amsterdam}[Testing and Estimating Ordered Parameters of Probability Distribution]<http://genealogy.math.ndsu.nodak.edu/id.php?id=73217>
+
+
+\subsection*{Honors}
+\Honor{1973}{IMS Fellow}
+
+
+\subsection*{Biographies}
+\Biography{van_eeden__constance:844145}
+\Biography{van_eeden__constance:351048}
+
+
+\subsection*{Festschrift}
+\Festschrift{van_eeden__constance:331682}
+\end{document}

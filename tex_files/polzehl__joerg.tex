@@ -1,0 +1,24 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Polzehl, Jörg
+\end{filecontents}
+
+\begin{document}
+
+\Name{Polzehl, J\"{o}rg}
+\ID{polzehl__joerg}
+\AltID{polzehl__jorg}
+
+
+
+\subsection*{Honors}
+\Honor{2013}{IMS Fellow}{For contributions to the non-parametric smoothing methods and medical imaging analysis}
+\end{document}

@@ -1,0 +1,65 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Lukacs, Eugene
+
+@incollection{lukacs__eugene:9,
+year={1998},
+author={O'Connor, J. J. and Robertson, E. F.},
+title={{E}ugene {L}ukacs},
+addendum={MacTutor biography},
+url={http://www-history.mcs.st-andrews.ac.uk/Biographies/Lukacs.html},
+}
+
+@article{lukacs__eugene:8,
+year={1988},
+author={Rohatgi, V. K.},
+title={{E}ugene {L}ukacs, 1906-1987},
+journal={IMS Bulletin},
+pages={160},
+volume={17},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Lukacs, Eugene} \Deceased
+\ID{lukacs__eugene}
+
+
+
+
+\DOB{1906-08-14}
+\DOD{1987-12-21}
+
+
+\Homepage{http://en.wikipedia.org/wiki/Eugene_Lukacs}
+\Homepage{http://en.wikipedia.org/wiki/Eugene_Lukacs}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=198364}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:lukacs.eugene}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/54273675}{Microsoft Academic: Lukacs, Eugene}
+\Profile{http://academic.research.microsoft.com/Author/50342255}{Microsoft Academic: Lukacs, Eugene}
+\Profile{http://academic.research.microsoft.com/Author/18660938}{Microsoft Academic: Lukacs, Eugene}
+
+
+\subsection*{Honors}
+\Honor{1957}{IMS Fellow}
+
+
+\subsection*{Biography}
+\Biography{lukacs__eugene:9}
+
+
+\subsection*{Obituary}
+\Obituary{lukacs__eugene:8}
+\end{document}

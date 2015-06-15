@@ -1,0 +1,33 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Gilford, Dorothy M.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Gilford, Dorothy M.}
+\ID{gilford__dorothy_m}
+\AltID{gilford__dorothy
+
+}
+
+\DisplayName{Gilford, Dorothy}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=450430}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:gilford.d-m}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/45371839}{Microsoft Academic: Dorothy M. Gilford}
+
+
+\subsection*{Honors}
+\Honor{1960}{IMS Fellow}
+\end{document}

@@ -1,0 +1,24 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Müller, Peter
+\end{filecontents}
+
+\begin{document}
+
+\Name{M\"{u}ller, Peter}
+\ID{mueller__peter}
+
+
+
+
+\subsection*{Honors}
+\Honor{2013}{IMS Fellow}{For contributions to Bayesian statistics, biostatistical modeling, and the analysis of clinical trials}
+\end{document}

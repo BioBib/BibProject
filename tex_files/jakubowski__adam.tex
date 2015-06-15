@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Jakubowski, Adam
+\end{filecontents}
+
+\begin{document}
+
+\Name{Jakubowski, Adam}
+\ID{jakubowski__adam}
+
+
+
+
+\Homepage{http://www-users.mat.uni.torun.pl/%7Eadjakubo/generalities.html}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:jakubowski.adam}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/18091916}{Microsoft Academic: Jakubowski, Adam}
+
+
+\subsection*{Honors}
+\Honor{2009}{IMS Fellow}{For contributions to limit theorems for dependent sequences, functional limit theorems of stochastic integrals, and for achievements in organizational work in the probability community}
+\end{document}

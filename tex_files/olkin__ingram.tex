@@ -1,0 +1,42 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Olkin, Ingram
+\end{filecontents}
+
+\begin{document}
+
+\Name{Olkin, Ingram}
+\ID{olkin__ingram}
+
+
+
+
+\Homepage{http://www-stat.stanford.edu/people/faculty/olkin/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=133705}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:olkin.ingram}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=13647}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/10531489}{Microsoft Academic: Olkin, Ingram}
+
+
+\subsection*{Education}
+\Degree{1951}{Ph.D.}{The University of North Carolina at Chapel Hill}[On Distribution Problems in Multivariate Analysis]<http://genealogy.math.ndsu.nodak.edu/id.php?id=13647>
+
+
+\subsection*{Honors}
+\Honor{1959}{IMS Fellow}
+\Honor{1984}{IMS President}
+\Honor{1991}{Samuel S. Wilks Award}
+\Honor{1998}{Elizabeth L. Scott Award}
+\Honor{2000}{R. A. Fisher Lecturer}
+\end{document}

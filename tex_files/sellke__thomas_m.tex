@@ -1,0 +1,40 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Sellke, Thomas M.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Sellke, Thomas M.}
+\ID{sellke__thomas_m}
+\AltID{sellke__thomas}
+
+\DisplayName{Sellke, Thomas}
+
+
+\Homepage{http://www.stat.purdue.edu/~tsellke/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=158445}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:sellke.thomas-m}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=59209}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/975316}{Microsoft Academic: Sellke, Thomas M.}
+
+
+\subsection*{Education}
+\Degree{1983}{Ph.D.}{Stanford University}[Sequential Analysis of the Proportional Hazards Model]<http://genealogy.math.ndsu.nodak.edu/id.php?id=59209>
+
+
+\subsection*{Honors}
+\Honor{1993}{IMS Fellow}
+\Honor{1994}{IMS Medallion Lecturer}
+\end{document}

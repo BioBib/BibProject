@@ -1,0 +1,33 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Sackrowitz, Harold B.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Sackrowitz, Harold B.}
+\ID{sackrowitz__harold_b}
+\AltID{sackrowitz__harold}
+
+
+
+\Homepage{http://www.stat.rutgers.edu/people/faculty/sackrow.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=152655}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:sackrowitz.harold-b}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/10788167}{Microsoft Academic: Sackrowitz, Harold B.}
+
+
+\subsection*{Honors}
+\Honor{1986}{IMS Fellow}
+\end{document}

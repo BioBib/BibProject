@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Hoppe, Fred M.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Hoppe, Fred M.}
+\ID{hoppe__fred_m}
+\AltID{hoppe__fred}
+
+
+
+\Homepage{http://www.math.mcmaster.ca/fred/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=88120}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:hoppe.fred-m}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=7911}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/52644801}{Microsoft Academic: Hoppe, Fred M.}
+\Profile{http://academic.research.microsoft.com/Author/12771169}{Microsoft Academic: Hoppe, Fred M.}
+
+
+\subsection*{Education}
+\Degree{year?}{Ph.D.}{}<http://genealogy.math.ndsu.nodak.edu/id.php?id=7911>
+
+
+\subsection*{Honors}
+\Honor{1995}{IMS Fellow}
+\end{document}

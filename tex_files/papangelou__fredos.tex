@@ -1,0 +1,30 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Papangelou, Fredos
+\end{filecontents}
+
+\begin{document}
+
+\Name{Papangelou, Fredos}
+\ID{papangelou__fredos}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=190291}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:papangelou.fredos}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/55426658}{Microsoft Academic: Papangelou, F.}
+
+
+\subsection*{Honors}
+\Honor{1984}{IMS Fellow}
+\end{document}

@@ -1,0 +1,104 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Freedman, David A.
+
+@misc{freedman__david_a:548932,
+year={2008},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Nolan, D. and Speed, T. (2008). Preface. In Probability and Statistics: Essays in Honor of David A. Freedman (D. Nolan and T. Speed, eds.). Institute of Mathematical Statistics Collections, Vol. 2, p. v. Institute of Mathematical Statistics, Beachwood, OH},
+}
+
+@book{freedman__david_a:8,
+year={2007},
+author={Anonymous},
+title={{P}robability and {S}tatistics: {E}ssays in {H}onor of {D}avid {A}. {F}reedman},
+publisher={Institute of Mathematical Statistics},
+volume={2},
+}
+
+@misc{freedman__david_a:258239,
+year={2008},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Nolan, D. and Speed, T., eds. (2008). Probability and Statistics: Essays in Honor of David A. Freedman. Institute of Mathematical Collections, Vol. 2. Institute of Mathematical Statistics, Beachwood, OH},
+}
+
+@article{freedman__david_a:9,
+year={2008},
+author={Anonymous},
+title={{D}avid {A}. {F}reedman},
+journal={Amstat News},
+pages={36-37},
+volume={Dec. 2008},
+}
+
+@article{freedman__david_a:10,
+year={2009},
+author={Stark, P. B.},
+title={{D}avid {A}. {F}reedman, 1938-2008},
+journal={IMS Bulletin},
+pages={10-11},
+volume={38(1)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Freedman, David A.} \Deceased
+\ID{freedman__david_a}
+\AltID{freedman__david}
+
+\DisplayName{Freedman, David}
+
+
+\DOB{1938-03-05}
+\DOD{2008-10-17}
+
+
+\Homepage{http://www.stat.berkeley.edu/~freedman/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=69045}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:freedman.david-a}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=29511}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12756967}{Microsoft Academic: Freedman, David A.}
+
+
+\subsection*{Education}
+\Degree{1960}{Ph.D.}{Princeton University}[Mixtures of Stochastic Processes]<http://genealogy.math.ndsu.nodak.edu/id.php?id=29511>
+
+
+\subsection*{Honors}
+\Honor{1967}{IMS Fellow}
+\Honor{1983}{IMS Medallion Lecturer}
+\Honor{1991}{American Academy of Arts and Sciences, Fellow}
+\Honor{1998}{Wald Lecturer}
+\Honor{2003}{John J. Carty Award for the Advancement of Science}
+
+
+\subsection*{Biography}
+\Biography{freedman__david_a:548932}
+
+
+\subsection*{Festschriften}
+\Festschrift{freedman__david_a:8}
+\Festschrift{freedman__david_a:258239}
+
+
+\subsection*{Obituary}
+\Obituary{freedman__david_a:9}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{freedman__david_a:10}
+\end{document}

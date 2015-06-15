@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Yahav, Joseph A.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Yahav, Joseph A.}
+\ID{yahav__joseph_a}
+\AltID{yahav__a}
+
+\DisplayName{Yahav, Joseph A.}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:yahav.joseph-a}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=34373}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18768398}{Microsoft Academic: Yahav, Joseph A.}
+
+
+\subsection*{Education}
+\Degree{1963}{Ph.D.}{University of California, Berkeley}[On Optimal Stopping]<http://genealogy.math.ndsu.nodak.edu/id.php?id=34373>
+
+
+\subsection*{Honors}
+\Honor{1970}{IMS Fellow}
+\end{document}

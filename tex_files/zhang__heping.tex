@@ -1,0 +1,29 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Zhang, Heping
+\end{filecontents}
+
+\begin{document}
+
+\Name{Zhang, Heping}
+\ID{zhang__heping}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:zhang.heping}{zbMATH}
+
+
+\subsection*{Honors}
+\Honor{2006}{IMS Fellow}{For distinguished contributions to genetic statistics, public health, and medicine; for seminal contributions to statistic theory and methods; and for exceptional contributions to postdoctoral training and graduate education}
+\Honor{2011}{IMS Medallion Lecturer}
+\end{document}

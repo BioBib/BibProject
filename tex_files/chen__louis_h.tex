@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Chen, Louis H. Y.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Chen, Louis H. Y.}
+\ID{chen__louis_h}
+\AltID{chen__louis
+
+}
+
+\DisplayName{Chen, Louis H.}
+
+
+\Homepage{http://www.ims.nus.edu.sg/~lhychen/cv.htm}
+\Homepage{http://www.ims.nus.edu.sg/%7Elhychen/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=217170}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:chen.louis-hsiao-yun}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/52734809}{Microsoft Academic: Chen, Louis H. Y.}
+\Profile{http://academic.research.microsoft.com/Author/751937}{Microsoft Academic: Chen, Louis H. Y.}
+
+
+\subsection*{Honors}
+\Honor{1989}{IMS Fellow}
+\Honor{2005}{IMS President}
+\end{document}

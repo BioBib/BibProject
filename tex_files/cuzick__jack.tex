@@ -1,0 +1,34 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Cuzick, Jack
+\end{filecontents}
+
+\begin{document}
+
+\Name{Cuzick, Jack}
+\ID{cuzick__jack}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:cuzick.jack}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=34174}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/10574392}{Microsoft Academic: Cuzick, Jack}
+
+
+\subsection*{Education}
+\Degree{1974}{Ph.D.}{Claremont Graduate University}[On the Moments of the Number of Curve Crossings by a Stationary Gaussian Process]<http://genealogy.math.ndsu.nodak.edu/id.php?id=34174>
+
+
+\subsection*{Honors}
+\Honor{1989}{IMS Fellow}
+\end{document}

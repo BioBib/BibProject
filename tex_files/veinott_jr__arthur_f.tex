@@ -1,0 +1,53 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Veinott, Arthur F., Jr.
+
+@misc{veinott_jr__arthur_f:488320,
+year={2012},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Myers, A. Stanford operations research expert Arthur Veinott dies at 78. Stanford News, Stanford University, Dec. 21, 2012},
+url={http://news.stanford.edu/news/2012/december/arthur-veinott-obit-122112.html},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Veinott, Arthur F., Jr.} \Deceased
+\ID{veinott_jr__arthur_f}
+\AltID{veinott__arthur}
+
+
+
+\DOB{1934-10-12}
+\DOD{2012-12-12}
+
+
+\Homepage{http://www.stanford.edu/dept/MSandE/people/faculty/veinott/pubs.html}
+\Homepage{http://www.stanford.edu/~veinott/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=221506}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:veinott.arthur-f-jun}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/10794738}{Microsoft Academic: Arthur F. Veinott Jr.}
+\Profile{http://academic.research.microsoft.com/Author/519804}{Microsoft Academic: Arthur F. Veinott Jr.}
+
+
+\subsection*{Honors}
+\Honor{1970}{IMS Fellow}
+\Honor{1986}{National Academy of Engineering, Member}
+\Honor{2007}{John von Neumann Theory Prize}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{veinott_jr__arthur_f:488320}
+\end{document}

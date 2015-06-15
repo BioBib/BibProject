@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Christensen, Ronald
+\end{filecontents}
+
+\begin{document}
+
+\Name{Christensen, Ronald}
+\ID{christensen__ronald}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=229879}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:christensen.ronald}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=69732}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/22280420}{Microsoft Academic: Christensen, Ronald}
+
+
+\subsection*{Education}
+\Degree{1983}{Ph.D.}{University of Minnesota-Minneapolis}[Searching for the Lowest Price when the Unknown Distribution of Prices is Modeled with a Dirichlet Process]<http://genealogy.math.ndsu.nodak.edu/id.php?id=69732>
+
+
+\subsection*{Honors}
+\Honor{1998}{IMS Fellow}
+\end{document}

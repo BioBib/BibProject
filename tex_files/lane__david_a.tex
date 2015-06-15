@@ -1,0 +1,34 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Lane, David A.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Lane, David A.}
+\ID{lane__david_a}
+\AltID{lane__david}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=109935}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:lane.david-a}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=34588}{Math. Genealogy}
+
+
+\subsection*{Education}
+\Degree{1975}{Ph.D.}{University of California, Berkeley}[Fields and Martingales]<http://genealogy.math.ndsu.nodak.edu/id.php?id=34588>
+
+
+\subsection*{Honors}
+\Honor{1983}{IMS Fellow}
+\end{document}

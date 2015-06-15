@@ -1,0 +1,51 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Bowman, Kimiko O.
+
+@article{bowman__kimiko_o:6,
+year={2008},
+author={Snider, V.},
+title={{K}imiko {B}owman: {N}ever say never},
+journal={Amstat News},
+pages={4-6},
+volume={Sept. 2008},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Bowman, Kimiko O.}
+\ID{bowman__kimiko_o}
+\AltID{bowman__kimiko}
+
+
+
+\Homepage{http://www.csm.ornl.gov/%7Ebowman/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=202828}{MathSciNet}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=15082}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12758391}{Microsoft Academic: Bowman, K. O.}
+\Profile{http://academic.research.microsoft.com/Author/52622502}{Microsoft Academic: Bowman, K. O.}
+
+
+\subsection*{Education}
+\Degree{1964}{Ph.D.}{Virginia Polytechnic Institute and State University}[Moments to Higher Orders for Maximum Liklihood Estimates with an Application to the Negative Binomial Distribution]<http://genealogy.math.ndsu.nodak.edu/id.php?id=15082>
+
+
+\subsection*{Honors}
+\Honor{1987}{IMS Fellow}
+
+
+\subsection*{Biography}
+\Biography{bowman__kimiko_o:6}
+\end{document}

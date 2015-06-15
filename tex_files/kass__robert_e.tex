@@ -1,0 +1,40 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Kass, Robert E.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Kass, Robert E.}
+\ID{kass__robert_e}
+\AltID{kass__robert}
+
+
+
+\Homepage{http://www.stat.cmu.edu/~kass/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=98930}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:kass.robert-e}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=84682}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/689784}{Microsoft Academic: Kass, Robert E.}
+
+
+\subsection*{Education}
+\Degree{1980}{Ph.D.}{The University of Chicago}[Riemannian Structure of Model Spaces: A Geometrical Approach to Inference]<http://genealogy.math.ndsu.nodak.edu/id.php?id=84682>
+
+
+\subsection*{Honors}
+\Honor{1991}{IMS Fellow}
+\Honor{1992}{IMS Medallion Lecturer}
+\Honor{2002}{IMS Medallion Lecturer}
+\end{document}

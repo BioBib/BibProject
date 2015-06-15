@@ -1,0 +1,33 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Oja, Hannu
+\end{filecontents}
+
+\begin{document}
+
+\Name{Oja, Hannu}
+\ID{oja__hannu}
+
+
+
+
+\Homepage{http://www.uta.fi/~hannu.oja/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:oja.hannu}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/717586}{Microsoft Academic: Oja, Hannu}
+\Profile{http://academic.research.microsoft.com/Author/52744537}{Microsoft Academic: Oja, Hannu}
+
+
+\subsection*{Honors}
+\Honor{2009}{IMS Fellow}{For significant and seminal contributions to the development of robust affine equivariant and invariant multivariate methods and for leadership in statistics research}
+\end{document}

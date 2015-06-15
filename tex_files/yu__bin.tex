@@ -1,0 +1,50 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Yu, Bin
+
+@misc{yu__bin:422450,
+year={2012},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Amstat News, Aug. 2012, p. 39},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Yu, Bin}
+\ID{yu__bin}
+
+
+
+
+\Homepage{http://www.stat.berkeley.edu/~binyu/Site/Welcome.html}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:yu.bin}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=34541}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12758197}{Microsoft Academic: Yu, Bin}
+
+
+\subsection*{Education}
+\Degree{1990}{Ph.D.}{University of California, Berkeley}[Some Results on Empirical Processes and Stochastic Complexity]<http://genealogy.math.ndsu.nodak.edu/id.php?id=34541>
+
+
+\subsection*{Honors}
+\Honor{2013}{American Academy of Arts and Sciences, Fellow}
+\Honor{1999}{IMS Fellow}{For important wide-ranging research contributions in empirical processes, information theory, genetics and Markov chain Monte Carlo}
+\Honor{1999}{IMS Medallion Lecturer}
+
+
+\subsection*{Biography}
+\Biography{yu__bin:422450}
+\end{document}

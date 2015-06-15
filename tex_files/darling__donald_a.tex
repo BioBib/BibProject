@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Darling, Donald A.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Darling, Donald A.}
+\ID{darling__donald_a}
+\AltID{darling__donald}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=54560}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:darling.donald-a}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=7616}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/54456263}{Microsoft Academic: Darling, Donald A.}
+\Profile{http://academic.research.microsoft.com/Author/12606434}{Microsoft Academic: Darling, Donald A.}
+
+
+\subsection*{Education}
+\Degree{1947}{Ph.D.}{California Institute of Technology}[Continuous Stochastic Processes]<http://genealogy.math.ndsu.nodak.edu/id.php?id=7616>
+
+
+\subsection*{Honors}
+\Honor{1954}{IMS Fellow}
+\end{document}

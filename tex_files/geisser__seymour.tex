@@ -1,0 +1,89 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Geisser, Seymour
+
+@incollection{geisser__seymour:9,
+year={2005},
+author={Christensen, R. and Johnson, W.},
+title={{G}eisser, {S}eymour},
+crossref={booktitle:encyclopedia-of-biostatistics},
+}
+
+@article{geisser__seymour:10,
+year={2007},
+author={Christensen, R. and Johnson, W.},
+title={{A} conversation with {S}eymour {G}eisser},
+journal={Statist. Sci.},
+pages={621-636},
+volume={22},
+url={http://www.jstor.org/stable/pdfplus/27645866.pdf},
+}
+
+@article{geisser__seymour:7,
+year={2005},
+author={Berry, D. A.},
+title={{S}eymour {G}eisser, 1929-2004},
+journal={J. Roy. Statist. Soc. Ser. A},
+pages={245-246},
+volume={168},
+url={http://www.jstor.org/stable/3559719},
+}
+
+@misc{geisser__seymour:428222,
+year={year?},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Website, School of Statistics, University of Minnesota},
+url={http://www.stat.umn.edu/Seymour_Geisser_note.html},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Geisser, Seymour} \Deceased
+\ID{geisser__seymour}
+
+
+
+
+\DOB{1929-10-05}
+\DOD{2004-03-11}
+
+
+\Homepage{http://www.stat.umn.edu/Seymour_Geisser_note.html}
+
+
+\subsection*{Profiles}
+\Profile{http://en.wikipedia.org/wiki/Seymour_Geisser}{Wikipedia}
+\Profile{http://www.york.ac.uk/depts/maths/histstat/people/geisser.gif}{www.york.ac.uk}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=72245}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:geisser.seymour}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=41382}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18641515}{Microsoft Academic: Geisser, Seymour}
+
+
+\subsection*{Education}
+\Degree{1955}{Ph.D.}{The University of North Carolina at Chapel Hill}[On the Exact Distributions of Certain Statistics Related to the Mean Square Successive Difference]<http://genealogy.math.ndsu.nodak.edu/id.php?id=41382>
+
+
+\subsection*{Honors}
+\Honor{1967}{IMS Fellow}
+
+
+\subsection*{Biographies}
+\Biography{geisser__seymour:9}
+\Biography{geisser__seymour:10}
+
+
+\subsection*{Memorials}
+\InMemoriam{geisser__seymour:7}
+\InMemoriam{geisser__seymour:428222}
+\end{document}

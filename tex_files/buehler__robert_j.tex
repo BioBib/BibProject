@@ -1,0 +1,67 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Buehler, Robert J.
+
+@article{buehler__robert_j:8,
+year={1988},
+author={Lindgren, B. W.},
+title={{R}obert {J}oseph {B}uehler, 1925-1988},
+journal={IMS Bulletin},
+pages={334},
+volume={17},
+}
+
+@misc{buehler__robert_j:579580,
+year={1988},
+author={Anonymous},
+title={{U}ntitled},
+addendum={XXII. Tribute to deceased faculty members and students. Robert J. Buehler, 1925-1988. University Senate minutes, University of Minnesota, Nov. 17, 1988, pp. 19-20},
+url={http://conservancy.umn.edu/bitstream/95393/1/FacultySenateMinutes1988_11_17.pdf},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Buehler, Robert J.} \Deceased
+\ID{buehler__robert_j}
+\AltID{buehler__robert}
+
+\DisplayName{Buehler, Robert}
+
+
+\DOB{1925-05-01}
+\DOD{1988-07-08}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=42970}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:buhler.robert-j}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:buehler.robert-j}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=8231}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/55005733}{Microsoft Academic: Buehler, Robert J.}
+\Profile{http://academic.research.microsoft.com/Author/10773677}{Microsoft Academic: Buehler, Robert J.}
+
+
+\subsection*{Education}
+\Degree{1952}{Ph.D.}{University of Wisconsin-Madison}[On Functions Satisfying Certain Differential Inequalities]<http://genealogy.math.ndsu.nodak.edu/id.php?id=8231>
+
+
+\subsection*{Honors}
+\Honor{1968}{IMS Fellow}
+
+
+\subsection*{Obituary}
+\Obituary{buehler__robert_j:8}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{buehler__robert_j:579580}
+\end{document}

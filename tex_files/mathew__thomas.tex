@@ -1,0 +1,40 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Mathew, Thomas
+\end{filecontents}
+
+\begin{document}
+
+\Name{Mathew, Thomas}
+\ID{mathew__thomas}
+
+
+
+
+\Homepage{http://www.math.umbc.edu/~mathew/}
+\Homepage{http://www.math.umbc.edu/~mathew/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=193360}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:mathew.thomas}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=40267}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/54529983}{Microsoft Academic: Mathew, Thomas}
+\Profile{http://academic.research.microsoft.com/Author/12537568}{Microsoft Academic: Mathew, Thomas}
+
+
+\subsection*{Education}
+\Degree{1984}{Ph.D.}{Indian Statistical Institute, Calcutta}<http://genealogy.math.ndsu.nodak.edu/id.php?id=40267>
+
+
+\subsection*{Honors}
+\Honor{1998}{IMS Fellow}
+\end{document}

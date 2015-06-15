@@ -1,0 +1,66 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Kingman, John F. C.
+
+@article{kingman__john_f_c:10,
+year={2007},
+author={Anonymous},
+title={{N}ational {A}cademy of {S}ciences laureates},
+journal={IMS Bulletin},
+pages={6},
+volume={36(6)},
+}
+
+@incollection{kingman__john_f_c:11,
+year={2009},
+author={O'Connor, J. J. and Robertson, E. F.},
+title={{J}ohn {F}rank {C}harles {K}ingman},
+addendum={MacTutor biography},
+url={http://www-history.mcs.st-andrews.ac.uk/Biographies/Kingman.html},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Kingman, John F. C.}
+\ID{kingman__john_f_c}
+\AltID{kingman__john}
+
+\DisplayName{Kingman, John}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=189114}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:kingman.john}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:kingman.john-f-c}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=84864}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/1023092}{Microsoft Academic: Kingman, John Frank Charles}
+\Profile{http://www.newton.ac.uk/history/kingman.html}{profile Personal Profile -- Newton Institute}
+
+
+\subsection*{Education}
+\Degree{year?}{M.A.}{Cambridge}<http://genealogy.math.ndsu.nodak.edu/id.php?id=84864>
+
+
+\subsection*{Honors}
+\Honor{1968}{IMS Fellow}
+\Honor{1971}{The Royal Society, Fellow}
+\Honor{1977}{Wald Lecturer}
+\Honor{1981}{Guy Medal in Silver}
+\Honor{1985}{Knighted}
+\Honor{2007}{National Academy of Sciences, Foreign Associate}
+\Honor{2013}{Guy Medal in Gold}
+
+
+\subsection*{Biographies}
+\Biography{kingman__john_f_c:10}
+\Biography{kingman__john_f_c:11}
+\end{document}

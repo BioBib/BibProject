@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Ben Arous, Gérard
+\end{filecontents}
+
+\begin{document}
+
+\Name{Ben Arous, G\'{e}rard}
+\ID{ben_arous__gerard}
+
+
+
+
+\Homepage{http://math.nyu.edu/faculty/benarous/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:ben-arous.gerard}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=35436}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/3315235}{Microsoft Academic: Gerard Ben Arous}
+
+
+\subsection*{Education}
+\Degree{1981}{Ph.D.}{\'{E}cole Normale Sup\'{e}rieure Paris}[Explicit Representation of Solution of Stochastic Differential Equations]<http://genealogy.math.ndsu.nodak.edu/id.php?id=35436>
+
+
+\subsection*{Honors}
+\Honor{1993}{Rollo Davidson Prize}
+\Honor{2011}{IMS Fellow}{For fundamental contributions to probability theory, including the theory of large deviations, to the theory of stochastic flows, to hypoelliptic diffusions and their associated heat kernels, to the study of metastability in spin-glass systems and aging phenomena, and to the theory of large random matrices}
+\end{document}

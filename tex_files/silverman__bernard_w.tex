@@ -1,0 +1,58 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Silverman, Bernard W.
+
+@article{silverman__bernard_w:9,
+year={2003},
+author={Anonymous},
+title={{B}ernard {S}ilverman: {M}aster of {S}t. {P}eter{'}s {C}ollege, {O}xford},
+journal={Bernoulli News},
+volume={10(1)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Silverman, Bernard W.}
+\ID{silverman__bernard_w}
+\AltID{silverman__bernard}
+
+
+
+\Homepage{http://www.stats.ox.ac.uk/~silverma/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=162190}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:silverman.bernard-w}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=70069}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/1449891}{Microsoft Academic: Silverman, Bernard W.}
+\Profile{http://academic.research.microsoft.com/Author/18636445}{Microsoft Academic: Silvermann, B. W.}
+
+
+\subsection*{Education}
+\Degree{1978}{Ph.D.}{University of Cambridge}[Data Analysis: Some Theory and Practice]<http://genealogy.math.ndsu.nodak.edu/id.php?id=70069>
+
+
+\subsection*{Honors}
+\Honor{1984}{Guy Medal in Bronze}
+\Honor{1985}{IMS Medallion Lecturer}
+\Honor{1987}{IMS Fellow}
+\Honor{1991}{COPSS Presidents' Award}
+\Honor{1995}{Guy Medal in Silver}
+\Honor{1997}{The Royal Society, Fellow}
+\Honor{1999}{IMS Medallion Lecturer}
+\Honor{2001}{IMS President}
+
+
+\subsection*{Biography}
+\Biography{silverman__bernard_w:9}
+\end{document}

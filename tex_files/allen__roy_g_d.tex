@@ -1,0 +1,96 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Allen, Roy G. D.
+
+@incollection{allen__roy_g_d:15,
+year={2004},
+author={Thomas, J. J.},
+title={{A}llen, {S}ir {R}oy {G}eorge {D}ouglas (1906-1983)},
+crossref={booktitle:oxford-dictionary-of-national-biography-in-association-with-the-british-academy-from-the-earliest-times-to-the-year-2000},
+url={http://www.oxforddnb.com/view/article/66808},
+}
+
+@incollection{allen__roy_g_d:16,
+year={2008},
+author={Stone, J. R. N.},
+title={{A}llen, {R}oy {G}eorge {D}ouglas (1906-1983)},
+crossref={booktitle:new-palgrave-dictionary-of-economics},
+}
+
+@article{allen__roy_g_d:8,
+year={1984},
+author={Grebenik, E.},
+title={{R}oy {G}eorge {D}ouglas {A}llen, 1906-1983},
+journal={J. Roy. Statist. Soc. Ser. A},
+pages={706-707},
+volume={147},
+url={http://www.jstor.org/stable/2981714},
+}
+
+@article{allen__roy_g_d:9,
+year={1984},
+author={Anonymous},
+title={{S}ir {R}oy {A}llen, {C}{B}{E}, {F}{B}{A} (1906-1983)},
+journal={The Statistician},
+pages={401-406},
+volume={33},
+url={http://www.jstor.org/stable/2987743},
+}
+
+@article{allen__roy_g_d:10,
+year={1984},
+author={Cairncross, A.},
+title={{R}oy {A}llen, 1906-1983},
+journal={Proc. British Academy},
+pages={379-385},
+volume={70},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Allen, Roy G. D.} \Deceased
+\ID{allen__roy_g_d}
+\AltID{allen__roy}
+
+
+
+\DOB{1906-06-03}
+\DOD{1983-09-29}
+
+
+\subsection*{Profiles}
+\Profile{http://en.wikipedia.org/wiki/R._G._D._Allen}{Wikipedia}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=280277}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:allen.r-g-d}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/23386131}{Microsoft Academic: Roy G. D. Allen}
+\Profile{http://academic.research.microsoft.com/Author/47722784}{Microsoft Academic: Roy G. D. Allen}
+
+
+\subsection*{Honors}
+\Honor{1946}{Officer of the Order of the British Empire}
+\Honor{1952}{British Academy, Fellow}
+\Honor{1953}{IMS Fellow}
+\Honor{1954}{Commander of the Order of the British Empire}
+\Honor{1966}{Knighted}
+\Honor{1978}{Guy Medal in Gold}
+
+
+\subsection*{Biographies}
+\Biography{allen__roy_g_d:15}
+\Biography{allen__roy_g_d:16}
+
+
+\subsection*{Memorials}
+\InMemoriam{allen__roy_g_d:8}
+\InMemoriam{allen__roy_g_d:9}
+\InMemoriam{allen__roy_g_d:10}
+\end{document}

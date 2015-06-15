@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Mukerjee, Rahul
+\end{filecontents}
+
+\begin{document}
+
+\Name{Mukerjee, Rahul}
+\ID{mukerjee__rahul}
+
+
+
+
+\Homepage{http://en.wikipedia.org/wiki/Rahul_Mukerjee}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=127865}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:mukerjee.rahul}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/1173164}{Microsoft Academic: Mukerjee, Rahul}
+
+
+\subsection*{Honors}
+\Honor{1999}{IMS Fellow}{For outstanding research contributions to experimental design, asymptotic theory and survey sampling; for excellent dissemination of ideas through elegantly written books; and for wide-ranging editorial work}
+\Honor{2001}{Indian Academy of Sciences, Fellow}
+\Honor{2004}{Indian National Science Academy, Fellow}
+\end{document}

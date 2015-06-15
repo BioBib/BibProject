@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Rousseeuw, Peter J.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Rousseeuw, Peter J.}
+\ID{rousseeuw__peter_j}
+\AltID{rousseeuw__peter}
+
+
+
+\Homepage{http://agoras.ua.ac.be/rousse/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=151160}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:rousseeuw.peter-j}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=36126}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/1053178}{Microsoft Academic: Rousseeuw, Peter J.}
+
+
+\subsection*{Education}
+\Degree{1981}{Ph.D.}{Eidgen\"{o}ssische Technische Hochschule Z\"{u}rich}[New Infinitesimal Methods in Robust Statistics]<http://genealogy.math.ndsu.nodak.edu/id.php?id=36126>
+
+
+\subsection*{Honors}
+\Honor{1993}{IMS Fellow}
+\end{document}

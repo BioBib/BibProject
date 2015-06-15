@@ -1,0 +1,41 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Dembo, Amir
+\end{filecontents}
+
+\begin{document}
+
+\Name{Dembo, Amir}
+\ID{dembo__amir}
+
+
+
+
+\Homepage{http://www-stat.stanford.edu/~adembo/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=56500}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:dembo.amir}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=40899}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/53540014}{Microsoft Academic: Dembo, A.}
+\Profile{http://academic.research.microsoft.com/Author/53540010}{Microsoft Academic: Dembo, Amir}
+\Profile{http://academic.research.microsoft.com/Author/12519166}{Microsoft Academic: Dembo, Amir}
+
+
+\subsection*{Education}
+\Degree{1986}{Ph.D.}{Technion-Israel Institute of Technology}<http://genealogy.math.ndsu.nodak.edu/id.php?id=40899>
+
+
+\subsection*{Honors}
+\Honor{2002}{IMS Fellow}{For contributions to the theory of large deviations, for applications of the theory to information theory, statistical physics, and bio-molecular sequence analysis, and for contributions to the study of exceptional points in Brownian motion}
+\Honor{2005}{IMS Medallion Lecturer}
+\end{document}

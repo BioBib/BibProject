@@ -1,0 +1,63 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Hogg, Robert V.
+
+@article{hogg__robert_v:7,
+year={2006},
+author={Anonymous},
+title={{P}rofile: {R}obert {V}. {H}ogg},
+journal={IMS Bulletin},
+pages={5},
+volume={35(10)},
+}
+
+@article{hogg__robert_v:8,
+year={2007},
+author={Randles, R. H.},
+title={{A} conversation with {R}obert {V}. {H}ogg},
+journal={Statist. Sci.},
+pages={137-152},
+volume={22},
+url={http://www.jstor.org/stable/27645809},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Hogg, Robert V.}
+\ID{hogg__robert_v}
+\AltID{hogg__robert}
+
+
+
+\Homepage{http://en.wikipedia.org/wiki/RV_Hogg}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=87200}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:hogg.robert-v}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=7015}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18740023}{Microsoft Academic: Robert V. Hogg}
+
+
+\subsection*{Education}
+\Degree{1950}{Ph.D.}{University of Iowa}[On Ratios of Certain Algebraic Forms in Statistics]<http://genealogy.math.ndsu.nodak.edu/id.php?id=7015>
+
+
+\subsection*{Honors}
+\Honor{1967}{IMS Fellow}
+\Honor{2006}{Harry C. Carver Medal}
+
+
+\subsection*{Biographies}
+\Biography{hogg__robert_v:7}
+\Biography{hogg__robert_v:8}
+\end{document}

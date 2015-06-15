@@ -1,0 +1,64 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for van der Waerden, Bartel L.
+
+@misc{van_der_waerden__bartel_l:973599,
+year={1997},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Springer, T. A. (1997). Bartel Leendert van der Waerden, 2 februari 1903-12 januari 1996. In Levensberichten en Herdenkingen, pp. 45-50. Royal Netherlands Academy of Arts and Sciences, Amsterdam, with portrait},
+url={http://www.dwc.knaw.nl/DL/levensberichten/PE00003703.pdf},
+}
+
+@incollection{van_der_waerden__bartel_l:10,
+year={2009},
+author={O'Connor, J. J. and Robertson, E. F.},
+title={{B}artel {L}eendert van der {W}aerden},
+addendum={MacTutor biography},
+url={http://www-history.mcs.st-andrews.ac.uk/Biographies/Van_der_Waerden.html},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{van der Waerden, Bartel L.} \Deceased
+\ID{van_der_waerden__bartel_l}
+\AltID{van_der_waerden__bartel}
+
+\DisplayName{van der Waerden, Bartel}
+
+
+\DOB{1903-02-02}
+\DOD{1996-01-12}
+
+
+\Homepage{http://en.wikipedia.org/wiki/Bartel_Leendert_van_der_Waerden}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:van-der-waerden.bartel-leendert}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=30607}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18675629}{Microsoft Academic: Bartel L. van der Waerden}
+
+
+\subsection*{Education}
+\Degree{1926}{Dr.}{Phil. Nat. Universiteit van Amsterdam}[De algebraiese grondslagen der meetkunde van het aantal]<http://genealogy.math.ndsu.nodak.edu/id.php?id=30607>
+
+
+\subsection*{Honors}
+\Honor{1949}{The Royal Netherlands Academy of Arts and Sciences, Member}
+\Honor{1961}{IMS Fellow}
+
+
+\subsection*{Biographies}
+\Biography{van_der_waerden__bartel_l:973599}
+\Biography{van_der_waerden__bartel_l:10}
+\end{document}

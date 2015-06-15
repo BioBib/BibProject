@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Khas’minskii, Rafail Z.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Khas'minskii, Rafail Z.}
+\ID{khasminskii__rafail_z}
+\AltID{hasminski__rafail}
+
+\DisplayName{Khas'minskii, Rafail}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=169226}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:hasminskii.rafail-z}{zbMATH}
+\Profile{http://zbmath.org/authors/?q=ai:hasminskii.rafael}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=38440}{Math. Genealogy}
+
+
+\subsection*{Education}
+\Degree{1959}{Ph.D.}{Moscow State University}[Diffusion Processes and Boundary Problems for Elliptic and Parabolic Differential Equations]<http://genealogy.math.ndsu.nodak.edu/id.php?id=38440>
+
+
+\subsection*{Honors}
+\Honor{1989}{IMS Fellow}
+\end{document}

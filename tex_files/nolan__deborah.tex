@@ -1,0 +1,40 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Nolan, Deborah
+\end{filecontents}
+
+\begin{document}
+
+\Name{Nolan, Deborah}
+\ID{nolan__deborah}
+
+
+
+
+\Homepage{http://oz.berkeley.edu/users/nolan/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=131930}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:nolan.deborah}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=34967}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/54136359}{Microsoft Academic: Nolan, Deborah}
+\Profile{http://academic.research.microsoft.com/Author/12766412}{Microsoft Academic: Nolan, Deborah A.}
+
+
+\subsection*{Education}
+\Degree{1986}{Ph.D.}{Yale University}[U-Processes]<http://genealogy.math.ndsu.nodak.edu/id.php?id=34967>
+
+
+\subsection*{Honors}
+\Honor{1993}{IMS Medallion Lecturer}
+\Honor{2005}{IMS Fellow}{For distinguished contributions to the study and practice of the teaching of statistics, integrating theory and practice in a seamless way, and for basic research in nonparametric statistics}
+\end{document}

@@ -1,0 +1,70 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Diaconis, Persi W.
+
+@incollection{diaconis__persi_w:15,
+year={2008},
+author={Albers, D. J.},
+title={{P}ersi {D}iaconis},
+pages={65-79},
+crossref={booktitle:mathematical-people-profiles-and-interviews},
+}
+
+@incollection{diaconis__persi_w:16,
+year={2011},
+author={O'Connor, J. J. and Robertson, E. F.},
+title={{P}ersi {W}arren {D}iaconis},
+addendum={MacTutor biography},
+url={http://www-history.mcs.st-andrews.ac.uk/Biographies/Diaconis.html},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Diaconis, Persi W.}
+\ID{diaconis__persi_w}
+\AltID{diaconis__persi}
+
+\DisplayName{Diaconis, Persi}
+
+
+\Homepage{http://stat.stanford.edu/~cgates/PERSI/index.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=57595}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:diaconis.persi-w}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=18747}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/831322}{Microsoft Academic: Diaconis, Persi}
+
+
+\subsection*{Education}
+\Degree{1974}{Ph.D.}{Harvard University}[Weak and Strong Averages in Probability and the Theory of Numbers]<http://genealogy.math.ndsu.nodak.edu/id.php?id=18747>
+
+
+\subsection*{Honors}
+\Honor{1980}{IMS Medallion Lecturer}
+\Honor{1981}{IMS Fellow}
+\Honor{1982}{MacArthur Fellow}
+\Honor{1982}{Rollo Davidson Prize}
+\Honor{1987}{Wald Lecturer}
+\Honor{1989}{American Academy of Arts and Sciences, Fellow}
+\Honor{1995}{National Academy of Sciences, Member}
+\Honor{1998}{IMS President}
+\Honor{2000}{John von Neumann Lecturer}
+\Honor{2005}{American Philosophical Society, Member}
+\Honor{2012}{Steele Prize, American Mathematical Society}
+
+
+\subsection*{Biographies}
+\Biography{diaconis__persi_w:15}
+\Biography{diaconis__persi_w:16}
+\end{document}

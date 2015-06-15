@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Shen, Xiaotong
+\end{filecontents}
+
+\begin{document}
+
+\Name{Shen, Xiaotong}
+\ID{shen__xiaotong}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=353786}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:shen.xiaotong}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=71153}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/47295427}{Microsoft Academic: Xiaotong Shen}
+
+
+\subsection*{Education}
+\Degree{1991}{Ph.D.}{The University of Chicago}[The Convergence Rate of Maximum Likelihood Estimates, the Method of Sieves, and Related Estimates]<http://genealogy.math.ndsu.nodak.edu/id.php?id=71153>
+
+
+\subsection*{Honors}
+\Honor{2004}{IMS Fellow}{For fundamental contributions to likelihood theory for non/semi-parametric models and for frequency properties of Bayes procedures in such situations, and for substantial and original contributions to the problems of model selection and assessment, nonparametric hypothesis testing and machine learning}
+\end{document}

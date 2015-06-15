@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Rider, Paul R.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Rider, Paul R.} \Deceased
+\ID{rider__paul_r}
+\AltID{rider__paul}
+
+
+
+\DOB{1888-10-14}
+\DOD{1984-04}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=526319}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:rider.paul-r}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/54076792}{Microsoft Academic: Rider, Paul R.}
+\Profile{http://academic.research.microsoft.com/Author/18725107}{Microsoft Academic: Rider, Paul R.}
+
+
+\subsection*{Honors}
+\Honor{1939}{IMS President}
+\Honor{before 1943}{IMS Fellow}
+\end{document}

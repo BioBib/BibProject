@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Stephens, Michael A.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Stephens, Michael A.}
+\ID{stephens__michael_a}
+\AltID{stephens__michael}
+
+
+
+\Homepage{http://www.stat.sfu.ca/~stephens/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=167080}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:stephens.michael-a}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=16201}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12537127}{Microsoft Academic: Stephens, Michael A.}
+
+
+\subsection*{Education}
+\Degree{1963}{Ph.D.}{University of Toronto}[The Statistics Of Directions: The Fisher And Von Mises Distributions]<http://genealogy.math.ndsu.nodak.edu/id.php?id=16201>
+
+
+\subsection*{Honors}
+\Honor{1978}{IMS Fellow}
+\end{document}

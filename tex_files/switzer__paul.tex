@@ -1,0 +1,40 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Switzer, Paul
+\end{filecontents}
+
+\begin{document}
+
+\Name{Switzer, Paul}
+\ID{switzer__paul}
+
+
+
+
+\Homepage{http://pangea.stanford.edu/people/faculty/paul-switzer}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=169360}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:switzer.paul}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=40897}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/49026596}{Microsoft Academic: Switzer, Paul}
+\Profile{http://academic.research.microsoft.com/Author/53412449}{Microsoft Academic: Switzer, Paul}
+
+
+\subsection*{Education}
+\Degree{1965}{Ph.D.}{Harvard University}[Sampling of Random Set Processes in the Plane]<http://genealogy.math.ndsu.nodak.edu/id.php?id=40897>
+
+
+\subsection*{Honors}
+\Honor{1976}{IMS Fellow}
+\Honor{1981}{IMS Medallion Lecturer}
+\end{document}

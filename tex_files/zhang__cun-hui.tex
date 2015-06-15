@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Zhang, Cun-Hui
+\end{filecontents}
+
+\begin{document}
+
+\Name{Zhang, Cun-Hui}
+\ID{zhang__cun-hui}
+
+
+
+
+\Homepage{http://stat.rutgers.edu/~cunhui/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:zhang.cun-hui}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=69744}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/242225}{Microsoft Academic: Zhang, Cun-Hui}
+
+
+\subsection*{Education}
+\Degree{1984}{Ph.D.}{Columbia University}[Random Walk and Renewal Theory]<http://genealogy.math.ndsu.nodak.edu/id.php?id=69744>
+
+
+\subsection*{Honors}
+\Honor{1993}{IMS Fellow}
+\Honor{2004}{IMS Medallion Lecturer}
+\end{document}

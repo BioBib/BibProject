@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Zhu, Hongtu
+\end{filecontents}
+
+\begin{document}
+
+\Name{Zhu, Hongtu}
+\ID{zhu__hongtu}
+
+
+
+
+\Homepage{http://www.sph.unc.edu/?option=com_profiles&amp;profileAction=ProfDetail&amp;pid=713371682}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:zhu.hongtu}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/12774036}{Microsoft Academic: Zhu, Hongtu}
+
+
+\subsection*{Honors}
+\Honor{2011}{IMS Fellow}{For outstanding and prolific work in handling missing data problems and latent variable models, in developing neuroimaging ideas including diffusion tensor image methodology, and in creating a general approach to diagnostics}
+\end{document}

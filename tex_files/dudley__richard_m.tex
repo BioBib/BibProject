@@ -1,0 +1,42 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Dudley, Richard M.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Dudley, Richard M.}
+\ID{dudley__richard_m}
+\AltID{dudley__richard}
+
+\DisplayName{Dudley, Richard}
+
+
+\Homepage{http://uk.ask.com/wiki/Richard_M._Dudley}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=60280}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:dudley.richard-m}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=14968}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/54090343}{Microsoft Academic: Dudley, R. M.}
+\Profile{http://academic.research.microsoft.com/Author/54090344}{Microsoft Academic: Dudley, R. M.}
+\Profile{http://academic.research.microsoft.com/Author/12598499}{Microsoft Academic: Dudley, Richard M.}
+
+
+\subsection*{Education}
+\Degree{1962}{Ph.D.}{Princeton University}[Lorentz-Invariant Random Distributions]<http://genealogy.math.ndsu.nodak.edu/id.php?id=14968>
+
+
+\subsection*{Honors}
+\Honor{1975}{IMS Fellow}
+\Honor{1977}{IMS Medallion Lecturer}
+\end{document}

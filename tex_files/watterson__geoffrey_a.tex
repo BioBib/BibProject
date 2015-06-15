@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Watterson, Geoffrey A.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Watterson, Geoffrey A.}
+\ID{watterson__geoffrey_a}
+\AltID{watterson__geoffrey}
+
+\DisplayName{Watterson, Geoffrey}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=180950}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:watterson.g-a}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=70037}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/55127848}{Microsoft Academic: Watterson, G. A.}
+
+
+\subsection*{Education}
+\Degree{1960}{Ph.D.}{Australian National University}[Probability theory applied to genetic populations]<http://genealogy.math.ndsu.nodak.edu/id.php?id=70037>
+
+
+\subsection*{Honors}
+\Honor{1989}{IMS Fellow}
+\end{document}

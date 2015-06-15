@@ -1,0 +1,53 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Groeneboom, Piet
+
+@misc{groeneboom__piet:275256,
+year={2007},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Cator, E. A., Jongbloed, G., Kraaikamp, C., Lopuha\"{a}, H. P., and Wellner, J. A. (2007). Asymptotics: Particles, Processes and Inverse Problems: Festschrift for Piet Groeneboom. Lecture Notes-Monograph Series, Vol. 55. Institute of Mathematical Statistics, Beachwood, OH, with portrait},
+url={http://www.jstor.org/stable/i20461477},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Groeneboom, Piet}
+\ID{groeneboom__piet}
+
+
+
+
+\Homepage{http://dutiosc.twi.tudelft.nl/~pietg/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=77240}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:groeneboom.piet}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=75843}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/871977}{Microsoft Academic: Groeneboom, Piet}
+
+
+\subsection*{Education}
+\Degree{1979}{Ph.D.}{Vrije Universiteit Amsterdam}[Large Deviations and Asymptotic Efficiencies]<http://genealogy.math.ndsu.nodak.edu/id.php?id=75843>
+
+
+\subsection*{Honors}
+\Honor{1985}{Rollo Davidson Prize}
+\Honor{1989}{IMS Fellow}
+\Honor{1992}{IMS Medallion Lecturer}
+\Honor{2013}{Wald Lecturer}
+
+
+\subsection*{Festschrift}
+\Festschrift{groeneboom__piet:275256}
+\end{document}

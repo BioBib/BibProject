@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Wright, Farroll T.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Wright, Farroll T.}
+\ID{wright__farroll_t}
+\AltID{wright__farroll}
+
+
+
+\Homepage{http://www.stat.missouri.edu/faculty/wright/pub.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=197727}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:wright.f-t}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=22906}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12757893}{Microsoft Academic: Wright, F. T.}
+\Profile{http://academic.research.microsoft.com/Author/53222517}{Microsoft Academic: Wright, Farroll T.}
+
+
+\subsection*{Education}
+\Degree{year?}{?type?}{?school?}<http://genealogy.math.ndsu.nodak.edu/id.php?id=22906>
+
+
+\subsection*{Honors}
+\Honor{1979}{IMS Fellow}
+\end{document}

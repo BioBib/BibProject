@@ -1,0 +1,73 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Brunk, Hugh D.
+
+@article{brunk__h_d:7,
+year={2010},
+author={Anonymous},
+title={{U}ntitled},
+journal={Notices Amer. Math. Soc.},
+pages={66},
+volume={57},
+}
+
+@misc{brunk__h_d:217343,
+year={2010},
+author={Anonymous},
+title={{U}ntitled},
+addendum={(2010). Hugh Daniel Brunk. International Statistical Institute Newsletter, Vol. 34(1), p. 8},
+}
+
+@article{brunk__h_d:9,
+year={2010},
+author={Schafer, D. and Pierce, D.},
+title={{H}ugh {D}aniel {B}runk, 1919-2009},
+journal={IMS Bulletin},
+pages={6-7},
+volume={39(10)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Brunk, Hugh D.} \Deceased
+\ID{brunk__h_d}
+\AltID{brunk__hugh}
+
+
+
+\DOB{1919-08-22}
+\DOD{2009-07-19}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=211961}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:brunk.hugh}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=9651}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18004025}{Microsoft Academic: Brunk, H. D.}
+
+
+\subsection*{Education}
+\Degree{1944}{Ph.D.}{Rice University}[Some Generalizations for Dirichlet Series of Hadamard's Theorem with Applications]<http://genealogy.math.ndsu.nodak.edu/id.php?id=9651>
+
+
+\subsection*{Honors}
+\Honor{19??}{IMS Fellow}
+
+
+\subsection*{Death Notice}
+\DeathNotice{brunk__h_d:7}
+
+
+\subsection*{Memorials}
+\InMemoriam{brunk__h_d:217343}
+\InMemoriam{brunk__h_d:9}
+\end{document}

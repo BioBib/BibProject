@@ -1,0 +1,39 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Gelfand, Alan E.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Gelfand, Alan E.}
+\ID{gelfand__alan_e}
+\AltID{gelfand__alan}
+
+
+
+\Homepage{http://en.wikipedia.org/wiki/Alan_Gelfand}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=72290}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:gelfand.alan-e}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=35487}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/2065466}{Microsoft Academic: Gelfand, Alan}
+
+
+\subsection*{Education}
+\Degree{1969}{Ph.D.}{Stanford University}[Seriation of Multivariate Observations through Similarities]<http://genealogy.math.ndsu.nodak.edu/id.php?id=35487>
+
+
+\subsection*{Honors}
+\Honor{1996}{IMS Fellow}
+\Honor{2001}{IMS Medallion Lecturer}
+\end{document}

@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Berliner, L. Mark
+\end{filecontents}
+
+\begin{document}
+
+\Name{Berliner, L. Mark}
+\ID{berliner__l_mark}
+\AltID{berliner__l}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=35455}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:berliner.l-mark}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=50097}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/51642487}{Microsoft Academic: Berliner, Mark}
+
+
+\subsection*{Education}
+\Degree{1980}{Ph.D.}{Purdue University}[Estimation in a Statistical Control Problem]<http://genealogy.math.ndsu.nodak.edu/id.php?id=50097>
+
+
+\subsection*{Honors}
+\Honor{2001}{IMS Fellow}{For significant and innovative contributions to Bayesian robustness and analysis of chaotic and dynamical systems; for substantial research on development of statistical methodology in atmospheric science; for leadership in fostering cross-disciplinary research; and for editorial and other service to the profession}
+\end{document}

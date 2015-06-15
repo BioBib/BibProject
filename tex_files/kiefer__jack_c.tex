@@ -1,0 +1,87 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Kiefer, Jack C.
+
+@incollection{kiefer__jack_c:14,
+year={2004},
+author={O'Connor, J. J. and Robertson, E. F.},
+title={{J}ack {C}arl {K}iefer},
+addendum={MacTutor biography},
+url={http://www-history.mcs.st-andrews.ac.uk/Biographies/Kiefer.html},
+}
+
+@article{kiefer__jack_c:8,
+year={1981},
+author={Anonymous},
+title={{U}ntitled},
+journal={IMS Bulletin},
+pages={240},
+volume={10},
+}
+
+@incollection{kiefer__jack_c:9,
+year={year?},
+author={Anonymous},
+title={{U}ntitled},
+publisher={American {S}tatistical {A}ssociation},
+booktitle={Statisticians in {H}istory},
+url={http://www.amstat.org/about/statisticiansinhistory/bios/kieferjack.pdf},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Kiefer, Jack C.} \Deceased
+\ID{kiefer__jack_c}
+\AltID{kiefer__jack}
+
+\DisplayName{Kiefer, Jack}
+
+
+\DOB{1924-01-25}
+\DOD{1981-08-10}
+
+
+\Homepage{http://www-history.mcs.st-and.ac.uk/References/Kiefer.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=101255}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:kiefer.jack-carl}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=11772}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/52626581}{Microsoft Academic: Kiefer, J.}
+\Profile{http://academic.research.microsoft.com/Author/2759628}{Microsoft Academic: Kiefer, J.}
+
+
+\subsection*{Education}
+\Degree{1952}{Ph.D.}{Columbia University}[Contributions to the Theory of Games and Statistical Decision Functions]<http://genealogy.math.ndsu.nodak.edu/id.php?id=11772>
+
+
+\subsection*{Honors}
+\Honor{1953}{IMS Fellow}
+\Honor{1962}{Wald Lecturer}
+\Honor{1970}{IMS President}
+\Honor{1972}{American Academy of Arts and Sciences, Fellow}
+\Honor{1975}{National Academy of Sciences, Member}
+\Honor{1977}{IMS Medallion Lecturer}
+
+
+\subsection*{Biography}
+\Biography{kiefer__jack_c:14}
+
+
+\subsection*{Death Notice}
+\DeathNotice{kiefer__jack_c:8}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{kiefer__jack_c:9}
+\end{document}

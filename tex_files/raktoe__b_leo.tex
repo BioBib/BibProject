@@ -1,0 +1,56 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Raktoe, B. Leo
+
+@misc{raktoe__b_leo:846741,
+year={2010},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Pesotan, H. and Singh, R. S. (2010). Bishnoedath Leo Raktoe (1932-2009). International Statistical Institute},
+url={http://www.isi-web.org/images/membership/2010-Raktoe-ProfBL.pdf},
+}
+
+@article{raktoe__b_leo:8,
+year={2011},
+author={Pesotan, H. and Singh, R. S.},
+title={{B}ishnoedath {L}eo {R}aktoe, 1932-2009},
+journal={IMS Bulletin},
+pages={10},
+volume={40(1)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Raktoe, B. Leo} \Deceased
+\ID{raktoe__b_leo}
+\AltID{raktoe__b}
+
+
+
+\DOB{1932-08-02}
+\DOD{2009-11-13}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=189315}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:raktoe.bisnoedath-leo}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/3488507}{Microsoft Academic: Raktoe, B. L.}
+
+
+\subsection*{Honors}
+\Honor{1975}{IMS Fellow}
+
+
+\subsection*{Memorials}
+\InMemoriam{raktoe__b_leo:846741}
+\InMemoriam{raktoe__b_leo:8}
+\end{document}

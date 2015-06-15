@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Li, Runze
+\end{filecontents}
+
+\begin{document}
+
+\Name{Li, Runze}
+\ID{li__runze}
+
+
+
+
+\Homepage{http://www.personal.psu.edu/ril4/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:li.runze}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/127882}{Microsoft Academic: Li, Runze}
+
+
+\subsection*{Honors}
+\Honor{2009}{IMS Fellow}{For fundamental contributions to variable selection in high-dimensional modeling, for significant contributions to semiparametric regression for longitudinal data, and for excellent editorial service}
+\end{document}

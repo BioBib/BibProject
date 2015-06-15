@@ -1,0 +1,37 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Hartigan, John A.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Hartigan, John A.}
+\ID{hartigan__john_a}
+\AltID{hartigan__john}
+
+\DisplayName{Hartigan, John}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=81845}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:hartigan.john-a}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=29486}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/54865015}{Microsoft Academic: Hartigan, J. A.}
+
+
+\subsection*{Education}
+\Degree{1962}{Ph.D.}{Princeton University}[Invariant Bayesian and Non-Bayesian Inversions]<http://genealogy.math.ndsu.nodak.edu/id.php?id=29486>
+
+
+\subsection*{Honors}
+\Honor{1968}{IMS Fellow}
+\Honor{1978}{IMS Medallion Lecturer}
+\end{document}

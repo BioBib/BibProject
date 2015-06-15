@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Vajda, Stefan
+\end{filecontents}
+
+\begin{document}
+
+\Name{Vajda, Stefan} \Deceased
+\ID{vajda__stefan}
+
+
+
+
+\DOB{1901-08-20}
+\DOD{1995-12-10}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=204666}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:vajda.stefan}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/52766520}{Microsoft Academic: Vajda, S.}
+\Profile{http://academic.research.microsoft.com/Author/52766521}{Microsoft Academic: Vajda, Stefan}
+
+
+\subsection*{Honors}
+\Honor{1958}{IMS Fellow}
+\end{document}

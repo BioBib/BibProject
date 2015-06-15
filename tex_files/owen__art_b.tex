@@ -1,0 +1,41 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Owen, Art B.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Owen, Art B.}
+\ID{owen__art_b}
+\AltID{owen__art}
+
+\DisplayName{Owen, Art}
+
+
+\Homepage{http://www-stat.stanford.edu/~owen/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=134875}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:owen.art-b}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=40893}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/1128542}{Microsoft Academic: Owen, Art B.}
+
+
+\subsection*{Education}
+\Degree{1987}{Ph.D.}{Stanford University}[Nonparametric Conditional Estimation]<http://genealogy.math.ndsu.nodak.edu/id.php?id=40893>
+
+
+\subsection*{Honors}
+\Honor{1995}{IMS Medallion Lecturer}
+\Honor{1996}{IMS Fellow}
+\Honor{2005}{IMS Medallion Lecturer}
+\end{document}

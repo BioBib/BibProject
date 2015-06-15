@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Wang, Yazhen
+\end{filecontents}
+
+\begin{document}
+
+\Name{Wang, Yazhen}
+\ID{wang__yazhen}
+
+
+
+
+\Homepage{http://pages.cs.wisc.edu/~yzwang/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=358070}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:wang.yazhen}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=59956}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12553369}{Microsoft Academic: Wang, Yazhen}
+
+
+\subsection*{Education}
+\Degree{1998}{Ph.D.}{Columbia University}[Service Levels in Production-Inventory Networks: Bottlenecks, Trade-Offs, and Optimization]<http://genealogy.math.ndsu.nodak.edu/id.php?id=59956>
+
+
+\subsection*{Honors}
+\Honor{2005}{IMS Fellow}{For fundamental contributions to the relationship of GARCH models and diffusions, and to wavelet methodology for change-points, nonparametric regression with long-memory data, and analyzing stochastic processes, and for substantial and original contributions to order-restricted inference}
+\end{document}

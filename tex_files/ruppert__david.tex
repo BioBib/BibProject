@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Ruppert, David
+\end{filecontents}
+
+\begin{document}
+
+\Name{Ruppert, David}
+\ID{ruppert__david}
+
+
+
+
+\Homepage{http://people.orie.cornell.edu/%7Edavidr/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=151875}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:ruppert.david}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=47229}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/1682244}{Microsoft Academic: Ruppert, David}
+
+
+\subsection*{Education}
+\Degree{1977}{Ph.D.}{Michigan State University}[A New Dynamic Stochastic Approximation Procedure]<http://genealogy.math.ndsu.nodak.edu/id.php?id=47229>
+
+
+\subsection*{Honors}
+\Honor{1986}{IMS Fellow}
+\end{document}

@@ -1,0 +1,34 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Bingham, Christopher
+\end{filecontents}
+
+\begin{document}
+
+\Name{Bingham, Christopher}
+\ID{bingham__christopher}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=325212}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:bingham.christopher}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=15106}{Math. Genealogy}
+
+
+\subsection*{Education}
+\Degree{1964}{Ph.D.}{Yale University}[Distributions on the Sphere and the Projective Plane]<http://genealogy.math.ndsu.nodak.edu/id.php?id=15106>
+
+
+\subsection*{Honors}
+\Honor{1979}{IMS Fellow}
+\end{document}

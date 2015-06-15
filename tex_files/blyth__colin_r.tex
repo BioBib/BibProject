@@ -1,0 +1,36 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Blyth, Colin R.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Blyth, Colin R.}
+\ID{blyth__colin_r}
+\AltID{blyth__colin}
+
+\DisplayName{Blyth, Colin}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=228318}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:blyth.colin-r}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=12969}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12403495}{Microsoft Academic: Blyth, Colin R.}
+
+
+\subsection*{Education}
+\Degree{1950}{Ph.D.}{University of California, Berkeley}[I. Contribution to the Statistical Theory of the Geiger-Muller Counter II. On Minimax Statistical Decision Procedures and Their Admissibility]<http://genealogy.math.ndsu.nodak.edu/id.php?id=12969>
+
+
+\subsection*{Honors}
+\Honor{1974}{IMS Fellow}
+\end{document}

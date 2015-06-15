@@ -1,0 +1,65 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Weiss, Lionel I.
+
+@article{weiss__lionel:7,
+year={2000},
+author={Anonymous},
+title={{L}ionel {W}eiss},
+journal={IMS Bulletin},
+pages={414-415},
+volume={29},
+}
+
+@misc{weiss__lionel_i:133805,
+year={year?},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Resnick, S. Lionel Weiss},
+url={http://www.acsu.buffalo.edu/~bialas/Papers/Weiss_tribute.htm},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Weiss, Lionel I.} \Deceased
+\ID{weiss__lionel_i}
+\AltID{weiss__lionel}
+
+\DisplayName{Weiss, Lionel}
+
+
+\DOB{1923-09-05}
+\DOD{2000-05-23}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=181590}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:weiss.lionel-i}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=96924}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/42256680}{Microsoft Academic: Weiss, Lionel}
+
+
+\subsection*{Education}
+\Degree{year?}{Ph.D.}{}<http://genealogy.math.ndsu.nodak.edu/id.php?id=96924>
+
+
+\subsection*{Honors}
+\Honor{1958}{IMS Fellow}
+
+
+\subsection*{Obituary}
+\Obituary{weiss__lionel:7}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{weiss__lionel_i:133805}
+\end{document}

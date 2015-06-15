@@ -1,0 +1,40 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Gart, John J.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Gart, John J.}
+\ID{gart__john_j}
+\AltID{gart__john}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=71610}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:gart.john-j}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=49823}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/24115229}{Microsoft Academic: J. J. GART}
+\Profile{http://academic.research.microsoft.com/Author/57165265}{Microsoft Academic: JOHN J. GART}
+\Profile{http://academic.research.microsoft.com/Author/52929986}{Microsoft Academic: John J. Gart}
+\Profile{http://academic.research.microsoft.com/Author/56189771}{Microsoft Academic: John J. Gart}
+\Profile{http://academic.research.microsoft.com/Author/51913177}{Microsoft Academic: J. J. Gart}
+\Profile{http://academic.research.microsoft.com/Author/26013156}{Microsoft Academic: John J. Gart}
+
+
+\subsection*{Education}
+\Degree{1958}{Ph.D.}{Virginia Polytechnic Institute and State University}[Some Problems in Statistical Inference: I. An Extension of the Cramer-Rao Inequality. II. The Asymptotic Properties of ML Estimates when Sampling from Associated Populations. III. A Sequential Decision Procedure for Comparing Survival Curves]<http://genealogy.math.ndsu.nodak.edu/id.php?id=49823>
+
+
+\subsection*{Honors}
+\Honor{1972}{IMS Fellow}
+\end{document}

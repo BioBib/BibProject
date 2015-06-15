@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Bartholomew, David J.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Bartholomew, David J.}
+\ID{bartholomew__david_j}
+\AltID{bartholomew__david}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=31920}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:bartholomew.david-j}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/50536952}{Microsoft Academic: Bartholomew, D. J.}
+\Profile{http://academic.research.microsoft.com/Author/53342480}{Microsoft Academic: Bartholomew, David J.}
+
+
+\subsection*{Honors}
+\Honor{1970}{IMS Fellow}
+\Honor{1971}{Guy Medal in Bronze}
+\end{document}

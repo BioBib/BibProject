@@ -1,0 +1,33 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Tyler, David E.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Tyler, David E.}
+\ID{tyler__david_e}
+\AltID{tyler__david}
+
+
+
+\Homepage{http://www.stat.rutgers.edu/people/faculty/tyler.html}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:tyler.david-e}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/12551242}{Microsoft Academic: Tyler, David E.}
+\Profile{http://academic.research.microsoft.com/Author/53081571}{Microsoft Academic: Tyler, David E.}
+
+
+\subsection*{Honors}
+\Honor{1994}{IMS Fellow}
+\end{document}

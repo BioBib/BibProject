@@ -1,0 +1,52 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Fuller, Wayne A.
+
+@misc{fuller__wayne_a:615780,
+year={2009},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Wayne A. Fuller. Amstat News, July 2009, p. 50},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Fuller, Wayne A.}
+\ID{fuller__wayne_a}
+\AltID{fuller__wayne}
+
+\DisplayName{Fuller, Wayne}
+
+
+\Homepage{http://www2.econ.iastate.edu/faculty/fuller/}
+\Homepage{http://cssm.iastate.edu/academic/staff/fuller.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=70035}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:fuller.wayne-a}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=40628}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/1297796}{Microsoft Academic: Fuller, Wayne}
+\Profile{http://academic.research.microsoft.com/Author/12829948}{Microsoft Academic: Fuller, Wayne A.}
+
+
+\subsection*{Education}
+\Degree{1959}{Ph.D.}{Iowa State University}[A Non-Static Model of the Beef and Pork Economy]<http://genealogy.math.ndsu.nodak.edu/id.php?id=40628>
+
+
+\subsection*{Honors}
+\Honor{1981}{IMS Fellow}
+
+
+\subsection*{Biography}
+\Biography{fuller__wayne_a:615780}
+\end{document}

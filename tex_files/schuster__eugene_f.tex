@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Schuster, Eugene F.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Schuster, Eugene F.}
+\ID{schuster__eugene_f}
+\AltID{schuster__eugene}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=214811}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:schuster.eugene-f}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=45491}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/54023427}{Microsoft Academic: Schuster, Eugene F.}
+
+
+\subsection*{Education}
+\Degree{1968}{Ph.D.}{University of Arizona}[Estimation of a Probablility Density Function with Applications to Statistical Inference]<http://genealogy.math.ndsu.nodak.edu/id.php?id=45491>
+
+
+\subsection*{Honors}
+\Honor{1991}{IMS Fellow}
+\end{document}

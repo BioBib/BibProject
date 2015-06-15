@@ -1,0 +1,53 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Bruss, Franz Thomas
+
+@article{bruss__f_thomas:7,
+year={2004},
+author={Anonymous},
+title={{T}homas {B}russ},
+journal={Bernoulli News},
+volume={11(2)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Bruss, Franz Thomas}
+\ID{bruss__f_thomas}
+\AltID{bruss__franz}
+
+\DisplayName{Bruss, F. Thomas}
+
+
+\Homepage{http://homepages.ulb.ac.be/~tbruss/}
+\Homepage{http://www.math.ucla.edu/~tom/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=42600}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:bruss.f-thomas}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=86683}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12978331}{Microsoft Academic: Bruss, F. Thomas}
+\Profile{http://academic.research.microsoft.com/Author/54186684}{Microsoft Academic: Bruss, F. Thomas}
+
+
+\subsection*{Education}
+\Degree{1977}{Ph.D.}{Universit\"{a}t des Saarlandes}[Hinreichende Kriterien fuer das Aussterben von Modifizierten Verzweigungsprozessen.]<http://genealogy.math.ndsu.nodak.edu/id.php?id=86683>
+
+
+\subsection*{Honors}
+\Honor{1999}{IMS Fellow}{For his distinguished contributions to the theory of branching processes and record processes, and to the theory and applications of optimal stopping, in particular to rank-based selection problems}
+
+
+\subsection*{Biography}
+\Biography{bruss__f_thomas:7}
+\end{document}

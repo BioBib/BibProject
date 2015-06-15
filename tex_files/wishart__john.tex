@@ -1,0 +1,60 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Wishart, John
+
+@misc{wishart__john:8,
+year={2002},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Former Fellows of the Royal Society of Edinburgh, 1783-2002, p. 1009},
+url={http://www.royalsoced.org.uk/cms/files/fellows/biographical_index/fells_indexp2.pdf},
+}
+
+@incollection{wishart__john:9,
+year={2003},
+author={O'Connor, J. J. and Robertson, E. F.},
+title={{J}ohn {W}ishart},
+addendum={MacTutor biography},
+url={http://www-history.mcs.st-andrews.ac.uk/Biographies/Wishart.html},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Wishart, John} \Deceased
+\ID{wishart__john}
+
+
+
+
+\DOB{1898-11-28}
+\DOD{1956-07-14}
+
+
+\Homepage{http://www.wikideep.it/john-wishart/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=566383}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:wishart.john}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/12752002}{Microsoft Academic: Wishart, John}
+\Profile{http://academic.research.microsoft.com/Author/54006615}{Microsoft Academic: Wishart, John}
+
+
+\subsection*{Honors}
+\Honor{1931}{The Royal Society of Edinburgh, Fellow}
+\Honor{1947}{IMS Fellow}
+
+
+\subsection*{Biographies}
+\Biography{wishart__john:8}
+\Biography{wishart__john:9}
+\end{document}

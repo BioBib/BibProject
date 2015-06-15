@@ -1,0 +1,69 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Robertson, Timothy J.
+
+@misc{robertson__timothy_j:935889,
+year={2010},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Timothy Robertson (1937-2010). College of Liberal Arts and Sciences, The University of Iowa.},
+url={http://clas.uiowa.edu/faculty/timothy-robertson-1937-2010},
+}
+
+@misc{robertson__timothy_j:929517,
+year={2010},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Dykstra, R. Tim Robertson. Amstat News, July 2010, p. 36},
+}
+
+@article{robertson__timothy_j:8,
+year={2011},
+author={Dykstra, R.},
+title={{T}imothy {R}obertson, 1937-2010},
+journal={IMS Bulletin},
+pages={9},
+volume={40(5)},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Robertson, Timothy J.} \Deceased
+\ID{robertson__timothy_j}
+\AltID{robertson__timothy}
+
+\DisplayName{Robertson, Tim}
+
+
+\DOB{1937-10-04}
+\DOD{2010-04-05}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=193354}{MathSciNet}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=36870}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12608430}{Microsoft Academic: Robertson, Tim}
+
+
+\subsection*{Education}
+\Degree{1966}{Ph.D.}{University of Missouri - Columbia}[Conditional Expectation Given a Sigma-Lattice and Estimation of Restricted Densities]<http://genealogy.math.ndsu.nodak.edu/id.php?id=36870>
+
+
+\subsection*{Honors}
+\Honor{1979}{IMS Fellow}
+
+
+\subsection*{Memorials}
+\InMemoriam{robertson__timothy_j:935889}
+\InMemoriam{robertson__timothy_j:929517}
+\InMemoriam{robertson__timothy_j:8}
+\end{document}

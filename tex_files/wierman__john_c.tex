@@ -1,0 +1,38 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Wierman, John C.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Wierman, John C.}
+\ID{wierman__john_c}
+\AltID{wierman__john}
+
+
+
+\Homepage{http://www.ams.jhu.edu/~wierman/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=182760}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:wierman.john-c}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=6747}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/479719}{Microsoft Academic: Wierman, John C.}
+
+
+\subsection*{Education}
+\Degree{1976}{Ph.D.}{University of Washington}[First Passage Percolation, a Berry-Esseen Theorem for the U-Statistics and Optimal Stopping]<http://genealogy.math.ndsu.nodak.edu/id.php?id=6747>
+
+
+\subsection*{Honors}
+\Honor{1984}{IMS Fellow}
+\end{document}

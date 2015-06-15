@@ -1,0 +1,47 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Keilson, Julian
+
+@article{keilson__julian:8,
+year={1999},
+author={Anonymous},
+title={{U}ntitled},
+journal={IMS Bulletin},
+pages={78},
+volume={28},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Keilson, Julian} \Deceased
+\ID{keilson__julian}
+
+
+
+
+\DOB{1924-11-19}
+\DOD{1999-03-08}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=99820}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:keilson.julian}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/54315276}{Microsoft Academic: Keilson, Julian}
+
+
+\subsection*{Honors}
+\Honor{1971}{IMS Fellow}
+
+
+\subsection*{Death Notice}
+\DeathNotice{keilson__julian:8}
+\end{document}

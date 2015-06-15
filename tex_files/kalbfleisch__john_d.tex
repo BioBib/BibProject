@@ -1,0 +1,37 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Kalbfleisch, John D.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Kalbfleisch, John D.}
+\ID{kalbfleisch__john_d}
+\AltID{kalbfleisch__john}
+
+
+
+\Homepage{http://www.stat.lsa.umich.edu/faculty/kalbfleisch_jack.html}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=97050}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:kalbfleisch.john-d}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/2682921}{Microsoft Academic: Kalbfleisch, John D.}
+\Profile{http://academic.research.microsoft.com/Author/53783915}{Microsoft Academic: Kalbfleisch, John D.}
+
+
+\subsection*{Honors}
+\Honor{1988}{IMS Fellow}
+\Honor{1994}{The Royal Society of Canada, Fellow}
+\Honor{1999}{R. A. Fisher Lecturer}
+\Honor{2009}{George W. Snedecor Award}
+\end{document}

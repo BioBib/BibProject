@@ -1,0 +1,40 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Pratt, John W.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Pratt, John W.}
+\ID{pratt__john_w}
+\AltID{pratt__john}
+
+\DisplayName{Pratt, John}
+
+
+\Homepage{http://drfd.hbs.edu/fit/public/facultyInfo.do?facInfo=ovr&amp;facId=12310}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=201481}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:pratt.john-w}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=77491}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/55290758}{Microsoft Academic: Pratt, John W.}
+
+
+\subsection*{Education}
+\Degree{1956}{Ph.D.}{Stanford University}[Some Results in the Decision Theory of One-Parameter Multivariate Polya-Type Distributions]<http://genealogy.math.ndsu.nodak.edu/id.php?id=77491>
+
+
+\subsection*{Honors}
+\Honor{1962}{IMS Fellow}
+\Honor{1988}{American Academy of Arts and Sciences, Fellow}
+\end{document}

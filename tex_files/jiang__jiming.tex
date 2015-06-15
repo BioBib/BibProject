@@ -1,0 +1,32 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Jiang, Jiming
+\end{filecontents}
+
+\begin{document}
+
+\Name{Jiang, Jiming}
+\ID{jiang__jiming}
+
+
+
+
+\Homepage{http://anson.ucdavis.edu/~jiang/}
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:jiang.jiming}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/53446898}{Microsoft Academic: Jiang, Jiming}
+
+
+\subsection*{Honors}
+\Honor{2008}{IMS Fellow}{For contributions to statistical theory and methodology, especially in the fields of mixed effects models, small area estimation and model selection}
+\end{document}

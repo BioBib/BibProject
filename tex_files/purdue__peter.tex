@@ -1,0 +1,35 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Purdue, Peter
+\end{filecontents}
+
+\begin{document}
+
+\Name{Purdue, Peter}
+\ID{purdue__peter}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=142735}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:purdue.peter}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=4857}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/12412975}{Microsoft Academic: Purdue, Peter}
+
+
+\subsection*{Education}
+\Degree{1985}{Ph.D.}{University of Illinois at Urbana-Champaign}[The Divisibility and Modular Properties of kth-Order Linear Recurrences Over the Ring of an Algebraic Number Field With Respect to Prime Ideals]<http://genealogy.math.ndsu.nodak.edu/id.php?id=4857>
+
+
+\subsection*{Honors}
+\Honor{1986}{IMS Fellow}
+\end{document}

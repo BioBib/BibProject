@@ -1,0 +1,30 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Cacoullos, Theophilos
+\end{filecontents}
+
+\begin{document}
+
+\Name{Cacoullos, Theophilos}
+\ID{cacoullos__theophilos}
+
+
+
+
+\subsection*{Profiles}
+\Profile{http://zbmath.org/authors/?q=ai:cacoullos.theophilos}{zbMATH}
+\Profile{http://academic.research.microsoft.com/Author/12757602}{Microsoft Academic: Cacoullos, Theophilos}
+\Profile{http://academic.research.microsoft.com/Author/53994755}{Microsoft Academic: Cacoullos, Theophilos}
+
+
+\subsection*{Honors}
+\Honor{1985}{IMS Fellow}
+\end{document}

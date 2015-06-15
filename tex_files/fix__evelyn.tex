@@ -1,0 +1,51 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Fix, Evelyn
+
+@misc{fix__evelyn:376898,
+year={1967},
+author={Anonymous},
+title={{U}ntitled},
+addendum={Neyman, J., Hodges, J. L., Jr., Le Cam, L., Lehmann, E. L. and Scott, E. L. (1967). Evelyn Fix, Statistics: Berkeley. University of California: In memoriam},
+url={http://content.cdlib.org/view?docId=hb629006vt&doc.view=frames&chunk.id=div00009&toc.depth=1&toc.id=},
+}
+\end{filecontents}
+
+\begin{document}
+
+\Name{Fix, Evelyn} \Deceased
+\ID{fix__evelyn}
+
+
+
+
+\DOB{1904}
+\DOD{1965-12-30}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=443860}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:fix.evelyn}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=32295}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/18624287}{Microsoft Academic: Fix, Evelyn}
+
+
+\subsection*{Education}
+\Degree{1948}{Ph.D.}{University of California, Berkeley}[I. "Distributions Which Lead to Linear Regressions" II. "AMP Memo No. 190-2M" III. "AMP Report No. 11.6]<http://genealogy.math.ndsu.nodak.edu/id.php?id=32295>
+
+
+\subsection*{Honors}
+\Honor{1951}{IMS Fellow}
+
+
+\subsection*{In Memoriam}
+\InMemoriam{fix__evelyn:376898}
+\end{document}

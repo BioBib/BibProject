@@ -1,0 +1,29 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Parthasarathy, P. R.
+\end{filecontents}
+
+\begin{document}
+
+\Name{Parthasarathy, P. R.}
+\ID{parthasarathy__p_r}
+\AltID{parthasarathy__p}
+
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=193399}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:parthasarathy.panamali-ramarao}{zbMATH}
+
+
+\subsection*{Honors}
+\Honor{2003}{IMS Fellow}{For fundamental contributions to applied probability, elegant and realistic stochastic models in physical and biological processes dealing with queueing systems, birth-death processes, communication networks, compartmental analysis, etc.; and for leadership and service to the profession}
+\end{document}

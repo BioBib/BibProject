@@ -1,0 +1,41 @@
+% arara: pdflatex
+% arara: biber
+% arara: pdflatex
+% arara: pdflatex
+\documentclass[letterpaper]{article}
+\usepackage{imscv}
+\addbibresource{imsBooks.bib}
+\addbibresource{\jobname.bib}
+\usepackage{filecontents}
+\begin{filecontents}{\jobname.bib}
+%% BibTeX file for Pemantle, Robin
+\end{filecontents}
+
+\begin{document}
+
+\Name{Pemantle, Robin}
+\ID{pemantle__robin}
+
+
+
+
+\Homepage{http://www.math.upenn.edu/%7Epemantle/}
+
+
+\subsection*{Profiles}
+\Profile{http://www.ams.org/mathscinet/search/author.html?mrauthid=252544}{MathSciNet}
+\Profile{http://zbmath.org/authors/?q=ai:pemantle.robin}{zbMATH}
+\Profile{http://genealogy.math.ndsu.nodak.edu/id.php?id=45244}{Math. Genealogy}
+\Profile{http://academic.research.microsoft.com/Author/448242}{Microsoft Academic: Pemantle, Robin}
+
+
+\subsection*{Education}
+\Degree{1988}{Ph.D.}{Massachusetts Institute of Technology}[Random Processes with Reinforcement]<http://genealogy.math.ndsu.nodak.edu/id.php?id=45244>
+
+
+\subsection*{Honors}
+\Honor{1993}{Rollo Davidson Prize}
+\Honor{1995}{IMS Medallion Lecturer}
+\Honor{2001}{IMS Fellow}{For fundamental work in discrete probability, especially processes on trees and lattices}
+\Honor{2001}{IMS Medallion Lecturer}
+\end{document}
