@@ -31,11 +31,17 @@ sys.path.append(lib_path)
 import ims_legacy
 import distributed_update
 
+from pprint import pprint
+
 # This file will contain the list of names and URLs of source material.
 # (It needs to be maintained by the IMS editor.)
-import ims_sources
+## For convenience of the IMS editor we no longer load the list of members from
+##  python data, but parse a tab-separated file, index.txt, so the following line is not needed:
+# import ims_sources
+## and instead we run this:
 
-from pprint import pprint
+import read_member_index
+urllist = read_member_index.read_member_index()
 
 ## Now go through this script, which works as follows:
 
@@ -43,9 +49,9 @@ from pprint import pprint
 
 ## Step 2: compare downloaded files to local copies
 
-for item in ims_sources.urllist:
-    person_name=item[0]
-    # print "person name: " + person_name
+for item in urllist:
+    member_id=item[0]
+    # print "person name: " + member_id
     source=item[1]
     # Maybe the only thing to do in this case is produce some new HTML,
     # assuming we keep "staged" and "working" copies separate.  But as
@@ -64,20 +70,20 @@ for item in ims_sources.urllist:
             # we could do some more sophisticated logging here, and throughout
             print('HTTPError = ' + str(e.code))
         else:
-            local_filename = "/bibserver/ims_legacy/BibProject/tex_files/" + person_name + ".tex"
-            new_filename = person_name + ".tex"
+            local_filename = "/bibserver/ims_legacy/BibProject/tex_files/" + member_id + ".tex"
+            new_filename = member_id + ".tex"
             with open(new_filename, "w") as new_file:
                 # the comparison won't work unless the file has been written and closed!
                 new_file.write(content)
                 new_file.close()
             # val will be True if the files are the same, and False if they differ.
-            val = filecmp.cmp(person_name + ".tex", local_filename)
+            val = filecmp.cmp(member_id + ".tex", local_filename)
             #print "local filename:" + local_filename
             #print "new filename:" + new_filename
             #print "content:" + content[:36]
             if (not(val)):
                 print new_filename + " differs."
-                basename = re.sub('[ ,.]', '', person_name)
+                basename = re.sub('[ ,.]', '', member_id)
                 distributed_update.make_branch(basename)
                 distributed_update.make_commit(basename,"tex_files",new_filename,content)
 
