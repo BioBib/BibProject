@@ -747,7 +747,7 @@ urllist = [["Adler, Robert J.", "tex_files/Adler%2C%20Robert%20J..tex"],
            ["Pinsky, Mark A.", "tex_files/Pinsky%2C%20Mark%20A..tex"], 
            ["Pisier, Gilles I.", "tex_files/Pisier%2C%20Gilles%20I..tex"], 
            ["Pitman, Edwin J. G.", "tex_files/Pitman%2C%20Edwin%20J.%20G..tex"], 
-           ["Pitman, James W.", "tex_files/Pitman%2C%20James%20W..tex"], 
+           ["Pitman, James W.", "http://www.stat.berkeley.edu/~pitman/Pitman_James_W_IMS_data.tex"]
            ["Pitt, Loren D.", "tex_files/Pitt%2C%20Loren%20D..tex"], 
            ["Pittenger, Arthur O.", "tex_files/Pittenger%2C%20Arthur%20O..tex"], 
            ["Plackett, Robin L.", "tex_files/Plackett%2C%20Robin%20L..tex"], 
