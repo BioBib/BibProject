@@ -11,7 +11,7 @@ emptyline = re.compile(r'^\s*$')
 # the lines that "begin" with a percent sign, we allow it here
 source_line = re.compile(r"^\s*([^ \t\n\r\f\v%]+)\s*([^ \t\n\r\f\v]+)\s*?$")
 
-def populate_location_list():
+def read_member_index():
     with open("index.txt", "r") as f:
         location_list = []
         # bibdata part [optional]
