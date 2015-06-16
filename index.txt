@@ -1077,4 +1077,4 @@ zidek__james_v                	./tex_files/zidek__james_v.tex
 zinn__joel                    	./tex_files/zinn__joel.tex
 zubin__joseph                 	./tex_files/zubin__joseph.tex
 zubin__joseph                 	./tex_files/zubin__joseph.tex
-public__john_q                	./tex_files/public__john_q.tex
+public__john_q                	http://metameso.org/~joe/jqp.tex
