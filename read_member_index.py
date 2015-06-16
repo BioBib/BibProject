@@ -12,7 +12,7 @@ emptyline = re.compile(r'^\s*$')
 source_line = re.compile(r"^\s*([^ \t\n\r\f\v%]+)\s*([^ \t\n\r\f\v]+)\s*?$")
 
 def read_member_index():
-    with open("index.txt", "r") as f:
+    with open("BibProject/index.txt", "r") as f:
         location_list = []
         # bibdata part [optional]
         filestring = f.read()
