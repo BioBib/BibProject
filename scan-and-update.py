@@ -1,7 +1,7 @@
 import os, sys
 import subprocess
 import filecmp
-import urllib
+import urllib2
 
 from hammock import Hammock as Github
 import json
@@ -43,6 +43,10 @@ from pprint import pprint
 import read_member_index
 urllist = read_member_index.read_member_index()
 
+def check_local (source):
+    """We may eventually do something interesting but for now, this does nothing."""
+    return True
+
 ## Now go through this script, which works as follows:
 
 ## Step 1: download copies of all files in our list
@@ -57,48 +61,74 @@ for item in urllist:
     # assuming we keep "staged" and "working" copies separate.  But as
     # a first step, let's assume there's nothing to do in this case, and
     # we just need to process the upstream files.
-    if (source[:9] == "tex_files"):
-        upstream_filename = urllib.unquote(source.rsplit("/",1)[1])
-        # print "filename:" + upstream_filename
-        distributed_update.check_local(source)
+    # print source[:11]
+    if (source[:11] == "./tex_files"):
+        upstream_filename = urllib2.unquote(source.rsplit("/",1)[1])
+        # at the moment this does nothing
+        check_local(source)
     else:
-        upstream_filename = urllib.unquote(source.rsplit("/",1)[1])
+        upstream_filename = urllib2.unquote(source.rsplit("/",1)[1])
 
         try: 
-            content = urllib.urlopen(source).read()
+            content = urllib2.urlopen(source).read()
         except urllib2.HTTPError, e:
             # we could do some more sophisticated logging here, and throughout
             print('HTTPError = ' + str(e.code))
         else:
+
+            # Now we need to compare the checked out version from Git...
             local_filename = "/bibserver/ims_legacy/BibProject/tex_files/" + member_id + ".tex"
-            new_filename = member_id + ".tex"
+            # The latest upstream version...
+            new_filename = "/bibserver/ims_legacy/WorkingDirectory/" + member_id + ".tex"
+            # ...and the most recently checked upstream version
+            stash_filename = "/bibserver/ims_legacy/StashDirectory/" + member_id + ".tex"
+
             with open(new_filename, "w") as new_file:
                 # the comparison won't work unless the file has been written and closed!
                 new_file.write(content)
                 new_file.close()
             # val will be True if the files are the same, and False if they differ.
-            val = filecmp.cmp(member_id + ".tex", local_filename)
-            #print "local filename:" + local_filename
-            #print "new filename:" + new_filename
-            #print "content:" + content[:36]
+            val = filecmp.cmp(new_filename, local_filename)
+            print "local filename:" + local_filename
+            print "upstream file:" + new_filename
+            print "Upstream the same as local?: " + str(val)
+            # print "content:" + content[:36]
             if (not(val)):
-                print new_filename + " differs."
-                basename = re.sub('[ ,.]', '', member_id)
-                distributed_update.make_branch(basename)
-                distributed_update.make_commit(basename,"tex_files",new_filename,content)
+                # compare again, against the stash...
+                # if it exists.
+                stashval = False
+                if os.path.isfile(stash_filename):
+                    stashval = filecmp.cmp(new_filename, stash_filename)
+                    print "stash filename:" + stash_filename
+                    print "Upstream the same as stash?: " + str(stashval)
+                    #print "local filename:" + local_filename
+                if (not(stashval)):
+                    # if there is a (further) change, write to the stash
+                    with open(stash_filename, "w") as new_stash_file:
+                        new_stash_file.write(content)
+                        new_stash_file.close()
+                    basename = re.sub('[ ,.]', '', member_id)
 
-                # we should probably update the HTML automatically as well, but maybe
-                # just what we do about it will depend on what IMS wants...
+                    # this step should be conditional in a smart way
+                    try: distributed_update.make_branch(basename)
+                    except: pass
 
-                # I guess that part can wait until after deploying this version,
-                # it's not going to require a major change to the code.
+                    distributed_update.make_commit(basename,"tex_files",member_id + ".tex",content)
 
-                # Something like this:
-                htmlcontent = ims_legacy.make_one("/bibserver/ims_legacy/"+new_filename)
-                htmlname = unicode(new_filename.split('.tex',1)[0],'utf-8')+".html"
-                distributed_update.make_commit(basename,"new_html_files",htmlname,htmlcontent)
-                distributed_update.make_pull_request(new_filename,basename)
-            else:
-                sys.stdout.write('.')
+                    # we should probably update the HTML automatically as well, but maybe
+                    # just what we do about it will depend on what IMS wants...
+
+                    # I guess that part can wait until after deploying this version,
+                    # it's not going to require a major change to the code.
+
+                    # Something like this:
+                    htmlcontent = ims_legacy.make_one(stash_filename)
+                    distributed_update.make_commit(basename,"new_html_files",member_id + ".html",htmlcontent)
+                    with open("/bibserver/ims_legacy/WorkingDirectory/"+member_id+".json", "r") as f:
+                        jsonstring = f.read()
+                        distributed_update.make_commit(basename,"json_files",member_id + ".json",jsonstring)
+                    distributed_update.make_pull_request(member_id,basename)
+                else:
+                    sys.stdout.write('.')
 
 print "done."
