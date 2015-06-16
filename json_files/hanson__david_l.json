@@ -1,0 +1,74 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Hanson, David L.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "hanson__david_l", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=81025", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:hanson.david-l", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:hanson.david-r", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=2187", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12590350", 
+                    "anchor": "Microsoft Academic: Hanson, D. L."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1966", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "hanson__david", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Indiana University", 
+                    "thesis_title": "Contributions to Decision Theory, Ergodic Theory, and Stochastic Processes", 
+                    "year": "1960", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=2187"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

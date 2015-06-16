@@ -1,0 +1,160 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1907-09-06", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1983-03-29", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Kendall, Maurice G.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "kendall__maurice_g", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://en.wikipedia.org/wiki/Maurice_Kendall", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "category": "homepage", 
+                    "href": "http://en.wikipedia.org/wiki/Maurice_Kendall", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=100200", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:kendall.maurice-sir", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:kendall.maurice-g", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/409614", 
+                    "anchor": "Microsoft Academic: Kendall, Maurice G."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12607758", 
+                    "anchor": "Microsoft Academic: Kendall, Maurice"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1944", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Guy Medal in Silver", 
+                    "year": "1945", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Guy Medal in Gold", 
+                    "year": "1968", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "British Academy, Fellow", 
+                    "year": "1970", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Knighted", 
+                    "year": "1974", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "kendall__maurice", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Maurice George Kendall", 
+                    "ref": "<t>Maurice George Kendall.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2003", 
+                    "howpublished": "???", 
+                    "topline": "incollection kendall__maurice_g:12", 
+                    "id": "kendall__maurice_g:12"
+                }, 
+                {
+                    "title": "Kendall, Maurice George", 
+                    "ref": "<t>Kendall, Maurice George.</t> <au>Altman, D. G.</au>. <inc>booktitle:encyclopedia-of-biostatistics</inc>. ???", 
+                    "author": "Altman, D. G.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-biostatistics", 
+                    "year": "2005", 
+                    "howpublished": "???", 
+                    "topline": "incollection kendall__maurice_g:11", 
+                    "id": "kendall__maurice_g:11"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <inc>booktitle:encyclopedia-of-statistical-sciences</inc>. ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-statistical-sciences", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "incollection kendall__maurice_g:10", 
+                    "id": "kendall__maurice_g:10"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Biostatistics", 
+            "url": "http://www.worldcat.org/title/encyclopedia-of-biostatistics/oclc/38258277", 
+            "booktitle": "Encyclopedia of Biostatistics", 
+            "address": "Hoboken, NJ", 
+            "editors": "P. Armitage and T. Colton", 
+            "bibtype": "reference", 
+            "edition": "2nd", 
+            "top_line": "reference booktitle:encyclopedia-of-biostatistics", 
+            "year": "2005", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Biostatistics.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-biostatistics"
+        }, 
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Statistical Sciences", 
+            "url": "http://onlinelibrary.wiley.com/book/10.1002/0471667196", 
+            "booktitle": "Encyclopedia of Statistical Sciences", 
+            "address": "Hoboken, NJ", 
+            "editors": "S. Kotz and N. Balakrishnan and C. Read and B. Vidakovic", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:encyclopedia-of-statistical-sciences", 
+            "year": "2006", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }
+    ]
+}

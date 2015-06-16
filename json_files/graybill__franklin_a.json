@@ -1,0 +1,93 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1921-09-23", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2012-02-17", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Graybill, Franklin A.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Franklin Graybill, 1921-2012", 
+                    "ref": "<t>Franklin Graybill, 1921-2012.</t> <au>Boes, D. and Breidt, J. and Iyer, H.</au>. <j>IMS Bulletin</j>, Vol. <v>41(3)</v>, pp.<pp>6-7</pp>", 
+                    "author": "Boes, D. and Breidt, J. and Iyer, H.", 
+                    "bibtype": "article", 
+                    "year": "2012", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>41(3)</v>, pp.<pp>6-7</pp>", 
+                    "topline": "article graybill__franklin_a:8", 
+                    "id": "graybill__franklin_a:8"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2013", 
+                    "howpublished": "???", 
+                    "topline": "misc graybill__franklin_a:478677", 
+                    "id": "graybill__franklin_a:478677"
+                }
+            ], 
+            "ims_id": "graybill__franklin_a", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=237912", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:graybill.franklin-a", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=13260", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53936739", 
+                    "anchor": "Microsoft Academic: Graybill, Franklin A."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1967", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "graybill__franklin", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Iowa State University", 
+                    "thesis_title": "On Quadratic Estimates of Variance Components", 
+                    "year": "1952", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=13260"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

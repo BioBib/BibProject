@@ -1,0 +1,141 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2009", 
+                    "howpublished": "???", 
+                    "topline": "misc chung__kai-lai:160431", 
+                    "id": "chung__kai-lai:160431"
+                }
+            ], 
+            "DOB": "1917-09-19", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2009-06-02", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Chung, Kai-Lai", 
+            "Oral_History": [], 
+            "Selected_Works": [
+                {
+                    "title": "Chance and Choice: Memorabilia", 
+                    "ref": "<t>Chance and Choice: Memorabilia.</t> <au>Chung, K. L.</au>. World Scientific", 
+                    "author": "Chung, K. L.", 
+                    "bibtype": "book", 
+                    "year": "2004", 
+                    "howpublished": "World Scientific", 
+                    "topline": "book chung__kai-lai:10", 
+                    "id": "chung__kai-lai:10"
+                }, 
+                {
+                    "title": "Selected Works of Kai Lai Chung", 
+                    "ref": "<t>Selected Works of Kai Lai Chung.</t> World Scientific", 
+                    "author": "Anonymous", 
+                    "bibtype": "book", 
+                    "year": "2008", 
+                    "howpublished": "World Scientific", 
+                    "topline": "book chung__kai-lai:11", 
+                    "id": "chung__kai-lai:11"
+                }
+            ], 
+            "In_Memoriam": [
+                {
+                    "title": "Kai Lai Chung, 1917-2009", 
+                    "ref": "<t>Kai Lai Chung, 1917-2009.</t> <au>Farid AitSahlia and Erhan Cinlar and Elton P. Hsu and Ruth J. Williams</au>. <j>IMS Bulletin</j>, Vol. <v>38(7)</v>", 
+                    "author": "Farid AitSahlia and Erhan Cinlar and Elton P. Hsu and Ruth J. Williams", 
+                    "bibtype": "article", 
+                    "year": "2009", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>38(7)</v>", 
+                    "topline": "article chung__kai-lai:7b", 
+                    "id": "chung__kai-lai:7b"
+                }
+            ], 
+            "ims_id": "chung__kai-lai", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=189338", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:chung.kai-lai", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=14682", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12759883", 
+                    "anchor": "Microsoft Academic: Chung, Kai Lai"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18771827", 
+                    "anchor": "Microsoft Academic: Chung, Kai-Lai"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/1909870", 
+                    "anchor": "Microsoft Academic: Chung, Kai Lai"
+                }, 
+                {
+                    "href": "http://en.wikipedia.org/wiki/Kai_Lai_Chung", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://celebratio.org/Chung_KL", 
+                    "anchor": "Celebratio"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "19??", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Princeton University", 
+                    "thesis_title": "On the Maximum Partial Sums of Sequences of Independent Random Variables", 
+                    "year": "1947", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=14682"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Kai Lai Chung", 
+                    "ref": "<t>Kai Lai Chung.</t> <au>Elton P. Hsu, Louis Chen, Zhen-Qing Chen and Ruth Williams (eds.)</au>. Mathematical Sciences Publishers", 
+                    "author": "Elton P. Hsu, Louis Chen, Zhen-Qing Chen and Ruth Williams (eds.)", 
+                    "bibtype": "misc", 
+                    "year": "2012", 
+                    "howpublished": "Mathematical Sciences Publishers", 
+                    "topline": "misc chung:01", 
+                    "id": "chung:01"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

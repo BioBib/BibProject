@@ -1,0 +1,70 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Taylor, Howard M., III", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "taylor__howard_m", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=171215", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:taylor.howard-m", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=18522", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53460890", 
+                    "anchor": "Microsoft Academic: Taylor, Howard M."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1975", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "taylor__howard", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Cambridge", 
+                    "thesis_title": "A Wave-Mechanical Theory Of Some Collision Problems Of Radioactivity", 
+                    "year": "1934", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=18522"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

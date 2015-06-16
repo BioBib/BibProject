@@ -1,0 +1,95 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Gastwirth, Joseph L.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "gastwirth__joseph_l", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://home.gwu.edu/~jlgast/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=71760", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:gastwirth-joseph-l.", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:gastwirth.joseph-l", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=49994", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53311099", 
+                    "anchor": "Microsoft Academic: Gastwirth, Joseph L."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/27910734", 
+                    "anchor": "Microsoft Academic: Gastwirth, Joseph L."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18641569", 
+                    "anchor": "Microsoft Academic: Gastwirth, Joseph I."
+                }, 
+                {
+                    "href": "http://home.gwu.edu/~jlgast/pubs.html", 
+                    "anchor": "Publication List"
+                }, 
+                {
+                    "href": "http://home.gwu.edu/~jlgast/cv.html", 
+                    "anchor": "CV"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1972", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "gastwirth__joseph", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Columbia University", 
+                    "thesis_title": "On Some Problems in the Theory of Particle Counting and Queues with Infinitely Many Servers", 
+                    "year": "1963", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=49994"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

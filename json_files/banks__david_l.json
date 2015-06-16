@@ -1,0 +1,71 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Banks, David L.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "banks__david_l", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://fds.duke.edu/db/aas/stat/faculty/banks", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:banks.david-l", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:banks.david-c", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53412090", 
+                    "anchor": "Microsoft Academic: Banks, David L."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54065327", 
+                    "anchor": "Microsoft Academic: Banks, David L."
+                }, 
+                {
+                    "href": "http://www.stat.duke.edu/~banks/", 
+                    "anchor": "Homepage"
+                }, 
+                {
+                    "href": "http://www.stat.duke.edu/~banks/banksvitae.pdf", 
+                    "anchor": "CV"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "2012", 
+                    "citation": "For contributions to bootstrap analysis, network analysis and adversarial risk analysis, as well as important contributions to applications. For extraordinary service to the profession including a term as editor of JASA", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "banks__davi", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

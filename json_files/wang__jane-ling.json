@@ -1,0 +1,80 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Wang, Jane-Ling", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "wang__jane-ling", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.news.ucdavis.edu/search/news_detail.lasso?id=4417", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=225012", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:wang.jane-ling", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=34533", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12810167", 
+                    "anchor": "Microsoft Academic: Wang, Jane-Ling"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1998", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Medallion Lecturer", 
+                    "year": "2007", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of California, Berkeley", 
+                    "thesis_title": "Asymptotically Minimax Estimators for Distributions with Increasing Failure Rate", 
+                    "year": "1982", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=34533"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

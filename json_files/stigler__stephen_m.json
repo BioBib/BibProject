@@ -1,0 +1,109 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Stigler, Stephen M.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "stigler__stephen_m", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.stat.uchicago.edu/~stigler/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=216087", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:stigler.stephen-m", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=34517", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12763747", 
+                    "anchor": "Microsoft Academic: Stigler, Stephen M."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54385355", 
+                    "anchor": "Microsoft Academic: Stigler, Stephen Mack"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1976", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1987", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Neyman Lecturer", 
+                    "year": "1988", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS President", 
+                    "year": "1994", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Philosophical Society, Member", 
+                    "year": "2006", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Le Cam Lecturer", 
+                    "year": "2006", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "stigler__stephen", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of California, Berkeley", 
+                    "thesis_title": "Linear Functions of Order Statistics", 
+                    "year": "1967", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=34517"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

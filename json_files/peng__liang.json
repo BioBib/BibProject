@@ -1,0 +1,45 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Peng, Liang", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "peng__liang", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:peng.liang", 
+                    "anchor": "zbMATH"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "2009", 
+                    "citation": "For innovative contributions to extreme value theory and heavy-tailed data analysis, and for dedicated editorial service", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

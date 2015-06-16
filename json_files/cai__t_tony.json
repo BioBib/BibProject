@@ -1,0 +1,87 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Cai, T. Tony", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "cai__t_tony", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www-stat.wharton.upenn.edu/~tcai/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "category": "homepage", 
+                    "href": "http://www-stat.wharton.upenn.edu/~tcai/paper/html/Coherence-Random-Matrix.html", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:cai.tianwen-tony", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/1102610", 
+                    "anchor": "Microsoft Academic: Cai, T. Tony"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/34244116", 
+                    "anchor": "Microsoft Academic: Cai, T."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "2006", 
+                    "citation": "For pioneering contributions to the theory and practice of nonparametric function estimation; for the introduction of innovative blockthresholding schemes; and for important contributions to the theory of adaptive inference", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "COPSS Presidents' Award", 
+                    "year": "2008", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Medallion Lecturer", 
+                    "year": "2009", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "cai__tony", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "COPSS Presidents' Award: Tony Cai", 
+                    "ref": "<t>COPSS Presidents' Award: Tony Cai.</t> <j>IMS Bulletin</j>, Vol. <v>37(8)</v>, pp.<pp>17</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2008", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>37(8)</v>, pp.<pp>17</pp>", 
+                    "topline": "article cai__t_tony:7", 
+                    "id": "cai__t_tony:7"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

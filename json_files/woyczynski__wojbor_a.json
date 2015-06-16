@@ -1,0 +1,83 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Woyczy&nacute;ski, Wojbor A.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "woyczynski__wojbor_a", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://stat.case.edu/~Wojbor/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:woyczynski-wojbor-a.", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:woyczynski.wojbor-a", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=30717", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/10822907", 
+                    "anchor": "Microsoft Academic: Wojbor A. Woyczynski (Wojbor A. Woyczy\\'{n"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/49302490", 
+                    "anchor": "Microsoft Academic: W. A. Woyczynski"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53387859", 
+                    "anchor": "Microsoft Academic: Wojbor A. Woyczynski"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1986", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "woyczynski__wojbor", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Uniwersytet Wroc&amp;\\#322;awski", 
+                    "thesis_title": "Random integrals and Orlicz spaces", 
+                    "year": "1968", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=30717"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

@@ -1,0 +1,191 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Debabrata Basu", 
+                    "ref": "<t>Debabrata Basu.</t> <au>Ghosh, J. K.</au>. <j>IMS Bulletin</j>, Vol. <v>30</v>, pp.<pp>409-410</pp>", 
+                    "author": "Ghosh, J. K.", 
+                    "bibtype": "article", 
+                    "year": "2001", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>30</v>, pp.<pp>409-410</pp>", 
+                    "topline": "article basu__debabrata:9", 
+                    "id": "basu__debabrata:9"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2001", 
+                    "howpublished": "???", 
+                    "topline": "misc basu__debabrata:242544", 
+                    "id": "basu__debabrata:242544"
+                }
+            ], 
+            "DOB": "1924-07-05", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2001-03-24", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Basu, Debabrata", 
+            "Oral_History": [], 
+            "Selected_Works": [
+                {
+                    "title": "Statistical Information and Likelihood: A Collection of Critical Essays by D. Basu", 
+                    "ref": "<t>Statistical Information and Likelihood: A Collection of Critical Essays by D. Basu.</t> <au>Basu, D.</au>. <ed>J. K. Ghosh</ed>. J. K. Ghosh, Springer", 
+                    "author": "Basu, D.", 
+                    "bibtype": "book", 
+                    "editor": "J. K. Ghosh", 
+                    "year": "1988", 
+                    "howpublished": "J. K. Ghosh, Springer", 
+                    "topline": "book basu__debabrata:16", 
+                    "id": "basu__debabrata:16"
+                }, 
+                {
+                    "title": "Selected Works of Debabrata Basu", 
+                    "ref": "<t>Selected Works of Debabrata Basu.</t> Springer", 
+                    "author": "Anonymous", 
+                    "bibtype": "book", 
+                    "year": "2011", 
+                    "howpublished": "Springer", 
+                    "topline": "book basu__debabrata:17", 
+                    "id": "basu__debabrata:17"
+                }
+            ], 
+            "In_Memoriam": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <au>Ghosh, J. K.</au>. <j>Sankhy&amacr;</j>, Vol. <v>63</v>, pp.<pp>1-2</pp>", 
+                    "author": "Ghosh, J. K.", 
+                    "bibtype": "article", 
+                    "year": "2001", 
+                    "howpublished": "<j>Sankhy&amacr;</j>, Vol. <v>63</v>, pp.<pp>1-2</pp>", 
+                    "topline": "article basu__debabrata:11", 
+                    "id": "basu__debabrata:11"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2001", 
+                    "howpublished": "???", 
+                    "topline": "misc basu__debabrata:548220", 
+                    "id": "basu__debabrata:548220"
+                }, 
+                {
+                    "title": "Special issue in memory of D. Basu", 
+                    "ref": "<t>Special issue in memory of D. Basu.</t> <j>Sankhy&amacr;</j>, Vol. <v>64(3, parts 1 and 2)</v>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2002", 
+                    "howpublished": "<j>Sankhy&amacr;</j>, Vol. <v>64(3, parts 1 and 2)</v>", 
+                    "topline": "article basu__debabrata:13", 
+                    "id": "basu__debabrata:13"
+                }
+            ], 
+            "ims_id": "basu__debabrata", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://en.wikipedia.org/wiki/Debabrata_Basu", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.york.ac.uk/depts/maths/histstat/people/basu.gif", 
+                    "anchor": "www.york.ac.uk"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=205281", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:basu.debabrata", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=48981", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/49966194", 
+                    "anchor": "Microsoft Academic: Debabrata Basu"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1977", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [
+                {
+                    "title": "Current Issues in Statistical Inference: Essays in Honor of D. Basu", 
+                    "ref": "<t>Current Issues in Statistical Inference: Essays in Honor of D. Basu.</t> Lecture Notes-Monograph Series, Institute of Mathematical Statistics", 
+                    "author": "Anonymous", 
+                    "bibtype": "book", 
+                    "year": "1992", 
+                    "howpublished": "Lecture Notes-Monograph Series, Institute of Mathematical Statistics", 
+                    "topline": "book basu__debabrata:8", 
+                    "id": "basu__debabrata:8"
+                }
+            ], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Indian Statistical Institute, Calcutta", 
+                    "thesis_title": "Contributions to the Theory of Statistical Inference", 
+                    "year": "1953", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=48981"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Basu, Debabrata", 
+                    "ref": "<t>Basu, Debabrata.</t> <au>Ghosh, J.</au>. <inc>booktitle:encyclopedia-of-statistical-sciences</inc>. ???", 
+                    "author": "Ghosh, J.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-statistical-sciences", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "incollection basu__debabrata:14", 
+                    "id": "basu__debabrata:14"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Statistical Sciences", 
+            "url": "http://onlinelibrary.wiley.com/book/10.1002/0471667196", 
+            "booktitle": "Encyclopedia of Statistical Sciences", 
+            "address": "Hoboken, NJ", 
+            "editors": "S. Kotz and N. Balakrishnan and C. Read and B. Vidakovic", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:encyclopedia-of-statistical-sciences", 
+            "year": "2006", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }
+    ]
+}

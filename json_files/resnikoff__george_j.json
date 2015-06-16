@@ -1,0 +1,83 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "George J. Resnikoff: 1915-94", 
+                    "ref": "<t>George J. Resnikoff: 1915-94.</t> <au>Park, H. and Trumbo, B. E.</au>. <j>IMS Bulletin</j>, Vol. <v>23</v>, pp.<pp>643</pp>", 
+                    "author": "Park, H. and Trumbo, B. E.", 
+                    "bibtype": "article", 
+                    "year": "1994", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>23</v>, pp.<pp>643</pp>", 
+                    "topline": "article resnikoff__george_j:8", 
+                    "id": "resnikoff__george_j:8"
+                }
+            ], 
+            "DOB": "1915-03-25", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1994-09-05", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Resnikoff, George J.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "resnikoff__george_j", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=525676", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:resnikoff.george-j", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=25514", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18749987", 
+                    "anchor": "Microsoft Academic: Resnikoff, George J."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1968", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "resnikoff__george", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Stanford University", 
+                    "thesis_title": "Contributions to Sampling Inspection by Variables", 
+                    "year": "1955", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=25514"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

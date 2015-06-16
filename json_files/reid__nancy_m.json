@@ -1,0 +1,122 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Reid, Nancy M.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "reid__nancy_m", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.utstat.toronto.edu/reid/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=146385", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:reid.nancy-m", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=15889", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12539566", 
+                    "anchor": "Microsoft Academic: Reid, Nancy"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1989", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Medallion Lecturer", 
+                    "year": "1989", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "COPSS Presidents' Award", 
+                    "year": "1992", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS President", 
+                    "year": "1997", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Wald Lecturer", 
+                    "year": "2000", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "The Royal Society of Canada, Fellow", 
+                    "year": "2001", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "F. N. David Award", 
+                    "year": "2009", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "reid__nancy", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Stanford University", 
+                    "thesis_title": "Influence Functions for Censored Data", 
+                    "year": "1979", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=15889"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Nancy Margaret Reid", 
+                    "ref": "<t>Nancy Margaret Reid.</t> In: <bt>Agnes Scott College Website</bt>", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "year?", 
+                    "howpublished": "In: <bt>Agnes Scott College Website</bt>", 
+                    "topline": "misc reid__nancy_m:11", 
+                    "id": "reid__nancy_m:11"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

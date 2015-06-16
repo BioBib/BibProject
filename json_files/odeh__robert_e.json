@@ -1,0 +1,53 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Odeh, Robert E.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "odeh__robert_e", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=133155", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:odeh.robert-e", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18740120", 
+                    "anchor": "Microsoft Academic: Odeh, Robert E."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1986", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "odeh__rober", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

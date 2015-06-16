@@ -1,0 +1,86 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Bose, Arup", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "bose__arup", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.isical.ac.in/~abose/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=218879", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:bose.arup", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=96280", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53763568", 
+                    "anchor": "Microsoft Academic: Bose, Arup"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "2002", 
+                    "citation": "For outstanding and wide ranging contributions to asymptotics, especially the bootstrap, and sequential analysis, and dedicated service to the profession", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Indian Academy of Sciences, Fellow", 
+                    "year": "2006", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Indian National Science Academy, Fellow", 
+                    "year": "2007", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Indian Statistical Institute, Calcutta", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=96280"
+                        }
+                    ], 
+                    "type": "Ph.D.", 
+                    "year": "1987"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

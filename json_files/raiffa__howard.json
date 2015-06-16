@@ -1,0 +1,92 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Raiffa, Howard", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "raiffa__howard", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://iiasa.ac.at/IIASA_Society/docs/raiffavisit.htm", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=144050", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:raiffa.howard", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=5139", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/25105", 
+                    "anchor": "Microsoft Academic: Raiffa, Howard"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1958", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1968", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Royal Spanish Academy of Sciences, Foreign Member", 
+                    "year": "1993", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Engineering, Member", 
+                    "year": "2005", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Michigan", 
+                    "thesis_title": "Arbitration Schemes for Generalized Two-Person Games", 
+                    "year": "1952", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=5139"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

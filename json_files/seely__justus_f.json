@@ -1,0 +1,63 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1941-02-11", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2002-02-23", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Seely, Justus F.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2002", 
+                    "howpublished": "???", 
+                    "topline": "misc seely__justus_f:689794", 
+                    "id": "seely__justus_f:689794"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2002", 
+                    "howpublished": "???", 
+                    "topline": "misc seely__justus_f:598947", 
+                    "id": "seely__justus_f:598947"
+                }
+            ], 
+            "ims_id": "seely__justus_f", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1979", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "seeley__justus", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

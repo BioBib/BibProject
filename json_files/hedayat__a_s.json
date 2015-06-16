@@ -1,0 +1,83 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Hedayat, A. Samad", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "hedayat__a_s", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.math.uic.edu/people/publications?mscsid=hedayat", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=83280", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:hedayat.a-samad", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=46804", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/42204374", 
+                    "anchor": "Microsoft Academic: Hedayat, A. Sadam"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54239224", 
+                    "anchor": "Microsoft Academic: Hedayat, A. S."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/10656325", 
+                    "anchor": "Microsoft Academic: Hedayat, A. S."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1975", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "hedayat__a", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Cornell University", 
+                    "thesis_title": "On the Theory of the Existence, Non-Existence, and the Construction of Mutually Orthogonal F-Squares and Latin Squares", 
+                    "year": "1969", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=46804"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

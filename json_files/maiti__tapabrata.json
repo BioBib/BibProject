@@ -1,0 +1,54 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Maiti, Tapabrata", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "maiti__tapabrata", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://research.msu.edu/tags/tapabrata-maiti", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:maiti.tapabrata", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12791930", 
+                    "anchor": "Microsoft Academic: Maiti, Tapabrata"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "2012", 
+                    "citation": "For significant research contributions in small area inference, inference for mixed models, and Bayesian methodology for panel-count data", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

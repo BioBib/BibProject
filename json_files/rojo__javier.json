@@ -1,0 +1,86 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Rojo, Javier", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "rojo__javier", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.stat.rice.edu/~jrojo/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=228102", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:rojo.javier", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=34578", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53551975", 
+                    "anchor": "Microsoft Academic: Rojo, Javier"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "2001", 
+                    "citation": "For outstanding research contributions to nonparametric statistics and survival analysis; for outstanding work as a consultant and teacher; for supporting graduate and undergraduate students; and for service to the profession", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of California, Berkeley", 
+                    "thesis_title": "On Lehmann's General Concept of Unbiasedness and the Existence of L-unbiased Estimators", 
+                    "year": "1984", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=34578"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc rojo__javier:567185", 
+                    "id": "rojo__javier:567185"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

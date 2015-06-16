@@ -1,0 +1,89 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Tak&aacute;cs, Lajos F.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "takacs__lajos_f", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.informs.org/Recognize-Excellence/Award-Recipients/Lajos-Takacs", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=170215", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:takacs.lajos", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=37339", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52642687", 
+                    "anchor": "Microsoft Academic: Lajos Takacs (Lajos Tak\\'{a"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53088642", 
+                    "anchor": "Microsoft Academic: Lajos Takacs (Lajos Tak\\'{a"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/3542732", 
+                    "anchor": "Microsoft Academic: Lajos Takacs (Lajos Tak\\'{a"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1961", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "John von Neumann Theory Prize", 
+                    "year": "1994", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "takacs__lajos", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Technical University of Budapest", 
+                    "thesis_title": "R&eacute;szecskesz&aacute;ml&aacute;l&oacute;k elm&eacute;let&eacute;ben fell&eacute;p&ouml; sztochasztikus folyamatokr&ouml;l", 
+                    "year": "1956", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=37339"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

@@ -1,0 +1,221 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1883-04-19", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1953-07-14", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "von Mises, Richard E.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "von_mises__richard_e", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.wisdomsupreme.com/dictionary/richard-von-mises.php", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=195522", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:von-mises.richard-edler", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=20745", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54030147", 
+                    "anchor": "Microsoft Academic: Richard Von Mises"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1944", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "before 1943", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "von_mises__richard", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Technische Universit&auml;t Wien", 
+                    "thesis_title": "Die Ermittlung der Schwungmassen im Schubkurbelgetriebe (The Determination of Flywheel Masses in Crank Drives)", 
+                    "year": "1907", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=20745"
+                        }
+                    ], 
+                    "type": "Dr.-Ing"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "von Mises, Richard", 
+                    "ref": "<t>von Mises, Richard.</t> <au>Geiringer, H.</au>. <inc>booktitle:international-encyclopedia-of-the-social-sciences</inc>. ???", 
+                    "author": "Geiringer, H.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:international-encyclopedia-of-the-social-sciences", 
+                    "year": "1968", 
+                    "howpublished": "???", 
+                    "topline": "incollection von_mises__richard_e:8", 
+                    "id": "von_mises__richard_e:8"
+                }, 
+                {
+                    "title": "von Mises, Richard", 
+                    "ref": "<t>von Mises, Richard.</t> <au>Geiringer, H.</au>. <inc>booktitle:international-encyclopedia-of-statistics</inc>. pp.<pp>1228-1231</pp>", 
+                    "author": "Geiringer, H.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:international-encyclopedia-of-statistics", 
+                    "year": "1978", 
+                    "howpublished": "pp.<pp>1228-1231</pp>", 
+                    "topline": "incollection von_mises__richard_e:9", 
+                    "id": "von_mises__richard_e:9"
+                }, 
+                {
+                    "title": "Richard von Mises", 
+                    "ref": "<t>Richard von Mises.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2000", 
+                    "howpublished": "???", 
+                    "topline": "incollection von_mises__richard_e:13", 
+                    "id": "von_mises__richard_e:13"
+                }, 
+                {
+                    "title": "Richard von Mises", 
+                    "ref": "<t>Richard von Mises.</t> <au>Siegmund-Schultze, R.</au>. <inc>booktitle:statisticians-of-the-centuries</inc>. pp.<pp>352-357</pp>", 
+                    "author": "Siegmund-Schultze, R.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:statisticians-of-the-centuries", 
+                    "year": "2001", 
+                    "howpublished": "pp.<pp>352-357</pp>", 
+                    "topline": "incollection von_mises__richard_e:10", 
+                    "id": "von_mises__richard_e:10"
+                }, 
+                {
+                    "title": "von Mises, Richard Martin Edler", 
+                    "ref": "<t>von Mises, Richard Martin Edler.</t> <au>Bernhardt, H.</au>. <inc>booktitle:encyclopedia-of-statistical-sciences</inc>. ???", 
+                    "author": "Bernhardt, H.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-statistical-sciences", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "incollection von_mises__richard_e:11", 
+                    "id": "von_mises__richard_e:11"
+                }, 
+                {
+                    "title": "Mises, Richard von", 
+                    "ref": "<t>Mises, Richard von.</t> <au>Gridgeman, N. T.</au>. <inc>booktitle:complete-dictionary-of-scientific-biography</inc>. Vol. <v>9</v>, pp.<pp>419-420</pp>", 
+                    "author": "Gridgeman, N. T.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:complete-dictionary-of-scientific-biography", 
+                    "year": "2008", 
+                    "howpublished": "Vol. <v>9</v>, pp.<pp>419-420</pp>", 
+                    "topline": "incollection von_mises__richard_e:12", 
+                    "id": "von_mises__richard_e:12"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Macmillan", 
+            "title": "International Encyclopedia of the Social Sciences", 
+            "url": "http://www.worldcat.org/title/international-encyclopedia-of-the-social-sciences/oclc/165466", 
+            "booktitle": "International Encyclopedia of the Social Sciences", 
+            "address": "Detroit", 
+            "editors": "W. A. Darity, Jr.", 
+            "bibtype": "reference", 
+            "edition": "2nd", 
+            "top_line": "reference booktitle:international-encyclopedia-of-the-social-sciences", 
+            "year": "1968", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>International Encyclopedia of the Social Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:international-encyclopedia-of-the-social-sciences"
+        }, 
+        {
+            "publisher": "Free Press", 
+            "title": "International Encyclopedia of Statistics", 
+            "url": "http://www.worldcat.org/title/international-encyclopedia-of-statistics/oclc/3966286", 
+            "booktitle": "International Encyclopedia of Statistics", 
+            "address": "New York", 
+            "editors": "W. H. Kruskal and J. M. Tanur", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:international-encyclopedia-of-statistics", 
+            "year": "1978", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>International Encyclopedia of Statistics.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:international-encyclopedia-of-statistics"
+        }, 
+        {
+            "publisher": "Springer", 
+            "title": "Statisticians of the Centuries", 
+            "url": "http://www.worldcat.org/title/statisticians-of-the-centuries/oclc/46791088", 
+            "booktitle": "Statisticians of the Centuries", 
+            "address": "New York", 
+            "editors": "C. C. Heyde and E. Seneta", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:statisticians-of-the-centuries", 
+            "year": "2001", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Statisticians of the Centuries.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:statisticians-of-the-centuries"
+        }, 
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Statistical Sciences", 
+            "url": "http://onlinelibrary.wiley.com/book/10.1002/0471667196", 
+            "booktitle": "Encyclopedia of Statistical Sciences", 
+            "address": "Hoboken, NJ", 
+            "editors": "S. Kotz and N. Balakrishnan and C. Read and B. Vidakovic", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:encyclopedia-of-statistical-sciences", 
+            "year": "2006", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }, 
+        {
+            "publisher": "Scribner's", 
+            "title": "Complete Dictionary of Scientific Biography", 
+            "url": "http://www.worldcat.org/title/complete-dictionary-of-scientific-biography/oclc/187313311", 
+            "booktitle": "Complete Dictionary of Scientific Biography", 
+            "address": "Detroit", 
+            "editors": "F. L. Holmes", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:complete-dictionary-of-scientific-biography", 
+            "year": "2008", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Complete Dictionary of Scientific Biography.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:complete-dictionary-of-scientific-biography"
+        }
+    ]
+}

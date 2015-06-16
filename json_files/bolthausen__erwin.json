@@ -1,0 +1,64 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Bolthausen, Erwin", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "bolthausen__erwin", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://mathweb.unizh.ch/index.php?id=publikationen&amp;L=http%3A%2Fdaemonzz.c&amp;no_cache=1&amp;key1=106", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:bolthausen.erwin", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/793943", 
+                    "anchor": "Microsoft Academic: Bolthausen, Erwin"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53702552", 
+                    "anchor": "Microsoft Academic: Bolthausen, Erwin"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Medallion Lecturer", 
+                    "year": "2000", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "2008", 
+                    "citation": "For contributions to probability theory, stochastic models related to statistical physics; and for extensive editorial work", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

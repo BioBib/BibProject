@@ -1,0 +1,333 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1939-04-20", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2008-03-06", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Heyde, Christopher C.", 
+            "Oral_History": [], 
+            "Selected_Works": [
+                {
+                    "title": "Selected Works of C. C. Heyde", 
+                    "ref": "<t>Selected Works of C. C. Heyde.</t> <au>Heyde, C. C.</au>. <ed>R. Maller, I. Basawa, P. Hall and E. Seneta</ed>. R. Maller, I. Basawa, P. Hall and E. Seneta, Springer", 
+                    "author": "Heyde, C. C.", 
+                    "bibtype": "book", 
+                    "editor": "R. Maller, I. Basawa, P. Hall and E. Seneta", 
+                    "year": "2010", 
+                    "howpublished": "R. Maller, I. Basawa, P. Hall and E. Seneta, Springer", 
+                    "topline": "book heyde__christopher_c:30", 
+                    "id": "heyde__christopher_c:30"
+                }
+            ], 
+            "In_Memoriam": [
+                {
+                    "title": "Christopher C. Heyde, 1939-2008", 
+                    "ref": "<t>Christopher C. Heyde, 1939-2008.</t> <au>Seneta, E. and Maller, R.</au>. <j>IMS Bulletin</j>, Vol. <v>37(6)</v>, pp.<pp>18-19</pp>", 
+                    "author": "Seneta, E. and Maller, R.", 
+                    "bibtype": "article", 
+                    "year": "2008", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>37(6)</v>, pp.<pp>18-19</pp>", 
+                    "topline": "article heyde__christopher_c:9", 
+                    "id": "heyde__christopher_c:9"
+                }, 
+                {
+                    "title": "Christopher Charles Heyde AM, DSc, FAA, FASSA", 
+                    "ref": "<t>Christopher Charles Heyde AM, DSc, FAA, FASSA.</t> <au>Gani, J. and Seneta, E.</au>. <j>J. Appl. Probab.</j>, Vol. <v>45</v>, pp.<pp>587-592</pp>", 
+                    "author": "Gani, J. and Seneta, E.", 
+                    "bibtype": "article", 
+                    "year": "2008", 
+                    "howpublished": "<j>J. Appl. Probab.</j>, Vol. <v>45</v>, pp.<pp>587-592</pp>", 
+                    "topline": "article heyde__christopher_c:10", 
+                    "id": "heyde__christopher_c:10"
+                }, 
+                {
+                    "title": "Chris Heyde: An appreciation", 
+                    "ref": "<t>Chris Heyde: An appreciation.</t> <au>Nash, L.</au>. <j>J. Appl. Probab.</j>, Vol. <v>45</v>, pp.<pp>593-594</pp>", 
+                    "author": "Nash, L.", 
+                    "bibtype": "article", 
+                    "year": "2008", 
+                    "howpublished": "<j>J. Appl. Probab.</j>, Vol. <v>45</v>, pp.<pp>593-594</pp>", 
+                    "topline": "article heyde__christopher_c:11", 
+                    "id": "heyde__christopher_c:11"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2008", 
+                    "howpublished": "???", 
+                    "topline": "misc heyde__christopher_c:403160", 
+                    "id": "heyde__christopher_c:403160"
+                }, 
+                {
+                    "title": "Life and work of Christopher Charles Heyde: In memoriam", 
+                    "ref": "<t>Life and work of Christopher Charles Heyde: In memoriam.</t> <au>Gani, J.</au>. <j>J. Stat. Theory Pract.</j>, Vol. <v>2</v>, pp.<pp>327-329</pp>", 
+                    "author": "Gani, J.", 
+                    "bibtype": "article", 
+                    "year": "2008", 
+                    "howpublished": "<j>J. Stat. Theory Pract.</j>, Vol. <v>2</v>, pp.<pp>327-329</pp>", 
+                    "topline": "article heyde__christopher_c:13", 
+                    "id": "heyde__christopher_c:13"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2008", 
+                    "howpublished": "???", 
+                    "topline": "misc heyde__christopher_c:206868", 
+                    "id": "heyde__christopher_c:206868"
+                }, 
+                {
+                    "title": "C. C. Heyde, 1939-2008", 
+                    "ref": "<t>C. C. Heyde, 1939-2008.</t> <au>Gani, J.</au>. <j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>172</v>, pp.<pp>278-280</pp>", 
+                    "author": "Gani, J.", 
+                    "bibtype": "article", 
+                    "year": "2009", 
+                    "howpublished": "<j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>172</v>, pp.<pp>278-280</pp>", 
+                    "topline": "article heyde__christopher_c:14", 
+                    "id": "heyde__christopher_c:14"
+                }, 
+                {
+                    "title": "Selected Works of C. C. Heyde", 
+                    "ref": "<t>Selected Works of C. C. Heyde.</t> <au>Basawa, I.</au>. <ed>R. Maller, I. Basawa, P. Hall and E. Seneta</ed>. R. Maller, I. Basawa, P. Hall and E. Seneta, Springer, pp.<pp>2-4</pp>", 
+                    "author": "Basawa, I.", 
+                    "bibtype": "book", 
+                    "editor": "R. Maller, I. Basawa, P. Hall and E. Seneta", 
+                    "year": "2010", 
+                    "howpublished": "R. Maller, I. Basawa, P. Hall and E. Seneta, Springer, pp.<pp>2-4</pp>", 
+                    "topline": "book heyde__christopher_c:15", 
+                    "id": "heyde__christopher_c:15"
+                }, 
+                {
+                    "title": "Selected Works of C. C. Heyde", 
+                    "ref": "<t>Selected Works of C. C. Heyde.</t> <au>Hall, P.</au>. <ed>R. Maller, I. Basawa, P. Hall and E. Seneta</ed>. R. Maller, I. Basawa, P. Hall and E. Seneta, Springer, pp.<pp>5-7</pp>", 
+                    "author": "Hall, P.", 
+                    "bibtype": "book", 
+                    "editor": "R. Maller, I. Basawa, P. Hall and E. Seneta", 
+                    "year": "2010", 
+                    "howpublished": "R. Maller, I. Basawa, P. Hall and E. Seneta, Springer, pp.<pp>5-7</pp>", 
+                    "topline": "book heyde__christopher_c:16", 
+                    "id": "heyde__christopher_c:16"
+                }, 
+                {
+                    "title": "Selected Works of C. C. Heyde", 
+                    "ref": "<t>Selected Works of C. C. Heyde.</t> <au>Maller, R.</au>. <ed>R. Maller, I. Basawa, P. Hall and E. Seneta</ed>. R. Maller, I. Basawa, P. Hall and E. Seneta, Springer, pp.<pp>8-11</pp>", 
+                    "author": "Maller, R.", 
+                    "bibtype": "book", 
+                    "editor": "R. Maller, I. Basawa, P. Hall and E. Seneta", 
+                    "year": "2010", 
+                    "howpublished": "R. Maller, I. Basawa, P. Hall and E. Seneta, Springer, pp.<pp>8-11</pp>", 
+                    "topline": "book heyde__christopher_c:17", 
+                    "id": "heyde__christopher_c:17"
+                }, 
+                {
+                    "title": "Selected Works of C.C.Heyde", 
+                    "ref": "<t>Selected Works of C.C.Heyde.</t> <au>Seneta, E.</au>. <ed>R.Maller, I.Basawa, P.Hall and E.Seneta</ed>. R.Maller, I.Basawa, P.Hall and E.Seneta, Springer, pp.<pp>12 - 15</pp>", 
+                    "author": "Seneta, E.", 
+                    "bibtype": "book", 
+                    "editor": "R.Maller, I.Basawa, P.Hall and E.Seneta", 
+                    "year": "2010", 
+                    "howpublished": "R.Maller, I.Basawa, P.Hall and E.Seneta, Springer, pp.<pp>12 - 15</pp>", 
+                    "topline": "book heyde__christopher_c:18", 
+                    "id": "heyde__christopher_c:18"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "year?", 
+                    "howpublished": "???", 
+                    "topline": "misc heyde__christopher_c:138767", 
+                    "id": "heyde__christopher_c:138767"
+                }
+            ], 
+            "ims_id": "heyde__christopher_c", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.anu.edu.au/sas/scholarships/research/scholarships_all_students/chris_heyde.php", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://en.wikipedia.org/wiki/Chris_Heyde", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.york.ac.uk/depts/maths/histstat/people/heyde.gif", 
+                    "anchor": "www.york.ac.uk"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=190193", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:heyde.christopher-charles", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=57372", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/10682201", 
+                    "anchor": "Microsoft Academic: Heyde, christopher"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1973", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Australian Academy of Science, Fellow", 
+                    "year": "1977", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Academy of the Social Sciences in Australia, Fellow", 
+                    "year": "2003", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Member of the Order of Australia", 
+                    "year": "2003", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "heyde__christopher", 
+            "Festschrift": [
+                {
+                    "title": "Stochastic Methods and their Applications: Papers in Honour of Chris Heyde", 
+                    "ref": "<t>Stochastic Methods and their Applications: Papers in Honour of Chris Heyde.</t> <au>Gani, J. and Seneta, E., eds.</au>. <j>J. Appl. Probab.</j>, Vol. <v>41A</v>", 
+                    "author": "Gani, J. and Seneta, E., eds.", 
+                    "bibtype": "article", 
+                    "year": "2004", 
+                    "howpublished": "<j>J. Appl. Probab.</j>, Vol. <v>41A</v>", 
+                    "topline": "article heyde__christopher_c:8", 
+                    "id": "heyde__christopher_c:8"
+                }
+            ], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Australian National University", 
+                    "thesis_title": "Results Related to First Passage Time Problems and Some of Their Applications", 
+                    "year": "1964", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=57372"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "year?", 
+                    "howpublished": "???", 
+                    "topline": "misc heyde__christopher_c:31", 
+                    "id": "heyde__christopher_c:31"
+                }
+            ], 
+            "Biography": [
+                {
+                    "title": "Chris Heyde awarded membership of the Order of Australia", 
+                    "ref": "<t>Chris Heyde awarded membership of the Order of Australia.</t> <j>IMS Bulletin</j>, Vol. <v>32(5)</v>, pp.<pp>3</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2003", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>32(5)</v>, pp.<pp>3</pp>", 
+                    "topline": "article heyde__christopher_c:22", 
+                    "id": "heyde__christopher_c:22"
+                }, 
+                {
+                    "title": "Chris Heyde: Member of the Order of Australia (AM)", 
+                    "ref": "<t>Chris Heyde: Member of the Order of Australia (AM).</t> <j>Bernoulli News</j>, Vol. <v>10(1)</v>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2003", 
+                    "howpublished": "<j>Bernoulli News</j>, Vol. <v>10(1)</v>", 
+                    "topline": "article heyde__christopher_c:23", 
+                    "id": "heyde__christopher_c:23"
+                }, 
+                {
+                    "title": "Christopher Charles Heyde, AM, DSc, FAA, FASSA", 
+                    "ref": "<t>Christopher Charles Heyde, AM, DSc, FAA, FASSA.</t> <au>Gani, J. and Seneta, E.</au>. <j>J. Appl. Probab.</j>, Vol. <v>41A</v>, pp.<pp>vii-x</pp>", 
+                    "author": "Gani, J. and Seneta, E.", 
+                    "bibtype": "article", 
+                    "year": "2004", 
+                    "howpublished": "<j>J. Appl. Probab.</j>, Vol. <v>41A</v>, pp.<pp>vii-x</pp>", 
+                    "topline": "article heyde__christopher_c:24", 
+                    "id": "heyde__christopher_c:24"
+                }, 
+                {
+                    "title": "Publications of Christopher Charles Heyde", 
+                    "ref": "<t>Publications of Christopher Charles Heyde.</t> <j>J. Appl. Probab.</j>, Vol. <v>41A</v>, pp.<pp>xi-xviii</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2004", 
+                    "howpublished": "<j>J. Appl. Probab.</j>, Vol. <v>41A</v>, pp.<pp>xi-xviii</pp>", 
+                    "topline": "article heyde__christopher_c:25", 
+                    "id": "heyde__christopher_c:25"
+                }, 
+                {
+                    "title": "A conversation with Chris Heyde", 
+                    "ref": "<t>A conversation with Chris Heyde.</t> <au>Glasserman, P. and Kou, S.</au>. <j>Statist. Sci.</j>, Vol. <v>21</v>, pp.<pp>286-298</pp>", 
+                    "author": "Glasserman, P. and Kou, S.", 
+                    "bibtype": "article", 
+                    "year": "2006", 
+                    "howpublished": "<j>Statist. Sci.</j>, Vol. <v>21</v>, pp.<pp>286-298</pp>", 
+                    "topline": "article heyde__christopher_c:26", 
+                    "id": "heyde__christopher_c:26"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2008", 
+                    "howpublished": "???", 
+                    "topline": "misc heyde__christopher_c:28", 
+                    "id": "heyde__christopher_c:28"
+                }, 
+                {
+                    "title": "Christopher Charles Heyde 1939-2008", 
+                    "ref": "<t>Christopher Charles Heyde 1939-2008.</t> <au>Seneta, E. and Gani, J.</au>. <j>Historical Records of Australian Science</j>, Vol. <v>20</v>, pp.<pp>67-90</pp>", 
+                    "author": "Seneta, E. and Gani, J.", 
+                    "bibtype": "article", 
+                    "year": "2009", 
+                    "howpublished": "<j>Historical Records of Australian Science</j>, Vol. <v>20</v>, pp.<pp>67-90</pp>", 
+                    "topline": "article heyde__christopher_c:27", 
+                    "id": "heyde__christopher_c:27"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

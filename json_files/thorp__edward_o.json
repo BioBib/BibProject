@@ -1,0 +1,101 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Thorp, Edward O.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "thorp__edward_o", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://en.wikipedia.org/wiki/Ed_Thorp", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "category": "homepage", 
+                    "href": "http://en.wikipedia.org/wiki/Edward_O._Thorp", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "category": "homepage", 
+                    "href": "http://www.tutorgig.info/ed/Edward_O._Thorp", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=300887", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:thorp.edward-o", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=9739", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12176785", 
+                    "anchor": "Microsoft Academic: Edward O. Thorp"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/50876477", 
+                    "anchor": "Microsoft Academic: Edward O. Thorp"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54541536", 
+                    "anchor": "Microsoft Academic: Edward O. Thorp"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54541537", 
+                    "anchor": "Microsoft Academic: Edward O. Thorp"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/10721151", 
+                    "anchor": "Microsoft Academic: Edward O. Thorp"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1974", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "thorp__edward", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of California, Los Angeles", 
+                    "thesis_title": "Compact Linear Operators in Normed Spaces", 
+                    "year": "1958", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=9739"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

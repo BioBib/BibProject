@@ -1,0 +1,76 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Alan Stuart", 
+                    "ref": "<t>Alan Stuart.</t> <au>Anderson, T. W. and Brillinger, D. and Olkin, I.</au>. <j>IMS Bulletin</j>, Vol. <v>29</v>, pp.<pp>208-210</pp>", 
+                    "author": "Anderson, T. W. and Brillinger, D. and Olkin, I.", 
+                    "bibtype": "article", 
+                    "year": "2000", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>29</v>, pp.<pp>208-210</pp>", 
+                    "topline": "article stuart__alan:6", 
+                    "id": "stuart__alan:6"
+                }
+            ], 
+            "DOB": "1922-09-20", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1998-06-25", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Stuart, Alan", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1999", 
+                    "howpublished": "???", 
+                    "topline": "misc stuart__alan:932552", 
+                    "id": "stuart__alan:932552"
+                }
+            ], 
+            "ims_id": "stuart__alan", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=189567", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:stuart.alan-d", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53760714", 
+                    "anchor": "Microsoft Academic: Stuart, Alan"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "19??", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

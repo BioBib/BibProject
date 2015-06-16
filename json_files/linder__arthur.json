@@ -1,0 +1,86 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1904", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1993-02-08", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Linder, Arthur", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "linder__arthur", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=342477", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:linder.arthur", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=72287", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18678666", 
+                    "anchor": "Microsoft Academic: Linder, Arthur"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/55031149", 
+                    "anchor": "Microsoft Academic: Linder, A."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1965", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>22</v>, pp.<pp>216</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1993", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>22</v>, pp.<pp>216</pp>", 
+                    "topline": "article linder__arthur:7", 
+                    "id": "linder__arthur:7"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "phil. Universit&auml;t Bern", 
+                    "thesis_title": "Methoden zur Berechnung von Volkssterbetafeln", 
+                    "year": "1934", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=72287"
+                        }
+                    ], 
+                    "type": "Dr."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

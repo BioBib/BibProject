@@ -1,0 +1,119 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc hannan__james_f:807604", 
+                    "id": "hannan__james_f:807604"
+                }
+            ], 
+            "DOB": "1922-09-14", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2010-01-26", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Hannan, James F.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "James F. Hannan, 1922-2010", 
+                    "ref": "<t>James F. Hannan, 1922-2010.</t> <au>Gilliland, D.</au>. <j>IMS Bulletin</j>, Vol. <v>39(3)</v>, pp.<pp>6</pp>", 
+                    "author": "Gilliland, D.", 
+                    "bibtype": "article", 
+                    "year": "2010", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>39(3)</v>, pp.<pp>6</pp>", 
+                    "topline": "article hannan__james_f:9", 
+                    "id": "hannan__james_f:9"
+                }
+            ], 
+            "ims_id": "hannan__james_f", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.stt.msu.edu/~hannan/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "category": "homepage", 
+                    "href": "http://projecteuclid.org/euclid.ss/1280841737", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=80865", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:hannan.james-f", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=13404", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18750227", 
+                    "anchor": "Microsoft Academic: Hannan, James F."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54865177", 
+                    "anchor": "Microsoft Academic: Hannan, James F."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1965", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "hannan__james", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>Notices Amer. Math. Soc.</j>, Vol. <v>57</v>, pp.<pp>538</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2010", 
+                    "howpublished": "<j>Notices Amer. Math. Soc.</j>, Vol. <v>57</v>, pp.<pp>538</pp>", 
+                    "topline": "article hannan__james_f:8", 
+                    "id": "hannan__james_f:8"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "The University of North Carolina at Chapel Hill", 
+                    "thesis_title": "Asymptotic Solutions of Compound Decision Problems", 
+                    "year": "1953", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=13404"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

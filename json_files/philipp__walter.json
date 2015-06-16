@@ -1,0 +1,77 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Walter Philipp, 1936-2006", 
+                    "ref": "<t>Walter Philipp, 1936-2006.</t> <j>IMS Bulletin</j>, Vol. <v>36(5)</v>, pp.<pp>5</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2007", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>36(5)</v>, pp.<pp>5</pp>", 
+                    "topline": "article philipp__walter:8", 
+                    "id": "philipp__walter:8"
+                }
+            ], 
+            "DOB": "1936-12-14", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2006-07-19", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Philipp, Walter", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "philipp__walter", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=139095", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:philipp.walter", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=62501", 
+                    "anchor": "Math. Genealogy"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1976", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Universit&auml;t Wien", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=62501"
+                        }
+                    ], 
+                    "type": "Ph.D.", 
+                    "year": "1960"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

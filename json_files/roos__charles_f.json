@@ -1,0 +1,80 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1901-05-18", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1958-01-07", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Roos, Charles F.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "roos__charles_f", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=652335", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:roos.charles-frederick", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=41941", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/55098091", 
+                    "anchor": "Microsoft Academic: Charles F. Roos"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/56489692", 
+                    "anchor": "Microsoft Academic: Charles F. Roos"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/28460496", 
+                    "anchor": "Microsoft Academic: Charles F. Roos"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "before 1943", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "roos__charles", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Rice University", 
+                    "thesis_title": "Generalized Lagrange Problems in the Calculus of Variations", 
+                    "year": "1926", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=41941"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

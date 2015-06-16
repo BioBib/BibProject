@@ -1,0 +1,102 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2002", 
+                    "howpublished": "???", 
+                    "topline": "misc dalenius__tore:100302", 
+                    "id": "dalenius__tore:100302"
+                }
+            ], 
+            "DOB": "1917-11-21", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2002-01-12", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Dalenius, Tore", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2002", 
+                    "howpublished": "???", 
+                    "topline": "misc dalenius__tore:453645", 
+                    "id": "dalenius__tore:453645"
+                }, 
+                {
+                    "title": "Tore Elon Dalenius, 1917-2002", 
+                    "ref": "<t>Tore Elon Dalenius, 1917-2002.</t> <au>Lyberg, L. and Christianson, A.</au>. <j>The Survey Statistician</j>, Vol. <v>46</v>, pp.<pp>4-5</pp>", 
+                    "author": "Lyberg, L. and Christianson, A.", 
+                    "bibtype": "article", 
+                    "year": "2002", 
+                    "howpublished": "<j>The Survey Statistician</j>, Vol. <v>46</v>, pp.<pp>4-5</pp>", 
+                    "topline": "article dalenius__tore:9", 
+                    "id": "dalenius__tore:9"
+                }
+            ], 
+            "ims_id": "dalenius__tore", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=54200", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:dalenius.tore", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/55026355", 
+                    "anchor": "Microsoft Academic: Tore Dalenius"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53356989", 
+                    "anchor": "Microsoft Academic: Tore Dalenius"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/49166782", 
+                    "anchor": "Microsoft Academic: Tore Dalenius"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/42324197", 
+                    "anchor": "Microsoft Academic: Tore Dalenius"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53193042", 
+                    "anchor": "Microsoft Academic: Tore Dalenius"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1960", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

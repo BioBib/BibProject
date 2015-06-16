@@ -1,0 +1,72 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Heitjan, Daniel F.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "heitjan__daniel_f", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.cceb.upenn.edu/pages/heitjan/index.php", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "category": "homepage", 
+                    "href": "http://www.cceb.upenn.edu/faculty/?id=189", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:heitjan.daniel-f", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/875167", 
+                    "anchor": "Microsoft Academic: Daniel F. Heitjan"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/21219561", 
+                    "anchor": "Microsoft Academic: Daniel F. Heitjan"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/50188181", 
+                    "anchor": "Microsoft Academic: Daniel F. Heitjan"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/56268775", 
+                    "anchor": "Microsoft Academic: Daniel F. Heitjan"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "2012", 
+                    "citation": "For significant contributions to the theory and methodology of inference from incomplete data; for outstanding applications in cancer, cardiovascular medicine, health economics, and smoking cessation research; for distinguished editorial service", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "heitjan__danie", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

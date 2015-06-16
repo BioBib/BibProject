@@ -1,0 +1,104 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Liggett, Thomas M.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "liggett__thomas_m", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.math.ucla.edu/~tml/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=113985", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:liggett.thomas-m", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=36685", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/2035401", 
+                    "anchor": "Microsoft Academic: Liggett, Thomas M."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1976", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Wald Lecturer", 
+                    "year": "1996", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Member", 
+                    "year": "2008", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "2012", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "liggett__thomas", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Stanford University", 
+                    "thesis_title": "Weak Convergence of Conditioned Sums of Independent Random Vectors", 
+                    "year": "1969", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=36685"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Profile: Tom Liggett, NAS member", 
+                    "ref": "<t>Profile: Tom Liggett, NAS member.</t> <au>Durrett, R.</au>. <j>IMS Bulletin</j>, Vol. <v>37(6)</v>, pp.<pp>9</pp>", 
+                    "author": "Durrett, R.", 
+                    "bibtype": "article", 
+                    "year": "2008", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>37(6)</v>, pp.<pp>9</pp>", 
+                    "topline": "article liggett__thomas_m:9", 
+                    "id": "liggett__thomas_m:9"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

@@ -1,0 +1,83 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1891-09-28", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1977-09", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Weida, Frank M.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "weida__frank_m", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=714587", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:weida.frank-m", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=27153", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52840934", 
+                    "anchor": "Microsoft Academic: Frank M. Weida"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "before 1943", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "weida__frank", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>7</v>, pp.<pp>329</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1978", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>7</v>, pp.<pp>329</pp>", 
+                    "topline": "article weida__frank_m:8", 
+                    "id": "weida__frank_m:8"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Iowa", 
+                    "thesis_title": "The Valuation of Life Annuities with Refund of an Arbitrarily Assigned Part of the Purchase Price", 
+                    "year": "1923", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=27153"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

@@ -1,0 +1,144 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1924-01-25", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1981-08-10", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Kiefer, Jack C.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> In: <bt>Statisticians in History</bt>, American Statistical Association", 
+                    "author": "Anonymous", 
+                    "bibtype": "incollection", 
+                    "year": "year?", 
+                    "howpublished": "In: <bt>Statisticians in History</bt>, American Statistical Association", 
+                    "topline": "incollection kiefer__jack_c:9", 
+                    "id": "kiefer__jack_c:9"
+                }
+            ], 
+            "ims_id": "kiefer__jack_c", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www-history.mcs.st-and.ac.uk/References/Kiefer.html", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=101255", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:kiefer.jack-carl", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=11772", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52626581", 
+                    "anchor": "Microsoft Academic: Kiefer, J."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/2759628", 
+                    "anchor": "Microsoft Academic: Kiefer, J."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1953", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Wald Lecturer", 
+                    "year": "1962", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS President", 
+                    "year": "1970", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1972", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Member", 
+                    "year": "1975", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Medallion Lecturer", 
+                    "year": "1977", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "kiefer__jack", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>10</v>, pp.<pp>240</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1981", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>10</v>, pp.<pp>240</pp>", 
+                    "topline": "article kiefer__jack_c:8", 
+                    "id": "kiefer__jack_c:8"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Columbia University", 
+                    "thesis_title": "Contributions to the Theory of Games and Statistical Decision Functions", 
+                    "year": "1952", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=11772"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Jack Carl Kiefer", 
+                    "ref": "<t>Jack Carl Kiefer.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2004", 
+                    "howpublished": "???", 
+                    "topline": "incollection kiefer__jack_c:14", 
+                    "id": "kiefer__jack_c:14"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

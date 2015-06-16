@@ -1,0 +1,271 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>29</v>, pp.<pp>467-468</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2000", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>29</v>, pp.<pp>467-468</pp>", 
+                    "topline": "article tukey__john_w:8", 
+                    "id": "tukey__john_w:8"
+                }
+            ], 
+            "DOB": "1915-06-16", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2000-07-26", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Tukey, John W.", 
+            "Oral_History": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1985", 
+                    "howpublished": "???", 
+                    "topline": "misc tukey__john_w:26", 
+                    "id": "tukey__john_w:26"
+                }
+            ], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "tukey__john_w", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://en.wikipedia.org/wiki/John_Tukey", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=175155", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:tukey.john-wilder", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=15860", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/39015", 
+                    "anchor": "Microsoft Academic: Tukey, John W."
+                }, 
+                {
+                    "href": "http://www.math.utah.edu/pub/bibnet/authors/t/tukey-john-w.bib", 
+                    "anchor": "biblio BibTeX compiled by Nelson Beebe"
+                }, 
+                {
+                    "href": "http://www.math.utah.edu/pub/bibnet/authors/t/tukey-john-w.html", 
+                    "anchor": "biblio HTML compiled by Nelson Beebe"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1946", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Wald Lecturer", 
+                    "year": "1958", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS President", 
+                    "year": "1960", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Member", 
+                    "year": "1961", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Philosophical Society, Member", 
+                    "year": "1962", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1964", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Samuel S. Wilks Award", 
+                    "year": "1965", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "R. A. Fisher Lecturer", 
+                    "year": "1967", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Medal of Science", 
+                    "year": "1973", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "John von Neumann Lecturer", 
+                    "year": "1985", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "The Royal Society, Foreign Member", 
+                    "year": "1991", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "tukey__john", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Princeton University", 
+                    "thesis_title": "On Denumerability in Topology", 
+                    "year": "1939", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=15860"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [
+                {
+                    "title": "John W. Tukey Papers, 1937-2000", 
+                    "ref": "<t>John W. Tukey Papers, 1937-2000.</t> In: <bt>Library, American Philosophical Society</bt>, Vol. <v>Mss.Ms.Coll.117</v>", 
+                    "author": "Anonymous", 
+                    "bibtype": "incollection", 
+                    "year": "2000", 
+                    "howpublished": "In: <bt>Library, American Philosophical Society</bt>, Vol. <v>Mss.Ms.Coll.117</v>", 
+                    "topline": "incollection tukey__john_w:25", 
+                    "id": "tukey__john_w:25"
+                }
+            ], 
+            "Biography": [
+                {
+                    "title": "John W. Tukey, 1915-2000", 
+                    "ref": "<t>John W. Tukey, 1915-2000.</t> <au>Kafadar, K. and Grier, D. A.</au>. In: <bt>Statisticians in History</bt>, American Statistical Association", 
+                    "author": "Kafadar, K. and Grier, D. A.", 
+                    "bibtype": "incollection", 
+                    "year": "2000", 
+                    "howpublished": "In: <bt>Statisticians in History</bt>, American Statistical Association", 
+                    "topline": "incollection tukey__john_w:23", 
+                    "id": "tukey__john_w:23"
+                }, 
+                {
+                    "title": "John Wilder Tukey, 16 June 1915-26 July 2000", 
+                    "ref": "<t>John Wilder Tukey, 16 June 1915-26 July 2000.</t> <au>McCullagh, P.</au>. <j>Biogr. Mems. Fell. R. Soc.</j>, Vol. <v>49</v>, pp.<pp>537-555</pp>", 
+                    "author": "McCullagh, P.", 
+                    "bibtype": "article", 
+                    "year": "2003", 
+                    "howpublished": "<j>Biogr. Mems. Fell. R. Soc.</j>, Vol. <v>49</v>, pp.<pp>537-555</pp>", 
+                    "topline": "article tukey__john_w:19", 
+                    "id": "tukey__john_w:19"
+                }, 
+                {
+                    "title": "John Wilder Tukey", 
+                    "ref": "<t>John Wilder Tukey.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2004", 
+                    "howpublished": "???", 
+                    "topline": "incollection tukey__john_w:24", 
+                    "id": "tukey__john_w:24"
+                }, 
+                {
+                    "title": "Tukey, John Wilder", 
+                    "ref": "<t>Tukey, John Wilder.</t> <au>Kafadar, K.</au>. <inc>booktitle:encyclopedia-of-biostatistics</inc>. ???", 
+                    "author": "Kafadar, K.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-biostatistics", 
+                    "year": "2005", 
+                    "howpublished": "???", 
+                    "topline": "incollection tukey__john_w:20", 
+                    "id": "tukey__john_w:20"
+                }, 
+                {
+                    "title": "John W. Tukey, 16 June 1915-26 July 2000", 
+                    "ref": "<t>John W. Tukey, 16 June 1915-26 July 2000.</t> <au>Mosteller, F.</au>. <j>Proc. Amer. Philos. Soc.</j>, Vol. <v>149</v>, pp.<pp>625-630</pp>", 
+                    "author": "Mosteller, F.", 
+                    "bibtype": "article", 
+                    "year": "2005", 
+                    "howpublished": "<j>Proc. Amer. Philos. Soc.</j>, Vol. <v>149</v>, pp.<pp>625-630</pp>", 
+                    "topline": "article tukey__john_w:21", 
+                    "id": "tukey__john_w:21"
+                }, 
+                {
+                    "title": "Tukey, John Wilder", 
+                    "ref": "<t>Tukey, John Wilder.</t> <au>Brillinger, D. R.</au>. <inc>booktitle:encyclopedia-of-statistical-sciences</inc>. ???", 
+                    "author": "Brillinger, D. R.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-statistical-sciences", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "incollection tukey__john_w:22", 
+                    "id": "tukey__john_w:22"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Biostatistics", 
+            "url": "http://www.worldcat.org/title/encyclopedia-of-biostatistics/oclc/38258277", 
+            "booktitle": "Encyclopedia of Biostatistics", 
+            "address": "Hoboken, NJ", 
+            "editors": "P. Armitage and T. Colton", 
+            "bibtype": "reference", 
+            "edition": "2nd", 
+            "top_line": "reference booktitle:encyclopedia-of-biostatistics", 
+            "year": "2005", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Biostatistics.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-biostatistics"
+        }, 
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Statistical Sciences", 
+            "url": "http://onlinelibrary.wiley.com/book/10.1002/0471667196", 
+            "booktitle": "Encyclopedia of Statistical Sciences", 
+            "address": "Hoboken, NJ", 
+            "editors": "S. Kotz and N. Balakrishnan and C. Read and B. Vidakovic", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:encyclopedia-of-statistical-sciences", 
+            "year": "2006", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }
+    ]
+}

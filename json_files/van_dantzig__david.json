@@ -1,0 +1,223 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1900-09-23", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1959-07-22", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "van Dantzig, David", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "In memoriam Prof. Dr. D. van Dantzig", 
+                    "ref": "<t>In memoriam Prof. Dr. D. van Dantzig.</t> <j>Nieuw. Arch. Wisk.</j>, Vol. <v>7</v>, pp.<pp>90</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1959", 
+                    "howpublished": "<j>Nieuw. Arch. Wisk.</j>, Vol. <v>7</v>, pp.<pp>90</pp>", 
+                    "topline": "article van_dantzig__david:8", 
+                    "id": "van_dantzig__david:8"
+                }, 
+                {
+                    "title": "Memorial to David van Dantzig, van Dantzig as a significist", 
+                    "ref": "<t>Memorial to David van Dantzig, van Dantzig as a significist.</t> <j>Synthese</j>, Vol. <v>11</v>, pp.<pp>319-328</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1959", 
+                    "howpublished": "<j>Synthese</j>, Vol. <v>11</v>, pp.<pp>319-328</pp>", 
+                    "topline": "article van_dantzig__david:9", 
+                    "id": "van_dantzig__david:9"
+                }, 
+                {
+                    "title": "In memoriam David van Dantzig, 23 September 1900-22 July 1959", 
+                    "ref": "<t>In memoriam David van Dantzig, 23 September 1900-22 July 1959.</t> <au>Koksma, J. F.</au>. <j>Synthese</j>, Vol. <v>11</v>, pp.<pp>329-334</pp>", 
+                    "author": "Koksma, J. F.", 
+                    "bibtype": "article", 
+                    "year": "1959", 
+                    "howpublished": "<j>Synthese</j>, Vol. <v>11</v>, pp.<pp>329-334</pp>", 
+                    "topline": "article van_dantzig__david:10", 
+                    "id": "van_dantzig__david:10"
+                }, 
+                {
+                    "title": "memoriam Prof. Dr. D. van Dantzig", 
+                    "ref": "<t>memoriam Prof. Dr. D. van Dantzig.</t> <au>Hemelrijk, J.</au>. <j>Statistica Neerlandica</j>, Vol. <v>13</v>, pp.<pp>415-432</pp>", 
+                    "author": "Hemelrijk, J.", 
+                    "bibtype": "article", 
+                    "year": "1959", 
+                    "howpublished": "<j>Statistica Neerlandica</j>, Vol. <v>13</v>, pp.<pp>415-432</pp>", 
+                    "topline": "article van_dantzig__david:11", 
+                    "id": "van_dantzig__david:11"
+                }, 
+                {
+                    "title": "The statistical work of David van Dantzig (1900-1959)", 
+                    "ref": "<t>The statistical work of David van Dantzig (1900-1959).</t> <au>Hemelrijk, J.</au>. <j>Ann. Math. Statist.</j>, Vol. <v>31</v>, pp.<pp>269-275</pp>", 
+                    "author": "Hemelrijk, J.", 
+                    "bibtype": "article", 
+                    "year": "1960", 
+                    "howpublished": "<j>Ann. Math. Statist.</j>, Vol. <v>31</v>, pp.<pp>269-275</pp>", 
+                    "topline": "article van_dantzig__david:12", 
+                    "id": "van_dantzig__david:12"
+                }, 
+                {
+                    "title": "In memoriam David van Dantzig", 
+                    "ref": "<t>In memoriam David van Dantzig.</t> <au>Freudenthal, H.</au>. <j>Nieuw. Arch. Wisk.</j>, Vol. <v>8</v>, pp.<pp>57-73</pp>", 
+                    "author": "Freudenthal, H.", 
+                    "bibtype": "article", 
+                    "year": "1960", 
+                    "howpublished": "<j>Nieuw. Arch. Wisk.</j>, Vol. <v>8</v>, pp.<pp>57-73</pp>", 
+                    "topline": "article van_dantzig__david:13", 
+                    "id": "van_dantzig__david:13"
+                }
+            ], 
+            "ims_id": "van_dantzig__david", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:van-dantzig.david", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=49638", 
+                    "anchor": "Math. Genealogy"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "The Royal Netherlands Academy of Arts and Sciences, Member", 
+                    "year": "1949", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1953", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "David Van Dantzig", 
+                    "ref": "<t>David Van Dantzig.</t> <j>Amer. Statist.</j>, Vol. <v>13(4)]</v>, pp.<pp>41</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1959", 
+                    "howpublished": "<j>Amer. Statist.</j>, Vol. <v>13(4)]</v>, pp.<pp>41</pp>", 
+                    "topline": "article van_dantzig__david:7", 
+                    "id": "van_dantzig__david:7"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Rijksuniversiteit Groningen", 
+                    "thesis_title": "Studien over topologische algebra", 
+                    "year": "1931", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=49638"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "David van Dantzig's statistical work", 
+                    "ref": "<t>David van Dantzig's statistical work.</t> <au>Hemelrijk, J.</au>. <j>Synthese</j>, Vol. <v>11</v>, pp.<pp>335-351</pp>", 
+                    "author": "Hemelrijk, J.", 
+                    "bibtype": "article", 
+                    "year": "1959", 
+                    "howpublished": "<j>Synthese</j>, Vol. <v>11</v>, pp.<pp>335-351</pp>", 
+                    "topline": "article van_dantzig__david:15", 
+                    "id": "van_dantzig__david:15"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1960", 
+                    "howpublished": "???", 
+                    "topline": "misc van_dantzig__david:189521", 
+                    "id": "van_dantzig__david:189521"
+                }, 
+                {
+                    "title": "van Dantzig, David", 
+                    "ref": "<t>van Dantzig, David.</t> <au>Hemelrijk, J.</au>. <inc>booktitle:international-encyclopedia-of-statistics</inc>. pp.<pp>1211-1215</pp>", 
+                    "author": "Hemelrijk, J.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:international-encyclopedia-of-statistics", 
+                    "year": "1978", 
+                    "howpublished": "pp.<pp>1211-1215</pp>", 
+                    "topline": "incollection van_dantzig__david:17", 
+                    "id": "van_dantzig__david:17"
+                }, 
+                {
+                    "title": "David van Dantzig", 
+                    "ref": "<t>David van Dantzig.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2000", 
+                    "howpublished": "???", 
+                    "topline": "incollection van_dantzig__david:19", 
+                    "id": "van_dantzig__david:19"
+                }, 
+                {
+                    "title": "Dantzig, David van", 
+                    "ref": "<t>Dantzig, David van.</t> <au>Freudenthal, H.</au>. <inc>booktitle:complete-dictionary-of-scientific-biography</inc>. Vol. <v>17</v>, pp.<pp>202-203</pp>", 
+                    "author": "Freudenthal, H.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:complete-dictionary-of-scientific-biography", 
+                    "year": "2008", 
+                    "howpublished": "Vol. <v>17</v>, pp.<pp>202-203</pp>", 
+                    "topline": "incollection van_dantzig__david:18", 
+                    "id": "van_dantzig__david:18"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Free Press", 
+            "title": "International Encyclopedia of Statistics", 
+            "url": "http://www.worldcat.org/title/international-encyclopedia-of-statistics/oclc/3966286", 
+            "booktitle": "International Encyclopedia of Statistics", 
+            "address": "New York", 
+            "editors": "W. H. Kruskal and J. M. Tanur", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:international-encyclopedia-of-statistics", 
+            "year": "1978", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>International Encyclopedia of Statistics.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:international-encyclopedia-of-statistics"
+        }, 
+        {
+            "publisher": "Scribner's", 
+            "title": "Complete Dictionary of Scientific Biography", 
+            "url": "http://www.worldcat.org/title/complete-dictionary-of-scientific-biography/oclc/187313311", 
+            "booktitle": "Complete Dictionary of Scientific Biography", 
+            "address": "Detroit", 
+            "editors": "F. L. Holmes", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:complete-dictionary-of-scientific-biography", 
+            "year": "2008", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Complete Dictionary of Scientific Biography.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:complete-dictionary-of-scientific-biography"
+        }
+    ]
+}

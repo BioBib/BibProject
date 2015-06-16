@@ -1,0 +1,112 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1949-08-15", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2004-11-18", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Wei, Ching-Zong", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Ching-Zong Wei, 1949-2004", 
+                    "ref": "<t>Ching-Zong Wei, 1949-2004.</t> <au>Cheng, C.-S. and Yao, Y.-C.</au>. <j>IMS Bulletin</j>, Vol. <v>34(4)</v>, pp.<pp>3</pp>", 
+                    "author": "Cheng, C.-S. and Yao, Y.-C.", 
+                    "bibtype": "article", 
+                    "year": "2005", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>34(4)</v>, pp.<pp>3</pp>", 
+                    "topline": "article wei__ching-zong:7", 
+                    "id": "wei__ching-zong:7"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "misc wei__ching-zong:452365", 
+                    "id": "wei__ching-zong:452365"
+                }
+            ], 
+            "ims_id": "wei__ching-zong", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.hnweishi.cn/wsmr/ShowArticle.asp?ArticleID=310", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=181300", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:wei.ching-zong", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=42622", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53416975", 
+                    "anchor": "Microsoft Academic: Wei, Ching Zong"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/251331", 
+                    "anchor": "Microsoft Academic: Wei, Ching-zong"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1989", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Columbia University", 
+                    "thesis_title": "Limit Theorems for Weighted Sums with Applications to Regression and Time Series Models", 
+                    "year": "1980", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=42622"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "misc wei__ching-zong:506354", 
+                    "id": "wei__ching-zong:506354"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

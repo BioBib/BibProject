@@ -1,0 +1,140 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1912-07-31", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2006-11-16", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Friedman, Milton", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Milton Friedman, 1912-2006", 
+                    "ref": "<t>Milton Friedman, 1912-2006.</t> <au>Stigler, S.</au>. <j>IMS Bulletin</j>, Vol. <v>36(2)</v>, pp.<pp>8</pp>", 
+                    "author": "Stigler, S.", 
+                    "bibtype": "article", 
+                    "year": "2007", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>36(2)</v>, pp.<pp>8</pp>", 
+                    "topline": "article friedman__milton:7", 
+                    "id": "friedman__milton:7"
+                }
+            ], 
+            "ims_id": "friedman__milton", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://en.wikipedia.org/wiki/Milton_Friedman", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=251599", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:friedman.milton", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/1202375", 
+                    "anchor": "Microsoft Academic: Milton Friedman"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1943", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "John Bates Clark Medal, American Economic Association", 
+                    "year": "1951", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Philosophical Society, Member", 
+                    "year": "1957", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1959", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Member", 
+                    "year": "1973", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Nobel Prize in Economic Sciences", 
+                    "year": "1976", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Medal of Science", 
+                    "year": "1988", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Presidential Medal of Freedom", 
+                    "year": "1988", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Friedman, Milton", 
+                    "ref": "<t>Friedman, Milton.</t> <au>Boianovsky, M.</au>. <inc>booktitle:international-encyclopedia-of-the-social-sciences</inc>. ???", 
+                    "author": "Boianovsky, M.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:international-encyclopedia-of-the-social-sciences", 
+                    "year": "2008", 
+                    "howpublished": "???", 
+                    "topline": "incollection friedman__milton:15", 
+                    "id": "friedman__milton:15"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Macmillan", 
+            "title": "International Encyclopedia of the Social Sciences", 
+            "url": "http://www.worldcat.org/title/international-encyclopedia-of-the-social-sciences/oclc/165466", 
+            "booktitle": "International Encyclopedia of the Social Sciences", 
+            "address": "Detroit", 
+            "editors": "W. A. Darity, Jr.", 
+            "bibtype": "reference", 
+            "edition": "2nd", 
+            "top_line": "reference booktitle:international-encyclopedia-of-the-social-sciences", 
+            "year": "1968", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>International Encyclopedia of the Social Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:international-encyclopedia-of-the-social-sciences"
+        }
+    ]
+}

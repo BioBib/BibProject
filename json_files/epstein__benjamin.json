@@ -1,0 +1,93 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1918-03-05", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2004-12-22", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Epstein, Benjamin", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Benjamin Epstein, 1918-2004", 
+                    "ref": "<t>Benjamin Epstein, 1918-2004.</t> <au>Adler, R. and Weissman, I.</au>. <j>IMS Bulletin</j>, Vol. <v>34(8)</v>, pp.<pp>13</pp>", 
+                    "author": "Adler, R. and Weissman, I.", 
+                    "bibtype": "article", 
+                    "year": "2005", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>34(8)</v>, pp.<pp>13</pp>", 
+                    "topline": "article epstein__benjamin:8", 
+                    "id": "epstein__benjamin:8"
+                }
+            ], 
+            "ims_id": "epstein__benjamin", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=215637", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:epstein.benjamin", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=4210", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18725102", 
+                    "anchor": "Microsoft Academic: Epstein, Benjamin"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1958", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>Notices Amer. Math. Soc.</j>, Vol. <v>57</v>, pp.<pp>66</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2010", 
+                    "howpublished": "<j>Notices Amer. Math. Soc.</j>, Vol. <v>57</v>, pp.<pp>66</pp>", 
+                    "topline": "article epstein__benjamin:7", 
+                    "id": "epstein__benjamin:7"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Illinois at Urbana-Champaign", 
+                    "thesis_title": "On a Certain Class of Transforms", 
+                    "year": "1941", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=4210"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

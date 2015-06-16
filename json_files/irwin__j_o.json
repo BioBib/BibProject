@@ -1,0 +1,153 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1898-12-17", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1982-07-27", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Irwin, Joseph Oscar", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Joseph Oscar Irwin, 1898-1982", 
+                    "ref": "<t>Joseph Oscar Irwin, 1898-1982.</t> <au>Armitage, P.</au>. <j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>145</v>, pp.<pp>526-528</pp>", 
+                    "author": "Armitage, P.", 
+                    "bibtype": "article", 
+                    "year": "1982", 
+                    "howpublished": "<j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>145</v>, pp.<pp>526-528</pp>", 
+                    "topline": "article irwin__j_o:9", 
+                    "id": "irwin__j_o:9"
+                }
+            ], 
+            "ims_id": "irwin__j_o", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://en.wikipedia.org/wiki/J.O._Irwin", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:irwin.j-o", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=84152", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18719573", 
+                    "anchor": "Microsoft Academic: Irwin, J. O."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "Guy Medal in Silver", 
+                    "year": "1953", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1963", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "irwin__joseph", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>11</v>, pp.<pp>276</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1982", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>11</v>, pp.<pp>276</pp>", 
+                    "topline": "article irwin__j_o:8", 
+                    "id": "irwin__j_o:8"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Cambridge", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=84152"
+                        }
+                    ], 
+                    "type": "D.Sc.", 
+                    "year": "1937"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Joseph Oscar Irwin", 
+                    "ref": "<t>Joseph Oscar Irwin.</t> <au>Armitage, P.</au>. <inc>booktitle:statisticians-of-the-centuries</inc>. pp.<pp>472-474</pp>", 
+                    "author": "Armitage, P.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:statisticians-of-the-centuries", 
+                    "year": "2001", 
+                    "howpublished": "pp.<pp>472-474</pp>", 
+                    "topline": "incollection irwin__j_o:10", 
+                    "id": "irwin__j_o:10"
+                }, 
+                {
+                    "title": "Irwin, Joseph Oscar", 
+                    "ref": "<t>Irwin, Joseph Oscar.</t> <au>Armitage, P.</au>. <inc>booktitle:encyclopedia-of-biostatistics</inc>. ???", 
+                    "author": "Armitage, P.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-biostatistics", 
+                    "year": "2005", 
+                    "howpublished": "???", 
+                    "topline": "incollection irwin__j_o:11", 
+                    "id": "irwin__j_o:11"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Springer", 
+            "title": "Statisticians of the Centuries", 
+            "url": "http://www.worldcat.org/title/statisticians-of-the-centuries/oclc/46791088", 
+            "booktitle": "Statisticians of the Centuries", 
+            "address": "New York", 
+            "editors": "C. C. Heyde and E. Seneta", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:statisticians-of-the-centuries", 
+            "year": "2001", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Statisticians of the Centuries.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:statisticians-of-the-centuries"
+        }, 
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Biostatistics", 
+            "url": "http://www.worldcat.org/title/encyclopedia-of-biostatistics/oclc/38258277", 
+            "booktitle": "Encyclopedia of Biostatistics", 
+            "address": "Hoboken, NJ", 
+            "editors": "P. Armitage and T. Colton", 
+            "bibtype": "reference", 
+            "edition": "2nd", 
+            "top_line": "reference booktitle:encyclopedia-of-biostatistics", 
+            "year": "2005", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Biostatistics.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-biostatistics"
+        }
+    ]
+}

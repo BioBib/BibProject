@@ -1,0 +1,88 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Utts, Jessica M.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "utts__jessica_m", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://anson.ucdavis.edu/~utts/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:utts.jessica-m", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=99452", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/23452149", 
+                    "anchor": "Microsoft Academic: Utts, Jessica M."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1991", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Harry C. Carver Medal", 
+                    "year": "2005", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "utts__jessica", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "The Pennsylvania State University", 
+                    "thesis_title": "A Robust Class of Tests and Estimates for Multivariate Location Based on Ranks", 
+                    "year": "1978", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=99452"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Jessica Utts: Carver Medal recipient 2005", 
+                    "ref": "<t>Jessica Utts: Carver Medal recipient 2005.</t> <au>Harkness, W.</au>. <j>IMS Bulletin</j>, Vol. <v>34(9)</v>, pp.<pp>4</pp>", 
+                    "author": "Harkness, W.", 
+                    "bibtype": "article", 
+                    "year": "2005", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>34(9)</v>, pp.<pp>4</pp>", 
+                    "topline": "article utts__jessica_m:6", 
+                    "id": "utts__jessica_m:6"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

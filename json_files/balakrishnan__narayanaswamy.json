@@ -1,0 +1,69 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Balakrishnan, Narayanaswamy", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "balakrishnan__narayanaswamy", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.math.mcmaster.ca/bala/left.html", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:balakrishnan.narayanaswamy", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12535907", 
+                    "anchor": "Microsoft Academic: Balakrishnan, Narayanaswamy"
+                }, 
+                {
+                    "href": "http://ms.mcmaster.ca/bala/main.html", 
+                    "anchor": "Homepage"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "2006", 
+                    "citation": "For research on order statistics and applications to life-testing and reliability; for scholarly publications on distributions; for leadership in encyclopedic publications; and for service to the profession by organizing numerous conferences", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "N. Balakrishnan", 
+                    "ref": "<t>N. Balakrishnan.</t> <j>Amstat News</j>, Vol. <v>Jun. 2008</v>, pp.<pp>33</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2008", 
+                    "howpublished": "<j>Amstat News</j>, Vol. <v>Jun. 2008</v>, pp.<pp>33</pp>", 
+                    "topline": "article balakrishnan__narayanaswamy:6", 
+                    "id": "balakrishnan__narayanaswamy:6"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

@@ -1,0 +1,166 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1936-09-09", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2013-04-23", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Shepp, Lawrence A.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Larry Shepp.", 
+                    "ref": "<t>Larry Shepp.</t> <j>News</j>", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2013", 
+                    "howpublished": "<j>News</j>", 
+                    "topline": "misc shepp__lawrence_a:321020", 
+                    "id": "shepp__lawrence_a:321020"
+                }, 
+                {
+                    "title": "Larry Shepp (Sept. 9, 1936- April 23, 2013) A very LOUD (yet NOT Obnoxious) Mathematical Giant", 
+                    "ref": "<t>Larry Shepp (Sept. 9, 1936- April 23, 2013) A very LOUD (yet NOT Obnoxious) Mathematical Giant.</t> <au>Doron Zeilberger</au>. <j>Dr. Z's Opinions,</j>", 
+                    "author": "Doron Zeilberger", 
+                    "bibtype": "misc", 
+                    "year": "2013", 
+                    "howpublished": "<j>Dr. Z's Opinions,</j>", 
+                    "topline": "misc shepp__lawrence_a:321021", 
+                    "id": "shepp__lawrence_a:321021"
+                }
+            ], 
+            "ims_id": "shepp__lawrence_a", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://stat.wharton.upenn.edu/~shepp/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "category": "homepage", 
+                    "href": "http://stat.wharton.upenn.edu/~shepp/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "category": "homepage", 
+                    "href": "http://www.stat.rutgers.edu/people/faculty/shepp.html", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "category": "homepage", 
+                    "href": "http://www.stat.rutgers.edu/people/faculty/shepp.html", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=160380", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:shepp.larry-a", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=29507", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53116983", 
+                    "anchor": "Microsoft Academic: Shepp, Larry A."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12763654", 
+                    "anchor": "Microsoft Academic: Shepp, Lawrence A."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53116989", 
+                    "anchor": "Microsoft Academic: Shepp, Lawrence A."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53116985", 
+                    "anchor": "Microsoft Academic: Shepp, Lawrence"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1971", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Medallion Lecturer", 
+                    "year": "1982", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Medallion Lecturer", 
+                    "year": "1988", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Member", 
+                    "year": "1989", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Institute of Medicine, Member", 
+                    "year": "1992", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1993", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "shepp__lawrence", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Larry Shepp, 1936-2013", 
+                    "ref": "<t>Larry Shepp, 1936-2013.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "IMS Bulletin, Vol. 42(4), p. 2", 
+                    "howpublished": "???", 
+                    "topline": "misc shepp__lawrence_a:661225", 
+                    "id": "shepp__lawrence_a:661225"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Princeton University", 
+                    "thesis_title": "Recurrent Sums of Random Variables", 
+                    "year": "1961", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=29507"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

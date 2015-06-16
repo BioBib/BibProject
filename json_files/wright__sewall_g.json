@@ -1,0 +1,262 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1889-12-21", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1988-03-03", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Wright, Sewall G.", 
+            "Oral_History": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1988", 
+                    "howpublished": "???", 
+                    "topline": "misc wright__sewall_g:22", 
+                    "id": "wright__sewall_g:22"
+                }
+            ], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "wright__sewall_g", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://psychology.wikia.com/wiki/Sewall_Wright", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "category": "homepage", 
+                    "href": "http://www.users.muohio.edu/wrightse/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://en.wikipedia.org/wiki/Sewall_Wright", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=247467", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:wright.sewall", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=91602", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53917748", 
+                    "anchor": "Microsoft Academic: Sewall Wright"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/42969323", 
+                    "anchor": "Microsoft Academic: Sewall Wright"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53917162", 
+                    "anchor": "Microsoft Academic: Sewall Wright"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53916994", 
+                    "anchor": "Microsoft Academic: Sewall Wright"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53917698", 
+                    "anchor": "Microsoft Academic: Sewall Wright"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/47783193", 
+                    "anchor": "Microsoft Academic: Sewall Wright"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52177801", 
+                    "anchor": "Microsoft Academic: Sewall Wright"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/49723951", 
+                    "anchor": "Microsoft Academic: Sewall Wright"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/51939920", 
+                    "anchor": "Microsoft Academic: Sewall Wright"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12591401", 
+                    "anchor": "Microsoft Academic: SEWALL WRIGHT"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "American Philosophical Society, Member", 
+                    "year": "1932", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Member", 
+                    "year": "1934", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1948", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "The Royal Society of Edinburgh, Honorary Fellow", 
+                    "year": "1951", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "The Royal Society of Edinburgh, Honorary Foreign Fellow", 
+                    "year": "1951", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "The Royal Society, Foreign Member", 
+                    "year": "1963", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Medal of Science", 
+                    "year": "1966", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "before 1943", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "wright__sewall", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Harvard University", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=91602"
+                        }
+                    ], 
+                    "type": "Ph.D.", 
+                    "year": "1915"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [
+                {
+                    "title": "Sewall Wright papers", 
+                    "ref": "<t>Sewall Wright papers.</t> In: <bt>Library, American Philosophical Society</bt>, Vol. <v>Mss.B.W665</v>", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "year?", 
+                    "howpublished": "In: <bt>Library, American Philosophical Society</bt>, Vol. <v>Mss.B.W665</v>", 
+                    "topline": "misc wright__sewall_g:21", 
+                    "id": "wright__sewall_g:21"
+                }
+            ], 
+            "Biography": [
+                {
+                    "title": "Sewall Wright and Evolutionary Biology", 
+                    "ref": "<t>Sewall Wright and Evolutionary Biology.</t> <au>Provine, W. B.</au>. Univ. Chicago Press", 
+                    "author": "Provine, W. B.", 
+                    "bibtype": "book", 
+                    "year": "1978", 
+                    "howpublished": "Univ. Chicago Press", 
+                    "topline": "book wright__sewall_g:14", 
+                    "id": "wright__sewall_g:14"
+                }, 
+                {
+                    "title": "Sewall Wright, 21 December 1889-3 March 1988", 
+                    "ref": "<t>Sewall Wright, 21 December 1889-3 March 1988.</t> <au>Hill, W. G.</au>. <j>Biogr. Mems. Fell. R. Soc.</j>, Vol. <v>36</v>, pp.<pp>569-579</pp>", 
+                    "author": "Hill, W. G.", 
+                    "bibtype": "article", 
+                    "year": "1990", 
+                    "howpublished": "<j>Biogr. Mems. Fell. R. Soc.</j>, Vol. <v>36</v>, pp.<pp>569-579</pp>", 
+                    "topline": "article wright__sewall_g:15", 
+                    "id": "wright__sewall_g:15"
+                }, 
+                {
+                    "title": "Sewall Wright, December 21, 1889-March 3, 1988", 
+                    "ref": "<t>Sewall Wright, December 21, 1889-March 3, 1988.</t> <au>Crow, J. F.</au>. <j>Biographical Memoirs</j>, National Academies Press, pp.<pp>438-469</pp>", 
+                    "author": "Crow, J. F.", 
+                    "bibtype": "article", 
+                    "year": "1994", 
+                    "howpublished": "<j>Biographical Memoirs</j>, National Academies Press, pp.<pp>438-469</pp>", 
+                    "topline": "article wright__sewall_g:16", 
+                    "id": "wright__sewall_g:16"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2002", 
+                    "howpublished": "???", 
+                    "topline": "misc wright__sewall_g:17", 
+                    "id": "wright__sewall_g:17"
+                }, 
+                {
+                    "title": "Sewall Green Wright", 
+                    "ref": "<t>Sewall Green Wright.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2005", 
+                    "howpublished": "???", 
+                    "topline": "incollection wright__sewall_g:19", 
+                    "id": "wright__sewall_g:19"
+                }, 
+                {
+                    "title": "Wright, Sewall", 
+                    "ref": "<t>Wright, Sewall.</t> <au>Skipper, R. A. Jr.</au>. <inc>booktitle:complete-dictionary-of-scientific-biography</inc>. Vol. <v>25</v>, pp.<pp>356-363</pp>", 
+                    "author": "Skipper, R. A. Jr.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:complete-dictionary-of-scientific-biography", 
+                    "year": "2008", 
+                    "howpublished": "Vol. <v>25</v>, pp.<pp>356-363</pp>", 
+                    "topline": "incollection wright__sewall_g:18", 
+                    "id": "wright__sewall_g:18"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Scribner's", 
+            "title": "Complete Dictionary of Scientific Biography", 
+            "url": "http://www.worldcat.org/title/complete-dictionary-of-scientific-biography/oclc/187313311", 
+            "booktitle": "Complete Dictionary of Scientific Biography", 
+            "address": "Detroit", 
+            "editors": "F. L. Holmes", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:complete-dictionary-of-scientific-biography", 
+            "year": "2008", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Complete Dictionary of Scientific Biography.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:complete-dictionary-of-scientific-biography"
+        }
+    ]
+}

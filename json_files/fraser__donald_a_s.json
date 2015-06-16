@@ -1,0 +1,101 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Fraser, Donald A. S.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "fraser__donald_a_s", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.aif.adfa.edu.au:8080/showPerson?pid=103573", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=68920", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:fraser.donald-a-s", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:fraser.donald", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=14737", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/55048906", 
+                    "anchor": "Microsoft Academic: Fraser, D. A. S."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12539565", 
+                    "anchor": "Microsoft Academic: Fraser, Donald A. S."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1954", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "The Royal Society of Canada, Fellow", 
+                    "year": "1967", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "R. A. Fisher Lecturer", 
+                    "year": "1990", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Officer of the Order of Canada", 
+                    "year": "2012", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "fraser__donald", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Princeton University", 
+                    "thesis_title": "Generalized Hit Probabilities with a Gaussian Target", 
+                    "year": "1949", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=14737"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

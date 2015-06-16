@@ -1,0 +1,115 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Titterington, Donald Michael", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "titterington__donald_m", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.stats.gla.ac.uk/~mike/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "category": "homepage", 
+                    "href": "http://www.stats.gla.ac.uk/~mike/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "category": "homepage", 
+                    "href": "http://www.stats.gla.ac.uk/~mike/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.stats.gla.ac.uk/~mike/", 
+                    "anchor": "Homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=172880", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:titterington.d-mike", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:titterington.michael-d", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:titterington.d-michael", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=70012", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/10498404", 
+                    "anchor": "Microsoft Academic: Titterington, D. Michael"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18009144", 
+                    "anchor": "Microsoft Academic: Titterington, Michael"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/11647242", 
+                    "anchor": "Microsoft Academic: Titterington, D. M."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/2520523", 
+                    "anchor": "Microsoft Academic: Titterington, Dm"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1986", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Guy Medal in Silver", 
+                    "year": "2006", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "titterington__donald", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Cambridge", 
+                    "thesis_title": "The Adaptive Optimisation of Yield", 
+                    "year": "1972", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=70012"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

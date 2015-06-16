@@ -1,0 +1,70 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1918-06-21", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1971-12-03", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Nicholson, George E., Jr.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "nicholson_jr__george_e", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=508495", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:nicholson.george", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:nicholson.george-e-jun", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/56235397", 
+                    "anchor": "Microsoft Academic: Nicholson, George"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1958", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "nicholson__george", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>1</v>, pp.<pp>7</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1972", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>1</v>, pp.<pp>7</pp>", 
+                    "topline": "article nicholson_jr__george_e:9", 
+                    "id": "nicholson_jr__george_e:9"
+                }
+            ], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

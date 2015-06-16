@@ -1,0 +1,246 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2001", 
+                    "howpublished": "???", 
+                    "topline": "misc lancaster__henry_o:841488", 
+                    "id": "lancaster__henry_o:841488"
+                }, 
+                {
+                    "title": "Professor Henry Oliver Lancaster, AO, FAA (1913-2001)", 
+                    "ref": "<t>Professor Henry Oliver Lancaster, AO, FAA (1913-2001).</t> Faculty of Science, The University of Sydney", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2001", 
+                    "howpublished": "Faculty of Science, The University of Sydney", 
+                    "topline": "misc lancaster__henry_o:10", 
+                    "id": "lancaster__henry_o:10"
+                }, 
+                {
+                    "title": "Henry Oliver Lancaster, AO, FAA 1913-2001", 
+                    "ref": "<t>Henry Oliver Lancaster, AO, FAA 1913-2001.</t> <au>Weber, N.</au>. <j>Austral. Math. Soc. Gaz.</j>, Vol. <v>29</v>, pp.<pp>36-37</pp>", 
+                    "author": "Weber, N.", 
+                    "bibtype": "article", 
+                    "year": "2002", 
+                    "howpublished": "<j>Austral. Math. Soc. Gaz.</j>, Vol. <v>29</v>, pp.<pp>36-37</pp>", 
+                    "topline": "article lancaster__henry_o:11", 
+                    "id": "lancaster__henry_o:11"
+                }, 
+                {
+                    "title": "Henry Oliver Lancaster, AO, FAA, DSc, MD, PhD, MB, BS, BA", 
+                    "ref": "<t>Henry Oliver Lancaster, AO, FAA, DSc, MD, PhD, MB, BS, BA.</t> <au>Seneta, E.</au>. <j>Medical J. Australia</j>, Vol. <v>176</v>, pp.<pp>439</pp>", 
+                    "author": "Seneta, E.", 
+                    "bibtype": "article", 
+                    "year": "2002", 
+                    "howpublished": "<j>Medical J. Australia</j>, Vol. <v>176</v>, pp.<pp>439</pp>", 
+                    "topline": "article lancaster__henry_o:12", 
+                    "id": "lancaster__henry_o:12"
+                }
+            ], 
+            "DOB": "1913-02-01", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2001-12-02", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Lancaster, Henry O.", 
+            "Oral_History": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1974", 
+                    "howpublished": "???", 
+                    "topline": "misc lancaster__henry_o:24", 
+                    "id": "lancaster__henry_o:24"
+                }
+            ], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Henry Oliver Lancaster, AO, 1913-2001", 
+                    "ref": "<t>Henry Oliver Lancaster, AO, 1913-2001.</t> <au>Eagleson, G.</au>. <j>IMS Bulletin</j>, Vol. <v>31(2)</v>, pp.<pp>16</pp>", 
+                    "author": "Eagleson, G.", 
+                    "bibtype": "article", 
+                    "year": "2002", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>31(2)</v>, pp.<pp>16</pp>", 
+                    "topline": "article lancaster__henry_o:13", 
+                    "id": "lancaster__henry_o:13"
+                }, 
+                {
+                    "title": "Professor Henry Oliver Lancaster, 1913-2001", 
+                    "ref": "<t>Professor Henry Oliver Lancaster, 1913-2001.</t> <au>Armitage, P.</au>. <j>The Statistician</j>, Vol. <v>51</v>, pp.<pp>566-568</pp>", 
+                    "author": "Armitage, P.", 
+                    "bibtype": "article", 
+                    "year": "2002", 
+                    "howpublished": "<j>The Statistician</j>, Vol. <v>51</v>, pp.<pp>566-568</pp>", 
+                    "topline": "article lancaster__henry_o:14", 
+                    "id": "lancaster__henry_o:14"
+                }, 
+                {
+                    "title": "In memoriam: Professor Henry Oliver Lancaster, AO FAA, 1 February 1913-2 December 2001", 
+                    "ref": "<t>In memoriam: Professor Henry Oliver Lancaster, AO FAA, 1 February 1913-2 December 2001.</t> <au>Seneta, E.</au>. <j>Aust. N. Z. J. Stat.</j>, Vol. <v>44</v>, pp.<pp>385-400</pp>", 
+                    "author": "Seneta, E.", 
+                    "bibtype": "article", 
+                    "year": "2002", 
+                    "howpublished": "<j>Aust. N. Z. J. Stat.</j>, Vol. <v>44</v>, pp.<pp>385-400</pp>", 
+                    "topline": "article lancaster__henry_o:15", 
+                    "id": "lancaster__henry_o:15"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2002", 
+                    "howpublished": "???", 
+                    "topline": "misc lancaster__henry_o:506918", 
+                    "id": "lancaster__henry_o:506918"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2008", 
+                    "howpublished": "???", 
+                    "topline": "misc lancaster__henry_o:191325", 
+                    "id": "lancaster__henry_o:191325"
+                }
+            ], 
+            "ims_id": "lancaster__henry_o", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://sydney.edu.au/science/about_us/fame_lancaster.shtml", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.york.ac.uk/depts/maths/histstat/people/lancaster.gif", 
+                    "anchor": "www.york.ac.uk"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=109735", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:lancaster.henry-oliver", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12882071", 
+                    "anchor": "Microsoft Academic: Lancaster, H. O."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54583369", 
+                    "anchor": "Microsoft Academic: Lancaster, H. O."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54583368", 
+                    "anchor": "Microsoft Academic: Lancaster, H. O."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "Australian Academy of Science, Fellow", 
+                    "year": "1961", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1966", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Officer of the Order of Australia", 
+                    "year": "1992", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "lancaster__henry", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [
+                {
+                    "title": "Henry Oliver Lancaster-Records, 1934-1947,", 
+                    "ref": "<t>Henry Oliver Lancaster-Records, 1934-1947,.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1947", 
+                    "howpublished": "???", 
+                    "topline": "misc lancaster__henry_o:23", 
+                    "id": "lancaster__henry_o:23"
+                }
+            ], 
+            "Biography": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1913-2001", 
+                    "howpublished": "???", 
+                    "topline": "misc lancaster__henry_o:22", 
+                    "id": "lancaster__henry_o:22"
+                }, 
+                {
+                    "title": "Henry Oliver Lancaster 1913-2001", 
+                    "ref": "<t>Henry Oliver Lancaster 1913-2001.</t> <au>Seneta, E. and Eagleson, G. K.</au>. <j>Historical Records of Australian Science</j>, Vol. <v>15</v>, pp.<pp>223-250</pp>", 
+                    "author": "Seneta, E. and Eagleson, G. K.", 
+                    "bibtype": "article", 
+                    "year": "2004", 
+                    "howpublished": "<j>Historical Records of Australian Science</j>, Vol. <v>15</v>, pp.<pp>223-250</pp>", 
+                    "topline": "article lancaster__henry_o:20", 
+                    "id": "lancaster__henry_o:20"
+                }, 
+                {
+                    "title": "Lancaster, Henry Oliver", 
+                    "ref": "<t>Lancaster, Henry Oliver.</t> <au>Armitage, P.</au>. <inc>booktitle:encyclopedia-of-biostatistics</inc>. ???", 
+                    "author": "Armitage, P.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-biostatistics", 
+                    "year": "2005", 
+                    "howpublished": "???", 
+                    "topline": "incollection lancaster__henry_o:21", 
+                    "id": "lancaster__henry_o:21"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Biostatistics", 
+            "url": "http://www.worldcat.org/title/encyclopedia-of-biostatistics/oclc/38258277", 
+            "booktitle": "Encyclopedia of Biostatistics", 
+            "address": "Hoboken, NJ", 
+            "editors": "P. Armitage and T. Colton", 
+            "bibtype": "reference", 
+            "edition": "2nd", 
+            "top_line": "reference booktitle:encyclopedia-of-biostatistics", 
+            "year": "2005", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Biostatistics.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-biostatistics"
+        }
+    ]
+}

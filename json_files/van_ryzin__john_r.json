@@ -1,0 +1,99 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1935", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1987-03-06", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Van Ryzin, John R.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "van_ryzin__john_r", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=176925", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:van-ryzin.john", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=13443", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/26633316", 
+                    "anchor": "Microsoft Academic: John Van Ryzin"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/25755027", 
+                    "anchor": "Microsoft Academic: JOHN VAN RYZIN"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53982195", 
+                    "anchor": "Microsoft Academic: John Van Ryzin"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12794420", 
+                    "anchor": "Microsoft Academic: John. Van Ryzin"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/49977576", 
+                    "anchor": "Microsoft Academic: John Van Ryzin"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1970", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "van_ryzin__john", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>16</v>, pp.<pp>158</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1987", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>16</v>, pp.<pp>158</pp>", 
+                    "topline": "article van_ryzin__john_r:8", 
+                    "id": "van_ryzin__john_r:8"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Michigan State University", 
+                    "thesis_title": "Asymptotic Solutions to Compound Decision Problems", 
+                    "year": "1964", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=13443"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

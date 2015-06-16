@@ -1,0 +1,82 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Krengel, Ulrich", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "krengel__ulrich", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://de.wikipedia.org/wiki/Ulrich_Krengel", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=106545", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:krengel.ulrich", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=21578", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12897670", 
+                    "anchor": "Microsoft Academic: Krengel, Ulrich"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52016150", 
+                    "anchor": "Microsoft Academic: Krengel, Ulrich"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52016149", 
+                    "anchor": "Microsoft Academic: Krengel, Ulrich"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1973", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "rer. nat. Georg-August-Universit&auml;t G&ouml;ttingen", 
+                    "thesis_title": "Ueber den Absolutbetrag stetiger linearer Operatoren und seine Anwendung auf ergodische Zerlegungen", 
+                    "year": "1963", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=21578"
+                        }
+                    ], 
+                    "type": "Dr."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

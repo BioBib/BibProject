@@ -1,0 +1,166 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Arrow, Kenneth J.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "arrow__kenneth_j", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=27420", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:arrow.kenneth-j", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=51175", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/10561452", 
+                    "anchor": "Microsoft Academic: Kenneth J Arrow"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/2922709", 
+                    "anchor": "Microsoft Academic: Kenneth J. Arrow"
+                }, 
+                {
+                    "href": "http://fsi.stanford.edu/people/kennethjarrow/", 
+                    "anchor": "Stanford"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1951", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "John Bates Clark Medal, American Economic Association", 
+                    "year": "1955", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1959", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Philosophical Society, Member", 
+                    "year": "1968", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Member", 
+                    "year": "1968", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Nobel Prize in Economic Sciences", 
+                    "year": "1972", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "British Academy, Corresponding Fellow", 
+                    "year": "1976", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "John von Neumann Lecturer", 
+                    "year": "1977", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "John von Neumann Theory Prize", 
+                    "year": "1986", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Medal of Science", 
+                    "year": "2004", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "The Royal Society, Foreign Member", 
+                    "year": "2006", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "arrow__kenneth", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Columbia University", 
+                    "thesis_title": "Social Choice and Individual Values", 
+                    "year": "1951", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=51175"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Arrow, Kenneth J. 1921-", 
+                    "ref": "<t>Arrow, Kenneth J. 1921-.</t> <au>Sent, E.-M.</au>. <inc>booktitle:international-encyclopedia-of-the-social-sciences</inc>. ???", 
+                    "author": "Sent, E.-M.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:international-encyclopedia-of-the-social-sciences", 
+                    "year": "2008", 
+                    "howpublished": "???", 
+                    "topline": "incollection arrow__kenneth_j:16", 
+                    "id": "arrow__kenneth_j:16"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Macmillan", 
+            "title": "International Encyclopedia of the Social Sciences", 
+            "url": "http://www.worldcat.org/title/international-encyclopedia-of-the-social-sciences/oclc/165466", 
+            "booktitle": "International Encyclopedia of the Social Sciences", 
+            "address": "Detroit", 
+            "editors": "W. A. Darity, Jr.", 
+            "bibtype": "reference", 
+            "edition": "2nd", 
+            "top_line": "reference booktitle:international-encyclopedia-of-the-social-sciences", 
+            "year": "1968", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>International Encyclopedia of the Social Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:international-encyclopedia-of-the-social-sciences"
+        }
+    ]
+}

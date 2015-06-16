@@ -1,0 +1,111 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1908-04-01", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2001-05-23", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Bergstr&ouml;m, Harald", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "bergstrom__harald", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://de.wikipedia.org/wiki/Harald_Bergstr/u00f6m", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=35330", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:bergstrom.harald", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=34962", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/47668462", 
+                    "anchor": "Microsoft Academic: Harald Bergstrom (Harald Bergstr\\\"{o"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/51288888", 
+                    "anchor": "Microsoft Academic: Harald Bergstrom (Harald Bergstr\\\"{o"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1965", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [
+                {
+                    "title": "Mathematics and Statistics: Essays in Honour of Harald Bergstr&ouml;m", 
+                    "ref": "<t>Mathematics and Statistics: Essays in Honour of Harald Bergstr&ouml;m.</t> Chalmers Institute of Technology", 
+                    "author": "Anonymous", 
+                    "bibtype": "book", 
+                    "year": "1973", 
+                    "howpublished": "Chalmers Institute of Technology", 
+                    "topline": "book bergstrom__harald:8", 
+                    "id": "bergstrom__harald:8"
+                }
+            ], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>Notices Amer. Math. Soc.</j>, Vol. <v>49</v>, pp.<pp>696</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2002", 
+                    "howpublished": "<j>Notices Amer. Math. Soc.</j>, Vol. <v>49</v>, pp.<pp>696</pp>", 
+                    "topline": "article bergstrom__harald:9", 
+                    "id": "bergstrom__harald:9"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=34962"
+                        }
+                    ], 
+                    "type": "Ph.D.", 
+                    "year": "1938"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "A conversation with Harald Bergstr&ouml;m", 
+                    "ref": "<t>A conversation with Harald Bergstr&ouml;m.</t> <au>R&aring;de, L.</au>. <j>Statist. Sci.</j>, Vol. <v>12</v>, pp.<pp>53-60</pp>", 
+                    "author": "R&aring;de, L.", 
+                    "bibtype": "article", 
+                    "year": "1997", 
+                    "howpublished": "<j>Statist. Sci.</j>, Vol. <v>12</v>, pp.<pp>53-60</pp>", 
+                    "topline": "article bergstrom__harald:10", 
+                    "id": "bergstrom__harald:10"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

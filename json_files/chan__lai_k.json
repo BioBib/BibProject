@@ -1,0 +1,83 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Chan, Lai K.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "chan__lai_k", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://online.cofa.unsw.edu.au/2007s2/gend0201/modules/staff/profile/?user=145", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=47185", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:chan.lai-kow", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=72577", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/24212497", 
+                    "anchor": "Microsoft Academic: Chan, Lai K."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54749352", 
+                    "anchor": "Microsoft Academic: Chan, Lai K."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/34211843", 
+                    "anchor": "Microsoft Academic: Chan, Lai K."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1985", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "chan__lai", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Western Ontario", 
+                    "thesis_title": "Linear Estimation of Location and Scale parameters of a Continuous Symmetric Unimodel Distribution by Order Statistics from Censored Samples", 
+                    "year": "1966", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=72577"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

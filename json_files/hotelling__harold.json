@@ -1,0 +1,556 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1973", 
+                    "howpublished": "???", 
+                    "topline": "misc hotelling__harold:835636", 
+                    "id": "hotelling__harold:835636"
+                }
+            ], 
+            "DOB": "1895-09-29", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1973-12-26", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Hotelling, Harold", 
+            "Oral_History": [], 
+            "Selected_Works": [
+                {
+                    "title": "The Collected Economics Articles of Harold Hotelling", 
+                    "ref": "<t>The Collected Economics Articles of Harold Hotelling.</t> <au>Hotelling, H.</au>. <ed>A. C. Darnell</ed>. A. C. Darnell, Springer", 
+                    "author": "Hotelling, H.", 
+                    "bibtype": "book", 
+                    "editor": "A. C. Darnell", 
+                    "year": "1990", 
+                    "howpublished": "A. C. Darnell, Springer", 
+                    "topline": "book hotelling__harold:42", 
+                    "id": "hotelling__harold:42"
+                }
+            ], 
+            "In_Memoriam": [
+                {
+                    "title": "Harold Hotelling 1895-1973", 
+                    "ref": "<t>Harold Hotelling 1895-1973.</t> <au>Levene, H.</au>. <j>Amer. Statist.</j>, Vol. <v>28</v>, pp.<pp>71-73</pp>", 
+                    "author": "Levene, H.", 
+                    "bibtype": "article", 
+                    "year": "1974", 
+                    "howpublished": "<j>Amer. Statist.</j>, Vol. <v>28</v>, pp.<pp>71-73</pp>", 
+                    "topline": "article hotelling__harold:15", 
+                    "id": "hotelling__harold:15"
+                }, 
+                {
+                    "title": "In memoriam: Harold Hotelling 1895-1973", 
+                    "ref": "<t>In memoriam: Harold Hotelling 1895-1973.</t> <j>Amer. Econom. Rev.</j>, Vol. <v>64</v>, pp.<pp>1102-1103</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1974", 
+                    "howpublished": "<j>Amer. Econom. Rev.</j>, Vol. <v>64</v>, pp.<pp>1102-1103</pp>", 
+                    "topline": "article hotelling__harold:16", 
+                    "id": "hotelling__harold:16"
+                }, 
+                {
+                    "title": "In memoriam: Harold Hotelling, 1895-1973", 
+                    "ref": "<t>In memoriam: Harold Hotelling, 1895-1973.</t> <au>Lissner, W.</au>. <j>Amer. J. of Economics and Sociology</j>, Vol. <v>33</v>, pp.<pp>125-126</pp>", 
+                    "author": "Lissner, W.", 
+                    "bibtype": "article", 
+                    "year": "1974", 
+                    "howpublished": "<j>Amer. J. of Economics and Sociology</j>, Vol. <v>33</v>, pp.<pp>125-126</pp>", 
+                    "topline": "article hotelling__harold:17", 
+                    "id": "hotelling__harold:17"
+                }, 
+                {
+                    "title": "Harold Hotelling, 1895-1973", 
+                    "ref": "<t>Harold Hotelling, 1895-1973.</t> <au>Hoeffding, W.</au>. <j>Internat. Statist. Rev.</j>, Vol. <v>44</v>, pp.<pp>385-386</pp>", 
+                    "author": "Hoeffding, W.", 
+                    "bibtype": "article", 
+                    "year": "1976", 
+                    "howpublished": "<j>Internat. Statist. Rev.</j>, Vol. <v>44</v>, pp.<pp>385-386</pp>", 
+                    "topline": "article hotelling__harold:18", 
+                    "id": "hotelling__harold:18"
+                }, 
+                {
+                    "title": "Harold Hotelling 1895-1973", 
+                    "ref": "<t>Harold Hotelling 1895-1973.</t> <au>Smith, W. L.</au>. <j>Ann. Statist.</j>, Vol. <v>6</v>, pp.<pp>1172-1183</pp>", 
+                    "author": "Smith, W. L.", 
+                    "bibtype": "article", 
+                    "year": "1978", 
+                    "howpublished": "<j>Ann. Statist.</j>, Vol. <v>6</v>, pp.<pp>1172-1183</pp>", 
+                    "topline": "article hotelling__harold:19", 
+                    "id": "hotelling__harold:19"
+                }
+            ], 
+            "ims_id": "hotelling__harold", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://uk.ask.com/wiki/Harold_Hotelling", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "category": "homepage", 
+                    "href": "http://uk.ask.com/wiki/Harold_Hotelling", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://en.wikipedia.org/wiki/Harold_Hotelling", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.york.ac.uk/depts/maths/histstat/people/hotelling.gif", 
+                    "anchor": "www.york.ac.uk"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=255681", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:hotelling.harold", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=35422", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54390790", 
+                    "anchor": "Microsoft Academic: Hotelling, Harold"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/23388946", 
+                    "anchor": "Microsoft Academic: Hotelling, Harold"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1935", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS President", 
+                    "year": "1941", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Rietz Lecturer", 
+                    "year": "1951", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Member", 
+                    "year": "1970", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Accademia Nazionale dei Lincei, Member", 
+                    "year": "1973", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [
+                {
+                    "title": "Preface to Three papers in honor of Harold Hotelling", 
+                    "ref": "<t>Preface to Three papers in honor of Harold Hotelling.</t> <au>Rubin, E.</au>. <j>Amer. Statist.</j>, Vol. <v>14(3)</v>, pp.<pp>15</pp>", 
+                    "author": "Rubin, E.", 
+                    "bibtype": "article", 
+                    "year": "1960", 
+                    "howpublished": "<j>Amer. Statist.</j>, Vol. <v>14(3)</v>, pp.<pp>15</pp>", 
+                    "topline": "article hotelling__harold:7", 
+                    "id": "hotelling__harold:7"
+                }, 
+                {
+                    "title": "Harold Hotelling as a teacher", 
+                    "ref": "<t>Harold Hotelling as a teacher.</t> <au>Madow, W. G.</au>. <j>Amer. Statist.</j>, Vol. <v>14(3)</v>, pp.<pp>15-17</pp>", 
+                    "author": "Madow, W. G.", 
+                    "bibtype": "article", 
+                    "year": "1960", 
+                    "howpublished": "<j>Amer. Statist.</j>, Vol. <v>14(3)</v>, pp.<pp>15-17</pp>", 
+                    "topline": "article hotelling__harold:8", 
+                    "id": "hotelling__harold:8"
+                }, 
+                {
+                    "title": "Harold Hotelling's research in statistics", 
+                    "ref": "<t>Harold Hotelling's research in statistics.</t> <au>Anderson, T. W.</au>. <j>Amer. Statist.</j>, Vol. <v>14(3)</v>, pp.<pp>17-21</pp>", 
+                    "author": "Anderson, T. W.", 
+                    "bibtype": "article", 
+                    "year": "1960", 
+                    "howpublished": "<j>Amer. Statist.</j>, Vol. <v>14(3)</v>, pp.<pp>17-21</pp>", 
+                    "topline": "article hotelling__harold:9", 
+                    "id": "hotelling__harold:9"
+                }, 
+                {
+                    "title": "Harold Hotelling as mathematical economist", 
+                    "ref": "<t>Harold Hotelling as mathematical economist.</t> <au>Samuelson, P. A.</au>. <j>Amer. Statist.</j>, Vol. <v>14(3)</v>, pp.<pp>21-25</pp>", 
+                    "author": "Samuelson, P. A.", 
+                    "bibtype": "article", 
+                    "year": "1960", 
+                    "howpublished": "<j>Amer. Statist.</j>, Vol. <v>14(3)</v>, pp.<pp>21-25</pp>", 
+                    "topline": "article hotelling__harold:10", 
+                    "id": "hotelling__harold:10"
+                }, 
+                {
+                    "title": "Contributions to Probability and Statistics: Essays in Honor of Harold Hotelling", 
+                    "ref": "<t>Contributions to Probability and Statistics: Essays in Honor of Harold Hotelling.</t> Stanford Univ. Press", 
+                    "author": "Anonymous", 
+                    "bibtype": "book", 
+                    "year": "1960", 
+                    "howpublished": "Stanford Univ. Press", 
+                    "topline": "book hotelling__harold:11", 
+                    "id": "hotelling__harold:11"
+                }, 
+                {
+                    "title": "Essays in Economics and Econometrics: A Volume in Honor of Harold Hotelling", 
+                    "ref": "<t>Essays in Economics and Econometrics: A Volume in Honor of Harold Hotelling.</t> Univ. of North Carolina Press", 
+                    "author": "Anonymous", 
+                    "bibtype": "book", 
+                    "year": "1960", 
+                    "howpublished": "Univ. of North Carolina Press", 
+                    "topline": "book hotelling__harold:12", 
+                    "id": "hotelling__harold:12"
+                }
+            ], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>3</v>, pp.<pp>47</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1974", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>3</v>, pp.<pp>47</pp>", 
+                    "topline": "article hotelling__harold:13", 
+                    "id": "hotelling__harold:13"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Princeton University", 
+                    "thesis_title": "Three-Dimensional Manifolds of States of Motion", 
+                    "year": "1924", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=35422"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1975", 
+                    "howpublished": "???", 
+                    "topline": "misc hotelling__harold:43", 
+                    "id": "hotelling__harold:43"
+                }
+            ], 
+            "Biography": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1934", 
+                    "howpublished": "???", 
+                    "topline": "misc hotelling__harold:279281", 
+                    "id": "hotelling__harold:279281"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1934", 
+                    "howpublished": "???", 
+                    "topline": "misc hotelling__harold:259230", 
+                    "id": "hotelling__harold:259230"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1937", 
+                    "howpublished": "???", 
+                    "topline": "misc hotelling__harold:846958", 
+                    "id": "hotelling__harold:846958"
+                }, 
+                {
+                    "title": "Contributions to Probability and Statistics: Essays in Honor of Harold Hotelling", 
+                    "ref": "<t>Contributions to Probability and Statistics: Essays in Honor of Harold Hotelling.</t> <au>Madow, W. G.</au>. <ed>I. Olkin and S. G. Ghurye and W. Hoeffding and W. G. Madow and H. B. Mann</ed>. I. Olkin and S. G. Ghurye and W. Hoeffding and W. G. Madow and H. B. Mann, Stanford Univ. Press, pp.<pp>3-5</pp>", 
+                    "author": "Madow, W. G.", 
+                    "bibtype": "book", 
+                    "editor": "I. Olkin and S. G. Ghurye and W. Hoeffding and W. G. Madow and H. B. Mann", 
+                    "year": "1960", 
+                    "howpublished": "I. Olkin and S. G. Ghurye and W. Hoeffding and W. G. Madow and H. B. Mann, Stanford Univ. Press, pp.<pp>3-5</pp>", 
+                    "topline": "book hotelling__harold:24", 
+                    "id": "hotelling__harold:24"
+                }, 
+                {
+                    "title": "Contributions to Probability and Statistics: Essays in Honor of Harold Hotelling", 
+                    "ref": "<t>Contributions to Probability and Statistics: Essays in Honor of Harold Hotelling.</t> <au>Neyman, J.</au>. <ed>I. Olkin and S. G. Ghurye and W. Hoeffding and W. G. Madow and H. B. Mann</ed>. I. Olkin and S. G. Ghurye and W. Hoeffding and W. G. Madow and H. B. Mann, Stanford Univ. Press, pp.<pp>6-10</pp>", 
+                    "author": "Neyman, J.", 
+                    "bibtype": "book", 
+                    "editor": "I. Olkin and S. G. Ghurye and W. Hoeffding and W. G. Madow and H. B. Mann", 
+                    "year": "1960", 
+                    "howpublished": "I. Olkin and S. G. Ghurye and W. Hoeffding and W. G. Madow and H. B. Mann, Stanford Univ. Press, pp.<pp>6-10</pp>", 
+                    "topline": "book hotelling__harold:25", 
+                    "id": "hotelling__harold:25"
+                }, 
+                {
+                    "title": "Harold Hotelling, 1895-1973", 
+                    "ref": "<t>Harold Hotelling, 1895-1973.</t> <au>Kruse, M.</au>. In: <bt>Statisticians in History</bt>, American Statistical Association", 
+                    "author": "Kruse, M.", 
+                    "bibtype": "incollection", 
+                    "year": "1973", 
+                    "howpublished": "In: <bt>Statisticians in History</bt>, American Statistical Association", 
+                    "topline": "incollection hotelling__harold:36", 
+                    "id": "hotelling__harold:36"
+                }, 
+                {
+                    "title": "Hotelling, Harold", 
+                    "ref": "<t>Hotelling, Harold.</t> <au>Hoeffding, W.</au>. <inc>booktitle:international-encyclopedia-of-statistics</inc>. pp.<pp>439-441</pp>", 
+                    "author": "Hoeffding, W.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:international-encyclopedia-of-statistics", 
+                    "year": "1978", 
+                    "howpublished": "pp.<pp>439-441</pp>", 
+                    "topline": "incollection hotelling__harold:26", 
+                    "id": "hotelling__harold:26"
+                }, 
+                {
+                    "title": "Harold Hotelling 1895-1973", 
+                    "ref": "<t>Harold Hotelling 1895-1973.</t> <au>Darnell, A. C.</au>. <j>Statist. Sci.</j>, Vol. <v>3</v>, pp.<pp>57-62</pp>", 
+                    "author": "Darnell, A. C.", 
+                    "bibtype": "article", 
+                    "year": "1988", 
+                    "howpublished": "<j>Statist. Sci.</j>, Vol. <v>3</v>, pp.<pp>57-62</pp>", 
+                    "topline": "article hotelling__harold:27", 
+                    "id": "hotelling__harold:27"
+                }, 
+                {
+                    "title": "The Collected Economics Articles of Harold Hotelling", 
+                    "ref": "<t>The Collected Economics Articles of Harold Hotelling.</t> <au>Darnell, A. C.</au>. <ed>A. C. Darnell</ed>. A. C. Darnell, Springer, pp.<pp>1-28</pp>", 
+                    "author": "Darnell, A. C.", 
+                    "bibtype": "book", 
+                    "editor": "A. C. Darnell", 
+                    "year": "1990", 
+                    "howpublished": "A. C. Darnell, Springer, pp.<pp>1-28</pp>", 
+                    "topline": "book hotelling__harold:28", 
+                    "id": "hotelling__harold:28"
+                }, 
+                {
+                    "title": "Harold Hotelling", 
+                    "ref": "<t>Harold Hotelling.</t> <au>Olkin, I. and Sampson, A. R.</au>. <inc>booktitle:statisticians-of-the-centuries</inc>. pp.<pp>454-459</pp>", 
+                    "author": "Olkin, I. and Sampson, A. R.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:statisticians-of-the-centuries", 
+                    "year": "2001", 
+                    "howpublished": "pp.<pp>454-459</pp>", 
+                    "topline": "incollection hotelling__harold:30", 
+                    "id": "hotelling__harold:30"
+                }, 
+                {
+                    "title": "Hotelling, Harold (1895-1973).", 
+                    "ref": "<t>Hotelling, Harold (1895-1973).</t> <au>Olkin, I. and Sampson, A. R.</au>. <inc>booktitle:international-encyclopedia-of-the-social-behavioral-sciences</inc>. pp.<pp>6921-6925</pp>", 
+                    "author": "Olkin, I. and Sampson, A. R.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:international-encyclopedia-of-the-social-behavioral-sciences", 
+                    "year": "2001", 
+                    "howpublished": "pp.<pp>6921-6925</pp>", 
+                    "topline": "incollection hotelling__harold:31", 
+                    "id": "hotelling__harold:31"
+                }, 
+                {
+                    "title": "Harold Hotelling, September 29, 1895-December 26, 1973", 
+                    "ref": "<t>Harold Hotelling, September 29, 1895-December 26, 1973.</t> <au>Arrow, K. J. and Lehmann, E. L.</au>. <j>Biographical Memoirs</j>, National Academies Press, Vol. <v>87</v>, pp.<pp>2-15</pp>", 
+                    "author": "Arrow, K. J. and Lehmann, E. L.", 
+                    "bibtype": "article", 
+                    "year": "2005", 
+                    "howpublished": "<j>Biographical Memoirs</j>, National Academies Press, Vol. <v>87</v>, pp.<pp>2-15</pp>", 
+                    "topline": "article hotelling__harold:32", 
+                    "id": "hotelling__harold:32"
+                }, 
+                {
+                    "title": "Hotelling, Harold", 
+                    "ref": "<t>Hotelling, Harold.</t> <au>Gehan, E. A.</au>. <inc>booktitle:encyclopedia-of-biostatistics</inc>. ???", 
+                    "author": "Gehan, E. A.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-biostatistics", 
+                    "year": "2005", 
+                    "howpublished": "???", 
+                    "topline": "incollection hotelling__harold:33", 
+                    "id": "hotelling__harold:33"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <inc>booktitle:encyclopedia-of-statistical-sciences</inc>. ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-statistical-sciences", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "incollection hotelling__harold:29", 
+                    "id": "hotelling__harold:29"
+                }, 
+                {
+                    "title": "Harold Hotelling", 
+                    "ref": "<t>Harold Hotelling.</t> <au>Brown, J. H.</au>. <inc>booktitle:pioneers-of-industrial-organization-how-the-economics-of-competition-and-monopoly-took-shape</inc>. pp.<pp>206-208</pp>", 
+                    "author": "Brown, J. H.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:pioneers-of-industrial-organization-how-the-economics-of-competition-and-monopoly-took-shape", 
+                    "year": "2007", 
+                    "howpublished": "pp.<pp>206-208</pp>", 
+                    "topline": "incollection hotelling__harold:34", 
+                    "id": "hotelling__harold:34"
+                }, 
+                {
+                    "title": "Hotelling, Harold (1895-1973).", 
+                    "ref": "<t>Hotelling, Harold (1895-1973).</t> <au>Arrow, K. J.</au>. <inc>booktitle:new-palgrave-dictionary-of-economics</inc>. ???", 
+                    "author": "Arrow, K. J.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:new-palgrave-dictionary-of-economics", 
+                    "year": "2008", 
+                    "howpublished": "???", 
+                    "topline": "incollection hotelling__harold:35", 
+                    "id": "hotelling__harold:35"
+                }, 
+                {
+                    "title": "Harold Hotelling", 
+                    "ref": "<t>Harold Hotelling.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "incollection hotelling__harold:37", 
+                    "id": "hotelling__harold:37"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Free Press", 
+            "title": "International Encyclopedia of Statistics", 
+            "url": "http://www.worldcat.org/title/international-encyclopedia-of-statistics/oclc/3966286", 
+            "booktitle": "International Encyclopedia of Statistics", 
+            "address": "New York", 
+            "editors": "W. H. Kruskal and J. M. Tanur", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:international-encyclopedia-of-statistics", 
+            "year": "1978", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>International Encyclopedia of Statistics.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:international-encyclopedia-of-statistics"
+        }, 
+        {
+            "publisher": "Springer", 
+            "title": "Statisticians of the Centuries", 
+            "url": "http://www.worldcat.org/title/statisticians-of-the-centuries/oclc/46791088", 
+            "booktitle": "Statisticians of the Centuries", 
+            "address": "New York", 
+            "editors": "C. C. Heyde and E. Seneta", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:statisticians-of-the-centuries", 
+            "year": "2001", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Statisticians of the Centuries.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:statisticians-of-the-centuries"
+        }, 
+        {
+            "publisher": "North-Holland", 
+            "title": "International Encyclopedia of the Social and Behavioral Sciences", 
+            "url": "http://www.worldcat.org/title/international-encyclopedia-of-the-social-behavioral-sciences/oclc/47869490", 
+            "booktitle": "International Encyclopedia of the Social and Behavioral Sciences", 
+            "address": "Amsterdam", 
+            "editors": "N. J. Smelser and P. B. Baltes", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:international-encyclopedia-of-the-social-behavioral-sciences", 
+            "year": "2001", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>International Encyclopedia of the Social and Behavioral Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:international-encyclopedia-of-the-social-behavioral-sciences"
+        }, 
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Biostatistics", 
+            "url": "http://www.worldcat.org/title/encyclopedia-of-biostatistics/oclc/38258277", 
+            "booktitle": "Encyclopedia of Biostatistics", 
+            "address": "Hoboken, NJ", 
+            "editors": "P. Armitage and T. Colton", 
+            "bibtype": "reference", 
+            "edition": "2nd", 
+            "top_line": "reference booktitle:encyclopedia-of-biostatistics", 
+            "year": "2005", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Biostatistics.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-biostatistics"
+        }, 
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Statistical Sciences", 
+            "url": "http://onlinelibrary.wiley.com/book/10.1002/0471667196", 
+            "booktitle": "Encyclopedia of Statistical Sciences", 
+            "address": "Hoboken, NJ", 
+            "editors": "S. Kotz and N. Balakrishnan and C. Read and B. Vidakovic", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:encyclopedia-of-statistical-sciences", 
+            "year": "2006", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }, 
+        {
+            "publisher": "Elgar", 
+            "title": "Pioneers of Industrial Organization: How the Economics of Competition and Monopoly Took Shape", 
+            "url": "http://www.worldcat.org/title/pioneers-of-industrial-organization-how-the-economics-of-competition-and-monopoly-took-shape/oclc/180222904", 
+            "booktitle": "Pioneers of Industrial Organization: How the Economics of Competition and Monopoly Took Shape", 
+            "address": "Cheltenham, UK", 
+            "editors": "H. W. de Jong and W. G. Shepherd", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:pioneers-of-industrial-organization-how-the-economics-of-competition-and-monopoly-took-shape", 
+            "year": "2007", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Pioneers of Industrial Organization: How the Economics of Competition and Monopoly Took Shape.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:pioneers-of-industrial-organization-how-the-economics-of-competition-and-monopoly-took-shape"
+        }, 
+        {
+            "publisher": "Palgrave Macmillan", 
+            "title": "The New Palgrave Dictionary of Economics", 
+            "url": "http://www.worldcat.org/title/new-palgrave-dictionary-of-economics/oclc/181424188", 
+            "booktitle": "The New Palgrave Dictionary of Economics", 
+            "address": "New York", 
+            "editors": "S. N. Durlauf and L. E. Blume", 
+            "bibtype": "reference", 
+            "edition": "2nd", 
+            "top_line": "reference booktitle:new-palgrave-dictionary-of-economics", 
+            "year": "2008", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>The New Palgrave Dictionary of Economics.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:new-palgrave-dictionary-of-economics"
+        }
+    ]
+}

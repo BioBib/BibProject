@@ -1,0 +1,103 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1903-10-31", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1996-12-13", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Baker, George A.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "baker__george_a", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=29580", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:baker.george-a-jun", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:baker.george-jun", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=4167", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/47196787", 
+                    "anchor": "Microsoft Academic: Baker, G. A. Jr."
+                }
+            ], 
+            "Position": [
+                {
+                    "category": "position", 
+                    "text": "University of California,  Davis", 
+                    "year": "19??-1996"
+                }
+            ], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "before 1943", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "baker__george", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1997", 
+                    "howpublished": "???", 
+                    "topline": "misc baker__george_a:8", 
+                    "id": "baker__george_a:8"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>Notices Amer. Math. Soc.</j>, Vol. <v>54</v>, pp.<pp>1523</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2007", 
+                    "howpublished": "<j>Notices Amer. Math. Soc.</j>, Vol. <v>54</v>, pp.<pp>1523</pp>", 
+                    "topline": "article baker__george_a:9", 
+                    "id": "baker__george_a:9"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Illinois at Urbana-Champaign", 
+                    "thesis_title": "Random Sampling from Non-Homogeneous Populations", 
+                    "year": "1929", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=4167"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

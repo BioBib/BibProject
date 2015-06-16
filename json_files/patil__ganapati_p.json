@@ -1,0 +1,87 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Patil, Ganapati P.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "patil__ganapati_p", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.stat.psu.edu/oldpage2/people/faculty/patil.html", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=136825", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:patil.ganapati-p", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=5070", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12825397", 
+                    "anchor": "Microsoft Academic: Patil, Ganapati P."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54016110", 
+                    "anchor": "Microsoft Academic: Patil, G. P."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52687065", 
+                    "anchor": "Microsoft Academic: Patil, G. P."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52687067", 
+                    "anchor": "Microsoft Academic: Patil, G. P."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1972", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "patil__ganapati", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Michigan", 
+                    "thesis_title": "Contributions to Estimation in a Class of Discrete Distributions", 
+                    "year": "1959", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=5070"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

@@ -1,0 +1,107 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Bhattacharya, Rabindra N.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "bhattacharya__r_n", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://math.arizona.edu/~rabi/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=36460", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:bhattacharya.rabi-n", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=9687", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12754338", 
+                    "anchor": "Microsoft Academic: Bhattacharya, Rabi N."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52576615", 
+                    "anchor": "Microsoft Academic: Bhattacharya, R. N."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1979", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Medallion Lecturer", 
+                    "year": "1996", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "bhattacharya__r", 
+            "Festschrift": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2003", 
+                    "howpublished": "???", 
+                    "topline": "misc bhattacharya__r_n:170682", 
+                    "id": "bhattacharya__r_n:170682"
+                }
+            ], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "The University of Chicago", 
+                    "thesis_title": "Berry-Esseen Bounds for the Multi-Dimensional Central Limit Theorem", 
+                    "year": "1967", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=9687"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2003", 
+                    "howpublished": "???", 
+                    "topline": "misc bhattacharya__r_n:88712", 
+                    "id": "bhattacharya__r_n:88712"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

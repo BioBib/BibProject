@@ -1,0 +1,83 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Eubank, Randall L.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "eubank__randall_l", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "https://webapp4.asu.edu/directory/person/842642", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=64405", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:eubank.randall-l", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=48327", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/10724397", 
+                    "anchor": "Microsoft Academic: Eubank, Randy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/10909702", 
+                    "anchor": "Microsoft Academic: Eubank, R. L."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54143138", 
+                    "anchor": "Microsoft Academic: Eubank, Randall L."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1990", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "eubank__randall", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Texas A&amp;M University", 
+                    "thesis_title": "A Density-Quantile Function Approach to Choosing Order Statistics for the Estimation of Location and Scale Parameters", 
+                    "year": "1979", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=48327"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

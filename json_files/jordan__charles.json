@@ -1,0 +1,149 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1871-12-16", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1959-12-24", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Jordan, Charles", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Charles Jordan", 
+                    "ref": "<t>Charles Jordan.</t> <au>Kendall, D. G.</au>. <j>J. London Math. Soc.</j>, Vol. <v>35</v>, pp.<pp>380-383</pp>", 
+                    "author": "Kendall, D. G.", 
+                    "bibtype": "article", 
+                    "year": "1960", 
+                    "howpublished": "<j>J. London Math. Soc.</j>, Vol. <v>35</v>, pp.<pp>380-383</pp>", 
+                    "topline": "article jordan__charles:7", 
+                    "id": "jordan__charles:7"
+                }, 
+                {
+                    "title": "Charles Jordan, 1871-1959", 
+                    "ref": "<t>Charles Jordan, 1871-1959.</t> <j>Acta Math. Hungar.</j>, Vol. <v>11</v>, pp.<pp>1-2</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1960", 
+                    "howpublished": "<j>Acta Math. Hungar.</j>, Vol. <v>11</v>, pp.<pp>1-2</pp>", 
+                    "topline": "article jordan__charles:8", 
+                    "id": "jordan__charles:8"
+                }, 
+                {
+                    "title": "Charles Jordan, 1871-1959", 
+                    "ref": "<t>Charles Jordan, 1871-1959.</t> <au>Tak&aacute;cs, L.</au>. <j>Ann. Math. Statist.</j>, Vol. <v>32</v>, pp.<pp>1-11</pp>", 
+                    "author": "Tak&aacute;cs, L.", 
+                    "bibtype": "article", 
+                    "year": "1961", 
+                    "howpublished": "<j>Ann. Math. Statist.</j>, Vol. <v>32</v>, pp.<pp>1-11</pp>", 
+                    "topline": "article jordan__charles:6", 
+                    "id": "jordan__charles:6"
+                }
+            ], 
+            "ims_id": "jordan__charles", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://hu.wikipedia.org/wiki/Jord\\u00e1n_K\\u00e1roly", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.york.ac.uk/depts/maths/histstat/people/jordan.gif", 
+                    "anchor": "www.york.ac.uk"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=469818", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:jordan.charles", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/8741101", 
+                    "anchor": "Microsoft Academic: Jordan, Charles"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/35144424", 
+                    "anchor": "Microsoft Academic: Jordan, Charles"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "19??", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "K&aacute;roly Jordan", 
+                    "ref": "<t>K&aacute;roly Jordan.</t> <au>Galambos, J.</au>. <inc>booktitle:statisticians-of-the-centuries</inc>. pp.<pp>295-298</pp>", 
+                    "author": "Galambos, J.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:statisticians-of-the-centuries", 
+                    "year": "2001", 
+                    "howpublished": "pp.<pp>295-298</pp>", 
+                    "topline": "incollection jordan__charles:10", 
+                    "id": "jordan__charles:10"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <inc>booktitle:encyclopedia-of-statistical-sciences</inc>. ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-statistical-sciences", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "incollection jordan__charles:9", 
+                    "id": "jordan__charles:9"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Springer", 
+            "title": "Statisticians of the Centuries", 
+            "url": "http://www.worldcat.org/title/statisticians-of-the-centuries/oclc/46791088", 
+            "booktitle": "Statisticians of the Centuries", 
+            "address": "New York", 
+            "editors": "C. C. Heyde and E. Seneta", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:statisticians-of-the-centuries", 
+            "year": "2001", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Statisticians of the Centuries.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:statisticians-of-the-centuries"
+        }, 
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Statistical Sciences", 
+            "url": "http://onlinelibrary.wiley.com/book/10.1002/0471667196", 
+            "booktitle": "Encyclopedia of Statistical Sciences", 
+            "address": "Hoboken, NJ", 
+            "editors": "S. Kotz and N. Balakrishnan and C. Read and B. Vidakovic", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:encyclopedia-of-statistical-sciences", 
+            "year": "2006", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Lee, Mei-Ling Ting", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "lee__mei-ling_ting", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://sph.umd.edu/epib/faculty/mltlee/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "category": "homepage", 
+                    "href": "http://brac.umd.edu/~meiling/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=217679", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:lee.mei-ling-ting", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=6815", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52552125", 
+                    "anchor": "Microsoft Academic: Lee, Mei-Ling Ting"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52552614", 
+                    "anchor": "Microsoft Academic: Lee, Mei Ling T."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12973993", 
+                    "anchor": "Microsoft Academic: Lee, Mei-Ling Ting"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "2005", 
+                    "citation": "For significant theoretical contributions to distribution theory; development of innovative statistical models and methodology for survival data analysis; valuable contributions to biostatistics and the analysis of medical data in areas of application ranging from microbiology to occupational health; pathbreaking work on statistical models and methods for microarray data analysis; for vision and leadership in founding the journal Lifetime Data Analysis", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "lee__mei-ling", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=6815"
+                        }
+                    ], 
+                    "type": "Ph.D.", 
+                    "year": "year?"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

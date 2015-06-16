@@ -1,0 +1,229 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [
+                {
+                    "category": "service", 
+                    "text": "Member of the Council of the Institute of Mathematical Statistics, Member of the Council of the Institute of Mathematical Statistics", 
+                    "link_ls": "", 
+                    "year": "1969-71"
+                }, 
+                {
+                    "category": "service", 
+                    "text": "Member-at-large, National Research Council in the Division of Mathematical Sciences", 
+                    "link_ls": "", 
+                    "year": "1973-76"
+                }, 
+                {
+                    "category": "service", 
+                    "text": "Member of the Executive Committee, National Research Council in the Division of Mathematical Sciences", 
+                    "link_ls": "", 
+                    "year": "1973-75"
+                }
+            ], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2011", 
+                    "howpublished": "???", 
+                    "topline": "misc billingsley__patrick:372828", 
+                    "id": "billingsley__patrick:372828"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2011", 
+                    "howpublished": "???", 
+                    "topline": "misc billingsley__patrick:705325", 
+                    "id": "billingsley__patrick:705325"
+                }
+            ], 
+            "DOB": "1925-05-03", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2011-04-22", 
+            "Member": [], 
+            "birth_place": "Sioux Falls, South Dakota", 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Billingsley, Patrick P.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Patrick Billingsley, 1925-2011", 
+                    "ref": "<t>Patrick Billingsley, 1925-2011.</t> <au>Lalley, S.</au>. <j>IMS Bulletin</j>, Vol. <v>40(6)</v>, pp.<pp>9,11</pp>", 
+                    "author": "Lalley, S.", 
+                    "bibtype": "article", 
+                    "year": "2011", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>40(6)</v>, pp.<pp>9,11</pp>", 
+                    "topline": "article billingsley__patrick:10", 
+                    "id": "billingsley__patrick:10"
+                }, 
+                {
+                    "title": "In Memoriam: Patrick Billingsley", 
+                    "ref": "<t>In Memoriam: Patrick Billingsley.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2011", 
+                    "howpublished": "???", 
+                    "topline": "misc billingsley__patrick:659075", 
+                    "id": "billingsley__patrick:659075"
+                }
+            ], 
+            "ims_id": "billingsley__patrick", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.stat.uchicago.edu/faculty/emeriti/billingsley/index.shtml", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://en.wikipedia.org/wiki/Patrick_Billingsley", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=230028", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:billingsley.patrick", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=6642", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/10560419", 
+                    "anchor": "Microsoft Academic: Billingsley, Patrick"
+                }, 
+                {
+                    "href": "http://galton.uchicago.edu/faculty/InMemoriam/billingsley/billingsley-cv11-01.pdf", 
+                    "anchor": "CV"
+                }
+            ], 
+            "Position": [
+                {
+                    "category": "position", 
+                    "text": "Active Duty,  U.S. Navy", 
+                    "year": "1948-57"
+                }, 
+                {
+                    "category": "position", 
+                    "text": "NSF Postdoctoral Fellow in Mathematics,  Princeton", 
+                    "year": "1957-58"
+                }, 
+                {
+                    "category": "position", 
+                    "text": "Assistant Professor of Statistics,  University of Chicago", 
+                    "year": "1958-1962"
+                }, 
+                {
+                    "category": "position", 
+                    "text": "Associate Professor of Statistics and Mathematics,  University of Chicago", 
+                    "year": "1962-67"
+                }, 
+                {
+                    "category": "position", 
+                    "text": "Professor of Statistics and Mathematics,  University of Chicago", 
+                    "year": "1967-2011"
+                }, 
+                {
+                    "category": "position", 
+                    "text": "Visiting Professor at the University of Copenhagen and Fullbright Fellow, Visiting Professor at the University of Copenhagen and Fullbright Fellow", 
+                    "year": "1964-65"
+                }, 
+                {
+                    "category": "position", 
+                    "text": "Visiting Professor at the University of Cambridge and Guggenheim Fellow, Visiting Professor at the University of Cambridge and Guggenheim Fellow", 
+                    "year": "1971-72"
+                }
+            ], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1962", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Wald Lecturer", 
+                    "year": "1973", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS President", 
+                    "year": "1983", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1986", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Lester R. Ford Award for mathematical exposition, Mathematical Association of America", 
+                    "year": "1974", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>Notices Amer. Math. Soc.</j>, Vol. <v>58</v>, pp.<pp>844</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2011", 
+                    "howpublished": "<j>Notices Amer. Math. Soc.</j>, Vol. <v>58</v>, pp.<pp>844</pp>", 
+                    "topline": "article billingsley__patrick:7", 
+                    "id": "billingsley__patrick:7"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Princeton University (Mathematics)", 
+                    "thesis_title": "The Invariance Principle for Dependent Random Variables", 
+                    "year": "1955", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=6642"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }, 
+                {
+                    "category": "degree", 
+                    "school": "U.S. Naval Academy (Engineering)", 
+                    "type": "B.S.", 
+                    "year": "1948"
+                }, 
+                {
+                    "category": "degree", 
+                    "school": "Princeton (Mathematics)", 
+                    "type": "M.A.", 
+                    "year": "1952"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

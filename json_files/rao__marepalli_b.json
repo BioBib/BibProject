@@ -1,0 +1,79 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Rao, Marepalli Bhaskara", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "rao__marepalli_b", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=197441", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:rao.m-bhaskara", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=47562", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18206528", 
+                    "anchor": "Microsoft Academic: Rao, M. Bhaskara"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/56203154", 
+                    "anchor": "Microsoft Academic: Rao, M. Bhaskara"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54823481", 
+                    "anchor": "Microsoft Academic: Rao, M. Bhaskara"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "2002", 
+                    "citation": "For contributions to probability theory in abstract spaces; research on bilinear time series models, survival analysis and multivariate dependence; and creative and effective teaching at all levels", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "rao__marepalli", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Indian Statistical Institute, Calcutta", 
+                    "thesis_title": "Some Contributions to Measure Theory", 
+                    "year": "1973", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=47562"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

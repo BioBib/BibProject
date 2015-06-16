@@ -1,0 +1,70 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "William Gregory Madow, 1911-1992", 
+                    "ref": "<t>William Gregory Madow, 1911-1992.</t> <au>Olkin, I.</au>. <j>IMS Bulletin</j>, Vol. <v>21</v>, pp.<pp>98</pp>", 
+                    "author": "Olkin, I.", 
+                    "bibtype": "article", 
+                    "year": "1992", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>21</v>, pp.<pp>98</pp>", 
+                    "topline": "article madow__william_g:8", 
+                    "id": "madow__william_g:8"
+                }
+            ], 
+            "DOB": "1911-02-22", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1992-02-11", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Madow, William G.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "madow__william_g", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=343359", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:madow.william-g", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54441823", 
+                    "anchor": "Microsoft Academic: Madow, William G."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12403424", 
+                    "anchor": "Microsoft Academic: Madow, William G."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "before 1943", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "madow__william", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

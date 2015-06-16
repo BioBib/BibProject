@@ -1,0 +1,155 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "David A. Freedman", 
+                    "ref": "<t>David A. Freedman.</t> <j>Amstat News</j>, Vol. <v>Dec. 2008</v>, pp.<pp>36-37</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2008", 
+                    "howpublished": "<j>Amstat News</j>, Vol. <v>Dec. 2008</v>, pp.<pp>36-37</pp>", 
+                    "topline": "article freedman__david_a:9", 
+                    "id": "freedman__david_a:9"
+                }
+            ], 
+            "DOB": "1938-03-05", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2008-10-17", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Freedman, David A.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "David A. Freedman, 1938-2008", 
+                    "ref": "<t>David A. Freedman, 1938-2008.</t> <au>Stark, P. B.</au>. <j>IMS Bulletin</j>, Vol. <v>38(1)</v>, pp.<pp>10-11</pp>", 
+                    "author": "Stark, P. B.", 
+                    "bibtype": "article", 
+                    "year": "2009", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>38(1)</v>, pp.<pp>10-11</pp>", 
+                    "topline": "article freedman__david_a:10", 
+                    "id": "freedman__david_a:10"
+                }
+            ], 
+            "ims_id": "freedman__david_a", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.stat.berkeley.edu/~freedman/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=69045", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:freedman.david-a", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=29511", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12756967", 
+                    "anchor": "Microsoft Academic: Freedman, David A."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1967", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Medallion Lecturer", 
+                    "year": "1983", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1991", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Wald Lecturer", 
+                    "year": "1998", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "John J. Carty Award for the Advancement of Science", 
+                    "year": "2003", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "freedman__david", 
+            "Festschrift": [
+                {
+                    "title": "Probability and Statistics: Essays in Honor of David A. Freedman", 
+                    "ref": "<t>Probability and Statistics: Essays in Honor of David A. Freedman.</t> Institute of Mathematical Statistics, Vol. <v>2</v>", 
+                    "author": "Anonymous", 
+                    "bibtype": "book", 
+                    "year": "2007", 
+                    "howpublished": "Institute of Mathematical Statistics, Vol. <v>2</v>", 
+                    "topline": "book freedman__david_a:8", 
+                    "id": "freedman__david_a:8"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2008", 
+                    "howpublished": "???", 
+                    "topline": "misc freedman__david_a:258239", 
+                    "id": "freedman__david_a:258239"
+                }
+            ], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Princeton University", 
+                    "thesis_title": "Mixtures of Stochastic Processes", 
+                    "year": "1960", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=29511"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2008", 
+                    "howpublished": "???", 
+                    "topline": "misc freedman__david_a:548932", 
+                    "id": "freedman__david_a:548932"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

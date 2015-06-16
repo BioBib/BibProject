@@ -1,0 +1,102 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Robert Joseph Buehler, 1925-1988", 
+                    "ref": "<t>Robert Joseph Buehler, 1925-1988.</t> <au>Lindgren, B. W.</au>. <j>IMS Bulletin</j>, Vol. <v>17</v>, pp.<pp>334</pp>", 
+                    "author": "Lindgren, B. W.", 
+                    "bibtype": "article", 
+                    "year": "1988", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>17</v>, pp.<pp>334</pp>", 
+                    "topline": "article buehler__robert_j:8", 
+                    "id": "buehler__robert_j:8"
+                }
+            ], 
+            "DOB": "1925-05-01", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1988-07-08", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Buehler, Robert J.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1988", 
+                    "howpublished": "???", 
+                    "topline": "misc buehler__robert_j:579580", 
+                    "id": "buehler__robert_j:579580"
+                }
+            ], 
+            "ims_id": "buehler__robert_j", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=42970", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:buhler.robert-j", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:buehler.robert-j", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=8231", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/55005733", 
+                    "anchor": "Microsoft Academic: Buehler, Robert J."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/10773677", 
+                    "anchor": "Microsoft Academic: Buehler, Robert J."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1968", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "buehler__robert", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Wisconsin-Madison", 
+                    "thesis_title": "On Functions Satisfying Certain Differential Inequalities", 
+                    "year": "1952", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=8231"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

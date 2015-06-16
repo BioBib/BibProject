@@ -1,0 +1,77 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Rootz&eacute;n, Holger", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "rootzen__holger", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.math.chalmers.se/~rootzen/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:rootzen.holger", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54668011", 
+                    "anchor": "Microsoft Academic: Holger Rootzen (Holger Rootz\\'{e"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53277031", 
+                    "anchor": "Microsoft Academic: Holger Rootzen"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53277029", 
+                    "anchor": "Microsoft Academic: Holger Rootzen (Holger Rootz\\'{e"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/44432627", 
+                    "anchor": "Microsoft Academic: H. Rootzen"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12847004", 
+                    "anchor": "Microsoft Academic: Holger Rootzen (Holger Rootz\\'{e"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/43978285", 
+                    "anchor": "Microsoft Academic: H. Rootzen (H. Rootz\\'{e"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53277032", 
+                    "anchor": "Microsoft Academic: Holger Rootzen (Holger Rootz\\'{e"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1995", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

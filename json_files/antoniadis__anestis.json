@@ -1,0 +1,83 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Antoniadis, Anestis", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "antoniadis__anestis", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://ljk.imag.fr/membres/Anestis.Antoniadis/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=26470", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:antoniadis.anestis", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=89845", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/619336", 
+                    "anchor": "Microsoft Academic: Antoniadis, Anestis"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53379259", 
+                    "anchor": "Microsoft Academic: Antoniadis, Anestis"
+                }, 
+                {
+                    "href": "http://ljk.imag.fr/membres/Anestis.Antoniadis/HTTP/publis-anto.html", 
+                    "anchor": "Publication List"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "2003", 
+                    "citation": "For innovative work on inference for stochastic processes, pioneering contributions to wavelet methods in statistics, service to the statistical community, enthusiastic teaching and inspiring leadership", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Universit&eacute; Scientifique et M&eacute;diacale de Grenoble (University of Grenoble)", 
+                    "thesis_title": "Etude de certains probl&egrave;mes de d&eacute;cision dans les structures statistiques Gaussiennes infinidimensionnelles", 
+                    "year": "1983", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=89845"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

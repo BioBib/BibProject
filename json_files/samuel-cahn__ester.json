@@ -1,0 +1,69 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Samuel-Cahn, Ester", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "samuel-cahn__ester", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=153925", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:samuel-cahn.ester", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12937779", 
+                    "anchor": "Microsoft Academic: Samuel-Cahn, Ester"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1972", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Israel Prize", 
+                    "year": "2004", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Ester Samuel-Cahn", 
+                    "ref": "<t>Ester Samuel-Cahn.</t> <au>Feigin, P.</au>. <j>Bernoulli News</j>, Vol. <v>11(1)</v>", 
+                    "author": "Feigin, P.", 
+                    "bibtype": "article", 
+                    "year": "2004", 
+                    "howpublished": "<j>Bernoulli News</j>, Vol. <v>11(1)</v>", 
+                    "topline": "article samuel-cahn__ester:6", 
+                    "id": "samuel-cahn__ester:6"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

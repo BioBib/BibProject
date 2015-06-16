@@ -1,0 +1,124 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1914-09-17", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2002-04-09", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Banerjee, Kali S.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Kali Shankar Banerjee, 1914-2002", 
+                    "ref": "<t>Kali Shankar Banerjee, 1914-2002.</t> <au>Sinha, B. K.</au>. <j>IMS Bulletin</j>, Vol. <v>31(4)</v>, pp.<pp>10</pp>", 
+                    "author": "Sinha, B. K.", 
+                    "bibtype": "article", 
+                    "year": "2002", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>31(4)</v>, pp.<pp>10</pp>", 
+                    "topline": "article banerjee__k_s:8", 
+                    "id": "banerjee__k_s:8"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2002", 
+                    "howpublished": "???", 
+                    "topline": "misc banerjee__k_s:304515", 
+                    "id": "banerjee__k_s:304515"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2002", 
+                    "howpublished": "???", 
+                    "topline": "misc banerjee__k_s:377417", 
+                    "id": "banerjee__k_s:377417"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2002", 
+                    "howpublished": "???", 
+                    "topline": "misc banerjee__k_s:497021", 
+                    "id": "banerjee__k_s:497021"
+                }
+            ], 
+            "ims_id": "banerjee__k_s", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://en.wikipedia.org/wiki/Kali_S._Banerjee", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=30505", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:banerjee.kali-s", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=43898", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53010343", 
+                    "anchor": "Microsoft Academic: Banerjee, K. S."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54244912", 
+                    "anchor": "Microsoft Academic: Banerjee, Kali S."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54244911", 
+                    "anchor": "Microsoft Academic: Banerjee, K. S."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1970", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "banerjee__k", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=43898"
+                        }
+                    ], 
+                    "type": "Ph.D.", 
+                    "year": "year?"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

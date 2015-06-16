@@ -1,0 +1,146 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1932-01-23", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2004-03-18", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Mitra, S. K.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Sujit Kumar Mitra", 
+                    "ref": "<t>Sujit Kumar Mitra.</t> <au>Mukhopadhyay, N.</au>. <j>IMS Bulletin</j>, Vol. <v>33(3)</v>, pp.<pp>10</pp>", 
+                    "author": "Mukhopadhyay, N.", 
+                    "bibtype": "article", 
+                    "year": "2004", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>33(3)</v>, pp.<pp>10</pp>", 
+                    "topline": "article mitra__s_k:8", 
+                    "id": "mitra__s_k:8"
+                }, 
+                {
+                    "title": "Sujit Kumar Mitra, 1932-2004", 
+                    "ref": "<t>Sujit Kumar Mitra, 1932-2004.</t> <au>Dey, A.</au>. <j>Sankhy&amacr;</j>, Vol. <v>66</v>, pp.<pp>211-212</pp>", 
+                    "author": "Dey, A.", 
+                    "bibtype": "article", 
+                    "year": "2004", 
+                    "howpublished": "<j>Sankhy&amacr;</j>, Vol. <v>66</v>, pp.<pp>211-212</pp>", 
+                    "topline": "article mitra__s_k:9", 
+                    "id": "mitra__s_k:9"
+                }, 
+                {
+                    "title": "Sukit Kumar Mitra (1932-2004)", 
+                    "ref": "<t>Sukit Kumar Mitra (1932-2004).</t> <au>Bhimasankaram, P.</au>. <j>Current Science</j>, Vol. <v>87</v>, pp.<pp>395</pp>", 
+                    "author": "Bhimasankaram, P.", 
+                    "bibtype": "article", 
+                    "year": "2004", 
+                    "howpublished": "<j>Current Science</j>, Vol. <v>87</v>, pp.<pp>395</pp>", 
+                    "topline": "article mitra__s_k:10", 
+                    "id": "mitra__s_k:10"
+                }
+            ], 
+            "ims_id": "mitra__s_k", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.york.ac.uk/depts/maths/histstat/people/mitra.gif", 
+                    "anchor": "www.york.ac.uk"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=205029", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:kumar-mitra.s", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:mitra.suman-k", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:mitra.sushmita", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:mitra.sumitra", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:mitra.sushanta-k", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:mitra.sujit-kumar", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=22627", 
+                    "anchor": "Math. Genealogy"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1974", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Indian National Science Academy, Fellow", 
+                    "year": "1981", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Indian Academy of Sciences, Fellow", 
+                    "year": "1990", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "mitra__s", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "The University of North Carolina at Chapel Hill", 
+                    "thesis_title": "Contributions to the Statistical Analysis of Categrorical Data", 
+                    "year": "1956", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=22627"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "A conversation with Sujit Kumar Mitra", 
+                    "ref": "<t>A conversation with Sujit Kumar Mitra.</t> <au>Mukhopadhyay, N.</au>. <j>Statist. Sci.</j>, Vol. <v>12</v>, pp.<pp>61-75</pp>", 
+                    "author": "Mukhopadhyay, N.", 
+                    "bibtype": "article", 
+                    "year": "1997", 
+                    "howpublished": "<j>Statist. Sci.</j>, Vol. <v>12</v>, pp.<pp>61-75</pp>", 
+                    "topline": "article mitra__s_k:13", 
+                    "id": "mitra__s_k:13"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

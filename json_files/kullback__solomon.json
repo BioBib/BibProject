@@ -1,0 +1,121 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Solomon Kullback: 1907-94", 
+                    "ref": "<t>Solomon Kullback: 1907-94.</t> <au>Greenhouse, S. W.</au>. <j>IMS Bulletin</j>, Vol. <v>23</v>, pp.<pp>640-642</pp>", 
+                    "author": "Greenhouse, S. W.", 
+                    "bibtype": "article", 
+                    "year": "1994", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>23</v>, pp.<pp>640-642</pp>", 
+                    "topline": "article kullback__solomon:7", 
+                    "id": "kullback__solomon:7"
+                }
+            ], 
+            "DOB": "1907-04-03", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1994-08-05", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Kullback, Solomon", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "kullback__solomon", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://de.wikipedia.org/wiki/Solomon_Kullback", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=107720", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:kullback.solomon", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=13292", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/55516871", 
+                    "anchor": "Microsoft Academic: Solomon Kullback"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54117783", 
+                    "anchor": "Microsoft Academic: Solomon Kullback"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/55517240", 
+                    "anchor": "Microsoft Academic: Solomon Kullback"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/11219756", 
+                    "anchor": "Microsoft Academic: Solomon Kullback"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/27446532", 
+                    "anchor": "Microsoft Academic: S. Kullback"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/44831589", 
+                    "anchor": "Microsoft Academic: S. Kullback"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/48975227", 
+                    "anchor": "Microsoft Academic: S. Kullback"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/50560033", 
+                    "anchor": "Microsoft Academic: Solomon Kullback"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "Samuel S. Wilks Award", 
+                    "year": "1976", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "before 1943", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "The George Washington University", 
+                    "thesis_title": "An Application of Characteristic Functions to the Distribution Problem of Statistics", 
+                    "year": "1934", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=13292"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

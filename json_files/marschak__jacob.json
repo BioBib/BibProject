@@ -1,0 +1,120 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1898-07-23", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1977-07-27", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Marschak, Jacob", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "marschak__jacob", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=495564", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:marschak.jacob", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/2793106", 
+                    "anchor": "Microsoft Academic: Jacob Marschak"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/57111200", 
+                    "anchor": "Microsoft Academic: JACOB MARSCHAK"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/50091475", 
+                    "anchor": "Microsoft Academic: Jacob Marschak"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/48305886", 
+                    "anchor": "Microsoft Academic: Jackob Marschak"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/56847054", 
+                    "anchor": "Microsoft Academic: Jacob Marschak"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/45043720", 
+                    "anchor": "Microsoft Academic: J. Marschak"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/45043719", 
+                    "anchor": "Microsoft Academic: J. Marschak"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/56847071", 
+                    "anchor": "Microsoft Academic: Jacob Marschak"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/42774100", 
+                    "anchor": "Microsoft Academic: Jacob Marschak"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1953", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1961", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Member", 
+                    "year": "1973", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>7</v>, pp.<pp>329</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1978", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>7</v>, pp.<pp>329</pp>", 
+                    "topline": "article marschak__jacob:7", 
+                    "id": "marschak__jacob:7"
+                }
+            ], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Jacob Marschak, July 23, 1898-July 27, 1977", 
+                    "ref": "<t>Jacob Marschak, July 23, 1898-July 27, 1977.</t> <au>Arrow, K. J.</au>. <j>Biographical Memoirs</j>, National Academies Press, pp.<pp>128-146</pp>", 
+                    "author": "Arrow, K. J.", 
+                    "bibtype": "article", 
+                    "year": "1991", 
+                    "howpublished": "<j>Biographical Memoirs</j>, National Academies Press, pp.<pp>128-146</pp>", 
+                    "topline": "article marschak__jacob:10", 
+                    "id": "marschak__jacob:10"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

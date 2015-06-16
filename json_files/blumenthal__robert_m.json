@@ -1,0 +1,119 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Obituary: Bob Blumenthal (1931-2012)", 
+                    "ref": "<t>Obituary: Bob Blumenthal (1931-2012).</t> <au>Ronald Getoor</au>. <j>IMS Bulletin</j>", 
+                    "author": "Ronald Getoor", 
+                    "bibtype": "article", 
+                    "year": "2013", 
+                    "howpublished": "<j>IMS Bulletin</j>", 
+                    "topline": "article blumenthal__robert_m:1", 
+                    "id": "blumenthal__robert_m:1"
+                }
+            ], 
+            "DOB": "1931-02-07", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2012-11-08", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Blumenthal, Robert M.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2013", 
+                    "howpublished": "???", 
+                    "topline": "misc blumenthal__robert_m:430405", 
+                    "id": "blumenthal__robert_m:430405"
+                }
+            ], 
+            "ims_id": "blumenthal__robert_m", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=191743", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:blumenthal.robert-m", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=1863", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/10536719", 
+                    "anchor": "Microsoft Academic: Blumenthal, R. M."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54986147", 
+                    "anchor": "Microsoft Academic: Blumenthal, R. M."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1970", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "blumenthal__robert", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2013", 
+                    "howpublished": "???", 
+                    "topline": "misc blumenthal__robert_m:319083", 
+                    "id": "blumenthal__robert_m:319083"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2013", 
+                    "howpublished": "???", 
+                    "topline": "misc blumenthal__robert_m:635920", 
+                    "id": "blumenthal__robert_m:635920"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Cornell University", 
+                    "thesis_title": "An Extended Markov Property", 
+                    "year": "1956", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=1863"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

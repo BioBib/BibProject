@@ -1,0 +1,79 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Bhaskar Kumar Ghosh, 1936-2008", 
+                    "ref": "<t>Bhaskar Kumar Ghosh, 1936-2008.</t> <au>Eisenberg, B. and Huang, W.-M.</au>. <j>IMS Bulletin</j>, Vol. <v>37(9)</v>, pp.<pp>12</pp>", 
+                    "author": "Eisenberg, B. and Huang, W.-M.", 
+                    "bibtype": "article", 
+                    "year": "2008", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>37(9)</v>, pp.<pp>12</pp>", 
+                    "topline": "article ghosh__bhaskar_k:8", 
+                    "id": "ghosh__bhaskar_k:8"
+                }
+            ], 
+            "DOB": "1936-02-10", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2008-08-03", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Ghosh, Bhaskar K.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "ghosh__bhaskar_k", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=240742", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:ghosh.bhaskar", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=10266", 
+                    "anchor": "Math. Genealogy"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1990", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "ghosh__bhaskar", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of London", 
+                    "thesis_title": "Sequential Analysis of Components of Variance in Hierarchal Classifications, with special Reference to the use of Range and Mean Deviation", 
+                    "year": "1959", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=10266"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

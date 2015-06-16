@@ -1,0 +1,107 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1938-01-05", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2013-02-06", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Raghavarao, Damaraju", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2013", 
+                    "howpublished": "???", 
+                    "topline": "misc raghavarao__damaraju:247254", 
+                    "id": "raghavarao__damaraju:247254"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2013", 
+                    "howpublished": "???", 
+                    "topline": "misc raghavarao__damaraju:923222", 
+                    "id": "raghavarao__damaraju:923222"
+                }
+            ], 
+            "ims_id": "raghavarao__damaraju", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "https://en.wikipedia.org/wiki/D._Raghavarao", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=143940", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:raghavarao.damaraju", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=48224", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53959228", 
+                    "anchor": "Microsoft Academic: Raghavarao, Damaraju"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1975", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2001", 
+                    "howpublished": "???", 
+                    "topline": "misc raghavarao__damaraju:497301", 
+                    "id": "raghavarao__damaraju:497301"
+                }
+            ], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Mumbai", 
+                    "thesis_title": "Some Contributions to the Design of Experiments", 
+                    "year": "1961", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=48224"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

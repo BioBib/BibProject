@@ -1,0 +1,83 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Erik Nikolai Torgersen: 1935-1994", 
+                    "ref": "<t>Erik Nikolai Torgersen: 1935-1994.</t> <au>Lindqvist, B. and Swensen, A. R.</au>. <j>IMS Bulletin</j>, Vol. <v>23</v>, pp.<pp>447-448</pp>", 
+                    "author": "Lindqvist, B. and Swensen, A. R.", 
+                    "bibtype": "article", 
+                    "year": "1994", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>23</v>, pp.<pp>447-448</pp>", 
+                    "topline": "article torgersen__erik_n:8", 
+                    "id": "torgersen__erik_n:8"
+                }
+            ], 
+            "DOB": "1935-01-02", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1994-01-25", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Torgersen, Erik N.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "torgersen__erik_n", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=173565", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:torgersen.erik-nikolai", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=34519", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18683792", 
+                    "anchor": "Microsoft Academic: Torgersen, Erik Nikolai"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1984", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "torgersen__erik", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of California, Berkeley", 
+                    "thesis_title": "Comparison of Experiments When the Parameter Space is Finite", 
+                    "year": "1968", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=34519"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

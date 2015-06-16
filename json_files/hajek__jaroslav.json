@@ -1,0 +1,102 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1926-02-04", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1974-06-10", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "H&aacute;jek, Jaroslav", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "hajek__jaroslav", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=79760", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:hajek.jaroslav", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/10862573", 
+                    "anchor": "Microsoft Academic: Jaroslav Hajek"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1964", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>3</v>, pp.<pp>181</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1974", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>3</v>, pp.<pp>181</pp>", 
+                    "topline": "article hajek__jaroslav:8", 
+                    "id": "hajek__jaroslav:8"
+                }
+            ], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "H&aacute;jek, Jaroslav", 
+                    "ref": "<t>H&aacute;jek, Jaroslav.</t> <au>Johnson, N. L. and Kotz, S.</au>. <inc>booktitle:leading-personalities-in-statistical-sciences-from-the-17th-century-to-the-present</inc>. pp.<pp>194-196</pp>", 
+                    "author": "Johnson, N. L. and Kotz, S.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:leading-personalities-in-statistical-sciences-from-the-17th-century-to-the-present", 
+                    "year": "1997", 
+                    "howpublished": "pp.<pp>194-196</pp>", 
+                    "topline": "incollection hajek__jaroslav:9", 
+                    "id": "hajek__jaroslav:9"
+                }, 
+                {
+                    "title": "Jaroslav H&aacute;jek", 
+                    "ref": "<t>Jaroslav H&aacute;jek.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2001", 
+                    "howpublished": "???", 
+                    "topline": "incollection hajek__jaroslav:10", 
+                    "id": "hajek__jaroslav:10"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Wiley", 
+            "title": "Leading Personalities in Statistical Sciences, from the 17th Century to the Present", 
+            "url": "http://www.worldcat.org/title/leading-personalities-in-statistical-sciences-from-the-17th-century-to-the-present/oclc/36430730", 
+            "booktitle": "Leading Personalities in Statistical Sciences, from the 17th Century to the Present", 
+            "address": "New York", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:leading-personalities-in-statistical-sciences-from-the-17th-century-to-the-present", 
+            "editor": "N. L. Johnson and S. Kotz", 
+            "year": "1997", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Leading Personalities in Statistical Sciences, from the 17th Century to the Present.</t> <ed>N. L. Johnson and S. Kotz</ed>. In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:leading-personalities-in-statistical-sciences-from-the-17th-century-to-the-present"
+        }
+    ]
+}

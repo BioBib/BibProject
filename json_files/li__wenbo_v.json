@@ -1,0 +1,109 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2013", 
+                    "howpublished": "???", 
+                    "topline": "misc li__wenbo_v:281431", 
+                    "id": "li__wenbo_v:281431"
+                }
+            ], 
+            "DOB": "1963-10-27", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2013-1-26", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Li, Wenbo V.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2013", 
+                    "howpublished": "???", 
+                    "topline": "misc li__wenbo_v:833211", 
+                    "id": "li__wenbo_v:833211"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "year?", 
+                    "howpublished": "???", 
+                    "topline": "misc li__wenbo_v:730613", 
+                    "id": "li__wenbo_v:730613"
+                }
+            ], 
+            "ims_id": "li__wenbo_v", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.math.udel.edu/~wli/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "category": "homepage", 
+                    "href": "http://www.math.udel.edu/~wli/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:li.wenbo-v", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/291748", 
+                    "anchor": "Microsoft Academic: Li, Wenbo V."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/55102376", 
+                    "anchor": "Microsoft Academic: Li, Wenbo"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "2006", 
+                    "citation": "For distinguished research in the theory of Gaussian processes and in using this theory to solve many important problems in diverse areas of probability", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "li__wenbo", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2013", 
+                    "howpublished": "???", 
+                    "topline": "misc li__wenbo_v:554767", 
+                    "id": "li__wenbo_v:554767"
+                }
+            ], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

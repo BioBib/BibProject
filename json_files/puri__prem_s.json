@@ -1,0 +1,86 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Prem Singh Puri, 1936-1989", 
+                    "ref": "<t>Prem Singh Puri, 1936-1989.</t> <au>Cote, L. J. and Kuczek, T. and Rao, R. A. and Rubin, H. and Samuels, S. M.</au>. <j>IMS Bulletin</j>, Vol. <v>18</v>, pp.<pp>434</pp>", 
+                    "author": "Cote, L. J. and Kuczek, T. and Rao, R. A. and Rubin, H. and Samuels, S. M.", 
+                    "bibtype": "article", 
+                    "year": "1989", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>18</v>, pp.<pp>434</pp>", 
+                    "topline": "article puri__prem_s:8", 
+                    "id": "puri__prem_s:8"
+                }
+            ], 
+            "DOB": "1936-04-15", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1989-08-12", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Puri, Prem S.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "puri__prem_s", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=142765", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:puri.prem-s", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=25317", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18644314", 
+                    "anchor": "Microsoft Academic: Puri, Prem S."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/50679238", 
+                    "anchor": "Microsoft Academic: Puri, Prem S."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1973", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "puri__prem", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of California, Berkeley", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=25317"
+                        }
+                    ], 
+                    "type": "Ph.D.", 
+                    "year": "1964"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

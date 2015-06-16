@@ -1,0 +1,199 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2007", 
+                    "howpublished": "???", 
+                    "topline": "misc kendall__david_g:352060", 
+                    "id": "kendall__david_g:352060"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2007", 
+                    "howpublished": "???", 
+                    "topline": "misc kendall__david_g:662052", 
+                    "id": "kendall__david_g:662052"
+                }
+            ], 
+            "DOB": "1918-01-15", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2007-10-23", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Kendall, David G.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "David Kendall remembered", 
+                    "ref": "<t>David Kendall remembered.</t> <au>Teugels, J.</au>. <j>Bernoulli News</j>, Vol. <v>15(1)</v>", 
+                    "author": "Teugels, J.", 
+                    "bibtype": "article", 
+                    "year": "2008", 
+                    "howpublished": "<j>Bernoulli News</j>, Vol. <v>15(1)</v>", 
+                    "topline": "article kendall__david_g:10", 
+                    "id": "kendall__david_g:10"
+                }, 
+                {
+                    "title": "David George Kendall, 1918-2007", 
+                    "ref": "<t>David George Kendall, 1918-2007.</t> <au>Bingham, N. H.</au>. <j>IMS Bulletin</j>, Vol. <v>37(1)</v>, pp.<pp>8</pp>", 
+                    "author": "Bingham, N. H.", 
+                    "bibtype": "article", 
+                    "year": "2008", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>37(1)</v>, pp.<pp>8</pp>", 
+                    "topline": "article kendall__david_g:11", 
+                    "id": "kendall__david_g:11"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2008", 
+                    "howpublished": "???", 
+                    "topline": "misc kendall__david_g:66017", 
+                    "id": "kendall__david_g:66017"
+                }
+            ], 
+            "ims_id": "kendall__david_g", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://en.wikipedia.org/wiki/David_George_Kendall", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=100195", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:kendall.david-g", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=15004", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54305929", 
+                    "anchor": "Microsoft Academic: Kendall, David G."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54305928", 
+                    "anchor": "Microsoft Academic: Kendall, David G."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12607031", 
+                    "anchor": "Microsoft Academic: Kendall, David G."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "Guy Medal in Silver", 
+                    "year": "1955", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "The Royal Society, Fellow", 
+                    "year": "1964", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Guy Medal in Gold", 
+                    "year": "1981", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "19??", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "kendall__david", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Oxford", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=15004"
+                        }
+                    ], 
+                    "type": "M.A.", 
+                    "year": "1943"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "David George Kendall", 
+                    "ref": "<t>David George Kendall.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "1998", 
+                    "howpublished": "???", 
+                    "topline": "incollection kendall__david_g:15", 
+                    "id": "kendall__david_g:15"
+                }, 
+                {
+                    "title": "David George Kendall, 15 January 1918-23 October 2007", 
+                    "ref": "<t>David George Kendall, 15 January 1918-23 October 2007.</t> <au>Kingman, J.</au>. <j>Biogr. Mems. Fell. R. Soc.</j>, Vol. <v>55</v>, pp.<pp>121-138</pp>", 
+                    "author": "Kingman, J.", 
+                    "bibtype": "article", 
+                    "year": "2009", 
+                    "howpublished": "<j>Biogr. Mems. Fell. R. Soc.</j>, Vol. <v>55</v>, pp.<pp>121-138</pp>", 
+                    "topline": "article kendall__david_g:13", 
+                    "id": "kendall__david_g:13"
+                }, 
+                {
+                    "title": "Kendall, David George (1918-2007)", 
+                    "ref": "<t>Kendall, David George (1918-2007).</t> <au>Kingman, J. F. C.</au>. <inc>booktitle:oxford-dictionary-of-national-biography-in-association-with-the-british-academy-from-the-earliest-times-to-the-year-2000</inc>. ???", 
+                    "author": "Kingman, J. F. C.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:oxford-dictionary-of-national-biography-in-association-with-the-british-academy-from-the-earliest-times-to-the-year-2000", 
+                    "year": "2011", 
+                    "howpublished": "???", 
+                    "topline": "incollection kendall__david_g:14", 
+                    "id": "kendall__david_g:14"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Oxford Univ. Press", 
+            "title": "Oxford Dictionary of National Biography", 
+            "url": "http://www.worldcat.org/title/oxford-dictionary-of-national-biography-in-association-with-the-british-academy-from-the-earliest-times-to-the-year-2000/oclc/54778415", 
+            "booktitle": "Oxford Dictionary of National Biography", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:oxford-dictionary-of-national-biography-in-association-with-the-british-academy-from-the-earliest-times-to-the-year-2000", 
+            "year": "2004", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Oxford Dictionary of National Biography.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:oxford-dictionary-of-national-biography-in-association-with-the-british-academy-from-the-earliest-times-to-the-year-2000"
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1906-06-03", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1983-09-29", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Allen, Roy G. D.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Roy George Douglas Allen, 1906-1983", 
+                    "ref": "<t>Roy George Douglas Allen, 1906-1983.</t> <au>Grebenik, E.</au>. <j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>147</v>, pp.<pp>706-707</pp>", 
+                    "author": "Grebenik, E.", 
+                    "bibtype": "article", 
+                    "year": "1984", 
+                    "howpublished": "<j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>147</v>, pp.<pp>706-707</pp>", 
+                    "topline": "article allen__roy_g_d:8", 
+                    "id": "allen__roy_g_d:8"
+                }, 
+                {
+                    "title": "Sir Roy Allen, CBE, FBA (1906-1983)", 
+                    "ref": "<t>Sir Roy Allen, CBE, FBA (1906-1983).</t> <j>The Statistician</j>, Vol. <v>33</v>, pp.<pp>401-406</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1984", 
+                    "howpublished": "<j>The Statistician</j>, Vol. <v>33</v>, pp.<pp>401-406</pp>", 
+                    "topline": "article allen__roy_g_d:9", 
+                    "id": "allen__roy_g_d:9"
+                }, 
+                {
+                    "title": "Roy Allen, 1906-1983", 
+                    "ref": "<t>Roy Allen, 1906-1983.</t> <au>Cairncross, A.</au>. <j>Proc. British Academy</j>, Vol. <v>70</v>, pp.<pp>379-385</pp>", 
+                    "author": "Cairncross, A.", 
+                    "bibtype": "article", 
+                    "year": "1984", 
+                    "howpublished": "<j>Proc. British Academy</j>, Vol. <v>70</v>, pp.<pp>379-385</pp>", 
+                    "topline": "article allen__roy_g_d:10", 
+                    "id": "allen__roy_g_d:10"
+                }
+            ], 
+            "ims_id": "allen__roy_g_d", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://en.wikipedia.org/wiki/R._G._D._Allen", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=280277", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:allen.r-g-d", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/23386131", 
+                    "anchor": "Microsoft Academic: Roy G. D. Allen"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/47722784", 
+                    "anchor": "Microsoft Academic: Roy G. D. Allen"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "Officer of the Order of the British Empire", 
+                    "year": "1946", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "British Academy, Fellow", 
+                    "year": "1952", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1953", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Commander of the Order of the British Empire", 
+                    "year": "1954", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Knighted", 
+                    "year": "1966", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Guy Medal in Gold", 
+                    "year": "1978", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "allen__roy", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Allen, Sir Roy George Douglas (1906-1983)", 
+                    "ref": "<t>Allen, Sir Roy George Douglas (1906-1983).</t> <au>Thomas, J. J.</au>. <inc>booktitle:oxford-dictionary-of-national-biography-in-association-with-the-british-academy-from-the-earliest-times-to-the-year-2000</inc>. ???", 
+                    "author": "Thomas, J. J.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:oxford-dictionary-of-national-biography-in-association-with-the-british-academy-from-the-earliest-times-to-the-year-2000", 
+                    "year": "2004", 
+                    "howpublished": "???", 
+                    "topline": "incollection allen__roy_g_d:15", 
+                    "id": "allen__roy_g_d:15"
+                }, 
+                {
+                    "title": "Allen, Roy George Douglas (1906-1983)", 
+                    "ref": "<t>Allen, Roy George Douglas (1906-1983).</t> <au>Stone, J. R. N.</au>. <inc>booktitle:new-palgrave-dictionary-of-economics</inc>. ???", 
+                    "author": "Stone, J. R. N.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:new-palgrave-dictionary-of-economics", 
+                    "year": "2008", 
+                    "howpublished": "???", 
+                    "topline": "incollection allen__roy_g_d:16", 
+                    "id": "allen__roy_g_d:16"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Oxford Univ. Press", 
+            "title": "Oxford Dictionary of National Biography", 
+            "url": "http://www.worldcat.org/title/oxford-dictionary-of-national-biography-in-association-with-the-british-academy-from-the-earliest-times-to-the-year-2000/oclc/54778415", 
+            "booktitle": "Oxford Dictionary of National Biography", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:oxford-dictionary-of-national-biography-in-association-with-the-british-academy-from-the-earliest-times-to-the-year-2000", 
+            "year": "2004", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Oxford Dictionary of National Biography.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:oxford-dictionary-of-national-biography-in-association-with-the-british-academy-from-the-earliest-times-to-the-year-2000"
+        }, 
+        {
+            "publisher": "Palgrave Macmillan", 
+            "title": "The New Palgrave Dictionary of Economics", 
+            "url": "http://www.worldcat.org/title/new-palgrave-dictionary-of-economics/oclc/181424188", 
+            "booktitle": "The New Palgrave Dictionary of Economics", 
+            "address": "New York", 
+            "editors": "S. N. Durlauf and L. E. Blume", 
+            "bibtype": "reference", 
+            "edition": "2nd", 
+            "top_line": "reference booktitle:new-palgrave-dictionary-of-economics", 
+            "year": "2008", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>The New Palgrave Dictionary of Economics.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:new-palgrave-dictionary-of-economics"
+        }
+    ]
+}

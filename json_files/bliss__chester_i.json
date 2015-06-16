@@ -1,0 +1,129 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1899-02-01", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1979-03-14", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Bliss, Chester I.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Chester Ittner Bliss, 1899-1979", 
+                    "ref": "<t>Chester Ittner Bliss, 1899-1979.</t> <au>Cochran, W. G. and Finney, D. J.</au>. <j>Biometrics</j>, Vol. <v>35</v>, pp.<pp>715-717</pp>", 
+                    "author": "Cochran, W. G. and Finney, D. J.", 
+                    "bibtype": "article", 
+                    "year": "1979", 
+                    "howpublished": "<j>Biometrics</j>, Vol. <v>35</v>, pp.<pp>715-717</pp>", 
+                    "topline": "article bliss__chester_i:9", 
+                    "id": "bliss__chester_i:9"
+                }, 
+                {
+                    "title": "In memoriam, Chester Ittner Bliss (1899-1979)", 
+                    "ref": "<t>In memoriam, Chester Ittner Bliss (1899-1979).</t> <au>Sollberger, A.</au>. <j>J. Interdisciplinary Cycle Research</j>, Vol. <v>10</v>, pp.<pp>83</pp>", 
+                    "author": "Sollberger, A.", 
+                    "bibtype": "article", 
+                    "year": "1979", 
+                    "howpublished": "<j>J. Interdisciplinary Cycle Research</j>, Vol. <v>10</v>, pp.<pp>83</pp>", 
+                    "topline": "article bliss__chester_i:11", 
+                    "id": "bliss__chester_i:11"
+                }, 
+                {
+                    "title": "Chester Ittner Bliss, 1899-1979", 
+                    "ref": "<t>Chester Ittner Bliss, 1899-1979.</t> <au>Finney, D. J.</au>. <j>J. Roy. Statist. Soc., Ser. A</j>, Vol. <v>143</v>, pp.<pp>92-93</pp>", 
+                    "author": "Finney, D. J.", 
+                    "bibtype": "article", 
+                    "year": "1980", 
+                    "howpublished": "<j>J. Roy. Statist. Soc., Ser. A</j>, Vol. <v>143</v>, pp.<pp>92-93</pp>", 
+                    "topline": "article bliss__chester_i:10", 
+                    "id": "bliss__chester_i:10"
+                }
+            ], 
+            "ims_id": "bliss__chester_i", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://en.wikipedia.org/wiki/Chester_Ittner_Bliss", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=414595", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:bliss.chester-i", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18749879", 
+                    "anchor": "Microsoft Academic: Bliss, C. I."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1944", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "bliss__chester", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>8</v>, pp.<pp>131</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1979", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>8</v>, pp.<pp>131</pp>", 
+                    "topline": "article bliss__chester_i:8", 
+                    "id": "bliss__chester_i:8"
+                }
+            ], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Bliss, Chester Ittner", 
+                    "ref": "<t>Bliss, Chester Ittner.</t> <au>Holford, T. R. and White, C.</au>. <inc>booktitle:encyclopedia-of-biostatistics</inc>. ???", 
+                    "author": "Holford, T. R. and White, C.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-biostatistics", 
+                    "year": "2005", 
+                    "howpublished": "???", 
+                    "topline": "incollection bliss__chester_i:12", 
+                    "id": "bliss__chester_i:12"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Biostatistics", 
+            "url": "http://www.worldcat.org/title/encyclopedia-of-biostatistics/oclc/38258277", 
+            "booktitle": "Encyclopedia of Biostatistics", 
+            "address": "Hoboken, NJ", 
+            "editors": "P. Armitage and T. Colton", 
+            "bibtype": "reference", 
+            "edition": "2nd", 
+            "top_line": "reference booktitle:encyclopedia-of-biostatistics", 
+            "year": "2005", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Biostatistics.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-biostatistics"
+        }
+    ]
+}

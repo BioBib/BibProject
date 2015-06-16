@@ -1,0 +1,321 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1967", 
+                    "howpublished": "???", 
+                    "topline": "misc aitken__alexander_c:102117", 
+                    "id": "aitken__alexander_c:102117"
+                }
+            ], 
+            "DOB": "1895-04-01", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1967-11-03", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [
+                {
+                    "title": "Gallipoli to the Somme: Recollections of a New Zealand Infantryman", 
+                    "ref": "<t>Gallipoli to the Somme: Recollections of a New Zealand Infantryman.</t> <au>Aitken, A. C.</au>. Oxford Univ. Press", 
+                    "author": "Aitken, A. C.", 
+                    "bibtype": "book", 
+                    "year": "1963", 
+                    "howpublished": "Oxford Univ. Press", 
+                    "topline": "book aitken__alexander_c:28", 
+                    "id": "aitken__alexander_c:28"
+                }, 
+                {
+                    "title": "To Catch the Spirit: The Memoir of A. C. Aitken, with a biographical introduction by P. C. Fenton.", 
+                    "ref": "<t>To Catch the Spirit: The Memoir of A. C. Aitken, with a biographical introduction by P. C. Fenton.</t> <au>Aitken, A. C.</au>. Univ. Otago Press", 
+                    "author": "Aitken, A. C.", 
+                    "bibtype": "book", 
+                    "year": "1995", 
+                    "howpublished": "Univ. Otago Press", 
+                    "topline": "book aitken__alexander_c:29", 
+                    "id": "aitken__alexander_c:29"
+                }
+            ], 
+            "Degree": [], 
+            "complete_name": "Aitken, Alexander C.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Edinburgh's tribute to A. C. Aitkin", 
+                    "ref": "<t>Edinburgh's tribute to A. C. Aitkin.</t> <au>Edinburgh University Senate</au>. The MacTutor History of Mathematics archive", 
+                    "author": "Edinburgh University Senate", 
+                    "bibtype": "misc", 
+                    "year": "1966", 
+                    "howpublished": "The MacTutor History of Mathematics archive", 
+                    "topline": "misc aitken__alexander_c:26", 
+                    "id": "aitken__alexander_c:26"
+                }, 
+                {
+                    "title": "Alexander Craig Aitken, M.A., D.Sc., LI.D., F.R.S.E., F.R.S. (1895-1967)", 
+                    "ref": "<t>Alexander Craig Aitken, M.A., D.Sc., LI.D., F.R.S.E., F.R.S. (1895-1967).</t> <au>Silverstone, H.</au>. <j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>131</v>, pp.<pp>259-261</pp>", 
+                    "author": "Silverstone, H.", 
+                    "bibtype": "article", 
+                    "year": "1968", 
+                    "howpublished": "<j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>131</v>, pp.<pp>259-261</pp>", 
+                    "topline": "article aitken__alexander_c:9", 
+                    "id": "aitken__alexander_c:9"
+                }, 
+                {
+                    "title": "A. C. Aitken", 
+                    "ref": "<t>A. C. Aitken.</t> <au>Copson, E. T. and Kendall, D. G. and Miller, J. C. P. and Ledermann, W.</au>. <j>Proc. Edinburgh Math. Soc. (2)</j>, Vol. <v>16</v>, pp.<pp>151-176</pp>", 
+                    "author": "Copson, E. T. and Kendall, D. G. and Miller, J. C. P. and Ledermann, W.", 
+                    "bibtype": "article", 
+                    "year": "1968", 
+                    "howpublished": "<j>Proc. Edinburgh Math. Soc. (2)</j>, Vol. <v>16</v>, pp.<pp>151-176</pp>", 
+                    "topline": "article aitken__alexander_c:11", 
+                    "id": "aitken__alexander_c:11"
+                }
+            ], 
+            "ims_id": "aitken__alexander_c", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://en.wikipedia.org/wiki/Alexander_Aitken", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.york.ac.uk/depts/maths/histstat/people/aitken.gif", 
+                    "anchor": "www.york.ac.uk"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=23845", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:aitken.alexander-craig", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=18577", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53958568", 
+                    "anchor": "Microsoft Academic: Aitken, A. C."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "The Royal Society of Edinburgh, Fellow", 
+                    "year": "1925", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "The Royal Society, Fellow", 
+                    "year": "1936", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1947", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "The Royal Society of Literature, Fellow", 
+                    "year": "1964", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "aitken__alexander", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Edinburgh", 
+                    "thesis_title": "Smoothing Of Data", 
+                    "year": "1925", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=18577"
+                        }
+                    ], 
+                    "type": "D.Sc."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Alexander Craig Aitken, 1 April 1895-3 November 1967", 
+                    "ref": "<t>Alexander Craig Aitken, 1 April 1895-3 November 1967.</t> <au>Whittaker, J. M. and Bartlett, M. S.</au>. <j>Biogr. Mems. Fell. R. Soc.</j>, Vol. <v>14</v>, pp.<pp>1-14</pp>", 
+                    "author": "Whittaker, J. M. and Bartlett, M. S.", 
+                    "bibtype": "article", 
+                    "year": "1968", 
+                    "howpublished": "<j>Biogr. Mems. Fell. R. Soc.</j>, Vol. <v>14</v>, pp.<pp>1-14</pp>", 
+                    "topline": "article aitken__alexander_c:16", 
+                    "id": "aitken__alexander_c:16"
+                }, 
+                {
+                    "title": "Alexander Craig Aitken: New Zealand's greatest mathematician.", 
+                    "ref": "<t>Alexander Craig Aitken: New Zealand's greatest mathematician.</t> <au>Kidson, H. P.</au>. <j>New Zealand Math. Mag.</j>, Vol. <v>10</v>, pp.<pp>129-133</pp>", 
+                    "author": "Kidson, H. P.", 
+                    "bibtype": "article", 
+                    "year": "1973", 
+                    "howpublished": "<j>New Zealand Math. Mag.</j>, Vol. <v>10</v>, pp.<pp>129-133</pp>", 
+                    "topline": "article aitken__alexander_c:17", 
+                    "id": "aitken__alexander_c:17"
+                }, 
+                {
+                    "title": "A. C. Aitken (1895-1967)", 
+                    "ref": "<t>A. C. Aitken (1895-1967).</t> <au>Fenton, P.</au>. <j>Austral. Math. Soc. Gaz.</j>, Vol. <v>22(1)</v>, pp.<pp>21-23</pp>", 
+                    "author": "Fenton, P.", 
+                    "bibtype": "article", 
+                    "year": "1995", 
+                    "howpublished": "<j>Austral. Math. Soc. Gaz.</j>, Vol. <v>22(1)</v>, pp.<pp>21-23</pp>", 
+                    "topline": "article aitken__alexander_c:18", 
+                    "id": "aitken__alexander_c:18"
+                }, 
+                {
+                    "title": "Alexander Craig Aitken (1895-1967)", 
+                    "ref": "<t>Alexander Craig Aitken (1895-1967).</t> <au>Fenton, P.</au>. <j>New Zealand Math. Soc. Newslett.</j>, pp.<pp>20-21</pp>", 
+                    "author": "Fenton, P.", 
+                    "bibtype": "article", 
+                    "year": "1995", 
+                    "howpublished": "<j>New Zealand Math. Soc. Newslett.</j>, pp.<pp>20-21</pp>", 
+                    "topline": "article aitken__alexander_c:19", 
+                    "id": "aitken__alexander_c:19"
+                }, 
+                {
+                    "title": "Alexander Craig Aitken, 1895-1967", 
+                    "ref": "<t>Alexander Craig Aitken, 1895-1967.</t> <au>Tee, G. J.</au>. <inc>booktitle:proceedings-of-the-ac-aitken-centenary-conference</inc>. pp.<pp>11-19</pp>", 
+                    "author": "Tee, G. J.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:proceedings-of-the-ac-aitken-centenary-conference", 
+                    "year": "1996", 
+                    "howpublished": "pp.<pp>11-19</pp>", 
+                    "topline": "incollection aitken__alexander_c:20", 
+                    "id": "aitken__alexander_c:20"
+                }, 
+                {
+                    "title": "Alexander Craig Aitken (1895-1967).", 
+                    "ref": "<t>Alexander Craig Aitken (1895-1967).</t> <au>Fenton, P. C.</au>. <inc>booktitle:history-of-statistics-in-new-zealand</inc>. pp.<pp>73-75</pp>", 
+                    "author": "Fenton, P. C.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:history-of-statistics-in-new-zealand", 
+                    "year": "1999", 
+                    "howpublished": "pp.<pp>73-75</pp>", 
+                    "topline": "incollection aitken__alexander_c:22", 
+                    "id": "aitken__alexander_c:22"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2002", 
+                    "howpublished": "???", 
+                    "topline": "misc aitken__alexander_c:23", 
+                    "id": "aitken__alexander_c:23"
+                }, 
+                {
+                    "title": "Alexander Craig Aitken", 
+                    "ref": "<t>Alexander Craig Aitken.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2003", 
+                    "howpublished": "???", 
+                    "topline": "incollection aitken__alexander_c:25", 
+                    "id": "aitken__alexander_c:25"
+                }, 
+                {
+                    "title": "Aitken, Alexander Craig (1895-1967)", 
+                    "ref": "<t>Aitken, Alexander Craig (1895-1967).</t> <au>Whittaker, J. M. and McConnell, A.</au>. <inc>booktitle:oxford-dictionary-of-national-biography-in-association-with-the-british-academy-from-the-earliest-times-to-the-year-2000</inc>. ???", 
+                    "author": "Whittaker, J. M. and McConnell, A.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:oxford-dictionary-of-national-biography-in-association-with-the-british-academy-from-the-earliest-times-to-the-year-2000", 
+                    "year": "2004", 
+                    "howpublished": "???", 
+                    "topline": "incollection aitken__alexander_c:24", 
+                    "id": "aitken__alexander_c:24"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <inc>booktitle:encyclopedia-of-statistical-sciences</inc>. ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-statistical-sciences", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "incollection aitken__alexander_c:21", 
+                    "id": "aitken__alexander_c:21"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Univ. Otago Press", 
+            "title": "Proceedings of the A. C. Aitken Centenary Conference", 
+            "url": "http://www.worldcat.org/title/proceedings-of-the-ac-aitken-centenary-conference/oclc/45335658", 
+            "booktitle": "Proceedings of the A. C. Aitken Centenary Conference", 
+            "address": "Dunedin, New Zealand", 
+            "editors": "L. Kavalieris and F. C. Lam and L. A. Roberts and J. A. Shanks", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:proceedings-of-the-ac-aitken-centenary-conference", 
+            "year": "1996", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Proceedings of the A. C. Aitken Centenary Conference.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:proceedings-of-the-ac-aitken-centenary-conference"
+        }, 
+        {
+            "publisher": "New Zealand Statistical Association", 
+            "title": "A History of Statistics in New Zealand", 
+            "url": "http://www.worldcat.org/title/history-of-statistics-in-new-zealand/oclc/52117812", 
+            "booktitle": "A History of Statistics in New Zealand", 
+            "address": "Wellington", 
+            "editors": "H. S. Roberts", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:history-of-statistics-in-new-zealand", 
+            "year": "1999", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>A History of Statistics in New Zealand.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:history-of-statistics-in-new-zealand"
+        }, 
+        {
+            "publisher": "Oxford Univ. Press", 
+            "title": "Oxford Dictionary of National Biography", 
+            "url": "http://www.worldcat.org/title/oxford-dictionary-of-national-biography-in-association-with-the-british-academy-from-the-earliest-times-to-the-year-2000/oclc/54778415", 
+            "booktitle": "Oxford Dictionary of National Biography", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:oxford-dictionary-of-national-biography-in-association-with-the-british-academy-from-the-earliest-times-to-the-year-2000", 
+            "year": "2004", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Oxford Dictionary of National Biography.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:oxford-dictionary-of-national-biography-in-association-with-the-british-academy-from-the-earliest-times-to-the-year-2000"
+        }, 
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Statistical Sciences", 
+            "url": "http://onlinelibrary.wiley.com/book/10.1002/0471667196", 
+            "booktitle": "Encyclopedia of Statistical Sciences", 
+            "address": "Hoboken, NJ", 
+            "editors": "S. Kotz and N. Balakrishnan and C. Read and B. Vidakovic", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:encyclopedia-of-statistical-sciences", 
+            "year": "2006", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }
+    ]
+}

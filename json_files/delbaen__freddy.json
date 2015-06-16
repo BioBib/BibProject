@@ -1,0 +1,80 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Delbaen, Freddy", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "delbaen__freddy", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.math.ethz.ch/~delbaen/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "category": "homepage", 
+                    "href": "http://www.math.ethz.ch/~delbaen/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "category": "homepage", 
+                    "href": "http://www.math.ethz.ch/~delbaen/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:delbaen.freddy", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/19295613", 
+                    "anchor": "Microsoft Academic: F. Delbaen"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/47236132", 
+                    "anchor": "Microsoft Academic: Fredd Y. Delbaen"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/9203828", 
+                    "anchor": "Microsoft Academic: Fred Delbaen"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/10718589", 
+                    "anchor": "Microsoft Academic: Freddy Delbaen"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/1247181", 
+                    "anchor": "Microsoft Academic: Freddy Delbaen"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "2011", 
+                    "citation": "For his wide-ranging influential research in functional analysis, probability and economics, including fundamental contributions to mathematical finance, and for similarly widespread editorial service", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

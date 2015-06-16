@@ -1,0 +1,134 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Kingman, John F. C.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "kingman__john_f_c", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=189114", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:kingman.john", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:kingman.john-f-c", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=84864", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/1023092", 
+                    "anchor": "Microsoft Academic: Kingman, John Frank Charles"
+                }, 
+                {
+                    "href": "http://www.newton.ac.uk/history/kingman.html", 
+                    "anchor": "profile Personal Profile -- Newton Institute"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1968", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "The Royal Society, Fellow", 
+                    "year": "1971", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Wald Lecturer", 
+                    "year": "1977", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Guy Medal in Silver", 
+                    "year": "1981", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Knighted", 
+                    "year": "1985", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Foreign Associate", 
+                    "year": "2007", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Guy Medal in Gold", 
+                    "year": "2013", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "kingman__john", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Cambridge", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=84864"
+                        }
+                    ], 
+                    "type": "M.A.", 
+                    "year": "year?"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "National Academy of Sciences laureates", 
+                    "ref": "<t>National Academy of Sciences laureates.</t> <j>IMS Bulletin</j>, Vol. <v>36(6)</v>, pp.<pp>6</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2007", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>36(6)</v>, pp.<pp>6</pp>", 
+                    "topline": "article kingman__john_f_c:10", 
+                    "id": "kingman__john_f_c:10"
+                }, 
+                {
+                    "title": "John Frank Charles Kingman", 
+                    "ref": "<t>John Frank Charles Kingman.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2009", 
+                    "howpublished": "???", 
+                    "topline": "incollection kingman__john_f_c:11", 
+                    "id": "kingman__john_f_c:11"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

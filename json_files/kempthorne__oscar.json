@@ -1,0 +1,158 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Oscar Kempthorne", 
+                    "ref": "<t>Oscar Kempthorne.</t> <au>Weiser, B.</au>. <j>IMS Bulletin</j>, Vol. <v>30</v>, pp.<pp>85-86</pp>", 
+                    "author": "Weiser, B.", 
+                    "bibtype": "article", 
+                    "year": "2001", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>30</v>, pp.<pp>85-86</pp>", 
+                    "topline": "article kempthorne__oscar:6", 
+                    "id": "kempthorne__oscar:6"
+                }
+            ], 
+            "DOB": "1911-01-31", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2000-11-15", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Kempthorne, Oscar", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2001", 
+                    "howpublished": "???", 
+                    "topline": "misc kempthorne__oscar:451554", 
+                    "id": "kempthorne__oscar:451554"
+                }
+            ], 
+            "ims_id": "kempthorne__oscar", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://en.wikipedia.org/wiki/Oscar_Kempthorne", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=100190", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:kempthorne.oscar", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=43260", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12598935", 
+                    "anchor": "Microsoft Academic: Kempthorne, Oscar"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "R. A. Fisher Lecturer", 
+                    "year": "1965", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS President", 
+                    "year": "1985", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "19??", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Cambridge", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=43260"
+                        }
+                    ], 
+                    "type": "M.S.", 
+                    "year": "1943"
+                }, 
+                {
+                    "category": "degree", 
+                    "school": "University of Cambridge", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=43260"
+                        }
+                    ], 
+                    "type": "Sc.D.(honorary)", 
+                    "year": "1960"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Oscar Kempthorne, 1919-2000", 
+                    "ref": "<t>Oscar Kempthorne, 1919-2000.</t> <au>Hinkelmann, K.</au>. In: <bt>Statisticians in History</bt>, American Statistical Association", 
+                    "author": "Hinkelmann, K.", 
+                    "bibtype": "incollection", 
+                    "year": "2000", 
+                    "howpublished": "In: <bt>Statisticians in History</bt>, American Statistical Association", 
+                    "topline": "incollection kempthorne__oscar:10", 
+                    "id": "kempthorne__oscar:10"
+                }, 
+                {
+                    "title": "Kempthorne, Oscar", 
+                    "ref": "<t>Kempthorne, Oscar.</t> <au>David, H. A. and Pollak, E.</au>. <inc>booktitle:encyclopedia-of-biostatistics</inc>. ???", 
+                    "author": "David, H. A. and Pollak, E.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-biostatistics", 
+                    "year": "2005", 
+                    "howpublished": "???", 
+                    "topline": "incollection kempthorne__oscar:9", 
+                    "id": "kempthorne__oscar:9"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Biostatistics", 
+            "url": "http://www.worldcat.org/title/encyclopedia-of-biostatistics/oclc/38258277", 
+            "booktitle": "Encyclopedia of Biostatistics", 
+            "address": "Hoboken, NJ", 
+            "editors": "P. Armitage and T. Colton", 
+            "bibtype": "reference", 
+            "edition": "2nd", 
+            "top_line": "reference booktitle:encyclopedia-of-biostatistics", 
+            "year": "2005", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Biostatistics.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-biostatistics"
+        }
+    ]
+}

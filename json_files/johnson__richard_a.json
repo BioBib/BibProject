@@ -1,0 +1,102 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Johnson, Richard A.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "johnson__richard_a", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.stat.wisc.edu/~rich/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=95175", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:johnson.richard-a", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=61784", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/50345695", 
+                    "anchor": "Microsoft Academic: Johnson, Richard A."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1977", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Harry C. Carver Medal", 
+                    "year": "2008", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "johnson__richard", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Minnesota-Minneapolis", 
+                    "thesis_title": "Asymptotic Expansions Associated with the n-th Power of a Density", 
+                    "year": "1966", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=61784"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Richard Johnson, Carver Award", 
+                    "ref": "<t>Richard Johnson, Carver Award.</t> <au>Doksum, K. and Tsui, K.</au>. <j>IMS Bulletin</j>, Vol. <v>37(7)</v>, pp.<pp>4</pp>", 
+                    "author": "Doksum, K. and Tsui, K.", 
+                    "bibtype": "article", 
+                    "year": "2008", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>37(7)</v>, pp.<pp>4</pp>", 
+                    "topline": "article johnson__richard_a:7", 
+                    "id": "johnson__richard_a:7"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2009", 
+                    "howpublished": "???", 
+                    "topline": "misc johnson__richard_a:458731", 
+                    "id": "johnson__richard_a:458731"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

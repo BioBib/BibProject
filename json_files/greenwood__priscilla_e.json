@@ -1,0 +1,102 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Greenwood, Priscilla E.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "greenwood__priscilla_e", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.stat.ubc.ca/~pgreenw/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=76690", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:greenwood.priscilla-e", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=8409", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12543615", 
+                    "anchor": "Microsoft Academic: Greenwood, Priscilla E."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54382472", 
+                    "anchor": "Microsoft Academic: Greenwood, Priscilla E."
+                }, 
+                {
+                    "href": "http://www.stat.ubc.ca/~pgreenw/cv/index.html", 
+                    "anchor": "CV"
+                }, 
+                {
+                    "href": "http://www.stat.ubc.ca/~pgreenw/publications/index.html", 
+                    "anchor": "Publication List"
+                }, 
+                {
+                    "href": "http://www.stat.ubc.ca/~pgreenw/books/index.html", 
+                    "anchor": "Books List"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1985", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "greenwood__priscilla", 
+            "Festschrift": [
+                {
+                    "title": "Festschrift for Priscilla Greenwood", 
+                    "ref": "<t>Festschrift for Priscilla Greenwood.</t> <au>Nick H. Bingham and Igor Evstigneev</au>. ???", 
+                    "author": "Nick H. Bingham and Igor Evstigneev", 
+                    "bibtype": "book", 
+                    "year": "2008", 
+                    "howpublished": "???", 
+                    "topline": "book greenwood__priscilla_e-1", 
+                    "id": "greenwood__priscilla_e-1"
+                }
+            ], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Wisconsin-Madison", 
+                    "thesis_title": "The Convolution Equation Over a Compact Real Interval for Some Special Kernels", 
+                    "year": "1963", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=8409"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

@@ -1,0 +1,217 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1893-09-28", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1973-03-22", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Geiringer, Hilda", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "geiringer__hilda", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://de.wikipedia.org/wiki/Hilda_Geiringer", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://en.wikipedia.org/wiki/Hilda_Geiringer", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://de.wikipedia.org/wiki/Hilda_Geiringer", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=284763", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:pollaczek-geiringer.hilda", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:geiringer.hilda", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=53254", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18664075", 
+                    "anchor": "Microsoft Academic: Geiringer, Hilda"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1940", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1955", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>12</v>, pp.<pp>128</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1973", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>12</v>, pp.<pp>128</pp>", 
+                    "topline": "article geiringer__hilda:7", 
+                    "id": "geiringer__hilda:7"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "phil. Universit&auml;t Wien", 
+                    "thesis_title": "Trigonometrische Doppelreihen", 
+                    "year": "1917", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=53254"
+                        }
+                    ], 
+                    "type": "Dr."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Geiringer, Hilda", 
+                    "ref": "<t>Geiringer, Hilda.</t> <inc>booktitle:notable-american-women-the-modern-period-a-biographical-dictionary</inc>. pp.<pp>267-268</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:notable-american-women-the-modern-period-a-biographical-dictionary", 
+                    "year": "1980", 
+                    "howpublished": "pp.<pp>267-268</pp>", 
+                    "topline": "incollection geiringer__hilda:9", 
+                    "id": "geiringer__hilda:9"
+                }, 
+                {
+                    "title": "Hilda Geiringer von Mises (1893-1973).", 
+                    "ref": "<t>Hilda Geiringer von Mises (1893-1973).</t> <au>Richards, J. L.</au>. <inc>booktitle:women-of-mathematics-a-biobibliographic-sourcebook</inc>. pp.<pp>41-46</pp>", 
+                    "author": "Richards, J. L.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:women-of-mathematics-a-biobibliographic-sourcebook", 
+                    "year": "1987", 
+                    "howpublished": "pp.<pp>41-46</pp>", 
+                    "topline": "incollection geiringer__hilda:10", 
+                    "id": "geiringer__hilda:10"
+                }, 
+                {
+                    "title": "Hilda Geiringer-von Mises, Charlier series, ideology, and the human side of the emancipation of applied mathematics at the University of Berlin during the 1920s", 
+                    "ref": "<t>Hilda Geiringer-von Mises, Charlier series, ideology, and the human side of the emancipation of applied mathematics at the University of Berlin during the 1920s.</t> <au>Siegmund-Schultze, R.</au>. <j>Historia Math.</j>, Vol. <v>20</v>, pp.<pp>364-381</pp>", 
+                    "author": "Siegmund-Schultze, R.", 
+                    "bibtype": "article", 
+                    "year": "1993", 
+                    "howpublished": "<j>Historia Math.</j>, Vol. <v>20</v>, pp.<pp>364-381</pp>", 
+                    "topline": "article geiringer__hilda:11", 
+                    "id": "geiringer__hilda:11"
+                }, 
+                {
+                    "title": "Beitr&auml;ge zu einer Biographie von Hilda Geiringer, Jugend und Studium in Wien", 
+                    "ref": "<t>Beitr&auml;ge zu einer Biographie von Hilda Geiringer, Jugend und Studium in Wien.</t> <au>Binder, C.</au>. <j>GAMM-Mitteilungen</j>, Vol. <v>18</v>, pp.<pp>61-72</pp>", 
+                    "author": "Binder, C.", 
+                    "bibtype": "article", 
+                    "year": "1995", 
+                    "howpublished": "<j>GAMM-Mitteilungen</j>, Vol. <v>18</v>, pp.<pp>61-72</pp>", 
+                    "topline": "article geiringer__hilda:12", 
+                    "id": "geiringer__hilda:12"
+                }, 
+                {
+                    "title": "Hilda Geiringer von Mises", 
+                    "ref": "<t>Hilda Geiringer von Mises.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2000", 
+                    "howpublished": "???", 
+                    "topline": "incollection geiringer__hilda:14", 
+                    "id": "geiringer__hilda:14"
+                }, 
+                {
+                    "title": "Hilda Geiringer: A pioneer of applied mathematics and a woman ahead of her time was saved from Fascism by Turkey", 
+                    "ref": "<t>Hilda Geiringer: A pioneer of applied mathematics and a woman ahead of her time was saved from Fascism by Turkey.</t> <au>Reisman, A.</au>. <j>Women in Judaism: A Multidisciplinary Journal</j>, Vol. <v>4(2)</v>", 
+                    "author": "Reisman, A.", 
+                    "bibtype": "article", 
+                    "year": "2007", 
+                    "howpublished": "<j>Women in Judaism: A Multidisciplinary Journal</j>, Vol. <v>4(2)</v>", 
+                    "topline": "article geiringer__hilda:13", 
+                    "id": "geiringer__hilda:13"
+                }, 
+                {
+                    "title": "Hilda Geiringer von Mises", 
+                    "ref": "<t>Hilda Geiringer von Mises.</t> In: <bt>Agnes Scott College Website</bt>", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "year?", 
+                    "howpublished": "In: <bt>Agnes Scott College Website</bt>", 
+                    "topline": "misc geiringer__hilda:15", 
+                    "id": "geiringer__hilda:15"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "year?", 
+                    "howpublished": "???", 
+                    "topline": "misc geiringer__hilda:16", 
+                    "id": "geiringer__hilda:16"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Belknap Press of Harvard Univ. Press", 
+            "title": "Notable American Women: The Modern Period", 
+            "url": "http://www.worldcat.org/title/notable-american-women-the-modern-period-a-biographical-dictionary/oclc/6487187", 
+            "booktitle": "Notable American Women: The Modern Period", 
+            "address": "Cambridge, MA", 
+            "editors": "B. Sicherman and C. H. Green", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:notable-american-women-the-modern-period-a-biographical-dictionary", 
+            "year": "1980", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Notable American Women: The Modern Period.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:notable-american-women-the-modern-period-a-biographical-dictionary"
+        }, 
+        {
+            "publisher": "Greenwood Press", 
+            "title": "Women of Mathematics: A Biobibliographic Sourcebook", 
+            "url": "http://www.worldcat.org/title/women-of-mathematics-a-biobibliographic-sourcebook/oclc/14377479", 
+            "booktitle": "Women of Mathematics: A Biobibliographic Sourcebook", 
+            "address": "New York", 
+            "editors": "L. S. Grinstein and P. J. Campbell", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:women-of-mathematics-a-biobibliographic-sourcebook", 
+            "year": "1987", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Women of Mathematics: A Biobibliographic Sourcebook.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:women-of-mathematics-a-biobibliographic-sourcebook"
+        }
+    ]
+}

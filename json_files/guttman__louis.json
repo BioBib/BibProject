@@ -1,0 +1,155 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1987", 
+                    "howpublished": "???", 
+                    "topline": "misc guttman__louis:364248", 
+                    "id": "guttman__louis:364248"
+                }, 
+                {
+                    "title": "Louis Guttman, 1916-1987", 
+                    "ref": "<t>Louis Guttman, 1916-1987.</t> <j>IMS Bulletin</j>, Vol. <v>17</v>, pp.<pp>284</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1988", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>17</v>, pp.<pp>284</pp>", 
+                    "topline": "article guttman__louis:8", 
+                    "id": "guttman__louis:8"
+                }
+            ], 
+            "DOB": "1916-02-10", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1987-10-25", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Guttman, Louis", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Louis E. Guttman (1916-1987)", 
+                    "ref": "<t>Louis E. Guttman (1916-1987).</t> <au>Lingoes, J. C. and Tucker, L. R. and Shye, S.</au>. <j>Psychometrika</j>, Vol. <v>53</v>, pp.<pp>153-159</pp>", 
+                    "author": "Lingoes, J. C. and Tucker, L. R. and Shye, S.", 
+                    "bibtype": "article", 
+                    "year": "1988", 
+                    "howpublished": "<j>Psychometrika</j>, Vol. <v>53</v>, pp.<pp>153-159</pp>", 
+                    "topline": "article guttman__louis:9", 
+                    "id": "guttman__louis:9"
+                }, 
+                {
+                    "title": "Louis Guttman, 1916-1987", 
+                    "ref": "<t>Louis Guttman, 1916-1987.</t> <au>Katz, E.</au>. <j>Public Opinion Quarterly</j>, Vol. <v>52</v>, pp.<pp>240-242</pp>", 
+                    "author": "Katz, E.", 
+                    "bibtype": "article", 
+                    "year": "1988", 
+                    "howpublished": "<j>Public Opinion Quarterly</j>, Vol. <v>52</v>, pp.<pp>240-242</pp>", 
+                    "topline": "article guttman__louis:10", 
+                    "id": "guttman__louis:10"
+                }, 
+                {
+                    "title": "Louis Guttman, 1916-1987", 
+                    "ref": "<t>Louis Guttman, 1916-1987.</t> <au>Shye, S.</au>. <j>Applied Stochastic Models and Data Analysis</j>, Vol. <v>4</v>, pp.<pp>75-77</pp>", 
+                    "author": "Shye, S.", 
+                    "bibtype": "article", 
+                    "year": "1988", 
+                    "howpublished": "<j>Applied Stochastic Models and Data Analysis</j>, Vol. <v>4</v>, pp.<pp>75-77</pp>", 
+                    "topline": "article guttman__louis:11", 
+                    "id": "guttman__louis:11"
+                }
+            ], 
+            "ims_id": "guttman__louis", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://en.wikipedia.org/wiki/Louis_Guttman", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.york.ac.uk/depts/maths/histstat/people/guttman.gif", 
+                    "anchor": "www.york.ac.uk"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:guttman.louis", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/42213490", 
+                    "anchor": "Microsoft Academic: Guttman, Louis"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1946", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Israel Academy of Sciences and Humanities, Member", 
+                    "year": "1971", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Foreign Honorary Member", 
+                    "year": "1975", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Israel Prize", 
+                    "year": "1978", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <inc>booktitle:encyclopedia-of-statistical-sciences</inc>. ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-statistical-sciences", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "incollection guttman__louis:15", 
+                    "id": "guttman__louis:15"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Statistical Sciences", 
+            "url": "http://onlinelibrary.wiley.com/book/10.1002/0471667196", 
+            "booktitle": "Encyclopedia of Statistical Sciences", 
+            "address": "Hoboken, NJ", 
+            "editors": "S. Kotz and N. Balakrishnan and C. Read and B. Vidakovic", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:encyclopedia-of-statistical-sciences", 
+            "year": "2006", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Kalbfleisch, John D.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "kalbfleisch__john_d", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.stat.lsa.umich.edu/faculty/kalbfleisch_jack.html", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=97050", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:kalbfleisch.john-d", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/2682921", 
+                    "anchor": "Microsoft Academic: Kalbfleisch, John D."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53783915", 
+                    "anchor": "Microsoft Academic: Kalbfleisch, John D."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1988", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "The Royal Society of Canada, Fellow", 
+                    "year": "1994", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "R. A. Fisher Lecturer", 
+                    "year": "1999", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "George W. Snedecor Award", 
+                    "year": "2009", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "kalbfleisch__john", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

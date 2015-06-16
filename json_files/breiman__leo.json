@@ -1,0 +1,245 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2005", 
+                    "howpublished": "???", 
+                    "topline": "misc breiman__leo:472325", 
+                    "id": "breiman__leo:472325"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2005", 
+                    "howpublished": "???", 
+                    "topline": "misc breiman__leo:28916", 
+                    "id": "breiman__leo:28916"
+                }
+            ], 
+            "DOB": "1928-01-27", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2005-07-05", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Breiman, Leo", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>34(9)</v>, pp.<pp>15</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2005", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>34(9)</v>, pp.<pp>15</pp>", 
+                    "topline": "article breiman__leo:10", 
+                    "id": "breiman__leo:10"
+                }, 
+                {
+                    "title": "Remembering Leo Breiman", 
+                    "ref": "<t>Remembering Leo Breiman.</t> <au>Cutler, A.</au>. <j>Ann. Appl. Stat.</j>, Vol. <v>4</v>, pp.<pp>1621-1633</pp>", 
+                    "author": "Cutler, A.", 
+                    "bibtype": "article", 
+                    "year": "2010", 
+                    "howpublished": "<j>Ann. Appl. Stat.</j>, Vol. <v>4</v>, pp.<pp>1621-1633</pp>", 
+                    "topline": "article breiman__leo:11", 
+                    "id": "breiman__leo:11"
+                }, 
+                {
+                    "title": "Leo Breiman: An important intellectual and personal force in statistics, my life and that of many others", 
+                    "ref": "<t>Leo Breiman: An important intellectual and personal force in statistics, my life and that of many others.</t> <au>Bickel, P. J.</au>. <j>Ann. Appl. Stat.</j>, Vol. <v>4</v>, pp.<pp>1634-1637</pp>", 
+                    "author": "Bickel, P. J.", 
+                    "bibtype": "article", 
+                    "year": "2010", 
+                    "howpublished": "<j>Ann. Appl. Stat.</j>, Vol. <v>4</v>, pp.<pp>1634-1637</pp>", 
+                    "topline": "article breiman__leo:12", 
+                    "id": "breiman__leo:12"
+                }, 
+                {
+                    "title": "Remembrance of Leo Breiman", 
+                    "ref": "<t>Remembrance of Leo Breiman.</t> <au>B&uuml;hlmann, P.</au>. <j>Ann. Appl. Stat.</j>, Vol. <v>4</v>, pp.<pp>1638-1641</pp>", 
+                    "author": "B&uuml;hlmann, P.", 
+                    "bibtype": "article", 
+                    "year": "2010", 
+                    "howpublished": "<j>Ann. Appl. Stat.</j>, Vol. <v>4</v>, pp.<pp>1638-1641</pp>", 
+                    "topline": "article breiman__leo:13", 
+                    "id": "breiman__leo:13"
+                }, 
+                {
+                    "title": "Leo Breiman", 
+                    "ref": "<t>Leo Breiman.</t> <au>Jordan, M. I.</au>. <j>Ann. Appl. Stat.</j>, Vol. <v>4</v>, pp.<pp>1642-1643</pp>", 
+                    "author": "Jordan, M. I.", 
+                    "bibtype": "article", 
+                    "year": "2010", 
+                    "howpublished": "<j>Ann. Appl. Stat.</j>, Vol. <v>4</v>, pp.<pp>1642-1643</pp>", 
+                    "topline": "article breiman__leo:14", 
+                    "id": "breiman__leo:14"
+                }, 
+                {
+                    "title": "Remembering Leo Breiman", 
+                    "ref": "<t>Remembering Leo Breiman.</t> <au>Olshen, R. A.</au>. <j>Ann. Appl. Stat.</j>, Vol. <v>4</v>, pp.<pp>1644-1648</pp>", 
+                    "author": "Olshen, R. A.", 
+                    "bibtype": "article", 
+                    "year": "2010", 
+                    "howpublished": "<j>Ann. Appl. Stat.</j>, Vol. <v>4</v>, pp.<pp>1644-1648</pp>", 
+                    "topline": "article breiman__leo:15", 
+                    "id": "breiman__leo:15"
+                }, 
+                {
+                    "title": "Remembering Leo", 
+                    "ref": "<t>Remembering Leo.</t> <au>Friedman, J. H.</au>. <j>Ann. Appl. Stat.</j>, Vol. <v>4</v>, pp.<pp>1649-1651</pp>", 
+                    "author": "Friedman, J. H.", 
+                    "bibtype": "article", 
+                    "year": "2010", 
+                    "howpublished": "<j>Ann. Appl. Stat.</j>, Vol. <v>4</v>, pp.<pp>1649-1651</pp>", 
+                    "topline": "article breiman__leo:16", 
+                    "id": "breiman__leo:16"
+                }, 
+                {
+                    "title": "Selected recollections of my relationship with Leo Breiman", 
+                    "ref": "<t>Selected recollections of my relationship with Leo Breiman.</t> <au>Stone, C. J.</au>. <j>Ann. Appl. Stat.</j>, Vol. <v>4</v>, pp.<pp>1652-1655</pp>", 
+                    "author": "Stone, C. J.", 
+                    "bibtype": "article", 
+                    "year": "2010", 
+                    "howpublished": "<j>Ann. Appl. Stat.</j>, Vol. <v>4</v>, pp.<pp>1652-1655</pp>", 
+                    "topline": "article breiman__leo:17", 
+                    "id": "breiman__leo:17"
+                }, 
+                {
+                    "title": "Leo and me", 
+                    "ref": "<t>Leo and me.</t> <au>Feldman, J.</au>. <j>Ann. Appl. Stat.</j>, Vol. <v>4</v>, pp.<pp>1656</pp>", 
+                    "author": "Feldman, J.", 
+                    "bibtype": "article", 
+                    "year": "2010", 
+                    "howpublished": "<j>Ann. Appl. Stat.</j>, Vol. <v>4</v>, pp.<pp>1656</pp>", 
+                    "topline": "article breiman__leo:18", 
+                    "id": "breiman__leo:18"
+                }, 
+                {
+                    "title": "Remembering Leo", 
+                    "ref": "<t>Remembering Leo.</t> <au>Yu, B.</au>. <j>Ann. Appl. Stat.</j>, Vol. <v>4</v>, pp.<pp>1657-1659</pp>", 
+                    "author": "Yu, B.", 
+                    "bibtype": "article", 
+                    "year": "2010", 
+                    "howpublished": "<j>Ann. Appl. Stat.</j>, Vol. <v>4</v>, pp.<pp>1657-1659</pp>", 
+                    "topline": "article breiman__leo:19", 
+                    "id": "breiman__leo:19"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "year?", 
+                    "howpublished": "???", 
+                    "topline": "misc breiman__leo:155521", 
+                    "id": "breiman__leo:155521"
+                }
+            ], 
+            "ims_id": "breiman__leo", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.stat.berkeley.edu/users/breiman/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://en.wikipedia.org/wiki/Leo_Breiman", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.york.ac.uk/depts/maths/histstat/people/breiman.gif", 
+                    "anchor": "www.york.ac.uk"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=189332", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:breiman.leo", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=32157", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/211125", 
+                    "anchor": "Microsoft Academic: Breiman, Leo"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1975", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1999", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Member", 
+                    "year": "2001", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Wald Lecturer", 
+                    "year": "2002", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of California, Berkeley", 
+                    "thesis_title": "Homogeneous Processes", 
+                    "year": "1954", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=32157"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "A conversation with Leo Breiman", 
+                    "ref": "<t>A conversation with Leo Breiman.</t> <au>Olshen, R.</au>. <j>Statist. Sci.</j>, Vol. <v>16</v>, pp.<pp>184-198</pp>", 
+                    "author": "Olshen, R.", 
+                    "bibtype": "article", 
+                    "year": "2001", 
+                    "howpublished": "<j>Statist. Sci.</j>, Vol. <v>16</v>, pp.<pp>184-198</pp>", 
+                    "topline": "article breiman__leo:23", 
+                    "id": "breiman__leo:23"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

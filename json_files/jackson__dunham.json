@@ -1,0 +1,123 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1888-07-24", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1946-11-06", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Jackson, Dunham", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "jackson__dunham", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www-history.mcs.st-and.ac.uk/Printonly/Jackson_Dunham.html", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=467492", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:jackson.dunham", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=45028", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12762075", 
+                    "anchor": "Microsoft Academic: Jackson, Dunham"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/51115026", 
+                    "anchor": "Microsoft Academic: Jackson, Dunham"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/49911696", 
+                    "anchor": "Microsoft Academic: Jackson, Dunham"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1915", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Chauvenet Prize", 
+                    "year": "1935", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Member", 
+                    "year": "1935", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "before 1943", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Georg-August-Universit&auml;t G&ouml;ttingen", 
+                    "thesis_title": "&Uuml;ber die Genauigkeit der Ann&auml;herung stetiger Funktionen durch ganze rationale Funktionen gegebenen Grades und trigonometrische Summen gegebener Ordnung", 
+                    "year": "1911", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=45028"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Dunham Jackson, July 24, 1888-November 6, 1946", 
+                    "ref": "<t>Dunham Jackson, July 24, 1888-November 6, 1946.</t> <au>Hart, W. L.</au>. <j>Biographical Memoirs</j>, National Academies Press, pp.<pp>141-179</pp>", 
+                    "author": "Hart, W. L.", 
+                    "bibtype": "article", 
+                    "year": "1959", 
+                    "howpublished": "<j>Biographical Memoirs</j>, National Academies Press, pp.<pp>141-179</pp>", 
+                    "topline": "article jackson__dunham:10", 
+                    "id": "jackson__dunham:10"
+                }, 
+                {
+                    "title": "Dunham Jackson", 
+                    "ref": "<t>Dunham Jackson.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "incollection jackson__dunham:11", 
+                    "id": "jackson__dunham:11"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

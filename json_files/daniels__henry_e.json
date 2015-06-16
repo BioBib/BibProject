@@ -1,0 +1,229 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2000", 
+                    "howpublished": "???", 
+                    "topline": "misc daniels__henry_e:715997", 
+                    "id": "daniels__henry_e:715997"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2000", 
+                    "howpublished": "???", 
+                    "topline": "misc daniels__henry_e:976486", 
+                    "id": "daniels__henry_e:976486"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2000", 
+                    "howpublished": "???", 
+                    "topline": "misc daniels__henry_e:204388", 
+                    "id": "daniels__henry_e:204388"
+                }, 
+                {
+                    "title": "Henry Daniels, 1912-2000", 
+                    "ref": "<t>Henry Daniels, 1912-2000.</t> <j>IMS Bulletin</j>, Vol. <v>29</v>, pp.<pp>409-410</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2000", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>29</v>, pp.<pp>409-410</pp>", 
+                    "topline": "article daniels__henry_e:11", 
+                    "id": "daniels__henry_e:11"
+                }
+            ], 
+            "DOB": "1912-10-02", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2000-04-16", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Daniels, Henry E.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Henry Daniels", 
+                    "ref": "<t>Henry Daniels.</t> <au>Whittle, P.</au>. <j>J. Roy. Statist. Soc. Ser. D</j>, Vol. <v>50</v>, pp.<pp>213-214</pp>", 
+                    "author": "Whittle, P.", 
+                    "bibtype": "article", 
+                    "year": "2001", 
+                    "howpublished": "<j>J. Roy. Statist. Soc. Ser. D</j>, Vol. <v>50</v>, pp.<pp>213-214</pp>", 
+                    "topline": "article daniels__henry_e:12", 
+                    "id": "daniels__henry_e:12"
+                }
+            ], 
+            "ims_id": "daniels__henry_e", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://en.wikipedia.org/wiki/Henry_Daniels", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://en.wikipedia.org/wiki/Henry_Daniels", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.york.ac.uk/depts/maths/histstat/people/daniels.gif", 
+                    "anchor": "www.york.ac.uk"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=54475", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:daniels.henry-e", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=57769", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12866433", 
+                    "anchor": "Microsoft Academic: Daniels, H. E."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54218635", 
+                    "anchor": "Microsoft Academic: Daniels, Henry E."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1954", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Guy Medal in Silver", 
+                    "year": "1957", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "The Royal Society, Fellow", 
+                    "year": "1980", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Guy Medal in Gold", 
+                    "year": "1984", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "daniels__henry", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Edinburgh", 
+                    "thesis_title": "On the Strength Distribution of Bundles of Threads, and Its Asymptotic Distribution", 
+                    "year": "1943", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=57769"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "A conversation with Henry Daniels", 
+                    "ref": "<t>A conversation with Henry Daniels.</t> <au>Whittle, P.</au>. <j>Statist. Sci.</j>, Vol. <v>8</v>, pp.<pp>342-353</pp>", 
+                    "author": "Whittle, P.", 
+                    "bibtype": "article", 
+                    "year": "1993", 
+                    "howpublished": "<j>Statist. Sci.</j>, Vol. <v>8</v>, pp.<pp>342-353</pp>", 
+                    "topline": "article daniels__henry_e:14", 
+                    "id": "daniels__henry_e:14"
+                }, 
+                {
+                    "title": "Henry Ellis Daniels, 2 October 1912-16 April 2000", 
+                    "ref": "<t>Henry Ellis Daniels, 2 October 1912-16 April 2000.</t> <au>Cox, D.</au>. <j>Biogr. Mems. Fell. R. Soc.</j>, Vol. <v>49</v>, pp.<pp>133-146</pp>", 
+                    "author": "Cox, D.", 
+                    "bibtype": "article", 
+                    "year": "2003", 
+                    "howpublished": "<j>Biogr. Mems. Fell. R. Soc.</j>, Vol. <v>49</v>, pp.<pp>133-146</pp>", 
+                    "topline": "article daniels__henry_e:15", 
+                    "id": "daniels__henry_e:15"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <au>Cox, D. R.</au>. <inc>booktitle:oxford-dictionary-of-national-biography-in-association-with-the-british-academy-from-the-earliest-times-to-the-year-2000</inc>. ???", 
+                    "author": "Cox, D. R.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:oxford-dictionary-of-national-biography-in-association-with-the-british-academy-from-the-earliest-times-to-the-year-2000", 
+                    "year": "2004", 
+                    "howpublished": "???", 
+                    "topline": "incollection daniels__henry_e:16", 
+                    "id": "daniels__henry_e:16"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <au>Cox, D. R.</au>. <inc>booktitle:encyclopedia-of-statistical-sciences</inc>. ???", 
+                    "author": "Cox, D. R.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-statistical-sciences", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "incollection daniels__henry_e:17", 
+                    "id": "daniels__henry_e:17"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Oxford Univ. Press", 
+            "title": "Oxford Dictionary of National Biography", 
+            "url": "http://www.worldcat.org/title/oxford-dictionary-of-national-biography-in-association-with-the-british-academy-from-the-earliest-times-to-the-year-2000/oclc/54778415", 
+            "booktitle": "Oxford Dictionary of National Biography", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:oxford-dictionary-of-national-biography-in-association-with-the-british-academy-from-the-earliest-times-to-the-year-2000", 
+            "year": "2004", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Oxford Dictionary of National Biography.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:oxford-dictionary-of-national-biography-in-association-with-the-british-academy-from-the-earliest-times-to-the-year-2000"
+        }, 
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Statistical Sciences", 
+            "url": "http://onlinelibrary.wiley.com/book/10.1002/0471667196", 
+            "booktitle": "Encyclopedia of Statistical Sciences", 
+            "address": "Hoboken, NJ", 
+            "editors": "S. Kotz and N. Balakrishnan and C. Read and B. Vidakovic", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:encyclopedia-of-statistical-sciences", 
+            "year": "2006", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }
+    ]
+}

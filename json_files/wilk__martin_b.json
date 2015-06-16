@@ -1,0 +1,115 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Lennick, M. Martin Wilk remembered as `the best statistician in Canada's history.'", 
+                    "ref": "<t>Lennick, M. Martin Wilk remembered as `the best statistician in Canada's history.'.</t> <j>The Globe and Mail</j>", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2013", 
+                    "howpublished": "<j>The Globe and Mail</j>", 
+                    "topline": "misc wilk__martin_b:873007", 
+                    "id": "wilk__martin_b:873007"
+                }, 
+                {
+                    "title": "Martin B. Wilk, 1922-2013", 
+                    "ref": "<t>Martin B. Wilk, 1922-2013.</t> <au>Christian Genest and Gordon J. Brackstone</au>. <j>IMS Bulletin</j>", 
+                    "author": "Christian Genest and Gordon J. Brackstone", 
+                    "bibtype": "article", 
+                    "year": "2013", 
+                    "howpublished": "<j>IMS Bulletin</j>", 
+                    "topline": "article wilk__martin_b:169948", 
+                    "id": "wilk__martin_b:169948"
+                }
+            ], 
+            "DOB": "1922-12-18", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2013-02-19", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Wilk, Martin B.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "wilk__martin_b", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.ssc.ca/en/about/history-ssc/martin-bradbury-wilk", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=565540", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=96187", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12600582", 
+                    "anchor": "Microsoft Academic: M. B. Wilk"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1967", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "wilk__martin", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Iowa State University", 
+                    "thesis_title": "Linear Models and Randomized Experiments", 
+                    "year": "1955", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=96187"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Martin Bradbury Wilk: A new honorary member of the Statistical Society of Canada", 
+                    "ref": "<t>Martin Bradbury Wilk: A new honorary member of the Statistical Society of Canada.</t> <au>Brillinger, D. R. and Gentleman, J. F.</au>. <j>Liaison</j>", 
+                    "author": "Brillinger, D. R. and Gentleman, J. F.", 
+                    "bibtype": "misc", 
+                    "year": "1989", 
+                    "howpublished": "<j>Liaison</j>", 
+                    "topline": "misc wilk__martin_b:918674", 
+                    "id": "wilk__martin_b:918674"
+                }, 
+                {
+                    "title": "A conversation with Martin Bradbury Wilk", 
+                    "ref": "<t>A conversation with Martin Bradbury Wilk.</t> <au>Christian Genest and Gordon J. Brackstone</au>. <j>Statist. Sci.</j>", 
+                    "author": "Christian Genest and Gordon J. Brackstone", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "<j>Statist. Sci.</j>", 
+                    "topline": "misc wilk__martin_b:50012", 
+                    "id": "wilk__martin_b:50012"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

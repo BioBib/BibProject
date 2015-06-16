@@ -1,0 +1,89 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1948-03-10", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2004-05-05", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Reinsel, Gregory C.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Gregory C. Reinsel, 1948-2004", 
+                    "ref": "<t>Gregory C. Reinsel, 1948-2004.</t> <au>Clayton, M.</au>. <j>IMS Bulletin</j>, Vol. <v>35(2)</v>, pp.<pp>9</pp>", 
+                    "author": "Clayton, M.", 
+                    "bibtype": "article", 
+                    "year": "2006", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>35(2)</v>, pp.<pp>9</pp>", 
+                    "topline": "article reinsel__gregory_c:9", 
+                    "id": "reinsel__gregory_c:9"
+                }
+            ], 
+            "ims_id": "reinsel__gregory_c", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.stat.wisc.edu/~reinsel/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=146615", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:reinsel.gregory-c", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=49280", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12766796", 
+                    "anchor": "Microsoft Academic: Reinsel, Gregory C."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "2000", 
+                    "citation": "For pioneering research in multivariate time series methods and in statistical trend analysis of global atmospheric ozone and temperature data, and for outstanding editorial and other service to the profession", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "reinsel__gregory", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Pittsburgh", 
+                    "thesis_title": "Estimation of Linear Time Series Models", 
+                    "year": "1976", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=49280"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

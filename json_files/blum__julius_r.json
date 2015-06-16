@@ -1,0 +1,108 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1922-02-01", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1982-04-13", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Blum, Julius R.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Julius R. Blum, 1922-1982", 
+                    "ref": "<t>Julius R. Blum, 1922-1982.</t> <au>Rosenblatt, M. and Samaniego, F. J.</au>. <j>Ann. Statist.</j>, Vol. <v>13</v>, pp.<pp>1-9</pp>", 
+                    "author": "Rosenblatt, M. and Samaniego, F. J.", 
+                    "bibtype": "article", 
+                    "year": "1985", 
+                    "howpublished": "<j>Ann. Statist.</j>, Vol. <v>13</v>, pp.<pp>1-9</pp>", 
+                    "topline": "article blum__julius_r:9", 
+                    "id": "blum__julius_r:9"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1985", 
+                    "howpublished": "???", 
+                    "topline": "misc blum__julius_r:107096", 
+                    "id": "blum__julius_r:107096"
+                }
+            ], 
+            "ims_id": "blum__julius_r", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=38220", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:blum.julius-r", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=14955", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12765314", 
+                    "anchor": "Microsoft Academic: Blum, Julius R."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53453534", 
+                    "anchor": "Microsoft Academic: Blum, Julius R."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1958", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "blum__julius", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>11</v>, pp.<pp>216</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1982", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>11</v>, pp.<pp>216</pp>", 
+                    "topline": "article blum__julius_r:8", 
+                    "id": "blum__julius_r:8"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of California, Berkeley", 
+                    "thesis_title": "Strong Consistency of Stochastic Approximation Methods", 
+                    "year": "1953", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=14955"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

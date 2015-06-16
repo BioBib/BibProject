@@ -1,0 +1,104 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Samuel David Silvey, 1924-1990", 
+                    "ref": "<t>Samuel David Silvey, 1924-1990.</t> <au>Titterington, D. M.</au>. <j>IMS Bulletin</j>, Vol. <v>19</v>, pp.<pp>667</pp>", 
+                    "author": "Titterington, D. M.", 
+                    "bibtype": "article", 
+                    "year": "1990", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>19</v>, pp.<pp>667</pp>", 
+                    "topline": "article silvey__s_d:8", 
+                    "id": "silvey__s_d:8"
+                }
+            ], 
+            "DOB": "1924-03-07", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1990-10-09", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Silvey, Samuel D.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Professor S. D. Silvey, 1924-90", 
+                    "ref": "<t>Professor S. D. Silvey, 1924-90.</t> <au>Cox, D. R.</au>. <j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>154</v>, pp.<pp>354-355</pp>", 
+                    "author": "Cox, D. R.", 
+                    "bibtype": "article", 
+                    "year": "1991", 
+                    "howpublished": "<j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>154</v>, pp.<pp>354-355</pp>", 
+                    "topline": "article silvey__s_d:9", 
+                    "id": "silvey__s_d:9"
+                }
+            ], 
+            "ims_id": "silvey__s_d", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=162260", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:silvey.samuel-d", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=42210", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52397748", 
+                    "anchor": "Microsoft Academic: Silvey, S. D."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/10862580", 
+                    "anchor": "Microsoft Academic: Silvey, S. D."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "The Royal Society of Edinburgh, Fellow", 
+                    "year": "1967", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1978", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "silvey__s", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Glasgow", 
+                    "thesis_title": "A Contribution to the Theory non-Parametric Statistical Inference", 
+                    "year": "1953", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=42210"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

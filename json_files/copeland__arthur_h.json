@@ -1,0 +1,143 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1898-06-22", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1970-07-06", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Copeland, Arthur H.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "copeland__arthur_h", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://en.wikipedia.org/wiki/Arthur_Herbert_Copeland", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=427871", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:copeland.arthur-h-sen", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:copeland.arthur-h-jun", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=7614", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/55036370", 
+                    "anchor": "Microsoft Academic: Copeland, Arthur H."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1943", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "copeland__arthur", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>Ann. Math. Statist.</j>, Vol. <v>42</v>, pp.<pp>847</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1971", 
+                    "howpublished": "<j>Ann. Math. Statist.</j>, Vol. <v>42</v>, pp.<pp>847</pp>", 
+                    "topline": "article copeland__arthur_h:8", 
+                    "id": "copeland__arthur_h:8"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Harvard University", 
+                    "thesis_title": "Studies on the Gyroscope", 
+                    "year": "1926", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=7614"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Mathematics at the University of Michigan", 
+                    "ref": "<t>Mathematics at the University of Michigan.</t> <au>Kaplan, W.</au>. <inc>booktitle:century-of-mathematics-in-america-part-iii</inc>. pp.<pp>179-189</pp>", 
+                    "author": "Kaplan, W.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:century-of-mathematics-in-america-part-iii", 
+                    "year": "1989", 
+                    "howpublished": "pp.<pp>179-189</pp>", 
+                    "topline": "incollection copeland__arthur_h:9", 
+                    "id": "copeland__arthur_h:9"
+                }, 
+                {
+                    "title": "Reminiscences of mathematics Michigan", 
+                    "ref": "<t>Reminiscences of mathematics Michigan.</t> <au>Wilder, R. L.</au>. <inc>booktitle:century-of-mathematics-in-america-part-iii</inc>. pp.<pp>191-204</pp>", 
+                    "author": "Wilder, R. L.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:century-of-mathematics-in-america-part-iii", 
+                    "year": "1989", 
+                    "howpublished": "pp.<pp>191-204</pp>", 
+                    "topline": "incollection copeland__arthur_h:10", 
+                    "id": "copeland__arthur_h:10"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "American Mathematical Society", 
+            "title": "A Century of Mathematics in America, Part III", 
+            "url": "http://www.worldcat.org/title/century-of-mathematics-in-america-part-iii/oclc/28363941", 
+            "booktitle": "A Century of Mathematics in America, Part III", 
+            "address": "Providence, RI", 
+            "editors": "P. Duren and R. Askey and H. M. Edwards and U. C. Merzbach", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:century-of-mathematics-in-america-part-iii", 
+            "year": "1989", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>A Century of Mathematics in America, Part III.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:century-of-mathematics-in-america-part-iii"
+        }, 
+        {
+            "publisher": "American Mathematical Society", 
+            "title": "A Century of Mathematics in America, Part III", 
+            "url": "http://www.worldcat.org/title/century-of-mathematics-in-america-part-iii/oclc/28363941", 
+            "booktitle": "A Century of Mathematics in America, Part III", 
+            "address": "Providence, RI", 
+            "editors": "P. Duren and R. Askey and H. M. Edwards and U. C. Merzbach", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:century-of-mathematics-in-america-part-iii", 
+            "year": "1989", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>A Century of Mathematics in America, Part III.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:century-of-mathematics-in-america-part-iii"
+        }
+    ]
+}

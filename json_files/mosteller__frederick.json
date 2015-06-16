@@ -1,0 +1,244 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1916-12-24", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2006-07-23", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Mosteller, Frederick", 
+            "Oral_History": [], 
+            "Selected_Works": [
+                {
+                    "title": "Selected Papers of Frederick Mosteller", 
+                    "ref": "<t>Selected Papers of Frederick Mosteller.</t> Springer", 
+                    "author": "Anonymous", 
+                    "bibtype": "book", 
+                    "year": "2006", 
+                    "howpublished": "Springer", 
+                    "topline": "book mosteller__frederick:22", 
+                    "id": "mosteller__frederick:22"
+                }
+            ], 
+            "In_Memoriam": [
+                {
+                    "title": "Fred Mosteller, 1916-2006", 
+                    "ref": "<t>Fred Mosteller, 1916-2006.</t> <au>Fienberg, S. E. and Tanur, J. M.</au>. <j>IMS Bulletin</j>, Vol. <v>35(8)</v>, pp.<pp>14-15</pp>", 
+                    "author": "Fienberg, S. E. and Tanur, J. M.", 
+                    "bibtype": "article", 
+                    "year": "2006", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>35(8)</v>, pp.<pp>14-15</pp>", 
+                    "topline": "article mosteller__frederick:9", 
+                    "id": "mosteller__frederick:9"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "misc mosteller__frederick:758441", 
+                    "id": "mosteller__frederick:758441"
+                }
+            ], 
+            "ims_id": "mosteller__frederick", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.very-clever.com/information/deoqqukuuh", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=127435", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:mosteller.frederick", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=35033", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/17963453", 
+                    "anchor": "Microsoft Academic: Mosteller, Frederick"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54738756", 
+                    "anchor": "Microsoft Academic: Mosteller, Frederick"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1947", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1954", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Philosophical Society, Fellow", 
+                    "year": "1961", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Institute of Medicine, Member", 
+                    "year": "1971", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Member", 
+                    "year": "1974", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS President", 
+                    "year": "1975", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Samuel S. Wilks Award", 
+                    "year": "1986", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "R. A. Fisher Lecturer", 
+                    "year": "1987", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [
+                {
+                    "title": "A Statistical Model: Frederick Mosteller's Contributions to Statistics, Science, and Public Policy", 
+                    "ref": "<t>A Statistical Model: Frederick Mosteller's Contributions to Statistics, Science, and Public Policy.</t> Springer", 
+                    "author": "Anonymous", 
+                    "bibtype": "book", 
+                    "year": "1990", 
+                    "howpublished": "Springer", 
+                    "topline": "book mosteller__frederick:8", 
+                    "id": "mosteller__frederick:8"
+                }
+            ], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Princeton University", 
+                    "thesis_title": "On some useful inefficient statistics", 
+                    "year": "1946", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=35033"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "A Statistical Model: Frederick Mosteller's Contributions to Statistics, Science, and Public Policy", 
+                    "ref": "<t>A Statistical Model: Frederick Mosteller's Contributions to Statistics, Science, and Public Policy.</t> <au>Tukey, J. W.</au>. <ed>Fienberg, S. E. and Hoaglin, D. C. and Kruskal, W. H. and Tanur, J. M.</ed>. Fienberg, S. E. and Hoaglin, D. C. and Kruskal, W. H. and Tanur, J. M., Springer, pp.<pp>1-5</pp>", 
+                    "author": "Tukey, J. W.", 
+                    "bibtype": "book", 
+                    "editor": "Fienberg, S. E. and Hoaglin, D. C. and Kruskal, W. H. and Tanur, J. M.", 
+                    "year": "1990", 
+                    "howpublished": "Fienberg, S. E. and Hoaglin, D. C. and Kruskal, W. H. and Tanur, J. M., Springer, pp.<pp>1-5</pp>", 
+                    "topline": "book mosteller__frederick:17", 
+                    "id": "mosteller__frederick:17"
+                }, 
+                {
+                    "title": "Frederick Mosteller", 
+                    "ref": "<t>Frederick Mosteller.</t> <inc>booktitle:more-mathematical-people-contemporary-conversations</inc>. pp.<pp>241-260</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:more-mathematical-people-contemporary-conversations", 
+                    "year": "1990", 
+                    "howpublished": "pp.<pp>241-260</pp>", 
+                    "topline": "incollection mosteller__frederick:18", 
+                    "id": "mosteller__frederick:18"
+                }, 
+                {
+                    "title": "Selected Papers of Frederick Mosteller", 
+                    "ref": "<t>Selected Papers of Frederick Mosteller.</t> <au>Fienberg, S. E.</au>. <ed>S. E. Fienberg and D. C. Hoaglin</ed>. S. E. Fienberg and D. C. Hoaglin, Springer", 
+                    "author": "Fienberg, S. E.", 
+                    "bibtype": "book", 
+                    "editor": "S. E. Fienberg and D. C. Hoaglin", 
+                    "year": "2006", 
+                    "howpublished": "S. E. Fienberg and D. C. Hoaglin, Springer", 
+                    "topline": "book mosteller__frederick:19", 
+                    "id": "mosteller__frederick:19"
+                }, 
+                {
+                    "title": "Frederick Mosteller, 1916-2006", 
+                    "ref": "<t>Frederick Mosteller, 1916-2006.</t> <au>Fienberg, S. E. and Tanur, J. M.</au>. In: <bt>Statisticians in History</bt>, American Statistical Association", 
+                    "author": "Fienberg, S. E. and Tanur, J. M.", 
+                    "bibtype": "incollection", 
+                    "year": "2006", 
+                    "howpublished": "In: <bt>Statisticians in History</bt>, American Statistical Association", 
+                    "topline": "incollection mosteller__frederick:20", 
+                    "id": "mosteller__frederick:20"
+                }, 
+                {
+                    "title": "Charles Frederick Mosteller", 
+                    "ref": "<t>Charles Frederick Mosteller.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2011", 
+                    "howpublished": "???", 
+                    "topline": "incollection mosteller__frederick:21", 
+                    "id": "mosteller__frederick:21"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2013", 
+                    "howpublished": "???", 
+                    "topline": "misc mosteller__frederick:739714", 
+                    "id": "mosteller__frederick:739714"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Academic Press", 
+            "title": "More Mathematical People: Contemporary Conversations", 
+            "url": "http://www.worldcat.org/title/more-mathematical-people-contemporary-conversations/oclc/21335917", 
+            "booktitle": "More Mathematical People: Contemporary Conversations", 
+            "address": "San Diego, CA", 
+            "editors": "D. J. Albers and G. L. Alexanderson and C. Reid", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:more-mathematical-people-contemporary-conversations", 
+            "year": "1990", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>More Mathematical People: Contemporary Conversations.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:more-mathematical-people-contemporary-conversations"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Radu Theodorescu, 1933-2007", 
+                    "ref": "<t>Radu Theodorescu, 1933-2007.</t> <au>Genest, C.</au>. <j>IMS Bulletin</j>, Vol. <v>36(8)</v>, pp.<pp>16</pp>", 
+                    "author": "Genest, C.", 
+                    "bibtype": "article", 
+                    "year": "2007", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>36(8)</v>, pp.<pp>16</pp>", 
+                    "topline": "article theodorescu__radu_a_s:8", 
+                    "id": "theodorescu__radu_a_s:8"
+                }
+            ], 
+            "DOB": "1933-04-12", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2007-08-14", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Theodorescu, Radu A. S.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "theodorescu__radu_a_s", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=171960", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:theodorescu.radu", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=21628", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18002982", 
+                    "anchor": "Microsoft Academic: Theodorescu, Radu"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1986", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "theodorescu__radu", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Bucharest", 
+                    "thesis_title": "Continuous time Marvov Processes and Random Systems with Complete Connections", 
+                    "year": "1958", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=21628"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

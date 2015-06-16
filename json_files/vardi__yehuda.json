@@ -1,0 +1,107 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1946-10-31", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2005-01-17", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Vardi, Yehuda", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Yehuda Vardi, 1946-2005", 
+                    "ref": "<t>Yehuda Vardi, 1946-2005.</t> <au>Zhang, C.-H. and Shepp, L.</au>. <j>IMS Bulletin</j>, Vol. <v>34(2)</v>, pp.<pp>9</pp>", 
+                    "author": "Zhang, C.-H. and Shepp, L.", 
+                    "bibtype": "article", 
+                    "year": "2005", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>34(2)</v>, pp.<pp>9</pp>", 
+                    "topline": "article vardi__yehuda:7", 
+                    "id": "vardi__yehuda:7"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2007", 
+                    "howpublished": "???", 
+                    "topline": "misc vardi__yehuda:839612", 
+                    "id": "vardi__yehuda:839612"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2007", 
+                    "howpublished": "???", 
+                    "topline": "misc vardi__yehuda:695465", 
+                    "id": "vardi__yehuda:695465"
+                }
+            ], 
+            "ims_id": "vardi__yehuda", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.stat.rutgers.edu/people/faculty/vardi.html", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=177210", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:vardi.yehuda", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=36227", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/2257809", 
+                    "anchor": "Microsoft Academic: Vardi, Yehuda"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1987", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Cornell University", 
+                    "thesis_title": "Some Problems in Sequential Estimation", 
+                    "year": "1977", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=36227"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

@@ -1,0 +1,152 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2008", 
+                    "howpublished": "???", 
+                    "topline": "misc bowker__albert_h:475699", 
+                    "id": "bowker__albert_h:475699"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2008", 
+                    "howpublished": "???", 
+                    "topline": "misc bowker__albert_h:104622", 
+                    "id": "bowker__albert_h:104622"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2008", 
+                    "howpublished": "???", 
+                    "topline": "misc bowker__albert_h:144638", 
+                    "id": "bowker__albert_h:144638"
+                }
+            ], 
+            "DOB": "1919-09-18", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2008-01-20", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Bowker, Albert H.", 
+            "Oral_History": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1995", 
+                    "howpublished": "???", 
+                    "topline": "misc bowker__albert_h:15", 
+                    "id": "bowker__albert_h:15"
+                }
+            ], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2008", 
+                    "howpublished": "???", 
+                    "topline": "misc bowker__albert_h:156108", 
+                    "id": "bowker__albert_h:156108"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>Amstat News</j>, Vol. <v>Mar. 2008</v>, pp.<pp>39-40</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2008", 
+                    "howpublished": "<j>Amstat News</j>, Vol. <v>Mar. 2008</v>, pp.<pp>39-40</pp>", 
+                    "topline": "article bowker__albert_h:12", 
+                    "id": "bowker__albert_h:12"
+                }
+            ], 
+            "ims_id": "bowker__albert_h", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=251000", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:bowker.albert-h", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=40901", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/24213959", 
+                    "anchor": "Microsoft Academic: Bowker, Albert H."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1962", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS President", 
+                    "year": "1962", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "bowker__albert", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Columbia University", 
+                    "thesis_title": "Asymptotic Expansions for the Distribution of Certain Likelihood Ratio Statistics", 
+                    "year": "1949", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=40901"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "A conversation with Albert H. Bowker", 
+                    "ref": "<t>A conversation with Albert H. Bowker.</t> <au>Olkin, I.</au>. <j>Statist. Sci.</j>, Vol. <v>2</v>, pp.<pp>472-483</pp>", 
+                    "author": "Olkin, I.", 
+                    "bibtype": "article", 
+                    "year": "1987", 
+                    "howpublished": "<j>Statist. Sci.</j>, Vol. <v>2</v>, pp.<pp>472-483</pp>", 
+                    "topline": "article bowker__albert_h:14", 
+                    "id": "bowker__albert_h:14"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

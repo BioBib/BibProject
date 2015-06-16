@@ -1,0 +1,156 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Bickel, Peter J.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "bickel__peter_j", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.stat.berkeley.edu/~bickel/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=36665", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:bickel.peter-john", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=34553", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12530685", 
+                    "anchor": "Microsoft Academic: Bickel, Peter J."
+                }, 
+                {
+                    "href": "http://scholar.google.be/citations?user=t4w1jE4AAAAJ&hl=en", 
+                    "anchor": "Google Scholar"
+                }, 
+                {
+                    "href": "http://www.stat.berkeley.edu/users/bickel/", 
+                    "anchor": "Homepage"
+                }, 
+                {
+                    "href": "http://www.stat.berkeley.edu/users/bickel/Research.htm", 
+                    "anchor": "Publication List"
+                }, 
+                {
+                    "href": "http://en.wikipedia.org/wiki/Peter_J._Bickel", 
+                    "anchor": "Wikipedia"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1968", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "COPSS Presidents' Award", 
+                    "year": "1979", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Wald Lecturer", 
+                    "year": "1980", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS President", 
+                    "year": "1981", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "MacArthur Fellow", 
+                    "year": "1984", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1986", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Member", 
+                    "year": "1986", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "The Royal Netherlands Academy of Arts and Sciences, Foreign Member", 
+                    "year": "1995", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Rietz Lecturer", 
+                    "year": "2004", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "R. A. Fisher Lecturer", 
+                    "year": "2013", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "bickel__peter", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of California, Berkeley", 
+                    "thesis_title": "Asymptotically Nonparametric Statistical Inference in the Multivariate Cases", 
+                    "year": "1963", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=34553"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Peter Bickel's royal decoration", 
+                    "ref": "<t>Peter Bickel's royal decoration.</t> <au>Fan, J.</au>. <j>IMS Bulletin</j>, Vol. <v>35(6)</v>, pp.<pp>1</pp>", 
+                    "author": "Fan, J.", 
+                    "bibtype": "article", 
+                    "year": "2006", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>35(6)</v>, pp.<pp>1</pp>", 
+                    "topline": "article bickel__peter_j:14", 
+                    "id": "bickel__peter_j:14"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

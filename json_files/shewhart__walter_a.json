@@ -1,0 +1,215 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1891-03-18", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1967-03-11", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Shewhart, Walter A.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> In: <bt>Statisticians in History</bt>, American Statistical Association", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "year?", 
+                    "howpublished": "In: <bt>Statisticians in History</bt>, American Statistical Association", 
+                    "topline": "article shewhart__walter_a:8", 
+                    "id": "shewhart__walter_a:8"
+                }
+            ], 
+            "ims_id": "shewhart__walter_a", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://pt.encydia.com/es/Walter_A__Shewhart", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=239808", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:shewhart.w-a", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54325930", 
+                    "anchor": "Microsoft Academic: W Shewhart"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/19617103", 
+                    "anchor": "Microsoft Academic: W. A. Shewhart"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/51663257", 
+                    "anchor": "Microsoft Academic: W. A. Shewhart"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/56689368", 
+                    "anchor": "Microsoft Academic: Walter A. Shewhart"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/51663258", 
+                    "anchor": "Microsoft Academic: Walter Andrew Shewhart"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS President, 1937", 
+                    "year": "1944", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "before 1943", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "shewhart__walter", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1967", 
+                    "howpublished": "???", 
+                    "topline": "misc shewhart__walter_a:134335", 
+                    "id": "shewhart__walter_a:134335"
+                }, 
+                {
+                    "title": "Shewhart, Walter A.", 
+                    "ref": "<t>Shewhart, Walter A.</t> <au>Deming, W. E.</au>. <inc>booktitle:international-encyclopedia-of-statistics</inc>. pp.<pp>942-944</pp>", 
+                    "author": "Deming, W. E.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:international-encyclopedia-of-statistics", 
+                    "year": "1978", 
+                    "howpublished": "pp.<pp>942-944</pp>", 
+                    "topline": "incollection shewhart__walter_a:10", 
+                    "id": "shewhart__walter_a:10"
+                }, 
+                {
+                    "title": "Walter Andrew Shewhart", 
+                    "ref": "<t>Walter Andrew Shewhart.</t> <au>Bayart, D.</au>. <inc>booktitle:statisticians-of-the-centuries</inc>. pp.<pp>398-401</pp>", 
+                    "author": "Bayart, D.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:statisticians-of-the-centuries", 
+                    "year": "2001", 
+                    "howpublished": "pp.<pp>398-401</pp>", 
+                    "topline": "incollection shewhart__walter_a:11", 
+                    "id": "shewhart__walter_a:11"
+                }, 
+                {
+                    "title": "Shewhart, Walter Andrew", 
+                    "ref": "<t>Shewhart, Walter Andrew.</t> <au>Woodall, W. H.</au>. <inc>booktitle:encyclopedia-of-statistical-sciences</inc>. ???", 
+                    "author": "Woodall, W. H.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-statistical-sciences", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "incollection shewhart__walter_a:12", 
+                    "id": "shewhart__walter_a:12"
+                }, 
+                {
+                    "title": "Walter Andrew Shewhart", 
+                    "ref": "<t>Walter Andrew Shewhart.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "incollection shewhart__walter_a:14", 
+                    "id": "shewhart__walter_a:14"
+                }, 
+                {
+                    "title": "Shewhart, Walter Andrew", 
+                    "ref": "<t>Shewhart, Walter Andrew.</t> <au>Eisenhart, C.</au>. <inc>booktitle:complete-dictionary-of-scientific-biography</inc>. Vol. <v>18</v>, pp.<pp>816-810</pp>", 
+                    "author": "Eisenhart, C.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:complete-dictionary-of-scientific-biography", 
+                    "year": "2008", 
+                    "howpublished": "Vol. <v>18</v>, pp.<pp>816-810</pp>", 
+                    "topline": "incollection shewhart__walter_a:13", 
+                    "id": "shewhart__walter_a:13"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Free Press", 
+            "title": "International Encyclopedia of Statistics", 
+            "url": "http://www.worldcat.org/title/international-encyclopedia-of-statistics/oclc/3966286", 
+            "booktitle": "International Encyclopedia of Statistics", 
+            "address": "New York", 
+            "editors": "W. H. Kruskal and J. M. Tanur", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:international-encyclopedia-of-statistics", 
+            "year": "1978", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>International Encyclopedia of Statistics.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:international-encyclopedia-of-statistics"
+        }, 
+        {
+            "publisher": "Springer", 
+            "title": "Statisticians of the Centuries", 
+            "url": "http://www.worldcat.org/title/statisticians-of-the-centuries/oclc/46791088", 
+            "booktitle": "Statisticians of the Centuries", 
+            "address": "New York", 
+            "editors": "C. C. Heyde and E. Seneta", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:statisticians-of-the-centuries", 
+            "year": "2001", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Statisticians of the Centuries.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:statisticians-of-the-centuries"
+        }, 
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Statistical Sciences", 
+            "url": "http://onlinelibrary.wiley.com/book/10.1002/0471667196", 
+            "booktitle": "Encyclopedia of Statistical Sciences", 
+            "address": "Hoboken, NJ", 
+            "editors": "S. Kotz and N. Balakrishnan and C. Read and B. Vidakovic", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:encyclopedia-of-statistical-sciences", 
+            "year": "2006", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }, 
+        {
+            "publisher": "Scribner's", 
+            "title": "Complete Dictionary of Scientific Biography", 
+            "url": "http://www.worldcat.org/title/complete-dictionary-of-scientific-biography/oclc/187313311", 
+            "booktitle": "Complete Dictionary of Scientific Biography", 
+            "address": "Detroit", 
+            "editors": "F. L. Holmes", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:complete-dictionary-of-scientific-biography", 
+            "year": "2008", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Complete Dictionary of Scientific Biography.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:complete-dictionary-of-scientific-biography"
+        }
+    ]
+}

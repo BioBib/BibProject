@@ -1,0 +1,67 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Hickernell, Fred J.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "hickernell__fred_j", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://mypages.iit.edu/~hickernell/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:hickernell.fred-j", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/770027", 
+                    "anchor": "Microsoft Academic: Fred J. Hickernell"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/19553380", 
+                    "anchor": "Microsoft Academic: Fred Hickernell"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/23377133", 
+                    "anchor": "Microsoft Academic: Fred J. Hickernell"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/48897506", 
+                    "anchor": "Microsoft Academic: F. J. Hickernell"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "2007", 
+                    "citation": "For innovations in the construction and analysis of quasi-Monte Carlo methods and their applications to experimental design", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "hickernell__fre", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

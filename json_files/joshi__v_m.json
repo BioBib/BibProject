@@ -1,0 +1,79 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "V. M. Joshi (1914-1996)", 
+                    "ref": "<t>V. M. Joshi (1914-1996).</t> <au>Bellhouse, D. R. and Godambe, V. P.</au>. <j>IMS Bulletin</j>, Vol. <v>26</v>, pp.<pp>88-90</pp>", 
+                    "author": "Bellhouse, D. R. and Godambe, V. P.", 
+                    "bibtype": "article", 
+                    "year": "1997", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>26</v>, pp.<pp>88-90</pp>", 
+                    "topline": "article joshi__v_m:8", 
+                    "id": "joshi__v_m:8"
+                }
+            ], 
+            "DOB": "1914-07-10", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1996-12-17", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Joshi, Vinayak M.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "joshi__v_m", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=95940", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:joshi.vinayak-v", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=44324", 
+                    "anchor": "Math. Genealogy"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1972", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "joshi__vinayak", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Case Western Reserve University", 
+                    "thesis_title": "Testing Statistical Hyposthese For The Location and Scale Of The Chi-Distribution (I D.F.)", 
+                    "year": "1965", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=44324"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

@@ -1,0 +1,90 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Gart, John J.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "gart__john_j", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=71610", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:gart.john-j", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=49823", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/24115229", 
+                    "anchor": "Microsoft Academic: J. J. GART"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/57165265", 
+                    "anchor": "Microsoft Academic: JOHN J. GART"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52929986", 
+                    "anchor": "Microsoft Academic: John J. Gart"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/56189771", 
+                    "anchor": "Microsoft Academic: John J. Gart"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/51913177", 
+                    "anchor": "Microsoft Academic: J. J. Gart"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/26013156", 
+                    "anchor": "Microsoft Academic: John J. Gart"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1972", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "gart__john", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Virginia Polytechnic Institute and State University", 
+                    "thesis_title": "Some Problems in Statistical Inference: I. An Extension of the Cramer-Rao Inequality. II. The Asymptotic Properties of ML Estimates when Sampling from Associated Populations. III. A Sequential Decision Procedure for Comparing Survival Curves", 
+                    "year": "1958", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=49823"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

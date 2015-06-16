@@ -1,0 +1,182 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Z. W. (Bill) Birnbaum", 
+                    "ref": "<t>Z. W. (Bill) Birnbaum.</t> <au>Marshall, A. W. and Pyke, R. and Saunders, S. C.</au>. <j>IMS Bulletin</j>, Vol. <v>30</v>, pp.<pp>83-85</pp>", 
+                    "author": "Marshall, A. W. and Pyke, R. and Saunders, S. C.", 
+                    "bibtype": "article", 
+                    "year": "2001", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>30</v>, pp.<pp>83-85</pp>", 
+                    "topline": "article birnbaum__z_william:10", 
+                    "id": "birnbaum__z_william:10"
+                }
+            ], 
+            "DOB": "1903-10-18", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2000-12-15", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Birnbaum, Z. William", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2001", 
+                    "howpublished": "???", 
+                    "topline": "misc birnbaum__z_william:564151", 
+                    "id": "birnbaum__z_william:564151"
+                }
+            ], 
+            "ims_id": "birnbaum__z_william", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=37195", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:birnbaum.zygmunt-wilhelm", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:birnbaum.z-william", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=28292", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/2601821", 
+                    "anchor": "Microsoft Academic: Birnbaum, Z. W."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1949", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS President", 
+                    "year": "1964", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Samuel S. Wilks Award", 
+                    "year": "1984", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "birnbaum__z", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>Notices Amer. Math. Soc.</j>, Vol. <v>48</v>, pp.<pp>513</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2001", 
+                    "howpublished": "<j>Notices Amer. Math. Soc.</j>, Vol. <v>48</v>, pp.<pp>513</pp>", 
+                    "topline": "article birnbaum__z_william:9", 
+                    "id": "birnbaum__z_william:9"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Lw&oacute;w", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=28292"
+                        }
+                    ], 
+                    "type": "Ph.D.", 
+                    "year": "1929"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "year?", 
+                    "howpublished": "???", 
+                    "topline": "misc birnbaum__z_william:18", 
+                    "id": "birnbaum__z_william:18"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "year?", 
+                    "howpublished": "???", 
+                    "topline": "misc birnbaum__z_william:19", 
+                    "id": "birnbaum__z_william:19"
+                }
+            ], 
+            "Biography": [
+                {
+                    "title": "A conversation with Z. William Birnbaum", 
+                    "ref": "<t>A conversation with Z. William Birnbaum.</t> <au>Marshall, A. W.</au>. <j>Statist. Sci.</j>, Vol. <v>5</v>, pp.<pp>227-241</pp>", 
+                    "author": "Marshall, A. W.", 
+                    "bibtype": "article", 
+                    "year": "1990", 
+                    "howpublished": "<j>Statist. Sci.</j>, Vol. <v>5</v>, pp.<pp>227-241</pp>", 
+                    "topline": "article birnbaum__z_william:14", 
+                    "id": "birnbaum__z_william:14"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2000", 
+                    "howpublished": "???", 
+                    "topline": "misc birnbaum__z_william:16", 
+                    "id": "birnbaum__z_william:16"
+                }, 
+                {
+                    "title": "Seeking Birnbaum, or nine lives of a mathematician", 
+                    "ref": "<t>Seeking Birnbaum, or nine lives of a mathematician.</t> <au>Woyczy&nacute;ski, W. A.</au>. <j>Math. Intelligencer</j>, Vol. <v>23(2)</v>, pp.<pp>36-46</pp>", 
+                    "author": "Woyczy&nacute;ski, W. A.", 
+                    "bibtype": "misc", 
+                    "year": "2001", 
+                    "howpublished": "<j>Math. Intelligencer</j>, Vol. <v>23(2)</v>, pp.<pp>36-46</pp>", 
+                    "topline": "misc birnbaum__z_william:15", 
+                    "id": "birnbaum__z_william:15"
+                }, 
+                {
+                    "title": "Zygmunt William Birnbaum", 
+                    "ref": "<t>Zygmunt William Birnbaum.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2011", 
+                    "howpublished": "???", 
+                    "topline": "incollection birnbaum__z_william:17", 
+                    "id": "birnbaum__z_william:17"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

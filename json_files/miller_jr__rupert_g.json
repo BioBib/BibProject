@@ -1,0 +1,74 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1933-01-31", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1986-03-15", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Miller, Rupert G., Jr.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "miller_jr__rupert_g", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=124930", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:miller.rupert", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:miller.rupert-g-jun", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/55003856", 
+                    "anchor": "Microsoft Academic: Jr, Rupert G. Miller"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12605356", 
+                    "anchor": "Microsoft Academic: Jr, Rupert G. Miller"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1968", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "miller__rupert", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>15</v>, pp.<pp>271</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1986", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>15</v>, pp.<pp>271</pp>", 
+                    "topline": "article miller_jr__rupert_g:9", 
+                    "id": "miller_jr__rupert_g:9"
+                }
+            ], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

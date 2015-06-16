@@ -1,0 +1,98 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1961", 
+                    "howpublished": "???", 
+                    "topline": "misc olds__edwin_g:871537", 
+                    "id": "olds__edwin_g:871537"
+                }
+            ], 
+            "DOB": "1898-04-20", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1961-10-10", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Olds, Edwin G.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "olds__edwin_g", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=511375", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:olds.edwin-g", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/56578462", 
+                    "anchor": "Microsoft Academic: Edwin G. Olds"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/56578484", 
+                    "anchor": "Microsoft Academic: Edwin G. Olds"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS President", 
+                    "year": "1954", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "before 1943", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "olds__edwin", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>Ann. Math. Statist.</j>, Vol. <v>32</v>, pp.<pp>315</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1961", 
+                    "howpublished": "<j>Ann. Math. Statist.</j>, Vol. <v>32</v>, pp.<pp>315</pp>", 
+                    "topline": "article olds__edwin_g:8", 
+                    "id": "olds__edwin_g:8"
+                }
+            ], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Olds, 1898-1961", 
+                    "ref": "<t>Olds, 1898-1961.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2011", 
+                    "howpublished": "???", 
+                    "topline": "incollection olds__edwin_g:11", 
+                    "id": "olds__edwin_g:11"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

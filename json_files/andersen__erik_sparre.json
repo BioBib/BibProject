@@ -1,0 +1,117 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Erik Sparre Andersen, 1919-2003", 
+                    "ref": "<t>Erik Sparre Andersen, 1919-2003.</t> <au>Johansen, S.</au>. ???", 
+                    "author": "Johansen, S.", 
+                    "bibtype": "misc", 
+                    "year": "2004", 
+                    "howpublished": "???", 
+                    "topline": "misc andersen__erik_sparre:9", 
+                    "id": "andersen__erik_sparre:9"
+                }
+            ], 
+            "DOB": "1919-12-29", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2003-03-08", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Andersen, Erik Sparre", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "andersen__erik_sparre", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://de.wikipedia.org/wiki/Erik_Sparre_Andersen", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://de.wikipedia.org/wiki/Erik_Sparre_Andersen", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=350985", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:sparre-andersen.erik", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:andersen.erik-sparre", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=44835", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/42310810", 
+                    "anchor": "Microsoft Academic: Erik Sparre Andersen"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1988", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "andersen__erik", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>Notices Amer. Math. Soc.</j>, pp.<pp>705</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2003", 
+                    "howpublished": "<j>Notices Amer. Math. Soc.</j>, pp.<pp>705</pp>", 
+                    "topline": "article andersen__erik_sparre:8", 
+                    "id": "andersen__erik_sparre:8"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Lund University", 
+                    "thesis_title": "Algebraic and Analytic Properties of Groups of Holomorphic Automorphisms of $C^n$", 
+                    "year": "1995", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=44835"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Erik Sparre Andersen", 
+                    "ref": "<t>Erik Sparre Andersen.</t> In: <bt>Dansk Biografisk Leksikon</bt>", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "year?", 
+                    "howpublished": "In: <bt>Dansk Biografisk Leksikon</bt>", 
+                    "topline": "misc andersen__erik_sparre:11", 
+                    "id": "andersen__erik_sparre:11"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

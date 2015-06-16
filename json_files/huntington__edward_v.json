@@ -1,0 +1,126 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1874-04-26", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1952-11-25", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Huntington, Edward V.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "huntington__edward_v", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.hist-analytic.org/Huntington.htm", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=90025", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:huntington.edward-v", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=65993", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12588539", 
+                    "anchor": "Microsoft Academic: Huntington, Edward V."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1913", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Philosophical Society, Member", 
+                    "year": "1933", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "before 1943", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "huntington__edward", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Universit&auml;t Stra&szlig;burg", 
+                    "thesis_title": "&Uuml;ber die Grund-Operationen an absoluten und complexen Gr&ouml;ssen in geometrischer Behandlung", 
+                    "year": "1901", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=65993"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Edward Vermilye Huntington", 
+                    "ref": "<t>Edward Vermilye Huntington.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2000", 
+                    "howpublished": "???", 
+                    "topline": "incollection huntington__edward_v:11", 
+                    "id": "huntington__edward_v:11"
+                }, 
+                {
+                    "title": "Huntington, Edward Vermilye", 
+                    "ref": "<t>Huntington, Edward Vermilye.</t> <au>Boas, R. P. Jr.</au>. <inc>booktitle:complete-dictionary-of-scientific-biography</inc>. Vol. <v>6</v>, pp.<pp>570</pp>", 
+                    "author": "Boas, R. P. Jr.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:complete-dictionary-of-scientific-biography", 
+                    "year": "2008", 
+                    "howpublished": "Vol. <v>6</v>, pp.<pp>570</pp>", 
+                    "topline": "incollection huntington__edward_v:10", 
+                    "id": "huntington__edward_v:10"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Scribner's", 
+            "title": "Complete Dictionary of Scientific Biography", 
+            "url": "http://www.worldcat.org/title/complete-dictionary-of-scientific-biography/oclc/187313311", 
+            "booktitle": "Complete Dictionary of Scientific Biography", 
+            "address": "Detroit", 
+            "editors": "F. L. Holmes", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:complete-dictionary-of-scientific-biography", 
+            "year": "2008", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Complete Dictionary of Scientific Biography.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:complete-dictionary-of-scientific-biography"
+        }
+    ]
+}

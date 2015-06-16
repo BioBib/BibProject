@@ -1,0 +1,84 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1904?", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1999-03-16", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Horst, A. Paul", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Paul Horst, 1904-1999", 
+                    "ref": "<t>Paul Horst, 1904-1999.</t> <j>Psychometrika</j>, Vol. <v>64</v>, pp.<pp>107</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1999", 
+                    "howpublished": "<j>Psychometrika</j>, Vol. <v>64</v>, pp.<pp>107</pp>", 
+                    "topline": "article horst__a_paul:9", 
+                    "id": "horst__a_paul:9"
+                }
+            ], 
+            "ims_id": "horst__a_paul", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:horst.paul", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/50562328", 
+                    "anchor": "Microsoft Academic: Paul Horst"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1944", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "horst__a", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1999", 
+                    "howpublished": "???", 
+                    "topline": "misc horst__a_paul:8", 
+                    "id": "horst__a_paul:8"
+                }
+            ], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "year?", 
+                    "howpublished": "???", 
+                    "topline": "misc horst__a_paul:10", 
+                    "id": "horst__a_paul:10"
+                }
+            ], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

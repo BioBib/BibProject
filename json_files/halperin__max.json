@@ -1,0 +1,125 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Max Halperin, 1917-1988", 
+                    "ref": "<t>Max Halperin, 1917-1988.</t> <au>Lachin, J. M.</au>. <j>IMS Bulletin</j>, Vol. <v>17</v>, pp.<pp>161</pp>", 
+                    "author": "Lachin, J. M.", 
+                    "bibtype": "article", 
+                    "year": "1988", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>17</v>, pp.<pp>161</pp>", 
+                    "topline": "article halperin__max:7", 
+                    "id": "halperin__max:7"
+                }
+            ], 
+            "DOB": "1917-11-5", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1988-02-01", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Halperin, Max", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Remembrances of Max Halperin", 
+                    "ref": "<t>Remembrances of Max Halperin.</t> <au>Colton, T., et al.</au>. <j>Statistics in Medicine</j>, Vol. <v>9</v>, pp.<pp>863-870</pp>", 
+                    "author": "Colton, T., et al.", 
+                    "bibtype": "article", 
+                    "year": "1990", 
+                    "howpublished": "<j>Statistics in Medicine</j>, Vol. <v>9</v>, pp.<pp>863-870</pp>", 
+                    "topline": "article halperin__max:8", 
+                    "id": "halperin__max:8"
+                }
+            ], 
+            "ims_id": "halperin__max", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=269695", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:halperin.max", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=47411", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18741570", 
+                    "anchor": "Microsoft Academic: Halperin, Max"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54453831", 
+                    "anchor": "Microsoft Academic: Halperin, Max"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1967", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "The University of North Carolina at Chapel Hill", 
+                    "thesis_title": "Estimation in Truncated Sampling Processes", 
+                    "year": "1950", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=47411"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Halperin, Max", 
+                    "ref": "<t>Halperin, Max.</t> <au>Greenhouse, S. W.</au>. <inc>booktitle:encyclopedia-of-biostatistics</inc>. ???", 
+                    "author": "Greenhouse, S. W.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-biostatistics", 
+                    "year": "2005", 
+                    "howpublished": "???", 
+                    "topline": "incollection halperin__max:9", 
+                    "id": "halperin__max:9"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Biostatistics", 
+            "url": "http://www.worldcat.org/title/encyclopedia-of-biostatistics/oclc/38258277", 
+            "booktitle": "Encyclopedia of Biostatistics", 
+            "address": "Hoboken, NJ", 
+            "editors": "P. Armitage and T. Colton", 
+            "bibtype": "reference", 
+            "edition": "2nd", 
+            "top_line": "reference booktitle:encyclopedia-of-biostatistics", 
+            "year": "2005", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Biostatistics.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-biostatistics"
+        }
+    ]
+}

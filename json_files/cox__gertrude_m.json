@@ -1,0 +1,372 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Gertrude Mary Cox 1900-1978", 
+                    "ref": "<t>Gertrude Mary Cox 1900-1978.</t> <j>Biometrics</j>, Vol. <v>34</v>, pp.<pp>719-720</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1978", 
+                    "howpublished": "<j>Biometrics</j>, Vol. <v>34</v>, pp.<pp>719-720</pp>", 
+                    "topline": "article cox__gertrude_m:9", 
+                    "id": "cox__gertrude_m:9"
+                }
+            ], 
+            "DOB": "1900-01-13", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1978-10-17", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Cox, Gertrude M.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Gertrude Mary Cox, 1900-1978", 
+                    "ref": "<t>Gertrude Mary Cox, 1900-1978.</t> <au>Yates, F.</au>. <j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>142</v>, pp.<pp>516-517</pp>", 
+                    "author": "Yates, F.", 
+                    "bibtype": "article", 
+                    "year": "1979", 
+                    "howpublished": "<j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>142</v>, pp.<pp>516-517</pp>", 
+                    "topline": "article cox__gertrude_m:10", 
+                    "id": "cox__gertrude_m:10"
+                }, 
+                {
+                    "title": "Gertrude Mary Cox, 1900-1978", 
+                    "ref": "<t>Gertrude Mary Cox, 1900-1978.</t> <au>Cochran, W. G.</au>. <j>Internat. Statist. Rev.</j>, Vol. <v>47</v>, pp.<pp>97-98</pp>", 
+                    "author": "Cochran, W. G.", 
+                    "bibtype": "article", 
+                    "year": "1979", 
+                    "howpublished": "<j>Internat. Statist. Rev.</j>, Vol. <v>47</v>, pp.<pp>97-98</pp>", 
+                    "topline": "article cox__gertrude_m:11", 
+                    "id": "cox__gertrude_m:11"
+                }, 
+                {
+                    "title": "In memoriam, Gertrude M. Cox, 1900-1978", 
+                    "ref": "<t>In memoriam, Gertrude M. Cox, 1900-1978.</t> <j>Biometrics</j>, Vol. <v>35</v>, pp.<pp>v-vi</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1979", 
+                    "howpublished": "<j>Biometrics</j>, Vol. <v>35</v>, pp.<pp>v-vi</pp>", 
+                    "topline": "article cox__gertrude_m:12", 
+                    "id": "cox__gertrude_m:12"
+                }, 
+                {
+                    "title": "Some reflections", 
+                    "ref": "<t>Some reflections.</t> <au>Cochran, W. G.</au>. <j>Biometrics</j>, Vol. <v>35</v>, pp.<pp>1-2</pp>", 
+                    "author": "Cochran, W. G.", 
+                    "bibtype": "article", 
+                    "year": "1979", 
+                    "howpublished": "<j>Biometrics</j>, Vol. <v>35</v>, pp.<pp>1-2</pp>", 
+                    "topline": "article cox__gertrude_m:13", 
+                    "id": "cox__gertrude_m:13"
+                }, 
+                {
+                    "title": "Gertrude M. Cox-A modern pioneer in statistics", 
+                    "ref": "<t>Gertrude M. Cox-A modern pioneer in statistics.</t> <au>Anderson, R. L. and Monroe, R. J. and Nelson, L. A.</au>. <j>Biometrics</j>, Vol. <v>35</v>, pp.<pp>3-7</pp>", 
+                    "author": "Anderson, R. L. and Monroe, R. J. and Nelson, L. A.", 
+                    "bibtype": "article", 
+                    "year": "1979", 
+                    "howpublished": "<j>Biometrics</j>, Vol. <v>35</v>, pp.<pp>3-7</pp>", 
+                    "topline": "article cox__gertrude_m:14", 
+                    "id": "cox__gertrude_m:14"
+                }, 
+                {
+                    "title": "Perspectives in biometry", 
+                    "ref": "<t>Perspectives in biometry.</t> <au>Cady, F. B.</au>. <j>Biometrics</j>, Vol. <v>35</v>, pp.<pp>8</pp>", 
+                    "author": "Cady, F. B.", 
+                    "bibtype": "article", 
+                    "year": "1979", 
+                    "howpublished": "<j>Biometrics</j>, Vol. <v>35</v>, pp.<pp>8</pp>", 
+                    "topline": "article cox__gertrude_m:15", 
+                    "id": "cox__gertrude_m:15"
+                }, 
+                {
+                    "title": "Gertrude Mary Cox, 1900-1978", 
+                    "ref": "<t>Gertrude Mary Cox, 1900-1978.</t> <au>Monroe, R. J. and McVay, F. E.</au>. <j>Amer. Statist.</j>, Vol. <v>34</v>, pp.<pp>48</pp>", 
+                    "author": "Monroe, R. J. and McVay, F. E.", 
+                    "bibtype": "article", 
+                    "year": "1980", 
+                    "howpublished": "<j>Amer. Statist.</j>, Vol. <v>34</v>, pp.<pp>48</pp>", 
+                    "topline": "article cox__gertrude_m:16", 
+                    "id": "cox__gertrude_m:16"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "year?", 
+                    "howpublished": "???", 
+                    "topline": "misc cox__gertrude_m:810066", 
+                    "id": "cox__gertrude_m:810066"
+                }
+            ], 
+            "ims_id": "cox__gertrude_m", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://en.wikipedia.org/wiki/Gertrude_Mary_Cox", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.york.ac.uk/depts/maths/histstat/people/cox_g_m.gif", 
+                    "anchor": "www.york.ac.uk"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=52385", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:cox.gertrude-m", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=89293", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/51032279", 
+                    "anchor": "Microsoft Academic: Cox, G."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/42787966", 
+                    "anchor": "Microsoft Academic: Cox, Gertrude M."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1944", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Member", 
+                    "year": "1975", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Gertrude M. Cox Scholarship, American Statistical Association and Caucus for Women in Statistics", 
+                    "year": "1989", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "cox__gertrude", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>8</v>, pp.<pp>4</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1979", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>8</v>, pp.<pp>4</pp>", 
+                    "topline": "article cox__gertrude_m:8", 
+                    "id": "cox__gertrude_m:8"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Iowa State University", 
+                    "thesis_title": "A Statistical Investigation of a Teacher's Ability as Indicated by the Success of His Students in Subsequent Courses", 
+                    "year": "1931", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=89293"
+                        }
+                    ], 
+                    "type": "M.S."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Gertrude Mary Cox (1900-1978).", 
+                    "ref": "<t>Gertrude Mary Cox (1900-1978).</t> <au>Nichols, M.</au>. <inc>booktitle:women-of-mathematics-a-biobibliographic-sourcebook</inc>. pp.<pp>26-29</pp>", 
+                    "author": "Nichols, M.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:women-of-mathematics-a-biobibliographic-sourcebook", 
+                    "year": "1987", 
+                    "howpublished": "pp.<pp>26-29</pp>", 
+                    "topline": "incollection cox__gertrude_m:20", 
+                    "id": "cox__gertrude_m:20"
+                }, 
+                {
+                    "title": "Gertrude Mary Cox, January 13, 1900-October 17, 1978", 
+                    "ref": "<t>Gertrude Mary Cox, January 13, 1900-October 17, 1978.</t> <au>Anderson, R. L.</au>. <j>Biographical Memoirs</j>, National Academies Press, Vol. <v>59</v>, pp.<pp>116-132</pp>", 
+                    "author": "Anderson, R. L.", 
+                    "bibtype": "article", 
+                    "year": "1990", 
+                    "howpublished": "<j>Biographical Memoirs</j>, National Academies Press, Vol. <v>59</v>, pp.<pp>116-132</pp>", 
+                    "topline": "article cox__gertrude_m:21", 
+                    "id": "cox__gertrude_m:21"
+                }, 
+                {
+                    "title": "Women in statistics: Sesquicentennial activities", 
+                    "ref": "<t>Women in statistics: Sesquicentennial activities.</t> <au>Stinnett, S.</au>. <j>Amer. Statist.</j>, Vol. <v>44</v>, pp.<pp>74-80</pp>", 
+                    "author": "Stinnett, S.", 
+                    "bibtype": "article", 
+                    "year": "1990", 
+                    "howpublished": "<j>Amer. Statist.</j>, Vol. <v>44</v>, pp.<pp>74-80</pp>", 
+                    "topline": "article cox__gertrude_m:22", 
+                    "id": "cox__gertrude_m:22"
+                }, 
+                {
+                    "title": "Gertrude M. Cox, 1900-1978", 
+                    "ref": "<t>Gertrude M. Cox, 1900-1978.</t> In: <bt>Statisticians in History</bt>, American Statistical Association", 
+                    "author": "Anonymous", 
+                    "bibtype": "incollection", 
+                    "year": "1990", 
+                    "howpublished": "In: <bt>Statisticians in History</bt>, American Statistical Association", 
+                    "topline": "incollection cox__gertrude_m:26", 
+                    "id": "cox__gertrude_m:26"
+                }, 
+                {
+                    "title": "Gertrude Mary Cox", 
+                    "ref": "<t>Gertrude Mary Cox.</t> <au>Anderson, R. L.</au>. <inc>booktitle:statisticians-of-the-centuries</inc>. pp.<pp>475-478</pp>", 
+                    "author": "Anderson, R. L.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:statisticians-of-the-centuries", 
+                    "year": "2001", 
+                    "howpublished": "pp.<pp>475-478</pp>", 
+                    "topline": "incollection cox__gertrude_m:24", 
+                    "id": "cox__gertrude_m:24"
+                }, 
+                {
+                    "title": "Cox, Gertrude Mary", 
+                    "ref": "<t>Cox, Gertrude Mary.</t> <au>Anderson, R. L.</au>. <inc>booktitle:encyclopedia-of-biostatistics</inc>. ???", 
+                    "author": "Anderson, R. L.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-biostatistics", 
+                    "year": "2005", 
+                    "howpublished": "???", 
+                    "topline": "incollection cox__gertrude_m:25", 
+                    "id": "cox__gertrude_m:25"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <inc>booktitle:encyclopedia-of-statistical-sciences</inc>. ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-statistical-sciences", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "incollection cox__gertrude_m:23", 
+                    "id": "cox__gertrude_m:23"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2009", 
+                    "howpublished": "???", 
+                    "topline": "misc cox__gertrude_m:716231", 
+                    "id": "cox__gertrude_m:716231"
+                }, 
+                {
+                    "title": "Gertrude Mary Cox", 
+                    "ref": "<t>Gertrude Mary Cox.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "incollection cox__gertrude_m:28", 
+                    "id": "cox__gertrude_m:28"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "year?", 
+                    "howpublished": "???", 
+                    "topline": "misc cox__gertrude_m:27", 
+                    "id": "cox__gertrude_m:27"
+                }, 
+                {
+                    "title": "Gertrude Mary Cox", 
+                    "ref": "<t>Gertrude Mary Cox.</t> In: <bt>Agnes Scott College Website</bt>", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "year?", 
+                    "howpublished": "In: <bt>Agnes Scott College Website</bt>", 
+                    "topline": "misc cox__gertrude_m:29", 
+                    "id": "cox__gertrude_m:29"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Greenwood Press", 
+            "title": "Women of Mathematics: A Biobibliographic Sourcebook", 
+            "url": "http://www.worldcat.org/title/women-of-mathematics-a-biobibliographic-sourcebook/oclc/14377479", 
+            "booktitle": "Women of Mathematics: A Biobibliographic Sourcebook", 
+            "address": "New York", 
+            "editors": "L. S. Grinstein and P. J. Campbell", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:women-of-mathematics-a-biobibliographic-sourcebook", 
+            "year": "1987", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Women of Mathematics: A Biobibliographic Sourcebook.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:women-of-mathematics-a-biobibliographic-sourcebook"
+        }, 
+        {
+            "publisher": "Springer", 
+            "title": "Statisticians of the Centuries", 
+            "url": "http://www.worldcat.org/title/statisticians-of-the-centuries/oclc/46791088", 
+            "booktitle": "Statisticians of the Centuries", 
+            "address": "New York", 
+            "editors": "C. C. Heyde and E. Seneta", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:statisticians-of-the-centuries", 
+            "year": "2001", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Statisticians of the Centuries.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:statisticians-of-the-centuries"
+        }, 
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Biostatistics", 
+            "url": "http://www.worldcat.org/title/encyclopedia-of-biostatistics/oclc/38258277", 
+            "booktitle": "Encyclopedia of Biostatistics", 
+            "address": "Hoboken, NJ", 
+            "editors": "P. Armitage and T. Colton", 
+            "bibtype": "reference", 
+            "edition": "2nd", 
+            "top_line": "reference booktitle:encyclopedia-of-biostatistics", 
+            "year": "2005", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Biostatistics.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-biostatistics"
+        }, 
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Statistical Sciences", 
+            "url": "http://onlinelibrary.wiley.com/book/10.1002/0471667196", 
+            "booktitle": "Encyclopedia of Statistical Sciences", 
+            "address": "Hoboken, NJ", 
+            "editors": "S. Kotz and N. Balakrishnan and C. Read and B. Vidakovic", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:encyclopedia-of-statistical-sciences", 
+            "year": "2006", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }
+    ]
+}

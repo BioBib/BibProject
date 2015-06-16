@@ -1,0 +1,91 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Davis, Richard A.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "davis__richard_a", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.stat.columbia.edu/~rdavis/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=212811", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:davis.richard-a", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=38846", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12550474", 
+                    "anchor": "Microsoft Academic: Davis, Richard A."
+                }, 
+                {
+                    "href": "http://www.stat.columbia.edu/~rdavis/shortvita.html", 
+                    "anchor": "CV"
+                }, 
+                {
+                    "href": "http://www.stat.columbia.edu/~rdavis/", 
+                    "anchor": "Homepage"
+                }, 
+                {
+                    "href": "http://www.stat.columbia.edu/~rdavis/technical_reports.html", 
+                    "anchor": "Publication List"
+                }, 
+                {
+                    "href": "http://www.stat.columbia.edu/~rdavis/biography.html", 
+                    "anchor": "profile"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1995", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "davis__richard", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of California, San Diego", 
+                    "thesis_title": "Extremes of Stationary Processes", 
+                    "year": "1979", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=38846"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

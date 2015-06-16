@@ -1,0 +1,84 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "P&eacute;rez-Abreu, V&iacute;ctor M.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "perez-abreu__victor_m", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.cimat.mx/~pabreu/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:perez-abreu.victor", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=47259", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12956912", 
+                    "anchor": "Microsoft Academic: Victor Perez-Abreu (Victor P\\'{e"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/56709194", 
+                    "anchor": "Microsoft Academic: Victor Perez-Abreu"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/56709195", 
+                    "anchor": "Microsoft Academic: V\u0131ctor Perez-Abreu (V\u0131\u0301ctor P\\'{e"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/43446878", 
+                    "anchor": "Microsoft Academic: VICTOR PEREZ-ABREU (V\\'{I"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "2000", 
+                    "citation": "For his fundamental contributions in the area of multiple stochastic integrals and, more generally, for his strong contributions to the area of stochastic processes; for his pioneering, indefatigable, and successful efforts in developing our profession in Mexico; for his technical versatility and extensive editorial efforts; and for his leadership in the organization of several international professional meetings", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "perez-abreu__victor", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "The University of North Carolina at Chapel Hill", 
+                    "thesis_title": "Product Stochastic Measures, Multiple Stochastic Integrals and Their Extensions to Nuclear Space-Valued Processes", 
+                    "year": "1985", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=47259"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

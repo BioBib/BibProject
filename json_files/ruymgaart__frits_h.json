@@ -1,0 +1,62 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Ruymgaart, Frits H.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "ruymgaart__frits_h", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.math.ttu.edu/~fruymgaa/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:ruymgaart.frits-h", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54056577", 
+                    "anchor": "Microsoft Academic: Ruymgaart, Frits H."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54056578", 
+                    "anchor": "Microsoft Academic: Ruymgaart, F. H."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/10734402", 
+                    "anchor": "Microsoft Academic: Ruymgaart, Frits H."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1991", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "ruymgaart__frit", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

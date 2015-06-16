@@ -1,0 +1,317 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Raj Chandra Bose, 1901-1987", 
+                    "ref": "<t>Raj Chandra Bose, 1901-1987.</t> <j>IMS Bulletin</j>, Vol. <v>17</v>, pp.<pp>50-52</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1988", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>17</v>, pp.<pp>50-52</pp>", 
+                    "topline": "article bose__r_c:9", 
+                    "id": "bose__r_c:9"
+                }
+            ], 
+            "DOB": "1901-06-19", 
+            "DVD": [
+                {
+                    "title": "The early years; the middle years; the later years; recollections", 
+                    "ref": "<t>The early years; the middle years; the later years; recollections.</t> <au>Bose, R. C.</au>. In: <bt>Distinguished Statistician Video Series</bt>, Pfizer, University of Connecticut-Storrs and American Statistical Association, Vol. <v>DS005; DS006; DS007; DS008</v>", 
+                    "author": "Bose, R. C.", 
+                    "bibtype": "incollection", 
+                    "year": "1983", 
+                    "howpublished": "In: <bt>Distinguished Statistician Video Series</bt>, Pfizer, University of Connecticut-Storrs and American Statistical Association, Vol. <v>DS005; DS006; DS007; DS008</v>", 
+                    "topline": "incollection bose__r_c:28", 
+                    "id": "bose__r_c:28"
+                }
+            ], 
+            "Collected_Works": [], 
+            "DOD": "1987-10-31", 
+            "Member": [], 
+            "Symposium": [
+                {
+                    "title": "R. C. Bose Centennial Symposium on Discrete Mathematics and Applications", 
+                    "ref": "<t>R. C. Bose Centennial Symposium on Discrete Mathematics and Applications.</t> <au>Ray-Chaudhuri, D. K. and Rao, A. R. and Roy, B., eds.</au>. <j>Discrete Math.</j>, Vol. <v>306</v>, pp.<pp>1463-1636</pp>", 
+                    "author": "Ray-Chaudhuri, D. K. and Rao, A. R. and Roy, B., eds.", 
+                    "bibtype": "article", 
+                    "year": "2006", 
+                    "howpublished": "<j>Discrete Math.</j>, Vol. <v>306</v>, pp.<pp>1463-1636</pp>", 
+                    "topline": "article bose__r_c:29", 
+                    "id": "bose__r_c:29"
+                }
+            ], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Bose, Raj Chandra", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Professor R. C. Bose: 1901-1987", 
+                    "ref": "<t>Professor R. C. Bose: 1901-1987.</t> <au>Chatterjee, S. K. and Adhikary, B.</au>. <j>Calcutta Statist. Assoc. Bull.</j>, Vol. <v>36</v>, pp.<pp>109-124</pp>", 
+                    "author": "Chatterjee, S. K. and Adhikary, B.", 
+                    "bibtype": "article", 
+                    "year": "1987", 
+                    "howpublished": "<j>Calcutta Statist. Assoc. Bull.</j>, Vol. <v>36</v>, pp.<pp>109-124</pp>", 
+                    "topline": "article bose__r_c:10", 
+                    "id": "bose__r_c:10"
+                }, 
+                {
+                    "title": "Raj Chandra Bose, 1901-1987", 
+                    "ref": "<t>Raj Chandra Bose, 1901-1987.</t> <au>Boes, D. C. and Johnson, N. L. and Kuebler, R. R.</au>. <j>IMS Bulletin</j>, Vol. <v>17</v>, pp.<pp>50-51</pp>", 
+                    "author": "Boes, D. C. and Johnson, N. L. and Kuebler, R. R.", 
+                    "bibtype": "article", 
+                    "year": "1988", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>17</v>, pp.<pp>50-51</pp>", 
+                    "topline": "article bose__r_c:11", 
+                    "id": "bose__r_c:11"
+                }, 
+                {
+                    "title": "Raj Chandra Bose (1901-1987)", 
+                    "ref": "<t>Raj Chandra Bose (1901-1987).</t> <j>Sankhy&amacr;</j>, Vol. <v>50</v>, pp.<pp>4-6</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1988", 
+                    "howpublished": "<j>Sankhy&amacr;</j>, Vol. <v>50</v>, pp.<pp>4-6</pp>", 
+                    "topline": "article bose__r_c:12", 
+                    "id": "bose__r_c:12"
+                }, 
+                {
+                    "title": "Professor Raj Chandra Bose", 
+                    "ref": "<t>Professor Raj Chandra Bose.</t> <j>J. Geom.</j>, Vol. <v>33</v>, pp.<pp>1-2</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1988", 
+                    "howpublished": "<j>J. Geom.</j>, Vol. <v>33</v>, pp.<pp>1-2</pp>", 
+                    "topline": "article bose__r_c:13", 
+                    "id": "bose__r_c:13"
+                }, 
+                {
+                    "title": "Raj Chandra Bose", 
+                    "ref": "<t>Raj Chandra Bose.</t> <au>Draper, N. L.</au>. <j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>153</v>, pp.<pp>98-99</pp>", 
+                    "author": "Draper, N. L.", 
+                    "bibtype": "article", 
+                    "year": "1990", 
+                    "howpublished": "<j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>153</v>, pp.<pp>98-99</pp>", 
+                    "topline": "article bose__r_c:14", 
+                    "id": "bose__r_c:14"
+                }, 
+                {
+                    "title": "Bose memorial session", 
+                    "ref": "<t>Bose memorial session.</t> <au>Nandi, P.</au>. <j>Sankhy&amacr;</j>, Vol. <v>54</v>, pp.<pp>i-viii</pp>", 
+                    "author": "Nandi, P.", 
+                    "bibtype": "article", 
+                    "year": "1992", 
+                    "howpublished": "<j>Sankhy&amacr;</j>, Vol. <v>54</v>, pp.<pp>i-viii</pp>", 
+                    "topline": "article bose__r_c:15", 
+                    "id": "bose__r_c:15"
+                }
+            ], 
+            "ims_id": "bose__r_c", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://en.wikipedia.org/wiki/R._C._Bose", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "category": "homepage", 
+                    "href": "http://en.wikipedia.org/wiki/R._C._Bose", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://en.wikipedia.org/wiki/R._C._Bose", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.york.ac.uk/depts/maths/histstat/people/bose.gif", 
+                    "anchor": "www.york.ac.uk"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=39945", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:bose.raj-chandra", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=11936", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54952840", 
+                    "anchor": "Microsoft Academic: Bose, R. C."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12767786", 
+                    "anchor": "Microsoft Academic: Bose, R. C."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/23219270", 
+                    "anchor": "Microsoft Academic: Bose, R. C."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1950", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Wald Lecturer", 
+                    "year": "1959", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS President", 
+                    "year": "1972", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Member", 
+                    "year": "1976", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "R. A. Fisher Lecturer", 
+                    "year": "1977", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "bose__raj", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Calcutta University", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=11936"
+                        }
+                    ], 
+                    "type": "D.Litt.", 
+                    "year": "1947"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1959", 
+                    "howpublished": "???", 
+                    "topline": "misc bose__r_c:733357", 
+                    "id": "bose__r_c:733357"
+                }, 
+                {
+                    "title": "Bose as teacher---the early years", 
+                    "ref": "<t>Bose as teacher---the early years.</t> <au>Bush, K. A.</au>. <inc>booktitle:survey-of-combinatorial-theory</inc>. pp.<pp>79-80</pp>", 
+                    "author": "Bush, K. A.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:survey-of-combinatorial-theory", 
+                    "year": "1973", 
+                    "howpublished": "pp.<pp>79-80</pp>", 
+                    "topline": "incollection bose__r_c:20", 
+                    "id": "bose__r_c:20"
+                }, 
+                {
+                    "title": "Raj Chandra Bose: Universal mathematician", 
+                    "ref": "<t>Raj Chandra Bose: Universal mathematician.</t> <au>Frisinger, H. H.</au>. <j>Ga&ncedil;ita Bh&amacr;rat\\=i</j>, Vol. <v>4(3-4)</v>, pp.<pp>83-89</pp>", 
+                    "author": "Frisinger, H. H.", 
+                    "bibtype": "article", 
+                    "year": "1982", 
+                    "howpublished": "<j>Ga&ncedil;ita Bh&amacr;rat\\=i</j>, Vol. <v>4(3-4)</v>, pp.<pp>83-89</pp>", 
+                    "topline": "article bose__r_c:21", 
+                    "id": "bose__r_c:21"
+                }, 
+                {
+                    "title": "R. C. Bose memorial conference, Fort Collins, Colorado; my reminiscences of Professor R. C. Bose and disproof of Euler's conjecture", 
+                    "ref": "<t>R. C. Bose memorial conference, Fort Collins, Colorado; my reminiscences of Professor R. C. Bose and disproof of Euler's conjecture.</t> <au>Shrikande, S. S.</au>. <j>J. Statist. Plann. Inference</j>, Vol. <v>73</v>, pp.<pp>273-276</pp>", 
+                    "author": "Shrikande, S. S.", 
+                    "bibtype": "article", 
+                    "year": "1998", 
+                    "howpublished": "<j>J. Statist. Plann. Inference</j>, Vol. <v>73</v>, pp.<pp>273-276</pp>", 
+                    "topline": "article bose__r_c:24", 
+                    "id": "bose__r_c:24"
+                }, 
+                {
+                    "title": "Raj Chandra Bose (1901-1987)", 
+                    "ref": "<t>Raj Chandra Bose (1901-1987).</t> <au>Yogananda, C. S.</au>. <j>Resonance</j>, Vol. <v>8(9)</v>, pp.<pp>51</pp>", 
+                    "author": "Yogananda, C. S.", 
+                    "bibtype": "article", 
+                    "year": "2003", 
+                    "howpublished": "<j>Resonance</j>, Vol. <v>8(9)</v>, pp.<pp>51</pp>", 
+                    "topline": "article bose__r_c:25", 
+                    "id": "bose__r_c:25"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <inc>booktitle:encyclopedia-of-statistical-sciences</inc>. ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-statistical-sciences", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "incollection bose__r_c:22", 
+                    "id": "bose__r_c:22"
+                }, 
+                {
+                    "title": "Raj Chandra Bose", 
+                    "ref": "<t>Raj Chandra Bose.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2011", 
+                    "howpublished": "???", 
+                    "topline": "incollection bose__r_c:23", 
+                    "id": "bose__r_c:23"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "North-Holland", 
+            "title": "A Survey of Combinatorial Theory", 
+            "url": "http://www.worldcat.org/title/survey-of-combinatorial-theory/oclc/713965", 
+            "booktitle": "A Survey of Combinatorial Theory", 
+            "address": "Amsterdam", 
+            "editors": "J. N. Srivastava and others", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:survey-of-combinatorial-theory", 
+            "year": "1973", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>A Survey of Combinatorial Theory.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:survey-of-combinatorial-theory"
+        }, 
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Statistical Sciences", 
+            "url": "http://onlinelibrary.wiley.com/book/10.1002/0471667196", 
+            "booktitle": "Encyclopedia of Statistical Sciences", 
+            "address": "Hoboken, NJ", 
+            "editors": "S. Kotz and N. Balakrishnan and C. Read and B. Vidakovic", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:encyclopedia-of-statistical-sciences", 
+            "year": "2006", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }
+    ]
+}

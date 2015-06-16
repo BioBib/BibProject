@@ -1,0 +1,330 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2004", 
+                    "howpublished": "???", 
+                    "topline": "misc doob__joseph_l:276259", 
+                    "id": "doob__joseph_l:276259"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2004", 
+                    "howpublished": "???", 
+                    "topline": "misc doob__joseph_l:242472", 
+                    "id": "doob__joseph_l:242472"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2004", 
+                    "howpublished": "???", 
+                    "topline": "misc doob__joseph_l:765788", 
+                    "id": "doob__joseph_l:765788"
+                }
+            ], 
+            "DOB": "1910-02-27", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2004-06-07", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Doob, Joseph L.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2004", 
+                    "howpublished": "???", 
+                    "topline": "misc doob__joseph_l:960670", 
+                    "id": "doob__joseph_l:960670"
+                }, 
+                {
+                    "title": "Joseph L. Doob, 1910-2004", 
+                    "ref": "<t>Joseph L. Doob, 1910-2004.</t> <au>Burkholder, D.</au>. <j>IMS Bulletin</j>, Vol. <v>33(6)</v>, pp.<pp>8</pp>", 
+                    "author": "Burkholder, D.", 
+                    "bibtype": "article", 
+                    "year": "2004", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>33(6)</v>, pp.<pp>8</pp>", 
+                    "topline": "article doob__joseph_l:11", 
+                    "id": "doob__joseph_l:11"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2004", 
+                    "howpublished": "???", 
+                    "topline": "misc doob__joseph_l:983147", 
+                    "id": "doob__joseph_l:983147"
+                }, 
+                {
+                    "title": "Joseph Leo Doob, 1910-2004", 
+                    "ref": "<t>Joseph Leo Doob, 1910-2004.</t> <au>Burkholder, D. and Protter, P.</au>. <j>Stochastic Process. Appl.</j>, Vol. <v>115</v>, pp.<pp>1061-1072</pp>", 
+                    "author": "Burkholder, D. and Protter, P.", 
+                    "bibtype": "article", 
+                    "year": "2005", 
+                    "howpublished": "<j>Stochastic Process. Appl.</j>, Vol. <v>115</v>, pp.<pp>1061-1072</pp>", 
+                    "topline": "article doob__joseph_l:13", 
+                    "id": "doob__joseph_l:13"
+                }, 
+                {
+                    "title": "Joseph Leonard Doob", 
+                    "ref": "<t>Joseph Leonard Doob.</t> <au>Snell, J. L.</au>. <j>J. Appl. Probab.</j>, Vol. <v>42</v>, pp.<pp>247-256</pp>", 
+                    "author": "Snell, J. L.", 
+                    "bibtype": "article", 
+                    "year": "2005", 
+                    "howpublished": "<j>J. Appl. Probab.</j>, Vol. <v>42</v>, pp.<pp>247-256</pp>", 
+                    "topline": "article doob__joseph_l:14", 
+                    "id": "doob__joseph_l:14"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2005", 
+                    "howpublished": "???", 
+                    "topline": "misc doob__joseph_l:467916", 
+                    "id": "doob__joseph_l:467916"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "misc doob__joseph_l:944565", 
+                    "id": "doob__joseph_l:944565"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "misc doob__joseph_l:910312", 
+                    "id": "doob__joseph_l:910312"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2007", 
+                    "howpublished": "???", 
+                    "topline": "misc doob__joseph_l:551039", 
+                    "id": "doob__joseph_l:551039"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "year?", 
+                    "howpublished": "???", 
+                    "topline": "misc doob__joseph_l:91996", 
+                    "id": "doob__joseph_l:91996"
+                }
+            ], 
+            "ims_id": "doob__joseph_l", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://en.wikipedia.org/wiki/Joseph_L._Doob", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.york.ac.uk/depts/maths/histstat/people/doob.gif", 
+                    "anchor": "www.york.ac.uk"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=59155", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:doob.joseph-leo", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=4598", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12869844", 
+                    "anchor": "Microsoft Academic: Doob, J. L."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54980422", 
+                    "anchor": "Microsoft Academic: Doob, J. L."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54980421", 
+                    "anchor": "Microsoft Academic: Doob, J. L."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "L. Doob Prize, American Mathematical Society", 
+                    "year": "Joseph", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS President", 
+                    "year": "1950", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Member", 
+                    "year": "1957", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1965", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Rietz Lecturer", 
+                    "year": "1965", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Acad&eacute;mie des sciences, Foreign Associate", 
+                    "year": "1975", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Medal of Science", 
+                    "year": "1979", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Steele Prize, American Mathematical Society", 
+                    "year": "1984", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "before 1943", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "doob__joseph", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2004", 
+                    "howpublished": "???", 
+                    "topline": "misc doob__joseph_l:783464", 
+                    "id": "doob__joseph_l:783464"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Harvard University", 
+                    "thesis_title": "Boundary Values of Analytic Functions", 
+                    "year": "1932", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=4598"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "A conversation with Joe Doob", 
+                    "ref": "<t>A conversation with Joe Doob.</t> <au>Snell, J. L.</au>. <j>Statist. Sci.</j>, Vol. <v>12</v>, pp.<pp>301-311</pp>", 
+                    "author": "Snell, J. L.", 
+                    "bibtype": "article", 
+                    "year": "1997", 
+                    "howpublished": "<j>Statist. Sci.</j>, Vol. <v>12</v>, pp.<pp>301-311</pp>", 
+                    "topline": "article doob__joseph_l:24", 
+                    "id": "doob__joseph_l:24"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1998", 
+                    "howpublished": "???", 
+                    "topline": "misc doob__joseph_l:657909", 
+                    "id": "doob__joseph_l:657909"
+                }, 
+                {
+                    "title": "Joseph Leo Doob", 
+                    "ref": "<t>Joseph Leo Doob.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2004", 
+                    "howpublished": "???", 
+                    "topline": "incollection doob__joseph_l:25", 
+                    "id": "doob__joseph_l:25"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2009", 
+                    "howpublished": "???", 
+                    "topline": "misc doob__joseph_l:486246", 
+                    "id": "doob__joseph_l:486246"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2009", 
+                    "howpublished": "???", 
+                    "topline": "misc doob__joseph_l:723565", 
+                    "id": "doob__joseph_l:723565"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

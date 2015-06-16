@@ -1,0 +1,397 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1909-07-15", 
+            "DVD": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1978", 
+                    "howpublished": "???", 
+                    "topline": "misc cochran__william_g:33", 
+                    "id": "cochran__william_g:33"
+                }
+            ], 
+            "Collected_Works": [
+                {
+                    "title": "Contributions to Statistics", 
+                    "ref": "<t>Contributions to Statistics.</t> <au>Cochran, W. G.</au>. Wiley, pp.<pp>vii-xiii</pp>", 
+                    "author": "Cochran, W. G.", 
+                    "bibtype": "book", 
+                    "year": "1982", 
+                    "howpublished": "Wiley, pp.<pp>vii-xiii</pp>", 
+                    "topline": "book cochran__william_g:32", 
+                    "id": "cochran__william_g:32"
+                }
+            ], 
+            "DOD": "1980-03-29", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Cochran, William G.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "William Gemmell Cochran 1909-1980, A personal tribute", 
+                    "ref": "<t>William Gemmell Cochran 1909-1980, A personal tribute.</t> <au>Anderson, R. L.</au>. <j>Biometrics</j>, Vol. <v>36</v>, pp.<pp>574-578</pp>", 
+                    "author": "Anderson, R. L.", 
+                    "bibtype": "article", 
+                    "year": "1980", 
+                    "howpublished": "<j>Biometrics</j>, Vol. <v>36</v>, pp.<pp>574-578</pp>", 
+                    "topline": "article cochran__william_g:10", 
+                    "id": "cochran__william_g:10"
+                }, 
+                {
+                    "title": "In memoriam, William Gemmell Cochran 1909-1980", 
+                    "ref": "<t>In memoriam, William Gemmell Cochran 1909-1980.</t> <au>Dempster, A. P. and Mosteller, F.</au>. <j>Amer. Statist.</j>, Vol. <v>35</v>, pp.<pp>38</pp>", 
+                    "author": "Dempster, A. P. and Mosteller, F.", 
+                    "bibtype": "article", 
+                    "year": "1981", 
+                    "howpublished": "<j>Amer. Statist.</j>, Vol. <v>35</v>, pp.<pp>38</pp>", 
+                    "topline": "article cochran__william_g:11", 
+                    "id": "cochran__william_g:11"
+                }, 
+                {
+                    "title": "Bill Cochran: His contributions to medicine and public health and some personal recollections", 
+                    "ref": "<t>Bill Cochran: His contributions to medicine and public health and some personal recollections.</t> <au>Colton, T.</au>. <j>Amer. Statist.</j>, Vol. <v>35</v>, pp.<pp>167-170</pp>", 
+                    "author": "Colton, T.", 
+                    "bibtype": "article", 
+                    "year": "1981", 
+                    "howpublished": "<j>Amer. Statist.</j>, Vol. <v>35</v>, pp.<pp>167-170</pp>", 
+                    "topline": "article cochran__william_g:12", 
+                    "id": "cochran__william_g:12"
+                }, 
+                {
+                    "title": "Professor William Gemmell Cochran: Pioneer in statistics, outstanding scientist and a noble human being", 
+                    "ref": "<t>Professor William Gemmell Cochran: Pioneer in statistics, outstanding scientist and a noble human being.</t> <au>Rao, P. S. R. S.</au>. <inc>booktitle:current-topics-in-survey-sampling</inc>. pp.<pp>3-7</pp>", 
+                    "author": "Rao, P. S. R. S.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:current-topics-in-survey-sampling", 
+                    "year": "1981", 
+                    "howpublished": "pp.<pp>3-7</pp>", 
+                    "topline": "incollection cochran__william_g:15", 
+                    "id": "cochran__william_g:15"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <au>Hartley, H. O.</au>. <inc>booktitle:current-topics-in-survey-sampling</inc>. pp.<pp>9-14</pp>", 
+                    "author": "Hartley, H. O.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:current-topics-in-survey-sampling", 
+                    "year": "1981", 
+                    "howpublished": "pp.<pp>9-14</pp>", 
+                    "topline": "incollection cochran__william_g:16", 
+                    "id": "cochran__william_g:16"
+                }, 
+                {
+                    "title": "William Gemmell Cochran 1909-1980", 
+                    "ref": "<t>William Gemmell Cochran 1909-1980.</t> <au>Watson, G. S.</au>. <j>Ann. Statist.</j>, Vol. <v>10</v>, pp.<pp>1-10</pp>", 
+                    "author": "Watson, G. S.", 
+                    "bibtype": "article", 
+                    "year": "1982", 
+                    "howpublished": "<j>Ann. Statist.</j>, Vol. <v>10</v>, pp.<pp>1-10</pp>", 
+                    "topline": "article cochran__william_g:9", 
+                    "id": "cochran__william_g:9"
+                }, 
+                {
+                    "title": "William Gemmell Cochran, 1909-1980", 
+                    "ref": "<t>William Gemmell Cochran, 1909-1980.</t> <au>Yates, F.</au>. <j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>145</v>, pp.<pp>521-523</pp>", 
+                    "author": "Yates, F.", 
+                    "bibtype": "article", 
+                    "year": "1982", 
+                    "howpublished": "<j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>145</v>, pp.<pp>521-523</pp>", 
+                    "topline": "article cochran__william_g:13", 
+                    "id": "cochran__william_g:13"
+                }, 
+                {
+                    "title": "Reflections on W. G. Cochran, 1909-1980", 
+                    "ref": "<t>Reflections on W. G. Cochran, 1909-1980.</t> <au>Dempster, A. P.</au>. <j>Internat. Statist. Rev.</j>, Vol. <v>51</v>, pp.<pp>321-322</pp>", 
+                    "author": "Dempster, A. P.", 
+                    "bibtype": "article", 
+                    "year": "1983", 
+                    "howpublished": "<j>Internat. Statist. Rev.</j>, Vol. <v>51</v>, pp.<pp>321-322</pp>", 
+                    "topline": "article cochran__william_g:14", 
+                    "id": "cochran__william_g:14"
+                }, 
+                {
+                    "title": "W. G. Cochran's Impact on Statistics", 
+                    "ref": "<t>W. G. Cochran's Impact on Statistics.</t> Wiley", 
+                    "author": "Anonymous", 
+                    "bibtype": "book", 
+                    "year": "1984", 
+                    "howpublished": "Wiley", 
+                    "topline": "book cochran__william_g:17", 
+                    "id": "cochran__william_g:17"
+                }, 
+                {
+                    "title": "Cochran at 100", 
+                    "ref": "<t>Cochran at 100.</t> <j>Harvard Gazette</j>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2009", 
+                    "howpublished": "<j>Harvard Gazette</j>", 
+                    "topline": "article cochran__william_g:18", 
+                    "id": "cochran__william_g:18"
+                }
+            ], 
+            "ims_id": "cochran__william_g", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://en.wikipedia.org/wiki/William_Gemmell_Cochran", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.york.ac.uk/depts/maths/histstat/people/cochran.gif", 
+                    "anchor": "www.york.ac.uk"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=50115", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:cochran.william-g", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=25897", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18129942", 
+                    "anchor": "Microsoft Academic: Cochran, William G."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/51085972", 
+                    "anchor": "Microsoft Academic: Cochran, W. G."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "Guy Medal in Bronze", 
+                    "year": "1936", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS President", 
+                    "year": "1946", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Rietz Lecturer", 
+                    "year": "1967", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Samuel S. Wilks Award", 
+                    "year": "1967", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1971", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "R. A. Fisher Lecturer", 
+                    "year": "1972", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Member", 
+                    "year": "1974", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "before 1943", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "cochran__william", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>9</v>, pp.<pp>153</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1980", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>9</v>, pp.<pp>153</pp>", 
+                    "topline": "article cochran__william_g:8", 
+                    "id": "cochran__william_g:8"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Glasgow", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=25897"
+                        }
+                    ], 
+                    "type": "M.A.", 
+                    "year": "1931"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "William G. Cochran, 1909-1980", 
+                    "ref": "<t>William G. Cochran, 1909-1980.</t> In: <bt>Statisticians in History</bt>, American Statistical Association", 
+                    "author": "Anonymous", 
+                    "bibtype": "incollection", 
+                    "year": "1980", 
+                    "howpublished": "In: <bt>Statisticians in History</bt>, American Statistical Association", 
+                    "topline": "incollection cochran__william_g:29", 
+                    "id": "cochran__william_g:29"
+                }, 
+                {
+                    "title": "William Gemmell Cochran, July 15, 1909-March 29, 1980", 
+                    "ref": "<t>William Gemmell Cochran, July 15, 1909-March 29, 1980.</t> <au>Hansen, M. and Mosteller, F.</au>. <j>Biographical Memoirs</j>, National Academies Press, Vol. <v>56</v>, pp.<pp>60-89</pp>", 
+                    "author": "Hansen, M. and Mosteller, F.", 
+                    "bibtype": "article", 
+                    "year": "1987", 
+                    "howpublished": "<j>Biographical Memoirs</j>, National Academies Press, Vol. <v>56</v>, pp.<pp>60-89</pp>", 
+                    "topline": "article cochran__william_g:25", 
+                    "id": "cochran__william_g:25"
+                }, 
+                {
+                    "title": "William Gemmell Cochran", 
+                    "ref": "<t>William Gemmell Cochran.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "1996", 
+                    "howpublished": "???", 
+                    "topline": "incollection cochran__william_g:30", 
+                    "id": "cochran__william_g:30"
+                }, 
+                {
+                    "title": "Cochran, William Gemmell", 
+                    "ref": "<t>Cochran, William Gemmell.</t> <au>Watson, G. S.</au>. <inc>booktitle:leading-personalities-in-statistical-sciences-from-the-17th-century-to-the-present</inc>. pp.<pp>188-189</pp>", 
+                    "author": "Watson, G. S.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:leading-personalities-in-statistical-sciences-from-the-17th-century-to-the-present", 
+                    "year": "1997", 
+                    "howpublished": "pp.<pp>188-189</pp>", 
+                    "topline": "incollection cochran__william_g:26", 
+                    "id": "cochran__william_g:26"
+                }, 
+                {
+                    "title": "Cochran, William Gemmell", 
+                    "ref": "<t>Cochran, William Gemmell.</t> <au>Dempster, A. P.</au>. <inc>booktitle:encyclopedia-of-biostatistics</inc>. ???", 
+                    "author": "Dempster, A. P.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-biostatistics", 
+                    "year": "2005", 
+                    "howpublished": "???", 
+                    "topline": "incollection cochran__william_g:27", 
+                    "id": "cochran__william_g:27"
+                }, 
+                {
+                    "title": "Cochran, William Gemmell", 
+                    "ref": "<t>Cochran, William Gemmell.</t> <au>Anderson, R. L.</au>. <inc>booktitle:complete-dictionary-of-scientific-biography</inc>. Vol. <v>17</v>, pp.<pp>171-173</pp>", 
+                    "author": "Anderson, R. L.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:complete-dictionary-of-scientific-biography", 
+                    "year": "2008", 
+                    "howpublished": "Vol. <v>17</v>, pp.<pp>171-173</pp>", 
+                    "topline": "incollection cochran__william_g:28", 
+                    "id": "cochran__william_g:28"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Wiley", 
+            "title": "Leading Personalities in Statistical Sciences, from the 17th Century to the Present", 
+            "url": "http://www.worldcat.org/title/leading-personalities-in-statistical-sciences-from-the-17th-century-to-the-present/oclc/36430730", 
+            "booktitle": "Leading Personalities in Statistical Sciences, from the 17th Century to the Present", 
+            "address": "New York", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:leading-personalities-in-statistical-sciences-from-the-17th-century-to-the-present", 
+            "editor": "N. L. Johnson and S. Kotz", 
+            "year": "1997", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Leading Personalities in Statistical Sciences, from the 17th Century to the Present.</t> <ed>N. L. Johnson and S. Kotz</ed>. In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:leading-personalities-in-statistical-sciences-from-the-17th-century-to-the-present"
+        }, 
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Biostatistics", 
+            "url": "http://www.worldcat.org/title/encyclopedia-of-biostatistics/oclc/38258277", 
+            "booktitle": "Encyclopedia of Biostatistics", 
+            "address": "Hoboken, NJ", 
+            "editors": "P. Armitage and T. Colton", 
+            "bibtype": "reference", 
+            "edition": "2nd", 
+            "top_line": "reference booktitle:encyclopedia-of-biostatistics", 
+            "year": "2005", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Biostatistics.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-biostatistics"
+        }, 
+        {
+            "publisher": "Scribner's", 
+            "title": "Complete Dictionary of Scientific Biography", 
+            "url": "http://www.worldcat.org/title/complete-dictionary-of-scientific-biography/oclc/187313311", 
+            "booktitle": "Complete Dictionary of Scientific Biography", 
+            "address": "Detroit", 
+            "editors": "F. L. Holmes", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:complete-dictionary-of-scientific-biography", 
+            "year": "2008", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Complete Dictionary of Scientific Biography.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:complete-dictionary-of-scientific-biography"
+        }, 
+        {
+            "publisher": "Academic Press", 
+            "title": "Current Topics in Survey Sampling", 
+            "url": "http://www.worldcat.org/title/current-topics-in-survey-sampling/oclc/7924788", 
+            "booktitle": "Current Topics in Survey Sampling", 
+            "address": "New York", 
+            "editors": "D. Krewski and R. Platek and J. N. K. Rao", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:current-topics-in-survey-sampling", 
+            "year": "1981", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Current Topics in Survey Sampling.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:current-topics-in-survey-sampling"
+        }, 
+        {
+            "publisher": "Academic Press", 
+            "title": "Current Topics in Survey Sampling", 
+            "url": "http://www.worldcat.org/title/current-topics-in-survey-sampling/oclc/7924788", 
+            "booktitle": "Current Topics in Survey Sampling", 
+            "address": "New York", 
+            "editors": "D. Krewski and R. Platek and J. N. K. Rao", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:current-topics-in-survey-sampling", 
+            "year": "1981", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Current Topics in Survey Sampling.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:current-topics-in-survey-sampling"
+        }
+    ]
+}

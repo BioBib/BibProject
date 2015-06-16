@@ -1,0 +1,82 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Phillips, Peter C. B.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "phillips__peter_c_b", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://cowles.econ.yale.edu/faculty/phillips.htm", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=139150", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:phillips.peter-c-b", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=61476", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12752900", 
+                    "anchor": "Microsoft Academic: Phillips, Peter Charles Bonest"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "2005", 
+                    "citation": "For extensive and influential contributions to time series analysis, especially unit root series; for considerably developing finite sample theory and higher order asymptotic theory; for founding and editing for 20 years a journal, Econometric Theory, on the interface between econometrics and statistics", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "British Academy, Corresponding Fellow", 
+                    "year": "2008", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "phillips__peter", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "London School of Economics", 
+                    "thesis_title": "Problems in the Estimation of Continuous Time Models", 
+                    "year": "1974", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=61476"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

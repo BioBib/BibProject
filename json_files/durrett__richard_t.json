@@ -1,0 +1,134 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Durrett, Richard T.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "durrett__richard_t", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.math.cornell.edu/People/Faculty/durrett.html", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "category": "homepage", 
+                    "href": "http://www.math.cornell.edu/People/Faculty/durrett.html", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "category": "homepage", 
+                    "href": "http://www.math.duke.edu/~rtd/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=60890", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:durrett.richard-t", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=38623", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/3140609", 
+                    "anchor": "Microsoft Academic: Durrett, Richard T."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53360606", 
+                    "anchor": "Microsoft Academic: Durrett, Richard"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12860660", 
+                    "anchor": "Microsoft Academic: Durrett, Richard T."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1981", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Medallion Lecturer", 
+                    "year": "1985", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "2002", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Medallion Lecturer", 
+                    "year": "2006", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Member", 
+                    "year": "2007", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Wald Lecturer", 
+                    "year": "2008", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "durrett__richard", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Stanford University", 
+                    "thesis_title": "Conditioned Limit Theorems for Some Null Recurrenent Markov Processes", 
+                    "year": "1976", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=38623"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "National Academy of Sciences laureates", 
+                    "ref": "<t>National Academy of Sciences laureates.</t> <j>IMS Bulletin</j>, pp.<pp>6</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2007", 
+                    "howpublished": "<j>IMS Bulletin</j>, pp.<pp>6</pp>", 
+                    "topline": "article durrett__richard_t:9", 
+                    "id": "durrett__richard_t:9"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

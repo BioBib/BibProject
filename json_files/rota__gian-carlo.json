@@ -1,0 +1,256 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1999", 
+                    "howpublished": "???", 
+                    "topline": "misc rota__gian-carlo:137503", 
+                    "id": "rota__gian-carlo:137503"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1999", 
+                    "howpublished": "???", 
+                    "topline": "misc rota__gian-carlo:826914", 
+                    "id": "rota__gian-carlo:826914"
+                }, 
+                {
+                    "title": "Gian-Carlo Rota", 
+                    "ref": "<t>Gian-Carlo Rota.</t> <au>Di Crescenzo, A.</au>. <j>Math. Sci.</j>, Vol. <v>25</v>, pp.<pp>61-62</pp>", 
+                    "author": "Di Crescenzo, A.", 
+                    "bibtype": "article", 
+                    "year": "2000", 
+                    "howpublished": "<j>Math. Sci.</j>, Vol. <v>25</v>, pp.<pp>61-62</pp>", 
+                    "topline": "article rota__gian-carlo:11", 
+                    "id": "rota__gian-carlo:11"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "21", 
+                    "howpublished": "???", 
+                    "topline": "misc rota__gian-carlo:994945", 
+                    "id": "rota__gian-carlo:994945"
+                }
+            ], 
+            "DOB": "1932-04-27", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1999-04-18", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Rota, Gian-Carlo", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Gian-Carlo Rota (1932-1999)", 
+                    "ref": "<t>Gian-Carlo Rota (1932-1999).</t> <au>Beschler, E. F. and Buchsbaum, D. A. and Schwartz, J. T. and Stanley, R. P. and Taylor, B. D. and Waterman, M.</au>. <j>Notices Amer. Math. Soc.</j>, Vol. <v>47</v>, pp.<pp>203-216</pp>", 
+                    "author": "Beschler, E. F. and Buchsbaum, D. A. and Schwartz, J. T. and Stanley, R. P. and Taylor, B. D. and Waterman, M.", 
+                    "bibtype": "article", 
+                    "year": "2000", 
+                    "howpublished": "<j>Notices Amer. Math. Soc.</j>, Vol. <v>47</v>, pp.<pp>203-216</pp>", 
+                    "topline": "article rota__gian-carlo:12", 
+                    "id": "rota__gian-carlo:12"
+                }
+            ], 
+            "ims_id": "rota__gian-carlo", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.ruf.rice.edu/~dulab/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "category": "homepage", 
+                    "href": "http://faculty.uml.edu/dklain/rota.html", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://en.wikipedia.org/wiki/Gian-Carlo_Rota", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.york.ac.uk/depts/maths/histstat/people/rota.gif", 
+                    "anchor": "www.york.ac.uk"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=150900", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:rota.gian-carlo", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=7721", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/23351374", 
+                    "anchor": "Microsoft Academic: Rota, Gian-Carlo"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/55574557", 
+                    "anchor": "Microsoft Academic: Rota, Gian-Carlo"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1963", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1970", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Arts and Sciences, Member", 
+                    "year": "1982", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Steele Prize, American Mathematical Society", 
+                    "year": "1988", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>Notices Amer. Math. Soc.</j>, Vol. <v>46</v>, pp.<pp>686</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1999", 
+                    "howpublished": "<j>Notices Amer. Math. Soc.</j>, Vol. <v>46</v>, pp.<pp>686</pp>", 
+                    "topline": "article rota__gian-carlo:7", 
+                    "id": "rota__gian-carlo:7"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Yale University", 
+                    "thesis_title": "Extension Theory of Differential Operators", 
+                    "year": "1956", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=7721"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Gian-Carlo Rota and combinatorial math", 
+                    "ref": "<t>Gian-Carlo Rota and combinatorial math.</t> <au>Kolata, G. B.</au>. <j>Science</j>, Vol. <v>204</v>, pp.<pp>44-45</pp>", 
+                    "author": "Kolata, G. B.", 
+                    "bibtype": "article", 
+                    "year": "1979", 
+                    "howpublished": "<j>Science</j>, Vol. <v>204</v>, pp.<pp>44-45</pp>", 
+                    "topline": "article rota__gian-carlo:16", 
+                    "id": "rota__gian-carlo:16"
+                }, 
+                {
+                    "title": "Gian-Carlo Rota", 
+                    "ref": "<t>Gian-Carlo Rota.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2000", 
+                    "howpublished": "???", 
+                    "topline": "incollection rota__gian-carlo:20", 
+                    "id": "rota__gian-carlo:20"
+                }, 
+                {
+                    "title": "Interview with Gian-Carlo Rota", 
+                    "ref": "<t>Interview with Gian-Carlo Rota.</t> <j>Lect. Mat.</j>, Vol. <v>22</v>, pp.<pp>67-79</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2001", 
+                    "howpublished": "<j>Lect. Mat.</j>, Vol. <v>22</v>, pp.<pp>67-79</pp>", 
+                    "topline": "article rota__gian-carlo:17", 
+                    "id": "rota__gian-carlo:17"
+                }, 
+                {
+                    "title": "Rota, Gian-Carlo", 
+                    "ref": "<t>Rota, Gian-Carlo.</t> <au>Stanley, R.</au>. <inc>booktitle:complete-dictionary-of-scientific-biography</inc>. Vol. <v>24</v>, pp.<pp>285-287</pp>", 
+                    "author": "Stanley, R.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:complete-dictionary-of-scientific-biography", 
+                    "year": "2008", 
+                    "howpublished": "Vol. <v>24</v>, pp.<pp>285-287</pp>", 
+                    "topline": "incollection rota__gian-carlo:18", 
+                    "id": "rota__gian-carlo:18"
+                }, 
+                {
+                    "title": "Gian-Carlo Rota: Mathematician and philosopher", 
+                    "ref": "<t>Gian-Carlo Rota: Mathematician and philosopher.</t> <au>Senato, D.</au>. <inc>booktitle:mathematical-lives-protagonists-of-the-twentieth-century-from-hilbert-to-wiles</inc>. pp.<pp>181-189</pp>", 
+                    "author": "Senato, D.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:mathematical-lives-protagonists-of-the-twentieth-century-from-hilbert-to-wiles", 
+                    "year": "2010", 
+                    "howpublished": "pp.<pp>181-189</pp>", 
+                    "topline": "incollection rota__gian-carlo:19", 
+                    "id": "rota__gian-carlo:19"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Scribner's", 
+            "title": "Complete Dictionary of Scientific Biography", 
+            "url": "http://www.worldcat.org/title/complete-dictionary-of-scientific-biography/oclc/187313311", 
+            "booktitle": "Complete Dictionary of Scientific Biography", 
+            "address": "Detroit", 
+            "editors": "F. L. Holmes", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:complete-dictionary-of-scientific-biography", 
+            "year": "2008", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Complete Dictionary of Scientific Biography.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:complete-dictionary-of-scientific-biography"
+        }, 
+        {
+            "publisher": "Springer", 
+            "title": "Mathematical Lives: Protagonists of the Twentieth Century from Hilbert to Wiles", 
+            "url": "http://www.worldcat.org/title/mathematical-lives-protagonists-of-the-twentieth-century-from-hilbert-to-wiles/oclc/682907521", 
+            "booktitle": "Mathematical Lives: Protagonists of the Twentieth Century from Hilbert to Wiles", 
+            "address": "Berlin", 
+            "editors": "C. Bartocci and R. Betti and A. Guerraggio and R. Lucchetti", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:mathematical-lives-protagonists-of-the-twentieth-century-from-hilbert-to-wiles", 
+            "year": "2010", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Mathematical Lives: Protagonists of the Twentieth Century from Hilbert to Wiles.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:mathematical-lives-protagonists-of-the-twentieth-century-from-hilbert-to-wiles"
+        }
+    ]
+}

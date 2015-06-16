@@ -1,0 +1,59 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Doney, Ronald A.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "doney__ronald_a", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.maths.manchester.ac.uk/~rad/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:doney.ronald-arthur", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/568430", 
+                    "anchor": "Microsoft Academic: Doney, Ronald A."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/50395646", 
+                    "anchor": "Microsoft Academic: Doney, Ron Arthur"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "2006", 
+                    "citation": "For fundamental contributions to the theory of L\\u00e9vy processes, and in particular calculation of sample path and distributional properties", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "doney__ronal", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

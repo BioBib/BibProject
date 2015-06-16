@@ -1,0 +1,122 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Zelen, Marvin", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "zelen__marvin", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://connects.catalyst.harvard.edu/profiles/profile/person/71125", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "category": "homepage", 
+                    "href": "http://connects.catalyst.harvard.edu/profiles/profile/person/71125", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=260437", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:zelen.marvin", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=75324", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12860417", 
+                    "anchor": "Microsoft Academic: Zelen, Marvin"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54004239", 
+                    "anchor": "Microsoft Academic: Zelen, M."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52455175", 
+                    "anchor": "Microsoft Academic: Zelen, Marvin"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1966", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Medallion Lecturer", 
+                    "year": "1985", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1991", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Samuel S. Wilks Award", 
+                    "year": "2006", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "R. A. Fisher Lecturer", 
+                    "year": "2007", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "The American University", 
+                    "thesis_title": "Combining Tests of Significance in Incomplete Block Designs", 
+                    "year": "1957", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=75324"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "2007 COPSS Fisher Lecturer: Marvin Zelen", 
+                    "ref": "<t>2007 COPSS Fisher Lecturer: Marvin Zelen.</t> <j>IMS Bulletin</j>, Vol. <v>36(5)</v>, pp.<pp>15</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2007", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>36(5)</v>, pp.<pp>15</pp>", 
+                    "topline": "article zelen__marvin:8", 
+                    "id": "zelen__marvin:8"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

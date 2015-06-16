@@ -1,0 +1,72 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Krickeberg, Klaus", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "krickeberg__klaus", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=48899", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:krickeberg.klaus", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/28928289", 
+                    "anchor": "Microsoft Academic: K. Krickeberg"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/42357178", 
+                    "anchor": "Microsoft Academic: Klaus Krickeberg"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/51186833", 
+                    "anchor": "Microsoft Academic: Klaus Krickeberg"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/44956436", 
+                    "anchor": "Microsoft Academic: Klaus Krickeberg"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/51186834", 
+                    "anchor": "Microsoft Academic: Klaus Krickeberg"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/23182015", 
+                    "anchor": "Microsoft Academic: Klaus Krickeberg"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1968", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

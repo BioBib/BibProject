@@ -1,0 +1,92 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Boyd Harshbarger (1906-1998)", 
+                    "ref": "<t>Boyd Harshbarger (1906-1998).</t> <j>IMS Bulletin</j>, Vol. <v>27</v>, pp.<pp>198</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1998", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>27</v>, pp.<pp>198</pp>", 
+                    "topline": "article harshbarger__boyd:7", 
+                    "id": "harshbarger__boyd:7"
+                }, 
+                {
+                    "title": "Boyd Harshbarger, 92", 
+                    "ref": "<t>Boyd Harshbarger, 92.</t> <j>Spectrum</j>, Vol. <v>20(32). Office of University Relations</v>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1998", 
+                    "howpublished": "<j>Spectrum</j>, Vol. <v>20(32). Office of University Relations</v>", 
+                    "topline": "article harshbarger__boyd:8", 
+                    "id": "harshbarger__boyd:8"
+                }
+            ], 
+            "DOB": "1906-02-15", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1998-05-20", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Harshbarger, Boyd", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "harshbarger__boyd", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=458885", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:harshbarger.boyd", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=43030", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/47196757", 
+                    "anchor": "Microsoft Academic: Harshbarger, Boyd"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1972", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Iowa State University and The George Washington University", 
+                    "thesis_title": "On the Analysis of a Certain (6 X 6)-Four-Group Lattice Design", 
+                    "year": "1943", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=43030"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

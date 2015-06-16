@@ -1,0 +1,133 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc bell__charles_b:814994", 
+                    "id": "bell__charles_b:814994"
+                }
+            ], 
+            "DOB": "1928-08-20", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2010-10-26", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Bell, Charles B., Jr.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Charles B. Bell, 1928-2010", 
+                    "ref": "<t>Charles B. Bell, 1928-2010.</t> <au>Olkin, I.</au>. <j>IMS Bulletin</j>, Vol. <v>41(1)</v>, pp.<pp>5</pp>", 
+                    "author": "Olkin, I.", 
+                    "bibtype": "article", 
+                    "year": "2012", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>41(1)</v>, pp.<pp>5</pp>", 
+                    "topline": "article bell__charles_b:10", 
+                    "id": "bell__charles_b:10"
+                }
+            ], 
+            "ims_id": "bell__charles_b", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=205510", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:bell.charles", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=44339", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/29273122", 
+                    "anchor": "Microsoft Academic: Bell, C. B."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12749801", 
+                    "anchor": "Microsoft Academic: Bell, C. B."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52318396", 
+                    "anchor": "Microsoft Academic: Bell, C. B."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1970", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "bell__charles", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Notre Dame", 
+                    "thesis_title": "Structures of Measure Spaces", 
+                    "year": "1953", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=44339"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Charles Bernard Bell, Jr.", 
+                    "ref": "<t>Charles Bernard Bell, Jr.</t> <j>Newsletter, National Association of Mathematicians</j>, Vol. <v>21(4)</v>, pp.<pp>5</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1990", 
+                    "howpublished": "<j>Newsletter, National Association of Mathematicians</j>, Vol. <v>21(4)</v>, pp.<pp>5</pp>", 
+                    "topline": "article bell__charles_b:11", 
+                    "id": "bell__charles_b:11"
+                }, 
+                {
+                    "title": "Charles B. Bell, Jr.", 
+                    "ref": "<t>Charles B. Bell, Jr.</t> In: <bt>Mathematicians of the African Diaspora</bt>", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2008", 
+                    "howpublished": "In: <bt>Mathematicians of the African Diaspora</bt>", 
+                    "topline": "misc bell__charles_b:13", 
+                    "id": "bell__charles_b:13"
+                }, 
+                {
+                    "title": "Bell, Jr., Charles B. (1928-2010)", 
+                    "ref": "<t>Bell, Jr., Charles B. (1928-2010).</t> <au>Fikes, Robert</au>. In: <bt>Online Encyclopedia of Significant People and Places in African American History</bt>", 
+                    "author": "Fikes, Robert", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "In: <bt>Online Encyclopedia of Significant People and Places in African American History</bt>", 
+                    "topline": "misc bell__charles_b:12", 
+                    "id": "bell__charles_b:12"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

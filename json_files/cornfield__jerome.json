@@ -1,0 +1,271 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1912-10-12", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1979-09-17", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Cornfield, Jerome", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Jerome Cornfield, 1912-1979", 
+                    "ref": "<t>Jerome Cornfield, 1912-1979.</t> <au>Greenhouse, S. W. and Halperin, M.</au>. <j>Amer. Statist.</j>, Vol. <v>34</v>, pp.<pp>106-107</pp>", 
+                    "author": "Greenhouse, S. W. and Halperin, M.", 
+                    "bibtype": "article", 
+                    "year": "1980", 
+                    "howpublished": "<j>Amer. Statist.</j>, Vol. <v>34</v>, pp.<pp>106-107</pp>", 
+                    "topline": "article cornfield__jerome:8", 
+                    "id": "cornfield__jerome:8"
+                }, 
+                {
+                    "title": "Jerome Cornfield, 1912-1979", 
+                    "ref": "<t>Jerome Cornfield, 1912-1979.</t> <au>Armitage, P.</au>. <j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>143</v>, pp.<pp>205</pp>", 
+                    "author": "Armitage, P.", 
+                    "bibtype": "article", 
+                    "year": "1980", 
+                    "howpublished": "<j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>143</v>, pp.<pp>205</pp>", 
+                    "topline": "article cornfield__jerome:9", 
+                    "id": "cornfield__jerome:9"
+                }, 
+                {
+                    "title": "Jerome Cornfield 1912-1979", 
+                    "ref": "<t>Jerome Cornfield 1912-1979.</t> <j>Biometrics</j>, Vol. <v>36</v>, pp.<pp>357-358</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1980", 
+                    "howpublished": "<j>Biometrics</j>, Vol. <v>36</v>, pp.<pp>357-358</pp>", 
+                    "topline": "article cornfield__jerome:10", 
+                    "id": "cornfield__jerome:10"
+                }, 
+                {
+                    "title": "Jerome Cornfield 1912-1979. Controlled", 
+                    "ref": "<t>Jerome Cornfield 1912-1979. Controlled.</t> <j>Clinical Trials</j>, Vol. <v>1</v>, pp.<pp>75-79</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1980", 
+                    "howpublished": "<j>Clinical Trials</j>, Vol. <v>1</v>, pp.<pp>75-79</pp>", 
+                    "topline": "article cornfield__jerome:11", 
+                    "id": "cornfield__jerome:11"
+                }, 
+                {
+                    "title": "In Memoriam: Jerome Cornfield, 1912-1979", 
+                    "ref": "<t>In Memoriam: Jerome Cornfield, 1912-1979.</t> <j>Biometrics</j>, Vol. <v>38 Suppl.</v>, pp.<pp>v-vi</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1982", 
+                    "howpublished": "<j>Biometrics</j>, Vol. <v>38 Suppl.</v>, pp.<pp>v-vi</pp>", 
+                    "topline": "article cornfield__jerome:12", 
+                    "id": "cornfield__jerome:12"
+                }, 
+                {
+                    "title": "Forward, Proceedings of ``Current Topics in Biostatistics and Epidemiology,'' A Memorial Symposium in Honor of Jerome Cornfield", 
+                    "ref": "<t>Forward, Proceedings of ``Current Topics in Biostatistics and Epidemiology,'' A Memorial Symposium in Honor of Jerome Cornfield.</t> <au>Seigel, D. G.</au>. <j>Biometrics</j>, Vol. <v>38 Suppl.</v>, pp.<pp>1-2</pp>", 
+                    "author": "Seigel, D. G.", 
+                    "bibtype": "article", 
+                    "year": "1982", 
+                    "howpublished": "<j>Biometrics</j>, Vol. <v>38 Suppl.</v>, pp.<pp>1-2</pp>", 
+                    "topline": "article cornfield__jerome:13", 
+                    "id": "cornfield__jerome:13"
+                }, 
+                {
+                    "title": "A tribute", 
+                    "ref": "<t>A tribute.</t> <au>Greenhouse, S. W.</au>. <j>Biometrics</j>, Vol. <v>38 Suppl.</v>, pp.<pp>3-6</pp>", 
+                    "author": "Greenhouse, S. W.", 
+                    "bibtype": "article", 
+                    "year": "1982", 
+                    "howpublished": "<j>Biometrics</j>, Vol. <v>38 Suppl.</v>, pp.<pp>3-6</pp>", 
+                    "topline": "article cornfield__jerome:14", 
+                    "id": "cornfield__jerome:14"
+                }, 
+                {
+                    "title": "Remarks", 
+                    "ref": "<t>Remarks.</t> <au>Fredrickson, D. S.</au>. <j>Biometrics</j>, Vol. <v>38 Suppl.</v>, pp.<pp>7</pp>", 
+                    "author": "Fredrickson, D. S.", 
+                    "bibtype": "article", 
+                    "year": "1982", 
+                    "howpublished": "<j>Biometrics</j>, Vol. <v>38 Suppl.</v>, pp.<pp>7</pp>", 
+                    "topline": "article cornfield__jerome:15", 
+                    "id": "cornfield__jerome:15"
+                }, 
+                {
+                    "title": "The contributions of Jerome Cornfield to the theory of statistics", 
+                    "ref": "<t>The contributions of Jerome Cornfield to the theory of statistics.</t> <au>Zelen, M.</au>. <j>Biometrics</j>, Vol. <v>38 Suppl.</v>, pp.<pp>11-15</pp>", 
+                    "author": "Zelen, M.", 
+                    "bibtype": "article", 
+                    "year": "1982", 
+                    "howpublished": "<j>Biometrics</j>, Vol. <v>38 Suppl.</v>, pp.<pp>11-15</pp>", 
+                    "topline": "article cornfield__jerome:16", 
+                    "id": "cornfield__jerome:16"
+                }, 
+                {
+                    "title": "Jerome Cornfield and statistical applications to laboratory research: A personal reminiscence", 
+                    "ref": "<t>Jerome Cornfield and statistical applications to laboratory research: A personal reminiscence.</t> <au>Mantel, N.</au>. <j>Biometrics</j>, Vol. <v>38 Suppl.</v>, pp.<pp>17-23</pp>", 
+                    "author": "Mantel, N.", 
+                    "bibtype": "article", 
+                    "year": "1982", 
+                    "howpublished": "<j>Biometrics</j>, Vol. <v>38 Suppl.</v>, pp.<pp>17-23</pp>", 
+                    "topline": "article cornfield__jerome:17", 
+                    "id": "cornfield__jerome:17"
+                }, 
+                {
+                    "title": "Jerome Cornfield's contributions to the conduct of clinical trials", 
+                    "ref": "<t>Jerome Cornfield's contributions to the conduct of clinical trials.</t> <au>Ederer, F.</au>. <j>Biometrics</j>, Vol. <v>38 Suppl.</v>, pp.<pp>25-32</pp>", 
+                    "author": "Ederer, F.", 
+                    "bibtype": "article", 
+                    "year": "1982", 
+                    "howpublished": "<j>Biometrics</j>, Vol. <v>38 Suppl.</v>, pp.<pp>25-32</pp>", 
+                    "topline": "article cornfield__jerome:18", 
+                    "id": "cornfield__jerome:18"
+                }, 
+                {
+                    "title": "Jerome Cornfield's contributions to epidemiology", 
+                    "ref": "<t>Jerome Cornfield's contributions to epidemiology.</t> <au>Greenhouse, S. W.</au>. <j>Biometrics</j>, Vol. <v>38 Suppl.</v>, pp.<pp>33-45</pp>", 
+                    "author": "Greenhouse, S. W.", 
+                    "bibtype": "article", 
+                    "year": "1982", 
+                    "howpublished": "<j>Biometrics</j>, Vol. <v>38 Suppl.</v>, pp.<pp>33-45</pp>", 
+                    "topline": "article cornfield__jerome:19", 
+                    "id": "cornfield__jerome:19"
+                }
+            ], 
+            "ims_id": "cornfield__jerome", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://en.wikipedia.org/wiki/Jerome_Cornfield", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=278617", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:cornfield.jerome", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=49822", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18087571", 
+                    "anchor": "Microsoft Academic: Cornfield, Jerome"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1963", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "R. A. Fisher Lecturer", 
+                    "year": "1973", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>8</v>, pp.<pp>288</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1979", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>8</v>, pp.<pp>288</pp>", 
+                    "topline": "article cornfield__jerome:7", 
+                    "id": "cornfield__jerome:7"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=49822"
+                        }
+                    ], 
+                    "type": "Ph.D.", 
+                    "year": "year?"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "year?", 
+                    "howpublished": "???", 
+                    "topline": "misc cornfield__jerome:24", 
+                    "id": "cornfield__jerome:24"
+                }
+            ], 
+            "Biography": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1960", 
+                    "howpublished": "???", 
+                    "topline": "misc cornfield__jerome:21", 
+                    "id": "cornfield__jerome:21"
+                }, 
+                {
+                    "title": "Cornfield, Jerome", 
+                    "ref": "<t>Cornfield, Jerome.</t> <au>Greenhouse, S. W. and Greenhouse, J. B.</au>. <inc>booktitle:encyclopedia-of-biostatistics</inc>. ???", 
+                    "author": "Greenhouse, S. W. and Greenhouse, J. B.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-biostatistics", 
+                    "year": "2005", 
+                    "howpublished": "???", 
+                    "topline": "incollection cornfield__jerome:22", 
+                    "id": "cornfield__jerome:22"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2013", 
+                    "howpublished": "???", 
+                    "topline": "misc cornfield__jerome:337331", 
+                    "id": "cornfield__jerome:337331"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Biostatistics", 
+            "url": "http://www.worldcat.org/title/encyclopedia-of-biostatistics/oclc/38258277", 
+            "booktitle": "Encyclopedia of Biostatistics", 
+            "address": "Hoboken, NJ", 
+            "editors": "P. Armitage and T. Colton", 
+            "bibtype": "reference", 
+            "edition": "2nd", 
+            "top_line": "reference booktitle:encyclopedia-of-biostatistics", 
+            "year": "2005", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Biostatistics.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-biostatistics"
+        }
+    ]
+}

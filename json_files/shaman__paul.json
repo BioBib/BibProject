@@ -1,0 +1,74 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Shaman, Paul", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "shaman__paul", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.wharton.upenn.edu/faculty/shaman.cfm", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=202296", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:shaman.paul", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12759335", 
+                    "anchor": "Microsoft Academic: SHAMAN, PAUL"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1988", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Harry C. Carver Medal", 
+                    "year": "2004", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Paul Shaman: The 2004 Carver Medal winner", 
+                    "ref": "<t>Paul Shaman: The 2004 Carver Medal winner.</t> <au>Fienberg, S.</au>. <j>IMS Bulletin</j>, Vol. <v>34(1)</v>, pp.<pp>11</pp>", 
+                    "author": "Fienberg, S.", 
+                    "bibtype": "article", 
+                    "year": "2005", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>34(1)</v>, pp.<pp>11</pp>", 
+                    "topline": "article shaman__paul:6", 
+                    "id": "shaman__paul:6"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

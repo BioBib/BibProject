@@ -1,0 +1,103 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2011", 
+                    "howpublished": "???", 
+                    "topline": "misc harris__bernard:472702", 
+                    "id": "harris__bernard:472702"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2011", 
+                    "howpublished": "???", 
+                    "topline": "misc harris__bernard:130976", 
+                    "id": "harris__bernard:130976"
+                }
+            ], 
+            "DOB": "1926-06-20", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2011-01-28", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Harris, Bernard", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Bernard Harris, 1926-2011", 
+                    "ref": "<t>Bernard Harris, 1926-2011.</t> <au>Members of Harris family</au>. <j>IMS Bulletin</j>, Vol. <v>40(5)</v>, pp.<pp>10</pp>", 
+                    "author": "Members of Harris family", 
+                    "bibtype": "article", 
+                    "year": "2011", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>40(5)</v>, pp.<pp>10</pp>", 
+                    "topline": "article harris__bernard:7", 
+                    "id": "harris__bernard:7"
+                }
+            ], 
+            "ims_id": "harris__bernard", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=194874", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:harris.bernard-j", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=14452", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12738773", 
+                    "anchor": "Microsoft Academic: Harris, Bernard"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1975", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Cardiff University", 
+                    "thesis_title": "Some Problems in the Theory of Linear Differential Operators", 
+                    "year": "1977", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=14452"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

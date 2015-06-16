@@ -1,0 +1,161 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Wassily Hoeffding, 1914-1991", 
+                    "ref": "<t>Wassily Hoeffding, 1914-1991.</t> <j>IMS Bulletin</j>, Vol. <v>20</v>, pp.<pp>98</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1991", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>20</v>, pp.<pp>98</pp>", 
+                    "topline": "article hoeffding__wassily:8", 
+                    "id": "hoeffding__wassily:8"
+                }
+            ], 
+            "DOB": "1914-06-12", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1991-02-28", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Hoeffding, Wassily", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "hoeffding__wassily", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=86830", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:hoffding.wassily", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/10683640", 
+                    "anchor": "Microsoft Academic: Hoeffding, Wassily"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1949", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Wald Lecturer", 
+                    "year": "1967", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS President", 
+                    "year": "1969", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Member", 
+                    "year": "1976", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1985", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Hoeffding, Wassily", 
+                    "ref": "<t>Hoeffding, Wassily.</t> <au>Sen, P. K.</au>. <inc>booktitle:leading-personalities-in-statistical-sciences-from-the-17th-century-to-the-present</inc>. pp.<pp>118-122</pp>", 
+                    "author": "Sen, P. K.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:leading-personalities-in-statistical-sciences-from-the-17th-century-to-the-present", 
+                    "year": "1997", 
+                    "howpublished": "pp.<pp>118-122</pp>", 
+                    "topline": "incollection hoeffding__wassily:13", 
+                    "id": "hoeffding__wassily:13"
+                }, 
+                {
+                    "title": "Wassily Hoeffding, June 12, 1914-February 28, 1991", 
+                    "ref": "<t>Wassily Hoeffding, June 12, 1914-February 28, 1991.</t> <au>Fisher, N. I. and van Zwet, W. R.</au>. <j>Biographical Memoirs</j>, National Academies Press, Vol. <v>86</v>, pp.<pp>2-21</pp>", 
+                    "author": "Fisher, N. I. and van Zwet, W. R.", 
+                    "bibtype": "article", 
+                    "year": "2005", 
+                    "howpublished": "<j>Biographical Memoirs</j>, National Academies Press, Vol. <v>86</v>, pp.<pp>2-21</pp>", 
+                    "topline": "article hoeffding__wassily:14", 
+                    "id": "hoeffding__wassily:14"
+                }, 
+                {
+                    "title": "Hoeffding, Wassily", 
+                    "ref": "<t>Hoeffding, Wassily.</t> <au>Sen, P. K.</au>. <inc>booktitle:encyclopedia-of-statistical-sciences</inc>. ???", 
+                    "author": "Sen, P. K.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-statistical-sciences", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "incollection hoeffding__wassily:15", 
+                    "id": "hoeffding__wassily:15"
+                }, 
+                {
+                    "title": "Wassily Hoeffding", 
+                    "ref": "<t>Wassily Hoeffding.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2011", 
+                    "howpublished": "???", 
+                    "topline": "incollection hoeffding__wassily:16", 
+                    "id": "hoeffding__wassily:16"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Wiley", 
+            "title": "Leading Personalities in Statistical Sciences, from the 17th Century to the Present", 
+            "url": "http://www.worldcat.org/title/leading-personalities-in-statistical-sciences-from-the-17th-century-to-the-present/oclc/36430730", 
+            "booktitle": "Leading Personalities in Statistical Sciences, from the 17th Century to the Present", 
+            "address": "New York", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:leading-personalities-in-statistical-sciences-from-the-17th-century-to-the-present", 
+            "editor": "N. L. Johnson and S. Kotz", 
+            "year": "1997", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Leading Personalities in Statistical Sciences, from the 17th Century to the Present.</t> <ed>N. L. Johnson and S. Kotz</ed>. In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:leading-personalities-in-statistical-sciences-from-the-17th-century-to-the-present"
+        }, 
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Statistical Sciences", 
+            "url": "http://onlinelibrary.wiley.com/book/10.1002/0471667196", 
+            "booktitle": "Encyclopedia of Statistical Sciences", 
+            "address": "Hoboken, NJ", 
+            "editors": "S. Kotz and N. Balakrishnan and C. Read and B. Vidakovic", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:encyclopedia-of-statistical-sciences", 
+            "year": "2006", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }
+    ]
+}

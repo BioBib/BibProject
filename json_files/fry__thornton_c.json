@@ -1,0 +1,91 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Thornton Carl Fry, 1892-1991", 
+                    "ref": "<t>Thornton Carl Fry, 1892-1991.</t> <j>IMS Bulletin</j>, Vol. <v>20</v>, pp.<pp>2</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1991", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>20</v>, pp.<pp>2</pp>", 
+                    "topline": "article fry__thornton_c:8", 
+                    "id": "fry__thornton_c:8"
+                }
+            ], 
+            "DOB": "1892-01-07", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1991-01-01", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Fry, Thornton C.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "fry__thornton_c", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=446205", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:fry.thornton-c", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=7947", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/47825194", 
+                    "anchor": "Microsoft Academic: Fry, Thornton C."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/42178212", 
+                    "anchor": "Microsoft Academic: Fry, Thornton C."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/23217232", 
+                    "anchor": "Microsoft Academic: Fry, Thornton C."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "before 1943", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "fry__thornton", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Wisconsin-Madison", 
+                    "thesis_title": "The Application of Modern Theories of Integration to the Solution of Differential Equations", 
+                    "year": "1920", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=7947"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

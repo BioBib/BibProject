@@ -1,0 +1,151 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2012", 
+                    "howpublished": "???", 
+                    "topline": "misc cover__thomas_m:396088", 
+                    "id": "cover__thomas_m:396088"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2012", 
+                    "howpublished": "???", 
+                    "topline": "misc cover__thomas_m:708448", 
+                    "id": "cover__thomas_m:708448"
+                }
+            ], 
+            "DOB": "1938-08-07", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2012-03-26", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Cover, Thomas M.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Thomas Cover, 1938-2012", 
+                    "ref": "<t>Thomas Cover, 1938-2012.</t> <au>Dembo, A. and Efron, B.</au>. <j>IMS Bulletin</j>, Vol. <v>41(4)</v>, pp.<pp>6-7</pp>", 
+                    "author": "Dembo, A. and Efron, B.", 
+                    "bibtype": "article", 
+                    "year": "2012", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>41(4)</v>, pp.<pp>6-7</pp>", 
+                    "topline": "article cover__thomas_m:10", 
+                    "id": "cover__thomas_m:10"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2012", 
+                    "howpublished": "???", 
+                    "topline": "misc cover__thomas_m:920316", 
+                    "id": "cover__thomas_m:920316"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2012", 
+                    "howpublished": "???", 
+                    "topline": "misc cover__thomas_m:718180", 
+                    "id": "cover__thomas_m:718180"
+                }
+            ], 
+            "ims_id": "cover__thomas_m", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www-isl.stanford.edu/people/cover/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://en.wikipedia.org/wiki/Thomas_M._Cover", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=52300", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:cover.thomas-m", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=39910", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/226555", 
+                    "anchor": "Microsoft Academic: Cover, Thomas M."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1981", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Medallion Lecturer", 
+                    "year": "1989", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Engineering, Member", 
+                    "year": "1995", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "2003", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "cover__thomas", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Stanford University", 
+                    "thesis_title": "Geometrical and Statistical Properties of Linear Threshold Devices", 
+                    "year": "1964", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=39910"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

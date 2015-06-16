@@ -1,0 +1,83 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Nikitin, Yakov", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "nikitin__yakov", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.math.spbu.ru/user/nikitin/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=197165", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:nikitin.yakov-yu", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=51550", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18495611", 
+                    "anchor": "Microsoft Academic: Nikitin, Yakov"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54891882", 
+                    "anchor": "Microsoft Academic: Nikitin, Ya. Yu."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18644515", 
+                    "anchor": "Microsoft Academic: Nikitin, Ya. Yu."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "2002", 
+                    "citation": "For fundamental contributions to statistical theory and asymptotic techniques of nonparametric statistics; outstanding service as a teacher of statistics in St. Petersburg, as an editor and organizer", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "St. Petersburg State University", 
+                    "thesis_title": "Estimates of Convergence Rate in Some Limit Theorems and Statistical Criteria", 
+                    "year": "1973", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=51550"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

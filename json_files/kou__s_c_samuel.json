@@ -1,0 +1,124 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Kou, S. C. Samuel", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "kou__s_c_samuel", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.stat.harvard.edu/faculty_page.php?page=kou.html", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:kou.samuel", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/2853373", 
+                    "anchor": "Microsoft Academic: Kou, Samuel"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "Tweedie New Researcher Award", 
+                    "year": "2007", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Medallion Lecturer", 
+                    "year": "2009", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "COPSS Presidents' Award", 
+                    "year": "2012", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "2012", 
+                    "citation": "For influential and pioneering contributions to stochastic modeling and statistical inference in biophysics, and to Monte Carlo, Bayesian and nonparametric methods", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "kou__samuel", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2008", 
+                    "howpublished": "???", 
+                    "topline": "misc kou__s_c_samuel:995504", 
+                    "id": "kou__s_c_samuel:995504"
+                }, 
+                {
+                    "title": "Kou is shaking up the world of statistics", 
+                    "ref": "<t>Kou is shaking up the world of statistics.</t> <au>Ireland, C.</au>. <j>Harvard Gazette</j>", 
+                    "author": "Ireland, C.", 
+                    "bibtype": "article", 
+                    "year": "2009", 
+                    "howpublished": "<j>Harvard Gazette</j>", 
+                    "topline": "article kou__s_c_samuel:7", 
+                    "id": "kou__s_c_samuel:7"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2009", 
+                    "howpublished": "???", 
+                    "topline": "misc kou__s_c_samuel:653762", 
+                    "id": "kou__s_c_samuel:653762"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2009", 
+                    "howpublished": "???", 
+                    "topline": "misc kou__s_c_samuel:75090", 
+                    "id": "kou__s_c_samuel:75090"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2012", 
+                    "howpublished": "???", 
+                    "topline": "misc kou__s_c_samuel:594919", 
+                    "id": "kou__s_c_samuel:594919"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

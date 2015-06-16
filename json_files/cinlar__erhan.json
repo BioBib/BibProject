@@ -1,0 +1,102 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "&Ccedil;inlar, Erhan", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "cinlar__erhan", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://en.wikipedia.org/wiki/Erhan_cinlar", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=49515", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:cinlar.erhan", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=12552", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/27449580", 
+                    "anchor": "Microsoft Academic: Erhan Cinlar"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18701430", 
+                    "anchor": "Microsoft Academic: Erhan Cinlar (Erhan \\c{C"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54107802", 
+                    "anchor": "Microsoft Academic: Erhan Cinlar"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/739548", 
+                    "anchor": "Microsoft Academic: Erhan Cinlar"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/50900436", 
+                    "anchor": "Microsoft Academic: E. Cinlar"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54479322", 
+                    "anchor": "Microsoft Academic: E. Cinlar (E. C\u0327inlar)"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54479321", 
+                    "anchor": "Microsoft Academic: Erhan Cinlar (Erhan \\c{C"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54479320", 
+                    "anchor": "Microsoft Academic: E. Cinlar (E. \\c{C"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1974", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Michigan", 
+                    "thesis_title": "Analysis of Systems of Queues in Parallel", 
+                    "year": "1965", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=12552"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

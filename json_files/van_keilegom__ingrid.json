@@ -1,0 +1,94 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Van Keilegom, Ingrid", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "van_keilegom__ingrid", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=611645", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:keilegom.ingrid-van", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:van-keilegom.ingrid", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=80176", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53958450", 
+                    "anchor": "Microsoft Academic: Van Keilegom I"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/51606345", 
+                    "anchor": "Microsoft Academic: Keilegom van Ingrid"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/47519562", 
+                    "anchor": "Microsoft Academic: Keilegom van Ingrid"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53175918", 
+                    "anchor": "Microsoft Academic: Ingred Van Keilegom"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/28126133", 
+                    "anchor": "Microsoft Academic: I. VAN KEILEGOM"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52285651", 
+                    "anchor": "Microsoft Academic: Keilegom van I"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "2008", 
+                    "citation": "For contributions to statistical theory and methodology, especially semi- and nonparametric regression, survival analysis, and empirical likelihood methods", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Limburgs Universitair Centrum", 
+                    "thesis_title": "Nonparametric Estimation of the Conditional Distribution in Regression with Censored Data", 
+                    "year": "1998", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=80176"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

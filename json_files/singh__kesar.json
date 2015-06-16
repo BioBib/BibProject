@@ -1,0 +1,105 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1955-06-20", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2012-05-16", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Singh, Kesar", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Kesar Singh, 1955-2012", 
+                    "ref": "<t>Kesar Singh, 1955-2012.</t> <au>Babu, J. and Liu, R. and Strawderman, W. and Xie, M.</au>. <j>IMS Bulletin</j>, Vol. <v>41(5)</v>, pp.<pp>5</pp>", 
+                    "author": "Babu, J. and Liu, R. and Strawderman, W. and Xie, M.", 
+                    "bibtype": "article", 
+                    "year": "2012", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>41(5)</v>, pp.<pp>5</pp>", 
+                    "topline": "article singh__kesar:8", 
+                    "id": "singh__kesar:8"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "year?", 
+                    "howpublished": "???", 
+                    "topline": "misc singh__kesar:959336", 
+                    "id": "singh__kesar:959336"
+                }
+            ], 
+            "ims_id": "singh__kesar", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://stat.rutgers.edu/people/faculty/singh.html", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "category": "homepage", 
+                    "href": "http://stat.rutgers.edu/people/faculty/singh.html", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=211204", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:singh.kesar", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=46319", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12761314", 
+                    "anchor": "Microsoft Academic: Singh, Kesar"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/55106716", 
+                    "anchor": "Microsoft Academic: Singh, Kesar"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1987", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Indian Statistical Institute, Calcutta", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=46319"
+                        }
+                    ], 
+                    "type": "Ph.D.", 
+                    "year": "1979"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

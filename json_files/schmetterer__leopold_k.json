@@ -1,0 +1,126 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Leopold Schmetterer, 1919-2004", 
+                    "ref": "<t>Leopold Schmetterer, 1919-2004.</t> <au>Pflug, G.</au>. <j>IMS Bulletin</j>, Vol. <v>33(5)</v>, pp.<pp>8</pp>", 
+                    "author": "Pflug, G.", 
+                    "bibtype": "article", 
+                    "year": "2004", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>33(5)</v>, pp.<pp>8</pp>", 
+                    "topline": "article schmetterer__leopold_k:8", 
+                    "id": "schmetterer__leopold_k:8"
+                }
+            ], 
+            "DOB": "1919-11-08", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2004-08-23", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Schmetterer, Leopold K.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2004", 
+                    "howpublished": "???", 
+                    "topline": "misc schmetterer__leopold_k:667572", 
+                    "id": "schmetterer__leopold_k:667572"
+                }
+            ], 
+            "ims_id": "schmetterer__leopold_k", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.zbp.univie.ac.at/ausstellung/zbp/schmetterer/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=156295", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:schmetterer.leopold", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=52322", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/49688889", 
+                    "anchor": "Microsoft Academic: Leopold K. Schmetterer"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52097950", 
+                    "anchor": "Microsoft Academic: Leopold Schmetterer"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/23716036", 
+                    "anchor": "Microsoft Academic: Leopold F. Schmetterer"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/45723805", 
+                    "anchor": "Microsoft Academic: Leopold Schmetterer"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52964761", 
+                    "anchor": "Microsoft Academic: Leopold Schmetterer"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1961", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "schmetterer__leopold", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "phil. Universit&auml;t Wien", 
+                    "thesis_title": "Approximation komplexer Zahlen durch Zahlen $K(i\\sqrt{11})$", 
+                    "year": "1941", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=52322"
+                        }
+                    ], 
+                    "type": "Dr."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Leopold Schmetterer", 
+                    "ref": "<t>Leopold Schmetterer.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "inwebcollection", 
+                    "year": "2008", 
+                    "howpublished": "???", 
+                    "topline": "inwebcollection schmetterer__leopold_k:9", 
+                    "id": "schmetterer__leopold_k:9"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

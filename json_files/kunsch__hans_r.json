@@ -1,0 +1,81 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1951-10-17", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "K&uuml;nsch, Hans R.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "kunsch__hans_r", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://stat.ethz.ch/~kuensch/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "category": "homepage", 
+                    "href": "http://stat.ethz.ch/~kuensch/papers/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=108015", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:kunsch.hans-rudolf", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/10891035", 
+                    "anchor": "Microsoft Academic: Hans-Rudolf Kunsch (Hans-Rudolf K\\\"{u"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12492756", 
+                    "anchor": "Microsoft Academic: Hans R. Kunsch (Hans R. K\\\"{u"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "2000", 
+                    "citation": "For contributions to probability theory and theoretical statistics, particularly the development of properties of Markov random fields and Gibbs distributions, and other aspects of spatial statistics; to robust methods for time series; to the bootstrap, especially block-based bootstrap methods for time series; and to properties of long-range dependent time series; and for services to the profession, particularly his work as an Editor of The Annals of Statistics and, as Associate Editor for periods starting in 1987", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Medallion Lecturer", 
+                    "year": "2002", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS President", 
+                    "year": "2013", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "kunsch__han", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

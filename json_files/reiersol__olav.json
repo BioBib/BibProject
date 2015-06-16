@@ -1,0 +1,91 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1908-06-28", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2001-02-14", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Reiers&oslash;l, Olav", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "reiersol__olav", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=525212", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:reiersol.olav", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=44716", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/50802254", 
+                    "anchor": "Microsoft Academic: Olav Reiersol"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52156023", 
+                    "anchor": "Microsoft Academic: Olav Reiersol (Olav Reiers\\\"{o"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18749931", 
+                    "anchor": "Microsoft Academic: Olav Reiersol"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/41808341", 
+                    "anchor": "Microsoft Academic: Olav Reiersol (Olav Reiers{\\o"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18749928", 
+                    "anchor": "Microsoft Academic: OLAV REIERSOL (OLAV REIERS{\\O"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54367921", 
+                    "anchor": "Microsoft Academic: Olav Reiersol (Olav Reiers{\\o"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1950", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Stockholm University", 
+                    "thesis_title": "Confluence Analysis by means of Instrumental Set of Variables", 
+                    "year": "1945", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=44716"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

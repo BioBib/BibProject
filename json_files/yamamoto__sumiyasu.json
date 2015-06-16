@@ -1,0 +1,69 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1917", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1998-03-20", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Yamamoto, Sumiyasu", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "yamamoto__sumiyasu", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=209178", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:yamamoto.sumiyasu", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/3357440", 
+                    "anchor": "Microsoft Academic: Yamamoto, Sumiyasu"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54466720", 
+                    "anchor": "Microsoft Academic: Yamamoto, Sumiyasu"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1977", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>27</v>, pp.<pp>267</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1998", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>27</v>, pp.<pp>267</pp>", 
+                    "topline": "article yamamoto__sumiyasu:7", 
+                    "id": "yamamoto__sumiyasu:7"
+                }
+            ], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

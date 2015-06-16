@@ -1,0 +1,103 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Green, Peter J.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "green__peter_j", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.stats.bris.ac.uk/~peter/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=76540", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:green.peter-j", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/1696939", 
+                    "anchor": "Microsoft Academic: Green, Peter"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "Guy Medal in Bronze", 
+                    "year": "1987", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1991", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Medallion Lecturer", 
+                    "year": "1997", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Guy Medal in Silver", 
+                    "year": "1999", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "The Royal Society, Fellow", 
+                    "year": "2003", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "green__peter", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Peter Green elected FRS", 
+                    "ref": "<t>Peter Green elected FRS.</t> <j>IMS Bulletin</j>, Vol. <v>32(3)</v>, pp.<pp>2</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2003", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>32(3)</v>, pp.<pp>2</pp>", 
+                    "topline": "article green__peter_j:7", 
+                    "id": "green__peter_j:7"
+                }, 
+                {
+                    "title": "Peter Green: Fellow of the Royal Society", 
+                    "ref": "<t>Peter Green: Fellow of the Royal Society.</t> <j>Bernoulli News</j>, Vol. <v>10(1)</v>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2003", 
+                    "howpublished": "<j>Bernoulli News</j>, Vol. <v>10(1)</v>", 
+                    "topline": "article green__peter_j:8", 
+                    "id": "green__peter_j:8"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

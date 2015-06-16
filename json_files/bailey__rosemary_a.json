@@ -1,0 +1,84 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Bailey, Rosemary A.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "bailey__rosemary_a", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.maths.qmul.ac.uk/~rab/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=29380", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:bailey.rosemary-a", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=73424", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52962843", 
+                    "anchor": "Microsoft Academic: Bailey, R. A."
+                }, 
+                {
+                    "href": "http://www.maths.qmul.ac.uk/~rab/", 
+                    "anchor": "Homepage"
+                }, 
+                {
+                    "href": "http://www.maths.qmul.ac.uk/~rab/#books", 
+                    "anchor": "Books List"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "2004", 
+                    "citation": "For fundamental contributions to the design and analysis of experiments, and for outstanding editorial service to the profession", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "bailey__rosemary", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Oxford", 
+                    "thesis_title": "Finite Permutation Groups", 
+                    "year": "1974", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=73424"
+                        }
+                    ], 
+                    "type": "D.Phil."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

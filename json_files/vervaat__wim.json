@@ -1,0 +1,86 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Vim Vervaat: 1942-1994", 
+                    "ref": "<t>Vim Vervaat: 1942-1994.</t> <au>O'Brien, G. L.</au>. <j>IMS Bulletin</j>, Vol. <v>23</v>, pp.<pp>351-352</pp>", 
+                    "author": "O'Brien, G. L.", 
+                    "bibtype": "article", 
+                    "year": "1994", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>23</v>, pp.<pp>351-352</pp>", 
+                    "topline": "article vervaat__wim:7", 
+                    "id": "vervaat__wim:7"
+                }
+            ], 
+            "DOB": "1942-07-15", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1994-01-31", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Vervaat, Wim", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "vervaat__wim", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=178130", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:vervaat.wim", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=75838", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54448513", 
+                    "anchor": "Microsoft Academic: Vervaat, W."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12755210", 
+                    "anchor": "Microsoft Academic: Vervaat, Wim"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1988", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Universiteit van Amsterdam", 
+                    "thesis_title": "Success Epochs in Bernouilli trials : (with Applications in Number Theory)", 
+                    "year": "1972", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=75838"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

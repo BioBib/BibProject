@@ -1,0 +1,94 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1920-02-24", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1985-06-05", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Pillai, K. C. S.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "pillai__k_c_s", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=139605", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:pillai.k-c-sreedharan", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=47238", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18624295", 
+                    "anchor": "Microsoft Academic: Pillai, K. C. Sreedharan"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1972", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "pillai__k", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>14</v>, pp.<pp>339</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1985", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>14</v>, pp.<pp>339</pp>", 
+                    "topline": "article pillai__k_c_s:8", 
+                    "id": "pillai__k_c_s:8"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "The University of North Carolina at Chapel Hill", 
+                    "thesis_title": "On Some Distribution Problems in Multivariate Analysis", 
+                    "year": "1954", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=47238"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "K. C. Sreedharan Pillai", 
+                    "ref": "<t>K. C. Sreedharan Pillai.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "1997", 
+                    "howpublished": "???", 
+                    "topline": "incollection pillai__k_c_s:9", 
+                    "id": "pillai__k_c_s:9"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

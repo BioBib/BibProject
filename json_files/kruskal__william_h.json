@@ -1,0 +1,136 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>The University of Chicago News Office</j>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2005", 
+                    "howpublished": "<j>The University of Chicago News Office</j>", 
+                    "topline": "article kruskal__william_h:9", 
+                    "id": "kruskal__william_h:9"
+                }
+            ], 
+            "DOB": "1919-10-10", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2005-04-21", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Kruskal, William H.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "kruskal__william_h", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=107115", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:kruskal.william-h", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=58995", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/44155054", 
+                    "anchor": "Microsoft Academic: William H. Kruskal"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/51660222", 
+                    "anchor": "Microsoft Academic: William H. Kruskal"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/50594135", 
+                    "anchor": "Microsoft Academic: W. H. Kruskal"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1956", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS President", 
+                    "year": "1971", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1973", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "R. A. Fisher Lecturer", 
+                    "year": "1978", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Samuel S. Wilks Award", 
+                    "year": "1978", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "kruskal__william", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2005", 
+                    "howpublished": "???", 
+                    "topline": "misc kruskal__william_h:952830", 
+                    "id": "kruskal__william_h:952830"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Columbia University", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=58995"
+                        }
+                    ], 
+                    "type": "Ph.D.", 
+                    "year": "1955"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "William Henry Kruskal", 
+                    "ref": "<t>William Henry Kruskal.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "incollection kruskal__william_h:14", 
+                    "id": "kruskal__william_h:14"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

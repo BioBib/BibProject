@@ -1,0 +1,100 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Gin&eacute;-Masd&eacute;u, Evarist", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "gine-masdeu__evarist", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.math.uconn.edu/~gine/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=73785", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:evarist.gine-m", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:gine-m.evarist", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:gine.evarist", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=17348", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/49067331", 
+                    "anchor": "Microsoft Academic: Evarist Gine"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/3323488", 
+                    "anchor": "Microsoft Academic: Evarist Gine (Evarist Gin\\'{e"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53346272", 
+                    "anchor": "Microsoft Academic: Evarist Gine (Evarist Gin\\'{e"
+                }, 
+                {
+                    "href": "http://scholar.google.be/citations?user=dlz5HeMAAAAJ&hl=en", 
+                    "anchor": "Google Scholar"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1984", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Medallion Lecturer", 
+                    "year": "2004", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Massachusetts Institute of Technology", 
+                    "thesis_title": "Invariant Tests for Uniformity on Compact Riemannian Manifolds Based on Sobolev Norms", 
+                    "year": "1973", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=17348"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

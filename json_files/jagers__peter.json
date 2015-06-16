@@ -1,0 +1,106 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Jagers, Peter", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "jagers__peter", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.math.chalmers.se/~jagers/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "category": "homepage", 
+                    "href": "http://www.math.chalmers.se/~jagers/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=92950", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:jagers.peter", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=34728", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12836006", 
+                    "anchor": "Microsoft Academic: Jagers, Peter"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/1388724", 
+                    "anchor": "Microsoft Academic: Jagers, Peter"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1984", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Medallion Lecturer", 
+                    "year": "1990", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Harry C. Carver Medal", 
+                    "year": "2012", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "G&ouml;teborg Universitet", 
+                    "thesis_title": "Five contributions to the mathematical study of populations", 
+                    "year": "1968", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=34728"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Peter Jagers selected to receive 2012 IMS Carver Award", 
+                    "ref": "<t>Peter Jagers selected to receive 2012 IMS Carver Award.</t> <j>IMS Bulletin</j>, Vol. <v>41(5)</v>, pp.<pp>2</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2012", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>41(5)</v>, pp.<pp>2</pp>", 
+                    "topline": "article jagers__peter:6", 
+                    "id": "jagers__peter:6"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

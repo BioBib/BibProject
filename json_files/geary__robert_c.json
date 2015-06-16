@@ -1,0 +1,97 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1896-04-11", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1983-02-08", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Geary, Robert C.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "geary__robert_c", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=209943", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:geary.r-c", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18749721", 
+                    "anchor": "Microsoft Academic: Geary, R. C."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54938738", 
+                    "anchor": "Microsoft Academic: Geary, R. C."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1947", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "geary__robert", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>12</v>, pp.<pp>100</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1983", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>12</v>, pp.<pp>100</pp>", 
+                    "topline": "article geary__robert_c:8", 
+                    "id": "geary__robert_c:8"
+                }
+            ], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Robert Charles Geary", 
+                    "ref": "<t>Robert Charles Geary.</t> <au>Spencer, J. E.</au>. <inc>booktitle:statisticians-of-the-centuries</inc>. pp.<pp>459-463</pp>", 
+                    "author": "Spencer, J. E.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:statisticians-of-the-centuries", 
+                    "year": "2001", 
+                    "howpublished": "pp.<pp>459-463</pp>", 
+                    "topline": "incollection geary__robert_c:9", 
+                    "id": "geary__robert_c:9"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Springer", 
+            "title": "Statisticians of the Centuries", 
+            "url": "http://www.worldcat.org/title/statisticians-of-the-centuries/oclc/46791088", 
+            "booktitle": "Statisticians of the Centuries", 
+            "address": "New York", 
+            "editors": "C. C. Heyde and E. Seneta", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:statisticians-of-the-centuries", 
+            "year": "2001", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Statisticians of the Centuries.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:statisticians-of-the-centuries"
+        }
+    ]
+}

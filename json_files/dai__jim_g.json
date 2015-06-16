@@ -1,0 +1,62 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Dai, J. G. Jim", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "dai__jim_g", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=228962", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:dai.jim-g", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://people.orie.cornell.edu/jdai/", 
+                    "anchor": "Homepage"
+                }, 
+                {
+                    "href": "http://www2.isye.gatech.edu/people/faculty/dai/dai-resume-110718.pdf", 
+                    "anchor": "CV"
+                }, 
+                {
+                    "href": "http://www2.isye.gatech.edu/people/faculty/dai/publications/index.html", 
+                    "anchor": "Publication List"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "2003", 
+                    "citation": "For fundamental contributions to applied probability through his work on fluid and diffusion approximations to multiclass queueing networks, and in particular for key contributions relating to the stability of such networks", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "dai__jim", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

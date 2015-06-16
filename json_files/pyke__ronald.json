@@ -1,0 +1,77 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1931-11-24", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2005-10-22", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Pyke, Ronald", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Ronald Pyke, 1931-2005", 
+                    "ref": "<t>Ronald Pyke, 1931-2005.</t> <au>Adler, R.</au>. <j>IMS Bulletin</j>, Vol. <v>35(1)</v>, pp.<pp>4-5</pp>", 
+                    "author": "Adler, R.", 
+                    "bibtype": "article", 
+                    "year": "2006", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>35(1)</v>, pp.<pp>4-5</pp>", 
+                    "topline": "article pyke__ronald:7", 
+                    "id": "pyke__ronald:7"
+                }
+            ], 
+            "ims_id": "pyke__ronald", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:pyke.ronald", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12760878", 
+                    "anchor": "Microsoft Academic: Pyke, Ronald"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53448251", 
+                    "anchor": "Microsoft Academic: Pyke, Ronald"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1963", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Medallion Lecturer", 
+                    "year": "1985", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS President", 
+                    "year": "1987", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

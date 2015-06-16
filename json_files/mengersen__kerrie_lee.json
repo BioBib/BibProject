@@ -1,0 +1,63 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Mengersen, Kerrie Lee", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "mengersen__kerrie_lee", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://eprints.qut.edu.au/view/person/Mengersen,_Kerrie.html", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=237779", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:mengersen.kerrie-l", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53504425", 
+                    "anchor": "Microsoft Academic: Mengersen, Kerrie L."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/613259", 
+                    "anchor": "Microsoft Academic: Mengersen, Kerrie L."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "2005", 
+                    "citation": "For excellence in research and consulting in environmental and genetic statistics and for her role in fostering new statistical vocations in Australia", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "mengersen__kerri", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

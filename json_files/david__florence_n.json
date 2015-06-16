@@ -1,0 +1,288 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1993", 
+                    "howpublished": "???", 
+                    "topline": "misc david__florence_n:115183", 
+                    "id": "david__florence_n:115183"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1993", 
+                    "howpublished": "???", 
+                    "topline": "misc david__florence_n:417900", 
+                    "id": "david__florence_n:417900"
+                }, 
+                {
+                    "title": "Florence Nightingale David, 1909-1993", 
+                    "ref": "<t>Florence Nightingale David, 1909-1993.</t> <au>Le Cam, L.</au>. <j>IMS Bulletin</j>, Vol. <v>22</v>, pp.<pp>447-448</pp>", 
+                    "author": "Le Cam, L.", 
+                    "bibtype": "article", 
+                    "year": "1993", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>22</v>, pp.<pp>447-448</pp>", 
+                    "topline": "article david__florence_n:10", 
+                    "id": "david__florence_n:10"
+                }
+            ], 
+            "DOB": "1909-08-23", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1993-07-23", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "David, Florence N.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Florence Nightingale David, 1909-1993", 
+                    "ref": "<t>Florence Nightingale David, 1909-1993.</t> <au>Utts, J.</au>. <j>Biometrics</j>, Vol. <v>49</v>, pp.<pp>1289-1291</pp>", 
+                    "author": "Utts, J.", 
+                    "bibtype": "article", 
+                    "year": "1993", 
+                    "howpublished": "<j>Biometrics</j>, Vol. <v>49</v>, pp.<pp>1289-1291</pp>", 
+                    "topline": "article david__florence_n:11", 
+                    "id": "david__florence_n:11"
+                }, 
+                {
+                    "title": "Florence Nightingale David", 
+                    "ref": "<t>Florence Nightingale David.</t> <au>Barton, D.</au>. <j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>157</v>, pp.<pp>299-301</pp>", 
+                    "author": "Barton, D.", 
+                    "bibtype": "article", 
+                    "year": "1994", 
+                    "howpublished": "<j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>157</v>, pp.<pp>299-301</pp>", 
+                    "topline": "article david__florence_n:12", 
+                    "id": "david__florence_n:12"
+                }, 
+                {
+                    "title": "In memoriam, Professor Florence N. David", 
+                    "ref": "<t>In memoriam, Professor Florence N. David.</t> <j>Association for Women in Mathematics Newsletter</j>, Vol. <v>24(1)</v>, pp.<pp>16</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1994", 
+                    "howpublished": "<j>Association for Women in Mathematics Newsletter</j>, Vol. <v>24(1)</v>, pp.<pp>16</pp>", 
+                    "topline": "article david__florence_n:13", 
+                    "id": "david__florence_n:13"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1995", 
+                    "howpublished": "???", 
+                    "topline": "misc david__florence_n:701330", 
+                    "id": "david__florence_n:701330"
+                }
+            ], 
+            "ims_id": "david__florence_n", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.agnesscott.edu/lriddle/women/david.htm", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://en.wikipedia.org/wiki/Florence_Nightingale_David", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.york.ac.uk/depts/maths/histstat/people/david.gif", 
+                    "anchor": "www.york.ac.uk"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=54950", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:david.florence-n", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=49989", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12760509", 
+                    "anchor": "Microsoft Academic: David, F. N."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54899882", 
+                    "anchor": "Microsoft Academic: David, F. N."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54899874", 
+                    "anchor": "Microsoft Academic: David, Florence N."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "Nightingale David Award, Committee of Presidents of Statistical Societies", 
+                    "year": "Florence", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1946", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Elizabeth L. Scott Award", 
+                    "year": "1992", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "david__florence", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of London", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=49989"
+                        }
+                    ], 
+                    "type": "Ph.D.", 
+                    "year": "1938"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "A conversation with F. N. David", 
+                    "ref": "<t>A conversation with F. N. David.</t> <au>Laird, N. M.</au>. <j>Statist. Sci.</j>, Vol. <v>4</v>, pp.<pp>235-246</pp>", 
+                    "author": "Laird, N. M.", 
+                    "bibtype": "article", 
+                    "year": "1989", 
+                    "howpublished": "<j>Statist. Sci.</j>, Vol. <v>4</v>, pp.<pp>235-246</pp>", 
+                    "topline": "article david__florence_n:17", 
+                    "id": "david__florence_n:17"
+                }, 
+                {
+                    "title": "Women in statistics: Sesquicentennial activities", 
+                    "ref": "<t>Women in statistics: Sesquicentennial activities.</t> <au>Stinnett, S., et al.</au>. <j>Amer. Statist.</j>, Vol. <v>44</v>, pp.<pp>74-80</pp>", 
+                    "author": "Stinnett, S., et al.", 
+                    "bibtype": "article", 
+                    "year": "1990", 
+                    "howpublished": "<j>Amer. Statist.</j>, Vol. <v>44</v>, pp.<pp>74-80</pp>", 
+                    "topline": "article david__florence_n:18", 
+                    "id": "david__florence_n:18"
+                }, 
+                {
+                    "title": "F. N. David wins first Elizabeth L. Scott Award", 
+                    "ref": "<t>F. N. David wins first Elizabeth L. Scott Award.</t> <j>Association for Women in Mathematics Newsletter</j>, Vol. <v>23(3)</v>, pp.<pp>5-6</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1993", 
+                    "howpublished": "<j>Association for Women in Mathematics Newsletter</j>, Vol. <v>23(3)</v>, pp.<pp>5-6</pp>", 
+                    "topline": "article david__florence_n:19", 
+                    "id": "david__florence_n:19"
+                }, 
+                {
+                    "title": "Kruse, M. and Laird, N. Florence N. David, 1909-1993", 
+                    "ref": "<t>Kruse, M. and Laird, N. Florence N. David, 1909-1993.</t> In: <bt>Statisticians in History</bt>, American Statistical Association", 
+                    "author": "Anonymous", 
+                    "bibtype": "incollection", 
+                    "year": "1993", 
+                    "howpublished": "In: <bt>Statisticians in History</bt>, American Statistical Association", 
+                    "topline": "incollection david__florence_n:23", 
+                    "id": "david__florence_n:23"
+                }, 
+                {
+                    "title": "Florence Nightingale David", 
+                    "ref": "<t>Florence Nightingale David.</t> <au>O'Sullivan, C.</au>. In: <bt>Agnes Scott College Website</bt>", 
+                    "author": "O'Sullivan, C.", 
+                    "bibtype": "misc", 
+                    "year": "1996", 
+                    "howpublished": "In: <bt>Agnes Scott College Website</bt>", 
+                    "topline": "misc david__florence_n:20", 
+                    "id": "david__florence_n:20"
+                }, 
+                {
+                    "title": "David, Florence Nightingale", 
+                    "ref": "<t>David, Florence Nightingale.</t> <au>Utts, J.</au>. <inc>booktitle:leading-personalities-in-statistical-sciences-from-the-17th-century-to-the-present</inc>. pp.<pp>91-93</pp>", 
+                    "author": "Utts, J.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:leading-personalities-in-statistical-sciences-from-the-17th-century-to-the-present", 
+                    "year": "1997", 
+                    "howpublished": "pp.<pp>91-93</pp>", 
+                    "topline": "incollection david__florence_n:21", 
+                    "id": "david__florence_n:21"
+                }, 
+                {
+                    "title": "Florence Nightingale David", 
+                    "ref": "<t>Florence Nightingale David.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2004", 
+                    "howpublished": "???", 
+                    "topline": "incollection david__florence_n:24", 
+                    "id": "david__florence_n:24"
+                }, 
+                {
+                    "title": "David, Florence Nightingale", 
+                    "ref": "<t>David, Florence Nightingale.</t> <au>Utts, J.</au>. <inc>booktitle:encyclopedia-of-statistical-sciences</inc>. ???", 
+                    "author": "Utts, J.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-statistical-sciences", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "incollection david__florence_n:22", 
+                    "id": "david__florence_n:22"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Wiley", 
+            "title": "Leading Personalities in Statistical Sciences, from the 17th Century to the Present", 
+            "url": "http://www.worldcat.org/title/leading-personalities-in-statistical-sciences-from-the-17th-century-to-the-present/oclc/36430730", 
+            "booktitle": "Leading Personalities in Statistical Sciences, from the 17th Century to the Present", 
+            "address": "New York", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:leading-personalities-in-statistical-sciences-from-the-17th-century-to-the-present", 
+            "editor": "N. L. Johnson and S. Kotz", 
+            "year": "1997", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Leading Personalities in Statistical Sciences, from the 17th Century to the Present.</t> <ed>N. L. Johnson and S. Kotz</ed>. In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:leading-personalities-in-statistical-sciences-from-the-17th-century-to-the-present"
+        }, 
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Statistical Sciences", 
+            "url": "http://onlinelibrary.wiley.com/book/10.1002/0471667196", 
+            "booktitle": "Encyclopedia of Statistical Sciences", 
+            "address": "Hoboken, NJ", 
+            "editors": "S. Kotz and N. Balakrishnan and C. Read and B. Vidakovic", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:encyclopedia-of-statistical-sciences", 
+            "year": "2006", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }
+    ]
+}

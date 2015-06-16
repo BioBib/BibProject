@@ -1,0 +1,66 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Ruben Gabriel, 1929-2003", 
+                    "ref": "<t>Ruben Gabriel, 1929-2003.</t> <au>Hall, W. J.</au>. <j>IMS Bulletin</j>, Vol. <v>32(4)</v>, pp.<pp>9</pp>", 
+                    "author": "Hall, W. J.", 
+                    "bibtype": "article", 
+                    "year": "2003", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>32(4)</v>, pp.<pp>9</pp>", 
+                    "topline": "article gabriel__k_ruben:8", 
+                    "id": "gabriel__k_ruben:8"
+                }
+            ], 
+            "DOB": "1929-03-24", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2003-05-25", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Gabriel, K. Ruben", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "gabriel__k_ruben", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=70315", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:gabriel.k-ruben", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18740861", 
+                    "anchor": "Microsoft Academic: Gabriel, K. Ruben"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1972", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "gabriel__kuno", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

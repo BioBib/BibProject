@@ -1,0 +1,212 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Rao, Calyampudi Radhakrishna", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "rao__c_r", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://de.wikipedia.org/wiki/C._R._Rao", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "category": "homepage", 
+                    "href": "http://en.wikipedia.org/wiki/C._R._Rao", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "category": "homepage", 
+                    "href": "http://www.stat.psu.edu/oldpage2/people/faculty/rao.html", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=144795", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:rao.calyampudi-rradhakrishna", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=40000", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52640116", 
+                    "anchor": "Microsoft Academic: Rao, C. Radhakrishna"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52640105", 
+                    "anchor": "Microsoft Academic: Rao, C. Radhakrishna"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12605678", 
+                    "anchor": "Microsoft Academic: Rao, C. Radhakrishna"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "Indian National Science Academy, Fellow", 
+                    "year": "1954", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1957", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Guy Medal in Silver", 
+                    "year": "1965", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "The Royal Society, Fellow", 
+                    "year": "1967", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Indian Academy of Sciences, Fellow", 
+                    "year": "1974", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Foreign Honorary Member", 
+                    "year": "1975", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Wald Lecturer", 
+                    "year": "1975", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS President", 
+                    "year": "1977", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "R. A. Fisher Lecturer", 
+                    "year": "1979", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Samuel S. Wilks Award", 
+                    "year": "1989", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Member", 
+                    "year": "1995", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Medallion Lecturer", 
+                    "year": "1998", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Medal of Science", 
+                    "year": "2001", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Guy Medal in Gold", 
+                    "year": "2011", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "rao__calyampudi", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Cambridge", 
+                    "thesis_title": "Statistical Problems of Biological Classifications", 
+                    "year": "1948", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=40000"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2002", 
+                    "howpublished": "???", 
+                    "topline": "misc rao__c_r:941449", 
+                    "id": "rao__c_r:941449"
+                }, 
+                {
+                    "title": "Former presidents' interview", 
+                    "ref": "<t>Former presidents' interview.</t> <au>Varadhan, S. R. S.</au>. <j>IMS Bulletin</j>, Vol. <v>39(2)</v>, pp.<pp>1,4</pp>", 
+                    "author": "Varadhan, S. R. S.", 
+                    "bibtype": "article", 
+                    "year": "2010", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>39(2)</v>, pp.<pp>1,4</pp>", 
+                    "topline": "article rao__c_r:16", 
+                    "id": "rao__c_r:16"
+                }, 
+                {
+                    "title": "Calyampudi Radhakrishna Rao", 
+                    "ref": "<t>Calyampudi Radhakrishna Rao.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2011", 
+                    "howpublished": "???", 
+                    "topline": "incollection rao__c_r:18", 
+                    "id": "rao__c_r:18"
+                }, 
+                {
+                    "title": "C. R. Rao receives National Medal of Science", 
+                    "ref": "<t>C. R. Rao receives National Medal of Science.</t> <au>Kruse, M.</au>. In: <bt>Statisticians in History</bt>, American Statistical Association", 
+                    "author": "Kruse, M.", 
+                    "bibtype": "incollection", 
+                    "year": "year?", 
+                    "howpublished": "In: <bt>Statisticians in History</bt>, American Statistical Association", 
+                    "topline": "incollection rao__c_r:17", 
+                    "id": "rao__c_r:17"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

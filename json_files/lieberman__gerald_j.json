@@ -1,0 +1,94 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Gerald J. Lieberman", 
+                    "ref": "<t>Gerald J. Lieberman.</t> <au>Anderson, T. W. and Olkin, I.</au>. <j>IMS Bulletin</j>, Vol. <v>29</v>, pp.<pp>206-208</pp>", 
+                    "author": "Anderson, T. W. and Olkin, I.", 
+                    "bibtype": "article", 
+                    "year": "2000", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>29</v>, pp.<pp>206-208</pp>", 
+                    "topline": "article lieberman__gerald_j:8", 
+                    "id": "lieberman__gerald_j:8"
+                }
+            ], 
+            "DOB": "1925-12-31", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1999-05-18", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Lieberman, Gerald J.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "lieberman__gerald_j", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://highered.mcgraw-hill.com/sites/9701034864/information_center_view0/gerald_j__lieberman.html", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=113860", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:lieberman.gerald-j", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=14686", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/1885217", 
+                    "anchor": "Microsoft Academic: Lieberman, Gerald J."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1959", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Engineering, Member", 
+                    "year": "1987", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "lieberman__gerald", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Stanford University", 
+                    "thesis_title": "Contributions to Sampling Inspection", 
+                    "year": "1953", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=14686"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

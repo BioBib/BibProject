@@ -1,0 +1,92 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1933-10-11", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2007-03-19", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Knight, Frank B.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Frank B. Knight, 1933-2007", 
+                    "ref": "<t>Frank B. Knight, 1933-2007.</t> <au>Burkholder, D.</au>. <j>IMS Bulletin</j>, Vol. <v>36(5)</v>, pp.<pp>6</pp>", 
+                    "author": "Burkholder, D.", 
+                    "bibtype": "article", 
+                    "year": "2007", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>36(5)</v>, pp.<pp>6</pp>", 
+                    "topline": "article knight__frank_b:8", 
+                    "id": "knight__frank_b:8"
+                }
+            ], 
+            "ims_id": "knight__frank_b", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://en.wikipedia.org/wiki/Frank_Knight", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=49728", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:knight.frank-b", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=4758", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/55507771", 
+                    "anchor": "Microsoft Academic: Knight, Frank B."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12768733", 
+                    "anchor": "Microsoft Academic: Knight, Frank B."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1972", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "knight__frank", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Princeton University", 
+                    "thesis_title": "Construction of Diffusion Processes by Means of Random Walks", 
+                    "year": "1959", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=4758"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

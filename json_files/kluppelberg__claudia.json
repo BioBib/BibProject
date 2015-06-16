@@ -1,0 +1,97 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Kl&uuml;ppelberg, Claudia", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "kluppelberg__claudia", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www-m4.ma.tum.de/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=250303", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:kluppelberg.claudia", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=54987", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53250672", 
+                    "anchor": "Microsoft Academic: C KLUPPELBERG"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/43904633", 
+                    "anchor": "Microsoft Academic: Claudia Kluppelberg (Claudia Kl\\\"{u"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/1924518", 
+                    "anchor": "Microsoft Academic: Claudia Kluppelberg (Claudia Kl\\\"{u"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53267583", 
+                    "anchor": "Microsoft Academic: C Kluppelberg (C Kl\\\"{u"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53267574", 
+                    "anchor": "Microsoft Academic: Claudia Kluppelberg"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "2003", 
+                    "citation": "For research in the field of stochastic processes, especially extreme value theory and its applications to insurance risk and finance; and for promotion of the field through teaching, administration, editorial work and practical application of her research", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Medallion Lecturer", 
+                    "year": "2009", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "rer. nat. Universit&auml;t Mannheim", 
+                    "thesis_title": "Subexponentielle Verteilungen und Charakterisierungen verwandter Klassen", 
+                    "year": "1987", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=54987"
+                        }
+                    ], 
+                    "type": "Dr."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

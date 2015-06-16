@@ -1,0 +1,389 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1964", 
+                    "howpublished": "???", 
+                    "topline": "misc wilks__samuel_s:584469", 
+                    "id": "wilks__samuel_s:584469"
+                }
+            ], 
+            "DOB": "1906-06-17", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1964-03-07", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Wilks, Samuel S.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Samuel Stanley Wilks, 1906-1964", 
+                    "ref": "<t>Samuel Stanley Wilks, 1906-1964.</t> <au>Cochran, W. G.</au>. <j>Rev. Internat. Statist. Inst.</j>, Vol. <v>32</v>, pp.<pp>189-191</pp>", 
+                    "author": "Cochran, W. G.", 
+                    "bibtype": "article", 
+                    "year": "1964", 
+                    "howpublished": "<j>Rev. Internat. Statist. Inst.</j>, Vol. <v>32</v>, pp.<pp>189-191</pp>", 
+                    "topline": "article wilks__samuel_s:11", 
+                    "id": "wilks__samuel_s:11"
+                }, 
+                {
+                    "title": "Obituary: Samuel Stanley Wilks, 1906-1964", 
+                    "ref": "<t>Obituary: Samuel Stanley Wilks, 1906-1964.</t> <au>Pearson, E. S.</au>. <j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>127</v>, pp.<pp>597-599</pp>", 
+                    "author": "Pearson, E. S.", 
+                    "bibtype": "article", 
+                    "year": "1964", 
+                    "howpublished": "<j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>127</v>, pp.<pp>597-599</pp>", 
+                    "topline": "article wilks__samuel_s:13", 
+                    "id": "wilks__samuel_s:13"
+                }, 
+                {
+                    "title": "Samuel Stanley Wilks, 1906-1964", 
+                    "ref": "<t>Samuel Stanley Wilks, 1906-1964.</t> <au>Gulliksen, H.</au>. <j>Psychometrika</j>, Vol. <v>29</v>, pp.<pp>103-104</pp>", 
+                    "author": "Gulliksen, H.", 
+                    "bibtype": "article", 
+                    "year": "1964", 
+                    "howpublished": "<j>Psychometrika</j>, Vol. <v>29</v>, pp.<pp>103-104</pp>", 
+                    "topline": "article wilks__samuel_s:14", 
+                    "id": "wilks__samuel_s:14"
+                }, 
+                {
+                    "title": "Professor Samuel S. Wilks", 
+                    "ref": "<t>Professor Samuel S. Wilks.</t> <au>Craig, C. C.</au>. <j>Industrial Quality Control</j>, Vol. <v>20(12)</v>, pp.<pp>41</pp>", 
+                    "author": "Craig, C. C.", 
+                    "bibtype": "article", 
+                    "year": "1964", 
+                    "howpublished": "<j>Industrial Quality Control</j>, Vol. <v>20(12)</v>, pp.<pp>41</pp>", 
+                    "topline": "article wilks__samuel_s:15", 
+                    "id": "wilks__samuel_s:15"
+                }, 
+                {
+                    "title": "Samuel Stanley Wilks, 1906-1964", 
+                    "ref": "<t>Samuel Stanley Wilks, 1906-1964.</t> <au>Anderson, T. W.</au>. <j>Ann. Math. Statist.</j>, Vol. <v>36</v>, pp.<pp>1-23</pp>", 
+                    "author": "Anderson, T. W.", 
+                    "bibtype": "article", 
+                    "year": "1965", 
+                    "howpublished": "<j>Ann. Math. Statist.</j>, Vol. <v>36</v>, pp.<pp>1-23</pp>", 
+                    "topline": "article wilks__samuel_s:9", 
+                    "id": "wilks__samuel_s:9"
+                }, 
+                {
+                    "title": "The publications of S. S. Wilks", 
+                    "ref": "<t>The publications of S. S. Wilks.</t> <au>Anderson, T. W.</au>. <j>Ann. Math. Statist.</j>, Vol. <v>36</v>, pp.<pp>24-27</pp>", 
+                    "author": "Anderson, T. W.", 
+                    "bibtype": "article", 
+                    "year": "1965", 
+                    "howpublished": "<j>Ann. Math. Statist.</j>, Vol. <v>36</v>, pp.<pp>24-27</pp>", 
+                    "topline": "article wilks__samuel_s:10", 
+                    "id": "wilks__samuel_s:10"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> In: <bt>Statisticians in History</bt>, American Statistical Association", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "year?", 
+                    "howpublished": "In: <bt>Statisticians in History</bt>, American Statistical Association", 
+                    "topline": "article wilks__samuel_s:12", 
+                    "id": "wilks__samuel_s:12"
+                }
+            ], 
+            "ims_id": "wilks__samuel_s", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://en.wikipedia.org/wiki/Samuel_S._Wilks", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.york.ac.uk/depts/maths/histstat/people/wilks.gif", 
+                    "anchor": "www.york.ac.uk"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=565625", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:wilks.samuel-s", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=34710", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18722584", 
+                    "anchor": "Microsoft Academic: Wilks, S. S."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/23217221", 
+                    "anchor": "Microsoft Academic: Wilks, Samuel S."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS President", 
+                    "year": "1940", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Philosophical Society, Member", 
+                    "year": "1948", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Rietz Lecturer", 
+                    "year": "1959", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1963", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "before 1943", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "wilks__samuel", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Iowa", 
+                    "thesis_title": "On the Distributions of Statistics in Samples from a Normal Population of Two Variables with Matched Sampling of One Variable", 
+                    "year": "1931", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=34710"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [
+                {
+                    "title": "S. S. (Samuel Stanley) Wilks papers, 1940-1963", 
+                    "ref": "<t>S. S. (Samuel Stanley) Wilks papers, 1940-1963.</t> Library, American Philosophical Society, Vol. <v>Mss.B.W665</v>", 
+                    "author": "Anonymous", 
+                    "bibtype": "book", 
+                    "year": "1940-1963", 
+                    "howpublished": "Library, American Philosophical Society, Vol. <v>Mss.B.W665</v>", 
+                    "topline": "book wilks__samuel_s:32", 
+                    "id": "wilks__samuel_s:32"
+                }
+            ], 
+            "Biography": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1965", 
+                    "howpublished": "???", 
+                    "topline": "misc wilks__samuel_s:20", 
+                    "id": "wilks__samuel_s:20"
+                }, 
+                {
+                    "title": "Samuel S. Wilks. J.", 
+                    "ref": "<t>Samuel S. Wilks. J.</t> <au>Stephan, F. F. and Tukey, J. W. and Mosteller, F. and Mood, A. M. and Hansen, M. H. and Simon, L. E. and Dixon, W. J.</au>. <j>Amer. Statist.</j>, Vol. <v>60</v>, pp.<pp>939-966</pp>", 
+                    "author": "Stephan, F. F. and Tukey, J. W. and Mosteller, F. and Mood, A. M. and Hansen, M. H. and Simon, L. E. and Dixon, W. J.", 
+                    "bibtype": "article", 
+                    "year": "1965", 
+                    "howpublished": "<j>Amer. Statist.</j>, Vol. <v>60</v>, pp.<pp>939-966</pp>", 
+                    "topline": "article wilks__samuel_s:21", 
+                    "id": "wilks__samuel_s:21"
+                }, 
+                {
+                    "title": "Wilks, S. S.", 
+                    "ref": "<t>Wilks, S. S.</t> <au>Mosteller, F.</au>. <inc>booktitle:international-encyclopedia-of-the-social-sciences</inc>. ???", 
+                    "author": "Mosteller, F.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:international-encyclopedia-of-the-social-sciences", 
+                    "year": "1968", 
+                    "howpublished": "???", 
+                    "topline": "incollection wilks__samuel_s:22", 
+                    "id": "wilks__samuel_s:22"
+                }, 
+                {
+                    "title": "Wilks, S. S.", 
+                    "ref": "<t>Wilks, S. S.</t> <au>Mosteller, F.</au>. <inc>booktitle:international-encyclopedia-of-statistics</inc>. pp.<pp>1250-1253</pp>", 
+                    "author": "Mosteller, F.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:international-encyclopedia-of-statistics", 
+                    "year": "1978", 
+                    "howpublished": "pp.<pp>1250-1253</pp>", 
+                    "topline": "incollection wilks__samuel_s:24", 
+                    "id": "wilks__samuel_s:24"
+                }, 
+                {
+                    "title": "Samuel S. Wilks and the Army Experiment Design Conference Series", 
+                    "ref": "<t>Samuel S. Wilks and the Army Experiment Design Conference Series.</t> <au>Eisenhart, Churchill.</au>. ???", 
+                    "author": "Eisenhart, Churchill.", 
+                    "bibtype": "misc", 
+                    "year": "197?", 
+                    "howpublished": "???", 
+                    "topline": "misc wilks__samuel_s:23", 
+                    "id": "wilks__samuel_s:23"
+                }, 
+                {
+                    "title": "S. S. Wilks' Princeton appointment, and statistics at Princeton before Wilks", 
+                    "ref": "<t>S. S. Wilks' Princeton appointment, and statistics at Princeton before Wilks.</t> <au>Eisenhart, C.</au>. <inc>booktitle:century-of-mathematics-in-america-part-iii</inc>. pp.<pp>577-587</pp>", 
+                    "author": "Eisenhart, C.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:century-of-mathematics-in-america-part-iii", 
+                    "year": "1989", 
+                    "howpublished": "pp.<pp>577-587</pp>", 
+                    "topline": "incollection wilks__samuel_s:25", 
+                    "id": "wilks__samuel_s:25"
+                }, 
+                {
+                    "title": "A conversation with Churchill Eisenhart", 
+                    "ref": "<t>A conversation with Churchill Eisenhart.</t> <au>Olkin, I.</au>. <j>Statist. Sci.</j>, Vol. <v>7</v>, pp.<pp>512-530</pp>", 
+                    "author": "Olkin, I.", 
+                    "bibtype": "article", 
+                    "year": "1992", 
+                    "howpublished": "<j>Statist. Sci.</j>, Vol. <v>7</v>, pp.<pp>512-530</pp>", 
+                    "topline": "article wilks__samuel_s:26", 
+                    "id": "wilks__samuel_s:26"
+                }, 
+                {
+                    "title": "Samuel Stanley Wilks, 1906-1964", 
+                    "ref": "<t>Samuel Stanley Wilks, 1906-1964.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "1997", 
+                    "howpublished": "???", 
+                    "topline": "incollection wilks__samuel_s:30", 
+                    "id": "wilks__samuel_s:30"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <inc>booktitle:encyclopedia-of-statistical-sciences</inc>. ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-statistical-sciences", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "incollection wilks__samuel_s:27", 
+                    "id": "wilks__samuel_s:27"
+                }, 
+                {
+                    "title": "Samuel Stanley Wilks (1906-1964)", 
+                    "ref": "<t>Samuel Stanley Wilks (1906-1964).</t> <au>David, H. A. and Morrison, D. F.</au>. <j>Amer. Statist.</j>, Vol. <v>60</v>, pp.<pp>46-49</pp>", 
+                    "author": "David, H. A. and Morrison, D. F.", 
+                    "bibtype": "article", 
+                    "year": "2006", 
+                    "howpublished": "<j>Amer. Statist.</j>, Vol. <v>60</v>, pp.<pp>46-49</pp>", 
+                    "topline": "article wilks__samuel_s:28", 
+                    "id": "wilks__samuel_s:28"
+                }, 
+                {
+                    "title": "Wilks, Samuel Stanley", 
+                    "ref": "<t>Wilks, Samuel Stanley.</t> <au>Eisenhart, C.</au>. <inc>booktitle:complete-dictionary-of-scientific-biography</inc>. Vol. <v>14</v>, pp.<pp>381-386</pp>", 
+                    "author": "Eisenhart, C.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:complete-dictionary-of-scientific-biography", 
+                    "year": "2008", 
+                    "howpublished": "Vol. <v>14</v>, pp.<pp>381-386</pp>", 
+                    "topline": "incollection wilks__samuel_s:29", 
+                    "id": "wilks__samuel_s:29"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Macmillan", 
+            "title": "International Encyclopedia of the Social Sciences", 
+            "url": "http://www.worldcat.org/title/international-encyclopedia-of-the-social-sciences/oclc/165466", 
+            "booktitle": "International Encyclopedia of the Social Sciences", 
+            "address": "Detroit", 
+            "editors": "W. A. Darity, Jr.", 
+            "bibtype": "reference", 
+            "edition": "2nd", 
+            "top_line": "reference booktitle:international-encyclopedia-of-the-social-sciences", 
+            "year": "1968", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>International Encyclopedia of the Social Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:international-encyclopedia-of-the-social-sciences"
+        }, 
+        {
+            "publisher": "Free Press", 
+            "title": "International Encyclopedia of Statistics", 
+            "url": "http://www.worldcat.org/title/international-encyclopedia-of-statistics/oclc/3966286", 
+            "booktitle": "International Encyclopedia of Statistics", 
+            "address": "New York", 
+            "editors": "W. H. Kruskal and J. M. Tanur", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:international-encyclopedia-of-statistics", 
+            "year": "1978", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>International Encyclopedia of Statistics.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:international-encyclopedia-of-statistics"
+        }, 
+        {
+            "publisher": "American Mathematical Society", 
+            "title": "A Century of Mathematics in America, Part III", 
+            "url": "http://www.worldcat.org/title/century-of-mathematics-in-america-part-iii/oclc/28363941", 
+            "booktitle": "A Century of Mathematics in America, Part III", 
+            "address": "Providence, RI", 
+            "editors": "P. Duren and R. Askey and H. M. Edwards and U. C. Merzbach", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:century-of-mathematics-in-america-part-iii", 
+            "year": "1989", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>A Century of Mathematics in America, Part III.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:century-of-mathematics-in-america-part-iii"
+        }, 
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Statistical Sciences", 
+            "url": "http://onlinelibrary.wiley.com/book/10.1002/0471667196", 
+            "booktitle": "Encyclopedia of Statistical Sciences", 
+            "address": "Hoboken, NJ", 
+            "editors": "S. Kotz and N. Balakrishnan and C. Read and B. Vidakovic", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:encyclopedia-of-statistical-sciences", 
+            "year": "2006", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }, 
+        {
+            "publisher": "Scribner's", 
+            "title": "Complete Dictionary of Scientific Biography", 
+            "url": "http://www.worldcat.org/title/complete-dictionary-of-scientific-biography/oclc/187313311", 
+            "booktitle": "Complete Dictionary of Scientific Biography", 
+            "address": "Detroit", 
+            "editors": "F. L. Holmes", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:complete-dictionary-of-scientific-biography", 
+            "year": "2008", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Complete Dictionary of Scientific Biography.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:complete-dictionary-of-scientific-biography"
+        }
+    ]
+}

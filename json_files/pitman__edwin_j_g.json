@@ -1,0 +1,229 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Edward James George Pitman, 1897-1993", 
+                    "ref": "<t>Edward James George Pitman, 1897-1993.</t> <au>Williams, E. J.</au>. <j>IMS Bulletin</j>, Vol. <v>22</v>, pp.<pp>448-449</pp>", 
+                    "author": "Williams, E. J.", 
+                    "bibtype": "article", 
+                    "year": "1993", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>22</v>, pp.<pp>448-449</pp>", 
+                    "topline": "article pitman__edwin_j_g:9", 
+                    "id": "pitman__edwin_j_g:9"
+                }
+            ], 
+            "DOB": "1897-10-29", 
+            "DVD": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1981", 
+                    "howpublished": "???", 
+                    "topline": "misc pitman__edwin_j_g:21", 
+                    "id": "pitman__edwin_j_g:21"
+                }
+            ], 
+            "Collected_Works": [], 
+            "DOD": "1993-07-21", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Pitman, Edwin J. G.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "E. J. G. Pitman", 
+                    "ref": "<t>E. J. G. Pitman.</t> <au>Lipton, S.</au>. <j>Austral. J. Statist.</j>, Vol. <v>35</v>, pp.<pp>246</pp>", 
+                    "author": "Lipton, S.", 
+                    "bibtype": "article", 
+                    "year": "1993", 
+                    "howpublished": "<j>Austral. J. Statist.</j>, Vol. <v>35</v>, pp.<pp>246</pp>", 
+                    "topline": "article pitman__edwin_j_g:11", 
+                    "id": "pitman__edwin_j_g:11"
+                }, 
+                {
+                    "title": "E. J. G. Pitman, 1897-1993", 
+                    "ref": "<t>E. J. G. Pitman, 1897-1993.</t> <au>Sprent, P.</au>. <j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>157</v>", 
+                    "author": "Sprent, P.", 
+                    "bibtype": "article", 
+                    "year": "1994", 
+                    "howpublished": "<j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>157</v>", 
+                    "topline": "article pitman__edwin_j_g:10", 
+                    "id": "pitman__edwin_j_g:10"
+                }
+            ], 
+            "ims_id": "pitman__edwin_j_g", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://en.wikipedia.org/wiki/E._J._G._Pitman", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.york.ac.uk/depts/maths/histstat/people/pitman.gif", 
+                    "anchor": "www.york.ac.uk"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=140075", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:pitman.e-j-g", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:pitman.e-g-j", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/55081613", 
+                    "anchor": "Microsoft Academic: Pitman, E. J. G."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/10864537", 
+                    "anchor": "Microsoft Academic: Pitman, E. J. G."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1948", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Australian Academy of Science, Member", 
+                    "year": "1954", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Pitman Medal, Statistical Society of Australia", 
+                    "year": "1978", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "pitman__edwin", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1993", 
+                    "howpublished": "???", 
+                    "topline": "misc pitman__edwin_j_g:22", 
+                    "id": "pitman__edwin_j_g:22"
+                }
+            ], 
+            "Biography": [
+                {
+                    "title": "Conversations with Edwin J. G. Pitman", 
+                    "ref": "<t>Conversations with Edwin J. G. Pitman.</t> <au>Brown, B. M. and Williams, E. J.</au>. <j>Austral. J. Statist.</j>, Vol. <v>34</v>, pp.<pp>345-360</pp>", 
+                    "author": "Brown, B. M. and Williams, E. J.", 
+                    "bibtype": "article", 
+                    "year": "1992", 
+                    "howpublished": "<j>Austral. J. Statist.</j>, Vol. <v>34</v>, pp.<pp>345-360</pp>", 
+                    "topline": "article pitman__edwin_j_g:14", 
+                    "id": "pitman__edwin_j_g:14"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1993", 
+                    "howpublished": "???", 
+                    "topline": "misc pitman__edwin_j_g:18", 
+                    "id": "pitman__edwin_j_g:18"
+                }, 
+                {
+                    "title": "Edwin James George Pitman 1897-1993", 
+                    "ref": "<t>Edwin James George Pitman 1897-1993.</t> <au>Williams, E. J.</au>. <j>Historical Records of Australian Science</j>, Vol. <v>10</v>, pp.<pp>163-185</pp>", 
+                    "author": "Williams, E. J.", 
+                    "bibtype": "article", 
+                    "year": "1994", 
+                    "howpublished": "<j>Historical Records of Australian Science</j>, Vol. <v>10</v>, pp.<pp>163-185</pp>", 
+                    "topline": "article pitman__edwin_j_g:15", 
+                    "id": "pitman__edwin_j_g:15"
+                }, 
+                {
+                    "title": "Edwin James George Pitman", 
+                    "ref": "<t>Edwin James George Pitman.</t> <au>Williams, E. J.</au>. <inc>booktitle:statisticians-of-the-centuries</inc>. pp.<pp>468-471</pp>", 
+                    "author": "Williams, E. J.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:statisticians-of-the-centuries", 
+                    "year": "2001", 
+                    "howpublished": "pp.<pp>468-471</pp>", 
+                    "topline": "incollection pitman__edwin_j_g:17", 
+                    "id": "pitman__edwin_j_g:17"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <inc>booktitle:encyclopedia-of-statistical-sciences</inc>. ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-statistical-sciences", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "incollection pitman__edwin_j_g:16", 
+                    "id": "pitman__edwin_j_g:16"
+                }, 
+                {
+                    "title": "Edwin James George Pitman, 1897-1993", 
+                    "ref": "<t>Edwin James George Pitman, 1897-1993.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2011", 
+                    "howpublished": "???", 
+                    "topline": "incollection pitman__edwin_j_g:19", 
+                    "id": "pitman__edwin_j_g:19"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Springer", 
+            "title": "Statisticians of the Centuries", 
+            "url": "http://www.worldcat.org/title/statisticians-of-the-centuries/oclc/46791088", 
+            "booktitle": "Statisticians of the Centuries", 
+            "address": "New York", 
+            "editors": "C. C. Heyde and E. Seneta", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:statisticians-of-the-centuries", 
+            "year": "2001", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Statisticians of the Centuries.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:statisticians-of-the-centuries"
+        }, 
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Statistical Sciences", 
+            "url": "http://onlinelibrary.wiley.com/book/10.1002/0471667196", 
+            "booktitle": "Encyclopedia of Statistical Sciences", 
+            "address": "Hoboken, NJ", 
+            "editors": "S. Kotz and N. Balakrishnan and C. Read and B. Vidakovic", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:encyclopedia-of-statistical-sciences", 
+            "year": "2006", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1884-05-25", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1961-05", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Kelley, Truman L.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Truman Lee Kelley", 
+                    "ref": "<t>Truman Lee Kelley.</t> <au>Flanagan, J. C.</au>. <j>Psychometrika</j>, Vol. <v>26</v>, pp.<pp>343-345</pp>", 
+                    "author": "Flanagan, J. C.", 
+                    "bibtype": "article", 
+                    "year": "1961", 
+                    "howpublished": "<j>Psychometrika</j>, Vol. <v>26</v>, pp.<pp>343-345</pp>", 
+                    "topline": "article kelley__truman_l:9", 
+                    "id": "kelley__truman_l:9"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1962", 
+                    "howpublished": "???", 
+                    "topline": "misc kelley__truman_l:789972", 
+                    "id": "kelley__truman_l:789972"
+                }
+            ], 
+            "ims_id": "kelley__truman_l", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=473936", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:kelley.truman-lee", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18749829", 
+                    "anchor": "Microsoft Academic: Kelley, Truman Lee"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1931", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "before 1943", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "kelley__truman", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>Ann. Math. Statist.</j>, Vol. <v>33</v>, pp.<pp>315</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1962", 
+                    "howpublished": "<j>Ann. Math. Statist.</j>, Vol. <v>33</v>, pp.<pp>315</pp>", 
+                    "topline": "article kelley__truman_l:8", 
+                    "id": "kelley__truman_l:8"
+                }
+            ], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Kelley, Truman L.", 
+                    "ref": "<t>Kelley, Truman L.</t> <au>Tiedeman, D. V.</au>. <inc>booktitle:international-encyclopedia-of-the-social-sciences</inc>. ???", 
+                    "author": "Tiedeman, D. V.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:international-encyclopedia-of-the-social-sciences", 
+                    "year": "1968", 
+                    "howpublished": "???", 
+                    "topline": "incollection kelley__truman_l:12", 
+                    "id": "kelley__truman_l:12"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Macmillan", 
+            "title": "International Encyclopedia of the Social Sciences", 
+            "url": "http://www.worldcat.org/title/international-encyclopedia-of-the-social-sciences/oclc/165466", 
+            "booktitle": "International Encyclopedia of the Social Sciences", 
+            "address": "Detroit", 
+            "editors": "W. A. Darity, Jr.", 
+            "bibtype": "reference", 
+            "edition": "2nd", 
+            "top_line": "reference booktitle:international-encyclopedia-of-the-social-sciences", 
+            "year": "1968", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>International Encyclopedia of the Social Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:international-encyclopedia-of-the-social-sciences"
+        }
+    ]
+}

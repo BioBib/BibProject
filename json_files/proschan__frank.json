@@ -1,0 +1,109 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1921-04-07", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2003-12-27", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Proschan, Frank", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Frank Proschan", 
+                    "ref": "<t>Frank Proschan.</t> <au>Hollander, M.</au>. <j>IMS Bulletin</j>, Vol. <v>33(2)</v>, pp.<pp>9</pp>", 
+                    "author": "Hollander, M.", 
+                    "bibtype": "article", 
+                    "year": "2004", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>33(2)</v>, pp.<pp>9</pp>", 
+                    "topline": "article proschan__frank:7", 
+                    "id": "proschan__frank:7"
+                }
+            ], 
+            "ims_id": "proschan__frank", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.informs.org/Recognize-Excellence/Award-Recipients/Frank-Proschan", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=142290", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:proschan.frank", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=78421", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53133277", 
+                    "anchor": "Microsoft Academic: Proschan, Frank"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18014094", 
+                    "anchor": "Microsoft Academic: Proschan, Frank"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1967", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Medallion Lecturer", 
+                    "year": "1979", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Samuel S. Wilks Award", 
+                    "year": "1982", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "John von Neumann Theory Prize", 
+                    "year": "1991", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Stanford University", 
+                    "thesis_title": "Polya-Type Distributions in Renewal Theory, with an Application to an Inventory Problem", 
+                    "year": "1959", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=78421"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

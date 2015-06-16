@@ -1,0 +1,149 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Morris Howard Hansen, 1910-1990", 
+                    "ref": "<t>Morris Howard Hansen, 1910-1990.</t> <au>Tepping, B. J. and Waksberg, J.</au>. <j>IMS Bulletin</j>, Vol. <v>19</v>, pp.<pp>666</pp>", 
+                    "author": "Tepping, B. J. and Waksberg, J.", 
+                    "bibtype": "article", 
+                    "year": "1990", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>19</v>, pp.<pp>666</pp>", 
+                    "topline": "article hansen__morris_h:8", 
+                    "id": "hansen__morris_h:8"
+                }
+            ], 
+            "DOB": "1910-12-15", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1990-10-09", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Hansen, Morris H.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "hansen__morris_h", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=248024", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:hansen.morris-h", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54113441", 
+                    "anchor": "Microsoft Academic: Stephens, G. Gayle"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54113794", 
+                    "anchor": "Microsoft Academic: Hansen, Morris H."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52594157", 
+                    "anchor": "Microsoft Academic: Hansen, Morris H."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1943", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS President", 
+                    "year": "1953", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Member", 
+                    "year": "1976", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1985", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "hansen__morris", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Morris Howard Hansen, December 15, 1910-October 9, 1990", 
+                    "ref": "<t>Morris Howard Hansen, December 15, 1910-October 9, 1990.</t> <au>Waksberg, J. and Goldfield, E. D.</au>. <j>Biographical Memoirs</j>, National Academies Press, Vol. <v>70</v>, pp.<pp>2-23</pp>", 
+                    "author": "Waksberg, J. and Goldfield, E. D.", 
+                    "bibtype": "article", 
+                    "year": "1996", 
+                    "howpublished": "<j>Biographical Memoirs</j>, National Academies Press, Vol. <v>70</v>, pp.<pp>2-23</pp>", 
+                    "topline": "article hansen__morris_h:12", 
+                    "id": "hansen__morris_h:12"
+                }, 
+                {
+                    "title": "Hansen, Morris Howard", 
+                    "ref": "<t>Hansen, Morris Howard.</t> <au>Johnson, N. L. and Kotz, S.</au>. <inc>booktitle:leading-personalities-in-statistical-sciences-from-the-17th-century-to-the-present</inc>. pp.<pp>297-298</pp>", 
+                    "author": "Johnson, N. L. and Kotz, S.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:leading-personalities-in-statistical-sciences-from-the-17th-century-to-the-present", 
+                    "year": "1997", 
+                    "howpublished": "pp.<pp>297-298</pp>", 
+                    "topline": "incollection hansen__morris_h:13", 
+                    "id": "hansen__morris_h:13"
+                }, 
+                {
+                    "title": "Morris Hansen: Innovative, influential, inspiring", 
+                    "ref": "<t>Morris Hansen: Innovative, influential, inspiring.</t> <au>Murphy, M.</au>. <j>Amstat News</j>, Vol. <v>Sep. 2009</v>, pp.<pp>15-17</pp>", 
+                    "author": "Murphy, M.", 
+                    "bibtype": "article", 
+                    "year": "2009", 
+                    "howpublished": "<j>Amstat News</j>, Vol. <v>Sep. 2009</v>, pp.<pp>15-17</pp>", 
+                    "topline": "article hansen__morris_h:14", 
+                    "id": "hansen__morris_h:14"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2009", 
+                    "howpublished": "???", 
+                    "topline": "misc hansen__morris_h:964679", 
+                    "id": "hansen__morris_h:964679"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Wiley", 
+            "title": "Leading Personalities in Statistical Sciences, from the 17th Century to the Present", 
+            "url": "http://www.worldcat.org/title/leading-personalities-in-statistical-sciences-from-the-17th-century-to-the-present/oclc/36430730", 
+            "booktitle": "Leading Personalities in Statistical Sciences, from the 17th Century to the Present", 
+            "address": "New York", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:leading-personalities-in-statistical-sciences-from-the-17th-century-to-the-present", 
+            "editor": "N. L. Johnson and S. Kotz", 
+            "year": "1997", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Leading Personalities in Statistical Sciences, from the 17th Century to the Present.</t> <ed>N. L. Johnson and S. Kotz</ed>. In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:leading-personalities-in-statistical-sciences-from-the-17th-century-to-the-present"
+        }
+    ]
+}

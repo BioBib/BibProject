@@ -1,0 +1,126 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1996", 
+                    "howpublished": "???", 
+                    "topline": "misc chapman__douglas_g:233594", 
+                    "id": "chapman__douglas_g:233594"
+                }
+            ], 
+            "DOB": "1920-03-20", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1996-07-09", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Chapman, Douglas G.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "chapman__douglas_g", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=47455", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:chapman.douglas-g", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=28297", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/47179131", 
+                    "anchor": "Microsoft Academic: Douglas G. Chapman"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1957", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "chapman__douglas", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>25</v>, pp.<pp>510</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1996", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>25</v>, pp.<pp>510</pp>", 
+                    "topline": "article chapman__douglas_g:8", 
+                    "id": "chapman__douglas_g:8"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of California, Berkeley", 
+                    "thesis_title": "I. Applications of the Hypergeometric Distribution to Sample Census Problems II. A Class of Lower Bounds for the Variance of an Estimate", 
+                    "year": "1949", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=28297"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "year?", 
+                    "howpublished": "???", 
+                    "topline": "misc chapman__douglas_g:12", 
+                    "id": "chapman__douglas_g:12"
+                }
+            ], 
+            "Biography": [
+                {
+                    "title": "Guide to the Douglas G. Chapman Papers 1949-1988", 
+                    "ref": "<t>Guide to the Douglas G. Chapman Papers 1949-1988.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1988", 
+                    "howpublished": "???", 
+                    "topline": "misc chapman__douglas_g:10", 
+                    "id": "chapman__douglas_g:10"
+                }, 
+                {
+                    "title": "A model for the world: 80 years of model development and application at the International Pacific Halibut Commission.", 
+                    "ref": "<t>A model for the world: 80 years of model development and application at the International Pacific Halibut Commission.</t> <au>Clark, William G.</au>. <j>Natural Resource Modeling</j>, Vol. <v>16:4</v>, pp.<pp>491--503</pp>", 
+                    "author": "Clark, William G.", 
+                    "bibtype": "misc", 
+                    "year": "2003", 
+                    "howpublished": "<j>Natural Resource Modeling</j>, Vol. <v>16:4</v>, pp.<pp>491--503</pp>", 
+                    "topline": "misc chapman__douglas_g:11", 
+                    "id": "chapman__douglas_g:11"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

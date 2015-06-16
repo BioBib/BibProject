@@ -1,0 +1,87 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1924-03-20", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1985-03-17", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Kraft, Charles H.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "kraft__charles_h", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=106010", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:kraft.charles-h", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=32073", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/42446980", 
+                    "anchor": "Microsoft Academic: Charles H. Kraft"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/56369914", 
+                    "anchor": "Microsoft Academic: Charles H. Kraft"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1973", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "kraft__charles", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>14</v>, pp.<pp>175</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1985", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>14</v>, pp.<pp>175</pp>", 
+                    "topline": "article kraft__charles_h:8", 
+                    "id": "kraft__charles_h:8"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of California, Berkeley", 
+                    "thesis_title": "On the Problem of Consistent and Uniformly Consistent Statistical Procedures", 
+                    "year": "1954", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=32073"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

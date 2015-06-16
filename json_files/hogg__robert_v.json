@@ -1,0 +1,102 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Hogg, Robert V.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "hogg__robert_v", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://en.wikipedia.org/wiki/RV_Hogg", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=87200", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:hogg.robert-v", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=7015", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18740023", 
+                    "anchor": "Microsoft Academic: Robert V. Hogg"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1967", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Harry C. Carver Medal", 
+                    "year": "2006", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "hogg__robert", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Iowa", 
+                    "thesis_title": "On Ratios of Certain Algebraic Forms in Statistics", 
+                    "year": "1950", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=7015"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Profile: Robert V. Hogg", 
+                    "ref": "<t>Profile: Robert V. Hogg.</t> <j>IMS Bulletin</j>, Vol. <v>35(10)</v>, pp.<pp>5</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2006", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>35(10)</v>, pp.<pp>5</pp>", 
+                    "topline": "article hogg__robert_v:7", 
+                    "id": "hogg__robert_v:7"
+                }, 
+                {
+                    "title": "A conversation with Robert V. Hogg", 
+                    "ref": "<t>A conversation with Robert V. Hogg.</t> <au>Randles, R. H.</au>. <j>Statist. Sci.</j>, Vol. <v>22</v>, pp.<pp>137-152</pp>", 
+                    "author": "Randles, R. H.", 
+                    "bibtype": "article", 
+                    "year": "2007", 
+                    "howpublished": "<j>Statist. Sci.</j>, Vol. <v>22</v>, pp.<pp>137-152</pp>", 
+                    "topline": "article hogg__robert_v:8", 
+                    "id": "hogg__robert_v:8"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

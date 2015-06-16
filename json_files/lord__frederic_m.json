@@ -1,0 +1,116 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2000", 
+                    "howpublished": "???", 
+                    "topline": "misc lord__frederic_m:274410", 
+                    "id": "lord__frederic_m:274410"
+                }
+            ], 
+            "DOB": "1912-11-12", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2000-02-05", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Lord, Frederic M.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Frederic Mather Lord (1912-2000)", 
+                    "ref": "<t>Frederic Mather Lord (1912-2000).</t> <au>Wainer, H. and Stocking, M.</au>. <j>Psychometrika</j>, Vol. <v>65</v>, pp.<pp>143-144</pp>", 
+                    "author": "Wainer, H. and Stocking, M.", 
+                    "bibtype": "article", 
+                    "year": "2000", 
+                    "howpublished": "<j>Psychometrika</j>, Vol. <v>65</v>, pp.<pp>143-144</pp>", 
+                    "topline": "article lord__frederic_m:9", 
+                    "id": "lord__frederic_m:9"
+                }
+            ], 
+            "ims_id": "lord__frederic_m", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=490302", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:lord.frederic-m", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/42488585", 
+                    "anchor": "Microsoft Academic: Frederic M. Lord"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/46149749", 
+                    "anchor": "Microsoft Academic: Frederic M. Lord"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52425111", 
+                    "anchor": "Microsoft Academic: Frederic M. Lord"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/56911807", 
+                    "anchor": "Microsoft Academic: Frederic M. Lord"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1968", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "lord__frederic", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Lord, Frederic Mather", 
+                    "ref": "<t>Lord, Frederic Mather.</t> <au>Hambleton, R. K.</au>. <inc>booktitle:encyclopedia-of-statistics-in-behavioral-science</inc>. pp.<pp>1104-1106</pp>", 
+                    "author": "Hambleton, R. K.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-statistics-in-behavioral-science", 
+                    "year": "2005", 
+                    "howpublished": "pp.<pp>1104-1106</pp>", 
+                    "topline": "incollection lord__frederic_m:10", 
+                    "id": "lord__frederic_m:10"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Statistics in Behavioral Science", 
+            "url": "http://www.worldcat.org/title/encyclopedia-of-statistics-in-behavioral-science/oclc/57694986", 
+            "booktitle": "Encyclopedia of Statistics in Behavioral Science", 
+            "address": "New York", 
+            "editors": "B. S. Everitt and D. C. Howell", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:encyclopedia-of-statistics-in-behavioral-science", 
+            "year": "2005", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Statistics in Behavioral Science.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-statistics-in-behavioral-science"
+        }
+    ]
+}

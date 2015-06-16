@@ -1,0 +1,120 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Biographical note", 
+                    "ref": "<t>Biographical note.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc bancroft__theodore_a:9", 
+                    "id": "bancroft__theodore_a:9"
+                }
+            ], 
+            "DOB": "1907-01-02", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1986-07-26", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Bancroft, Theodore A.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Theodore Alfonso Bancroft, 1907-1986", 
+                    "ref": "<t>Theodore Alfonso Bancroft, 1907-1986.</t> <au>Fuller, W. A. and Kempthorne, O.</au>. <j>Amer. Statist.</j>, Vol. <v>41</v>, pp.<pp>167-168</pp>", 
+                    "author": "Fuller, W. A. and Kempthorne, O.", 
+                    "bibtype": "article", 
+                    "year": "1987", 
+                    "howpublished": "<j>Amer. Statist.</j>, Vol. <v>41</v>, pp.<pp>167-168</pp>", 
+                    "topline": "article bancroft__theodore_a:10", 
+                    "id": "bancroft__theodore_a:10"
+                }
+            ], 
+            "ims_id": "bancroft__theodore_a", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=30380", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:bancroft.t-a", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=42984", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54185947", 
+                    "anchor": "Microsoft Academic: Bancroft, T. A."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12859116", 
+                    "anchor": "Microsoft Academic: Bancroft, T. A."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1972", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "bancroft__theodore", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>15</v>, pp.<pp>382</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1986", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>15</v>, pp.<pp>382</pp>", 
+                    "topline": "article bancroft__theodore_a:8", 
+                    "id": "bancroft__theodore_a:8"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Iowa State University", 
+                    "thesis_title": "Tests of Significance Considered as an Aid in Statistical Methodology", 
+                    "year": "1943", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=42984"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [
+                {
+                    "title": "T. A. (Theodore Alfonso) Bancroft Papers, RS 13/24/11", 
+                    "ref": "<t>T. A. (Theodore Alfonso) Bancroft Papers, RS 13/24/11.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc bancroft__theodore_a:11", 
+                    "id": "bancroft__theodore_a:11"
+                }
+            ], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

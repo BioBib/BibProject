@@ -1,0 +1,86 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Bowman, Kimiko O.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "bowman__kimiko_o", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.csm.ornl.gov/%7Ebowman/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=202828", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=15082", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12758391", 
+                    "anchor": "Microsoft Academic: Bowman, K. O."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52622502", 
+                    "anchor": "Microsoft Academic: Bowman, K. O."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1987", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "bowman__kimiko", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Virginia Polytechnic Institute and State University", 
+                    "thesis_title": "Moments to Higher Orders for Maximum Liklihood Estimates with an Application to the Negative Binomial Distribution", 
+                    "year": "1964", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=15082"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Kimiko Bowman: Never say never", 
+                    "ref": "<t>Kimiko Bowman: Never say never.</t> <au>Snider, V.</au>. <j>Amstat News</j>, Vol. <v>Sept. 2008</v>, pp.<pp>4-6</pp>", 
+                    "author": "Snider, V.", 
+                    "bibtype": "article", 
+                    "year": "2008", 
+                    "howpublished": "<j>Amstat News</j>, Vol. <v>Sept. 2008</v>, pp.<pp>4-6</pp>", 
+                    "topline": "article bowman__kimiko_o:6", 
+                    "id": "bowman__kimiko_o:6"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

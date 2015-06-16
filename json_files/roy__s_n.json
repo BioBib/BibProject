@@ -1,0 +1,89 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1906-12-11", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1964-07-23", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Roy, Samarendra N.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "roy__s_n", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=529198", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:roy.samarendra-nath", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=29412", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53415084", 
+                    "anchor": "Microsoft Academic: Roy, S. N."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "Indian National Science Academy, Foreign Fellow", 
+                    "year": "1946", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1949", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "roy__samarendra", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Calcutta University", 
+                    "thesis_title": "Post master's work at the Indian Statistical Institute where he worked under Mahalanobis", 
+                    "year": "1951", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=29412"
+                        }
+                    ], 
+                    "type": "M.Sc."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Samarendra Nath Roy", 
+                    "ref": "<t>Samarendra Nath Roy.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2008", 
+                    "howpublished": "???", 
+                    "topline": "incollection roy__s_n:8", 
+                    "id": "roy__s_n:8"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

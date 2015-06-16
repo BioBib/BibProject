@@ -1,0 +1,69 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Hu&scaron;kov&aacute;, Marie", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "huskova__marie", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:huskova.marie", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18258568", 
+                    "anchor": "Microsoft Academic: Marie Huskova (Marie Hu\\v{s"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53497028", 
+                    "anchor": "Microsoft Academic: Marie Huskova (Marie Huskov\\'{a"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/51084708", 
+                    "anchor": "Microsoft Academic: M. Huskova (M. Huskov\\'{a"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/44764791", 
+                    "anchor": "Microsoft Academic: Marie Huskova"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/50505021", 
+                    "anchor": "Microsoft Academic: Marie Huskova (Marie Hu\\v{s"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/51084677", 
+                    "anchor": "Microsoft Academic: M. Huskova (M. Huskov\\'{a"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1999", 
+                    "citation": "For excellent research on rank statistics, adaptation, robustness, and change-point problems; for outstanding service as an editor and organizer; and for dignity as a scholar", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

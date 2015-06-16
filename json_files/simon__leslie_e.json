@@ -1,0 +1,74 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1900-08-11", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1983-10-28", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Simon, Leslie E.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "simon__leslie_e", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=539874", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/22030544", 
+                    "anchor": "Microsoft Academic: Leslie E. Simon"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1943", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1956", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Samuel S. Wilks Award", 
+                    "year": "1966", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "simon__leslie", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>13</v>, pp.<pp>170</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1984", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>13</v>, pp.<pp>170</pp>", 
+                    "topline": "article simon__leslie_e:8", 
+                    "id": "simon__leslie_e:8"
+                }
+            ], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

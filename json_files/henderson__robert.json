@@ -1,0 +1,123 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1942", 
+                    "howpublished": "???", 
+                    "topline": "misc henderson__robert:482020", 
+                    "id": "henderson__robert:482020"
+                }
+            ], 
+            "DOB": "1871-05-24", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1942-02-16", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Henderson, Robert", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Robert Henderson---In memoriam", 
+                    "ref": "<t>Robert Henderson---In memoriam.</t> <au>Murphy, R. D. and Richardson, R. G. D.</au>. <j>Bull. Amer. Math. Soc.</j>, Vol. <v>48</v>, pp.<pp>504-505</pp>", 
+                    "author": "Murphy, R. D. and Richardson, R. G. D.", 
+                    "bibtype": "article", 
+                    "year": "1942", 
+                    "howpublished": "<j>Bull. Amer. Math. Soc.</j>, Vol. <v>48</v>, pp.<pp>504-505</pp>", 
+                    "topline": "article henderson__robert:9", 
+                    "id": "henderson__robert:9"
+                }
+            ], 
+            "ims_id": "henderson__robert", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=351932", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:henderson.robert-d", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:henderson.robert-j", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/23561391", 
+                    "anchor": "Microsoft Academic: Henderson, Robert"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18754690", 
+                    "anchor": "Microsoft Academic: Henderson, Robert D."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "American Philosophical Society, Member", 
+                    "year": "1927", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "before 1943", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>Ann. Math. Statist.</j>, Vol. <v>14</v>, pp.<pp>100-101</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1943", 
+                    "howpublished": "<j>Ann. Math. Statist.</j>, Vol. <v>14</v>, pp.<pp>100-101</pp>", 
+                    "topline": "article henderson__robert:7", 
+                    "id": "henderson__robert:7"
+                }
+            ], 
+            "Education": [], 
+            "Endowment": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>Bull. Amer. Math. Soc.</j>, Vol. <v>52(part 2)</v>, pp.<pp>5-6</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1946", 
+                    "howpublished": "<j>Bull. Amer. Math. Soc.</j>, Vol. <v>52(part 2)</v>, pp.<pp>5-6</pp>", 
+                    "topline": "article henderson__robert:12", 
+                    "id": "henderson__robert:12"
+                }
+            ], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "A History of the Second Fifty Years: American Mathematical Society, 1939-1988", 
+                    "ref": "<t>A History of the Second Fifty Years: American Mathematical Society, 1939-1988.</t> <au>Pitcher, E.</au>. American Mathematical Society, pp.<pp>307-308</pp>", 
+                    "author": "Pitcher, E.", 
+                    "bibtype": "book", 
+                    "year": "1988", 
+                    "howpublished": "American Mathematical Society, pp.<pp>307-308</pp>", 
+                    "topline": "book henderson__robert:11", 
+                    "id": "henderson__robert:11"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

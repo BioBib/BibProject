@@ -1,0 +1,242 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1988", 
+                    "howpublished": "???", 
+                    "topline": "misc scott__elizabeth_l:468458", 
+                    "id": "scott__elizabeth_l:468458"
+                }, 
+                {
+                    "title": "Elizabeth Leonard Scott, 1917-1988", 
+                    "ref": "<t>Elizabeth Leonard Scott, 1917-1988.</t> <au>Le Cam, L.</au>. <j>IMS Bulletin</j>, Vol. <v>18</v>, pp.<pp>80</pp>", 
+                    "author": "Le Cam, L.", 
+                    "bibtype": "article", 
+                    "year": "1989", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>18</v>, pp.<pp>80</pp>", 
+                    "topline": "article scott__elizabeth_l:9", 
+                    "id": "scott__elizabeth_l:9"
+                }, 
+                {
+                    "title": "Elizabeth Scott, 1917-88", 
+                    "ref": "<t>Elizabeth Scott, 1917-88.</t> <au>David, F. N.</au>. <j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>153</v>, pp.<pp>100</pp>", 
+                    "author": "David, F. N.", 
+                    "bibtype": "article", 
+                    "year": "1990", 
+                    "howpublished": "<j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>153</v>, pp.<pp>100</pp>", 
+                    "topline": "article scott__elizabeth_l:10", 
+                    "id": "scott__elizabeth_l:10"
+                }
+            ], 
+            "DOB": "1917-11-23", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1988-12-20", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Scott, Elizabeth L.", 
+            "Oral_History": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1983", 
+                    "howpublished": "???", 
+                    "topline": "misc scott__elizabeth_l:177620", 
+                    "id": "scott__elizabeth_l:177620"
+                }
+            ], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "In memory of Elizabeth Scott", 
+                    "ref": "<t>In memory of Elizabeth Scott.</t> <au>Flournoy, N.</au>. <j>Newsletter of the Caucus for Women in Statistics</j>, Vol. <v>19</v>, pp.<pp>5-6</pp>", 
+                    "author": "Flournoy, N.", 
+                    "bibtype": "article", 
+                    "year": "1989", 
+                    "howpublished": "<j>Newsletter of the Caucus for Women in Statistics</j>, Vol. <v>19</v>, pp.<pp>5-6</pp>", 
+                    "topline": "article scott__elizabeth_l:11", 
+                    "id": "scott__elizabeth_l:11"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1989", 
+                    "howpublished": "???", 
+                    "topline": "misc scott__elizabeth_l:9922", 
+                    "id": "scott__elizabeth_l:9922"
+                }
+            ], 
+            "ims_id": "scott__elizabeth_l", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://en.wikipedia.org/wiki/Elizabeth_Scott_%28mathematician%29", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.york.ac.uk/depts/maths/histstat/people/neyman_and_s.gif", 
+                    "anchor": "www.york.ac.uk"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=290141", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:scott.elizabeth-l", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=30379", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54240741", 
+                    "anchor": "Microsoft Academic: Elizabeth L. Scott"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/42500538", 
+                    "anchor": "Microsoft Academic: Elizabeth L. Scott"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/56327645", 
+                    "anchor": "Microsoft Academic: Elizabeth L. Scott"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/46979978", 
+                    "anchor": "Microsoft Academic: Elizabeth L. Scott"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52870914", 
+                    "anchor": "Microsoft Academic: ELIZABETH L SCOTT"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/46971491", 
+                    "anchor": "Microsoft Academic: Elizabeth L. Scott"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "L. Scott Award, Committee of Presidents of Statistical Societies", 
+                    "year": "Elizabeth", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1951", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS President", 
+                    "year": "1978", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "scott__elizabeth", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Oxford", 
+                    "thesis_title": "Finitely presented infinite simple groups", 
+                    "year": "1981", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=30379"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Women in statistics: Sesquicentennial activities", 
+                    "ref": "<t>Women in statistics: Sesquicentennial activities.</t> <au>Stinnett, S., et al.</au>. <j>Amer. Statist.</j>, Vol. <v>44</v>, pp.<pp>74-80</pp>", 
+                    "author": "Stinnett, S., et al.", 
+                    "bibtype": "article", 
+                    "year": "1990", 
+                    "howpublished": "<j>Amer. Statist.</j>, Vol. <v>44</v>, pp.<pp>74-80</pp>", 
+                    "topline": "article scott__elizabeth_l:15", 
+                    "id": "scott__elizabeth_l:15"
+                }, 
+                {
+                    "title": "Elizabeth Scott: Scholar, teacher, administrator", 
+                    "ref": "<t>Elizabeth Scott: Scholar, teacher, administrator.</t> <au>Billard, L. and Ferber, M. A.</au>. <j>Statist. Sci.</j>, Vol. <v>6</v>, pp.<pp>206-216</pp>", 
+                    "author": "Billard, L. and Ferber, M. A.", 
+                    "bibtype": "article", 
+                    "year": "1991", 
+                    "howpublished": "<j>Statist. Sci.</j>, Vol. <v>6</v>, pp.<pp>206-216</pp>", 
+                    "topline": "article scott__elizabeth_l:16", 
+                    "id": "scott__elizabeth_l:16"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <inc>booktitle:encyclopedia-of-statistical-sciences</inc>. ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-statistical-sciences", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "incollection scott__elizabeth_l:17", 
+                    "id": "scott__elizabeth_l:17"
+                }, 
+                {
+                    "title": "Elizabeth Leonard Scott", 
+                    "ref": "<t>Elizabeth Leonard Scott.</t> <au>Webb, F. and Robertson, E. F.</au>. ???", 
+                    "author": "Webb, F. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2007", 
+                    "howpublished": "???", 
+                    "topline": "incollection scott__elizabeth_l:19", 
+                    "id": "scott__elizabeth_l:19"
+                }, 
+                {
+                    "title": "Elizabeth Scott", 
+                    "ref": "<t>Elizabeth Scott.</t> In: <bt>Agnes Scott College Website</bt>", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "year?", 
+                    "howpublished": "In: <bt>Agnes Scott College Website</bt>", 
+                    "topline": "misc scott__elizabeth_l:18", 
+                    "id": "scott__elizabeth_l:18"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Statistical Sciences", 
+            "url": "http://onlinelibrary.wiley.com/book/10.1002/0471667196", 
+            "booktitle": "Encyclopedia of Statistical Sciences", 
+            "address": "Hoboken, NJ", 
+            "editors": "S. Kotz and N. Balakrishnan and C. Read and B. Vidakovic", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:encyclopedia-of-statistical-sciences", 
+            "year": "2006", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }
+    ]
+}

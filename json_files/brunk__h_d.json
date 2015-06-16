@@ -1,0 +1,104 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1919-08-22", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2009-07-19", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Brunk, Hugh D.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc brunk__h_d:217343", 
+                    "id": "brunk__h_d:217343"
+                }, 
+                {
+                    "title": "Hugh Daniel Brunk, 1919-2009", 
+                    "ref": "<t>Hugh Daniel Brunk, 1919-2009.</t> <au>Schafer, D. and Pierce, D.</au>. <j>IMS Bulletin</j>, Vol. <v>39(10)</v>, pp.<pp>6-7</pp>", 
+                    "author": "Schafer, D. and Pierce, D.", 
+                    "bibtype": "article", 
+                    "year": "2010", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>39(10)</v>, pp.<pp>6-7</pp>", 
+                    "topline": "article brunk__h_d:9", 
+                    "id": "brunk__h_d:9"
+                }
+            ], 
+            "ims_id": "brunk__h_d", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=211961", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:brunk.hugh", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=9651", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18004025", 
+                    "anchor": "Microsoft Academic: Brunk, H. D."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "19??", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "brunk__hugh", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>Notices Amer. Math. Soc.</j>, Vol. <v>57</v>, pp.<pp>66</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2010", 
+                    "howpublished": "<j>Notices Amer. Math. Soc.</j>, Vol. <v>57</v>, pp.<pp>66</pp>", 
+                    "topline": "article brunk__h_d:7", 
+                    "id": "brunk__h_d:7"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Rice University", 
+                    "thesis_title": "Some Generalizations for Dirichlet Series of Hadamard's Theorem with Applications", 
+                    "year": "1944", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=9651"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

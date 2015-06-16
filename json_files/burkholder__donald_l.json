@@ -1,0 +1,133 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Obituary: Donald L. Burkholder 1927--2013", 
+                    "ref": "<t>Obituary: Donald L. Burkholder 1927--2013.</t> <au>Peter Burkholder and William Burkholder and Rodrigo Ba&ntilde;uelos and Burgess Davis and Renming Song</au>. <j>IMS Bulletin</j>", 
+                    "author": "Peter Burkholder and William Burkholder and Rodrigo Ba&ntilde;uelos and Burgess Davis and Renming Song", 
+                    "bibtype": "article", 
+                    "year": "2013", 
+                    "howpublished": "<j>IMS Bulletin</j>", 
+                    "topline": "article burkholder__donald_l:1", 
+                    "id": "burkholder__donald_l:1"
+                }
+            ], 
+            "DOB": "1927-01-19", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2013-04-14", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Burkholder, Donald L.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2013", 
+                    "howpublished": "???", 
+                    "topline": "article burkholder__donald_l:408678", 
+                    "id": "burkholder__donald_l:408678"
+                }
+            ], 
+            "ims_id": "burkholder__donald_l", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.math.uiuc.edu/~donburk/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=43510", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:burkholder.donald-l", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=4599", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/10717548", 
+                    "anchor": "Microsoft Academic: Burkholder, D. L."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52809173", 
+                    "anchor": "Microsoft Academic: Burkholder, D. L."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1963", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Wald Lecturer", 
+                    "year": "1971", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS President", 
+                    "year": "1976", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Medallion Lecturer", 
+                    "year": "1982", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1992", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Member", 
+                    "year": "1992", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "burkholder__donald", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "The University of North Carolina at Chapel Hill", 
+                    "thesis_title": "On a Certain Class of Stochastic Approximation Processes", 
+                    "year": "1955", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=4599"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

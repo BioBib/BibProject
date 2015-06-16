@@ -1,0 +1,90 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Daniel Dugu&eacute;, 1912-1987", 
+                    "ref": "<t>Daniel Dugu&eacute;, 1912-1987.</t> <au>Deheuvels, P.</au>. <j>IMS Bulletin</j>, Vol. <v>17</v>, pp.<pp>282-283</pp>", 
+                    "author": "Deheuvels, P.", 
+                    "bibtype": "article", 
+                    "year": "1988", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>17</v>, pp.<pp>282-283</pp>", 
+                    "topline": "article dugue__daniel:8", 
+                    "id": "dugue__daniel:8"
+                }
+            ], 
+            "DOB": "1912-09-22", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1987-09-10", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Dugu&eacute;, Daniel", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "dugue__daniel", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=238493", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:dugue.daniel", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=72828", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/45851171", 
+                    "anchor": "Microsoft Academic: Daniel Dugue (Daniel Dugu\\'{e"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/56164008", 
+                    "anchor": "Microsoft Academic: Daniel Dugue (Daniel Dugu\\'{e"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18715893", 
+                    "anchor": "Microsoft Academic: Daniel Dugue"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1963", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Universit&eacute; de Paris", 
+                    "thesis_title": "Application des propri&eacute;t&eacute;s de la limite au sens du calcul des probabilit&eacute;s &agrave; l'&eacute;tude des diverses questions d'estimation", 
+                    "year": "1937", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=72828"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

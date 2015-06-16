@@ -1,0 +1,102 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2010-01-28", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Williams, Evan J.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "williams__e_j", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://trove.nla.gov.au/work/7161006?q&amp;c=music", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=183140", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:williams.evan-j", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53913854", 
+                    "anchor": "Microsoft Academic: Williams, E. J."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53913247", 
+                    "anchor": "Microsoft Academic: Williams, E. J."
+                }
+            ], 
+            "Position": [
+                {
+                    "category": "position", 
+                    "text": "Department of Statistics,  University of Melbourne", 
+                    "year": "19??-1982"
+                }
+            ], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1956", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "williams__e", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Vale Evan Williams", 
+                    "ref": "<t>Vale Evan Williams.</t> <au>Peter Stacey</au>. <j>Australian Mathematical Society News</j>", 
+                    "author": "Peter Stacey", 
+                    "bibtype": "article", 
+                    "year": "2010", 
+                    "howpublished": "<j>Australian Mathematical Society News</j>", 
+                    "topline": "article williams__e_j-1", 
+                    "id": "williams__e_j-1"
+                }
+            ], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Pitman medal awarded to E. J. Williams", 
+                    "ref": "<t>Pitman medal awarded to E. J. Williams.</t> <j>Austral. J. Statist</j>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1994", 
+                    "howpublished": "<j>Austral. J. Statist</j>", 
+                    "topline": "article williams__e_j-2", 
+                    "id": "williams__e_j-2"
+                }, 
+                {
+                    "title": "Encounters with statistical inference -- an interview with Evan Williams", 
+                    "ref": "<t>Encounters with statistical inference -- an interview with Evan Williams.</t> <au>G.M. Laslett and  C.J. Lloyd and G.K. Robinson</au>. <j>Australian Journal of Statistics</j>", 
+                    "author": "G.M. Laslett and  C.J. Lloyd and G.K. Robinson", 
+                    "bibtype": "article", 
+                    "year": "1994", 
+                    "howpublished": "<j>Australian Journal of Statistics</j>", 
+                    "topline": "article williams__e_j-3", 
+                    "id": "williams__e_j-3"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

@@ -1,0 +1,109 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Stein, Charles M.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "stein__charles_m", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=166815", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:stein.charles-m", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=13645", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/47736145", 
+                    "anchor": "Microsoft Academic: Charles M. Stein"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/45255744", 
+                    "anchor": "Microsoft Academic: Charles M. Stein"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1948", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Wald Lecturer", 
+                    "year": "1961", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Member", 
+                    "year": "1975", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Rietz Lecturer", 
+                    "year": "1975", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Neyman Lecturer", 
+                    "year": "1984", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "stein__charles", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Columbia University", 
+                    "thesis_title": "A Two-Sample Test for a Linear hypothesis Having Power Independent of the Variance", 
+                    "year": "1953", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=13645"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Charles Stein honored on 90th birthday", 
+                    "ref": "<t>Charles Stein honored on 90th birthday.</t> <au>Chen, L. and Loh, W.-L.</au>. <j>IMS Bulletin</j>, Vol. <v>39(6)</v>, pp.<pp>11</pp>", 
+                    "author": "Chen, L. and Loh, W.-L.", 
+                    "bibtype": "article", 
+                    "year": "2010", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>39(6)</v>, pp.<pp>11</pp>", 
+                    "topline": "article stein__charles_m:10", 
+                    "id": "stein__charles_m:10"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

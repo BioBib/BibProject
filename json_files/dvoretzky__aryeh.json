@@ -1,0 +1,121 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1916-05-03", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2008-05-08", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Dvoretzky, Aryeh", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Aryeh Dvoretzky, 1916-2008", 
+                    "ref": "<t>Aryeh Dvoretzky, 1916-2008.</t> <au>Yahav, J. A.</au>. <j>IMS Bulletin</j>, Vol. <v>37(7)</v>, pp.<pp>13</pp>", 
+                    "author": "Yahav, J. A.", 
+                    "bibtype": "article", 
+                    "year": "2008", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>37(7)</v>, pp.<pp>13</pp>", 
+                    "topline": "article dvoretzky__aryeh:7", 
+                    "id": "dvoretzky__aryeh:7"
+                }
+            ], 
+            "ims_id": "dvoretzky__aryeh", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://en.wikipedia.org/wiki/Aryeh_Dvoretzky", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=229834", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:dvoretzky.aryeh", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=48145", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/1838262", 
+                    "anchor": "Microsoft Academic: Dvoretzky, Aryeh"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1951", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Israel Academy of Sciences and Humanities, Member", 
+                    "year": "1959", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Rietz Lecturer", 
+                    "year": "1969", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Israel Prize", 
+                    "year": "1973", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Foreign Honorary Member", 
+                    "year": "1985", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Hebrew University", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=48145"
+                        }
+                    ], 
+                    "type": "Ph.D.", 
+                    "year": "1941"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Aryeh Dvoretzky", 
+                    "ref": "<t>Aryeh Dvoretzky.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "incollection dvoretzky__aryeh:12", 
+                    "id": "dvoretzky__aryeh:12"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

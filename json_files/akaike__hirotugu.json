@@ -1,0 +1,159 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1927-11-05", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2009-08-04", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Akaike, Hirotugu", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Hirotugu Akaike, 1927-2009", 
+                    "ref": "<t>Hirotugu Akaike, 1927-2009.</t> <au>Tong, H.</au>. <j>IMS Bulletin</j>, Vol. <v>39(5)</v>, pp.<pp>9</pp>", 
+                    "author": "Tong, H.", 
+                    "bibtype": "article", 
+                    "year": "2010", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>39(5)</v>, pp.<pp>9</pp>", 
+                    "topline": "article akaike__hirotugu:7", 
+                    "id": "akaike__hirotugu:7"
+                }, 
+                {
+                    "title": "Professor Hirotugu Akaike, 1927-2009", 
+                    "ref": "<t>Professor Hirotugu Akaike, 1927-2009.</t> <au>Tong, H.</au>. <j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>173</v>, pp.<pp>451-454</pp>", 
+                    "author": "Tong, H.", 
+                    "bibtype": "article", 
+                    "year": "2010", 
+                    "howpublished": "<j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>173</v>, pp.<pp>451-454</pp>", 
+                    "topline": "article akaike__hirotugu:8", 
+                    "id": "akaike__hirotugu:8"
+                }, 
+                {
+                    "title": "In memory of Hirotugu Akaike", 
+                    "ref": "<t>In memory of Hirotugu Akaike.</t> <au>Kitagawa, G.</au>. <j>Eur. J. Control</j>, Vol. <v>16</v>, pp.<pp>307-308</pp>", 
+                    "author": "Kitagawa, G.", 
+                    "bibtype": "article", 
+                    "year": "2010", 
+                    "howpublished": "<j>Eur. J. Control</j>, Vol. <v>16</v>, pp.<pp>307-308</pp>", 
+                    "topline": "article akaike__hirotugu:9", 
+                    "id": "akaike__hirotugu:9"
+                }, 
+                {
+                    "title": "Preface: Special issue in honor of Dr. Hirotugu Akaike", 
+                    "ref": "<t>Preface: Special issue in honor of Dr. Hirotugu Akaike.</t> <au>Konishi, S. and Kitagawa, G.</au>. <j>Ann. Inst. Statist. Math.</j>, Vol. <v>62</v>, pp.<pp>1-2</pp>", 
+                    "author": "Konishi, S. and Kitagawa, G.", 
+                    "bibtype": "article", 
+                    "year": "2010", 
+                    "howpublished": "<j>Ann. Inst. Statist. Math.</j>, Vol. <v>62</v>, pp.<pp>1-2</pp>", 
+                    "topline": "article akaike__hirotugu:10", 
+                    "id": "akaike__hirotugu:10"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2011", 
+                    "howpublished": "???", 
+                    "topline": "misc akaike__hirotugu:238061", 
+                    "id": "akaike__hirotugu:238061"
+                }
+            ], 
+            "ims_id": "akaike__hirotugu", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://tswww.ism.ac.jp/kitagawa/HomePage/akaike.html", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://en.wikipedia.org/wiki/Hirotugu_Akaike", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=215376", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:akaike.hirotugu", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/688531", 
+                    "anchor": "Microsoft Academic: Akaike, Hirotugu"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18725170", 
+                    "anchor": "Microsoft Academic: Akaike, Hlrotugu"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18725134", 
+                    "anchor": "Microsoft Academic: Akaike, Hieotugu"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1988", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Kyoto Prize", 
+                    "year": "2006", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "A conversation with Hirotugu Akaike", 
+                    "ref": "<t>A conversation with Hirotugu Akaike.</t> <au>Findley, D. F. and Parzen, E.</au>. <j>Statist. Sci.</j>, Vol. <v>10</v>, pp.<pp>104-117</pp>", 
+                    "author": "Findley, D. F. and Parzen, E.", 
+                    "bibtype": "article", 
+                    "year": "1995", 
+                    "howpublished": "<j>Statist. Sci.</j>, Vol. <v>10</v>, pp.<pp>104-117</pp>", 
+                    "topline": "article akaike__hirotugu:13", 
+                    "id": "akaike__hirotugu:13"
+                }, 
+                {
+                    "title": "Contributions of Professor Hirotugu Akaike in statistical science", 
+                    "ref": "<t>Contributions of Professor Hirotugu Akaike in statistical science.</t> <au>Kitagawa, G.</au>. <j>J. Japan Statist. Soc.</j>, Vol. <v>38</v>, pp.<pp>119-130</pp>", 
+                    "author": "Kitagawa, G.", 
+                    "bibtype": "article", 
+                    "year": "2008", 
+                    "howpublished": "<j>J. Japan Statist. Soc.</j>, Vol. <v>38</v>, pp.<pp>119-130</pp>", 
+                    "topline": "article akaike__hirotugu:14", 
+                    "id": "akaike__hirotugu:14"
+                }, 
+                {
+                    "title": "Contribution of Prof. H. Akaike to statistical modeling of complex systems", 
+                    "ref": "<t>Contribution of Prof. H. Akaike to statistical modeling of complex systems.</t> <au>Kitagawa, Genshiro</au>. ???", 
+                    "author": "Kitagawa, Genshiro", 
+                    "bibtype": "article", 
+                    "year": "2011", 
+                    "howpublished": "???", 
+                    "topline": "article akaike__hirotugu:1234", 
+                    "id": "akaike__hirotugu:1234"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

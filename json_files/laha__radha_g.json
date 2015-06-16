@@ -1,0 +1,91 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Professor Radha Govind Laha", 
+                    "ref": "<t>Professor Radha Govind Laha.</t> <j>IMS Bulletin</j>, Vol. <v>28</v>, pp.<pp>252-253</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1999", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>28</v>, pp.<pp>252-253</pp>", 
+                    "topline": "article laha__radha_g:8", 
+                    "id": "laha__radha_g:8"
+                }
+            ], 
+            "DOB": "1930-10-01", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1999-07-14", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Laha, Radha G.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "laha__radha_g", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=298218", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:laha.radha-govinda", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=48987", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/50686751", 
+                    "anchor": "Microsoft Academic: Laha, R. G."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52827529", 
+                    "anchor": "Microsoft Academic: Laha, R. G."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52827527", 
+                    "anchor": "Microsoft Academic: Laha, R. G."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1972", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "laha__radha", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Indian Statistical Institute, Calcutta", 
+                    "thesis_title": "Some Characterization Problems in Probability Theory and Mathematical Statistics", 
+                    "year": "1957", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=48987"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

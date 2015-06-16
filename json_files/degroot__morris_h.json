@@ -1,0 +1,130 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Morris Herman DeGroot, 1931-1989", 
+                    "ref": "<t>Morris Herman DeGroot, 1931-1989.</t> <au>Eddy, W. F. and Lehoczky, J. P.</au>. <j>IMS Bulletin</j>, Vol. <v>18</v>, pp.<pp>537</pp>", 
+                    "author": "Eddy, W. F. and Lehoczky, J. P.", 
+                    "bibtype": "article", 
+                    "year": "1989", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>18</v>, pp.<pp>537</pp>", 
+                    "topline": "article degroot__morris_h:8", 
+                    "id": "degroot__morris_h:8"
+                }
+            ], 
+            "DOB": "1931-06-08", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1989-11-02", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "DeGroot, Morris H.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "degroot__morris_h", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://en.wikipedia.org/wiki/Morris_H._DeGroot", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "category": "homepage", 
+                    "href": "http://en.wikipedia.org/wiki/Morris_H._DeGroot", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=55470", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:degroot.morris-h", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=35420", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54031996", 
+                    "anchor": "Microsoft Academic: DeGroot, Morris H."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18768396", 
+                    "anchor": "Microsoft Academic: DeGroot, Morris H."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1968", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Medallion Lecturer", 
+                    "year": "1987", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "degroot__morris", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "The University of Chicago", 
+                    "thesis_title": "Unbiased Sequential Estimation of a Probability", 
+                    "year": "1958", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=35420"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "DeGroot, Morris H.", 
+                    "ref": "<t>DeGroot, Morris H.</t> <au>Bayarri, M. J. and Fienberg, S. E.</au>. <inc>booktitle:encyclopedia-of-statistical-sciences</inc>. ???", 
+                    "author": "Bayarri, M. J. and Fienberg, S. E.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-statistical-sciences", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "incollection degroot__morris_h:9", 
+                    "id": "degroot__morris_h:9"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Statistical Sciences", 
+            "url": "http://onlinelibrary.wiley.com/book/10.1002/0471667196", 
+            "booktitle": "Encyclopedia of Statistical Sciences", 
+            "address": "Hoboken, NJ", 
+            "editors": "S. Kotz and N. Balakrishnan and C. Read and B. Vidakovic", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:encyclopedia-of-statistical-sciences", 
+            "year": "2006", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }
+    ]
+}

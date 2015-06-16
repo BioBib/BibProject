@@ -1,0 +1,334 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Varadhan, S. R. Srinivasa", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "varadhan__s_r_srinivasa", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.math.utah.edu/~firas/varadhan.html", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://en.wikipedia.org/wiki/S._R._Srinivasa_Varadhan", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.york.ac.uk/depts/maths/histstat/people/varadhan.gif", 
+                    "anchor": "www.york.ac.uk"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=177175", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:varadhan.srinivasa-r-s", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=33923", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/658207", 
+                    "anchor": "Microsoft Academic: Varadhan, Srinivasa S.R."
+                }, 
+                {
+                    "href": "http://celebratio.org/Varadhan_SRS", 
+                    "anchor": "Celebratio"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Medallion Lecturer", 
+                    "year": "1979", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Medallion Lecturer", 
+                    "year": "1979", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Rietz Lecturer", 
+                    "year": "1987", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Member", 
+                    "year": "1988", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Third World Academy of Sciences, Fellow", 
+                    "year": "1988", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1991", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Birkhoff Prize, AMS and SIAM", 
+                    "year": "1994", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Member", 
+                    "year": "1995", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Steele Prize, American Mathematical Society", 
+                    "year": "1996", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "The Royal Society, Fellow", 
+                    "year": "1998", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS President", 
+                    "year": "2003", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Indian Academy of Sciences, Honorary Fellow", 
+                    "year": "2004", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Wald Lecturer", 
+                    "year": "2005", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Abel Prize", 
+                    "year": "2007", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Padma Bhushan", 
+                    "year": "2008", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Norwegian Academy of Science and Letters, Foreign Member", 
+                    "year": "2009", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Medal of Science", 
+                    "year": "2010", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "varadhan__s_r", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Indian Statistical Institute, Calcutta", 
+                    "thesis_title": "Convolution Properties of Distributions on Topological Groups", 
+                    "year": "1963", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=33923"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "1996 Steele Prizes", 
+                    "ref": "<t>1996 Steele Prizes.</t> <j>Notices Amer. Math. Soc.</j>, Vol. <v>43</v>, pp.<pp>1340-1347</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1996", 
+                    "howpublished": "<j>Notices Amer. Math. Soc.</j>, Vol. <v>43</v>, pp.<pp>1340-1347</pp>", 
+                    "topline": "article varadhan__s_r_srinivasa:21", 
+                    "id": "varadhan__s_r_srinivasa:21"
+                }, 
+                {
+                    "title": "Nomination for Srinivasa S. R. Varadhan", 
+                    "ref": "<t>Nomination for Srinivasa S. R. Varadhan.</t> <au>Stroock, D.</au>. <j>Notices Amer. Math. Soc.</j>, Vol. <v>44</v>, pp.<pp>955-957</pp>", 
+                    "author": "Stroock, D.", 
+                    "bibtype": "article", 
+                    "year": "1997", 
+                    "howpublished": "<j>Notices Amer. Math. Soc.</j>, Vol. <v>44</v>, pp.<pp>955-957</pp>", 
+                    "topline": "article varadhan__s_r_srinivasa:22", 
+                    "id": "varadhan__s_r_srinivasa:22"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2007", 
+                    "howpublished": "???", 
+                    "topline": "misc varadhan__s_r_srinivasa:736422", 
+                    "id": "varadhan__s_r_srinivasa:736422"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>36(6)</v>, pp.<pp>2</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2007", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>36(6)</v>, pp.<pp>2</pp>", 
+                    "topline": "article varadhan__s_r_srinivasa:24", 
+                    "id": "varadhan__s_r_srinivasa:24"
+                }, 
+                {
+                    "title": "S. R. S. Varadhan: Dan Stroock's tribute", 
+                    "ref": "<t>S. R. S. Varadhan: Dan Stroock's tribute.</t> <au>Stroock, D. W.</au>. <j>IMS Bulletin</j>, Vol. <v>36(4)</v>, pp.<pp>6-7</pp>", 
+                    "author": "Stroock, D. W.", 
+                    "bibtype": "article", 
+                    "year": "2007", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>36(4)</v>, pp.<pp>6-7</pp>", 
+                    "topline": "article varadhan__s_r_srinivasa:25", 
+                    "id": "varadhan__s_r_srinivasa:25"
+                }, 
+                {
+                    "title": "Abel Prize ceremony: S. R. S. Varadhan", 
+                    "ref": "<t>Abel Prize ceremony: S. R. S. Varadhan.</t> <j>IMS Bulletin</j>, Vol. <v>36(6)</v>, pp.<pp>2</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2007", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>36(6)</v>, pp.<pp>2</pp>", 
+                    "topline": "article varadhan__s_r_srinivasa:26", 
+                    "id": "varadhan__s_r_srinivasa:26"
+                }, 
+                {
+                    "title": "S. R. S. Varadhan", 
+                    "ref": "<t>S. R. S. Varadhan.</t> <au>Lindstr&oslash;m, T. L.</au>. ???", 
+                    "author": "Lindstr&oslash;m, T. L.", 
+                    "bibtype": "misc", 
+                    "year": "2007", 
+                    "howpublished": "???", 
+                    "topline": "misc varadhan__s_r_srinivasa:27", 
+                    "id": "varadhan__s_r_srinivasa:27"
+                }, 
+                {
+                    "title": "Varadhan receives 2007 Abel Prize", 
+                    "ref": "<t>Varadhan receives 2007 Abel Prize.</t> <j>Notices Amer. Math. Soc.</j>, Vol. <v>54</v>, pp.<pp>738-739</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2007", 
+                    "howpublished": "<j>Notices Amer. Math. Soc.</j>, Vol. <v>54</v>, pp.<pp>738-739</pp>", 
+                    "topline": "article varadhan__s_r_srinivasa:28", 
+                    "id": "varadhan__s_r_srinivasa:28"
+                }, 
+                {
+                    "title": "Abel Prize for 2007 to Professor Srinivasa S. R. Varadhan", 
+                    "ref": "<t>Abel Prize for 2007 to Professor Srinivasa S. R. Varadhan.</t> <j>Bernoulli News</j>, Vol. <v>14(1)</v>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2007", 
+                    "howpublished": "<j>Bernoulli News</j>, Vol. <v>14(1)</v>", 
+                    "topline": "article varadhan__s_r_srinivasa:29", 
+                    "id": "varadhan__s_r_srinivasa:29"
+                }, 
+                {
+                    "title": "Interview with Srinivasa Varadhan", 
+                    "ref": "<t>Interview with Srinivasa Varadhan.</t> <au>Raussen, M. and Skau, C.</au>. <j>Notices Amer. Math. Soc.</j>, Vol. <v>55</v>, pp.<pp>238-246</pp>", 
+                    "author": "Raussen, M. and Skau, C.", 
+                    "bibtype": "article", 
+                    "year": "2008", 
+                    "howpublished": "<j>Notices Amer. Math. Soc.</j>, Vol. <v>55</v>, pp.<pp>238-246</pp>", 
+                    "topline": "article varadhan__s_r_srinivasa:30", 
+                    "id": "varadhan__s_r_srinivasa:30"
+                }, 
+                {
+                    "title": "Probability no longer a stepchild (A conversation with S. R. S. Varadhan).", 
+                    "ref": "<t>Probability no longer a stepchild (A conversation with S. R. S. Varadhan).</t> <au>Bhatia, Rajendra</au>. <j>Math. Intelligencer</j>, Vol. <v>30:2</v>", 
+                    "author": "Bhatia, Rajendra", 
+                    "bibtype": "misc", 
+                    "year": "2008", 
+                    "howpublished": "<j>Math. Intelligencer</j>, Vol. <v>30:2</v>", 
+                    "topline": "misc varadhan__s_r_srinivasa:425974", 
+                    "id": "varadhan__s_r_srinivasa:425974"
+                }, 
+                {
+                    "title": "Sathamangalam Ranga Iyengar Srinivasa Varadhan", 
+                    "ref": "<t>Sathamangalam Ranga Iyengar Srinivasa Varadhan.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "incollection varadhan__s_r_srinivasa:34", 
+                    "id": "varadhan__s_r_srinivasa:34"
+                }, 
+                {
+                    "title": "S. R. S. Varadhan: National Medal of Science", 
+                    "ref": "<t>S. R. S. Varadhan: National Medal of Science.</t> <au>Sznitman, A.-S.</au>. <j>IMS Bulletin</j>, Vol. <v>40(8)</v>, pp.<pp>6-7</pp>", 
+                    "author": "Sznitman, A.-S.", 
+                    "bibtype": "article", 
+                    "year": "2011", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>40(8)</v>, pp.<pp>6-7</pp>", 
+                    "topline": "article varadhan__s_r_srinivasa:31", 
+                    "id": "varadhan__s_r_srinivasa:31"
+                }, 
+                {
+                    "title": "Tapia and Varadhan receive National Medal of Science", 
+                    "ref": "<t>Tapia and Varadhan receive National Medal of Science.</t> <au>Kehoe, E.</au>. <j>Notices Amer. Math. Soc.</j>, Vol. <v>59</v>, pp.<pp>52-54</pp>", 
+                    "author": "Kehoe, E.", 
+                    "bibtype": "article", 
+                    "year": "2012", 
+                    "howpublished": "<j>Notices Amer. Math. Soc.</j>, Vol. <v>59</v>, pp.<pp>52-54</pp>", 
+                    "topline": "article varadhan__s_r_srinivasa:32", 
+                    "id": "varadhan__s_r_srinivasa:32"
+                }, 
+                {
+                    "title": "S. R. Srinivasa Varadhan", 
+                    "ref": "<t>S. R. Srinivasa Varadhan.</t> <au>Fraydoun Rezakhanlou (ed.)</au>. Mathematical Sciences Publishers", 
+                    "author": "Fraydoun Rezakhanlou (ed.)", 
+                    "bibtype": "misc", 
+                    "year": "2012", 
+                    "howpublished": "Mathematical Sciences Publishers", 
+                    "topline": "misc varadhan__s_r_srinivasa:33", 
+                    "id": "varadhan__s_r_srinivasa:33"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

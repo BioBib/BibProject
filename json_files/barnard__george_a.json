@@ -1,0 +1,181 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2002", 
+                    "howpublished": "???", 
+                    "topline": "misc barnard__george_a:169312", 
+                    "id": "barnard__george_a:169312"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2002", 
+                    "howpublished": "???", 
+                    "topline": "misc barnard__george_a:163624", 
+                    "id": "barnard__george_a:163624"
+                }
+            ], 
+            "DOB": "1915-09-23", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2002-07-30", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Barnard, George A.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <au>Lindley, D. V.</au>. <j>IMS Bulletin</j>, Vol. <v>31(5)</v>, pp.<pp>8</pp>", 
+                    "author": "Lindley, D. V.", 
+                    "bibtype": "article", 
+                    "year": "2002", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>31(5)</v>, pp.<pp>8</pp>", 
+                    "topline": "article barnard__george_a:10", 
+                    "id": "barnard__george_a:10"
+                }, 
+                {
+                    "title": "Professor George A. Barnard, 1915-2002", 
+                    "ref": "<t>Professor George A. Barnard, 1915-2002.</t> <au>Lindley, D. V.</au>. <j>J. Roy. Statist. Soc. Ser. D</j>, Vol. <v>52</v>, pp.<pp>231-234</pp>", 
+                    "author": "Lindley, D. V.", 
+                    "bibtype": "article", 
+                    "year": "2003", 
+                    "howpublished": "<j>J. Roy. Statist. Soc. Ser. D</j>, Vol. <v>52</v>, pp.<pp>231-234</pp>", 
+                    "topline": "article barnard__george_a:11", 
+                    "id": "barnard__george_a:11"
+                }
+            ], 
+            "ims_id": "barnard__george_a", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://en.wikipedia.org/wiki/George_Alfred_Barnard", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.york.ac.uk/depts/maths/histstat/people/barnard.gif", 
+                    "anchor": "www.york.ac.uk"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=31350", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:barnard.george-a", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=82303", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12884931", 
+                    "anchor": "Microsoft Academic: Barnard, George A."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52859646", 
+                    "anchor": "Microsoft Academic: Barnard, G. A."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "Guy Medal in Silver", 
+                    "year": "1958", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1959", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Guy Medal in Gold", 
+                    "year": "1975", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "R. A. Fisher Lecturer", 
+                    "year": "1976", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "barnard__george", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=82303"
+                        }
+                    ], 
+                    "type": "Princeton", 
+                    "year": "1936"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "A conversation with George A. Barnard", 
+                    "ref": "<t>A conversation with George A. Barnard.</t> <au>DeGroot, M. H.</au>. <j>Statist. Sci.</j>, Vol. <v>3</v>, pp.<pp>196-212</pp>", 
+                    "author": "DeGroot, M. H.", 
+                    "bibtype": "article", 
+                    "year": "1988", 
+                    "howpublished": "<j>Statist. Sci.</j>, Vol. <v>3</v>, pp.<pp>196-212</pp>", 
+                    "topline": "article barnard__george_a:13", 
+                    "id": "barnard__george_a:13"
+                }, 
+                {
+                    "title": "Barnard, George Alfred", 
+                    "ref": "<t>Barnard, George Alfred.</t> <au>Lindley, D. V.</au>. <inc>booktitle:encyclopedia-of-biostatistics</inc>. ???", 
+                    "author": "Lindley, D. V.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-biostatistics", 
+                    "year": "2005", 
+                    "howpublished": "???", 
+                    "topline": "incollection barnard__george_a:14", 
+                    "id": "barnard__george_a:14"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Biostatistics", 
+            "url": "http://www.worldcat.org/title/encyclopedia-of-biostatistics/oclc/38258277", 
+            "booktitle": "Encyclopedia of Biostatistics", 
+            "address": "Hoboken, NJ", 
+            "editors": "P. Armitage and T. Colton", 
+            "bibtype": "reference", 
+            "edition": "2nd", 
+            "top_line": "reference booktitle:encyclopedia-of-biostatistics", 
+            "year": "2005", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Biostatistics.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-biostatistics"
+        }
+    ]
+}

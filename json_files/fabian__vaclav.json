@@ -1,0 +1,81 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1929-06-27", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2007-11-08", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Fabian, V&aacute;clav", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "V&aacute;clav Fabian, 1929-2007", 
+                    "ref": "<t>V&aacute;clav Fabian, 1929-2007.</t> <au>Dupa&ccaron;, V. and Pr&aacute;&scaron;kov&aacute;, Z.</au>. <j>IMS Bulletin</j>, Vol. <v>38(2)</v>, pp.<pp>6-7</pp>", 
+                    "author": "Dupa&ccaron;, V. and Pr&aacute;&scaron;kov&aacute;, Z.", 
+                    "bibtype": "article", 
+                    "year": "2009", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>38(2)</v>, pp.<pp>6-7</pp>", 
+                    "topline": "article fabian__vaclav:8", 
+                    "id": "fabian__vaclav:8"
+                }
+            ], 
+            "ims_id": "fabian__vaclav", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=210217", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:fabian.vaclav", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=121489", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12607743", 
+                    "anchor": "Microsoft Academic: Fabian, Vaclav"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1970", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Charles University", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=121489"
+                        }
+                    ], 
+                    "type": "Ph.D.", 
+                    "year": "1953"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

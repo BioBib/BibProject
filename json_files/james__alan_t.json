@@ -1,0 +1,96 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "James, Alan Treleven", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "james__alan_t", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=93190", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:james.alan-t", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=15108", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/50550040", 
+                    "anchor": "Microsoft Academic: James, Alan T."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12805533", 
+                    "anchor": "Microsoft Academic: James, Alan T."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1960", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "james__alan", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Princeton University", 
+                    "thesis_title": "Group Methods in Normal Multivariate Distribution Theory", 
+                    "year": "1953", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=15108"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [
+                {
+                    "title": "Professor Alan Treleven James (1924-2013): Papers 1950-2013", 
+                    "ref": "<t>Professor Alan Treleven James (1924-2013): Papers 1950-2013.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2014", 
+                    "howpublished": "???", 
+                    "topline": "misc james__alan_t-2", 
+                    "id": "james__alan_t-2"
+                }
+            ], 
+            "Biography": [
+                {
+                    "title": "Professor Alan Treleven James (1924-2013): Biographical Note", 
+                    "ref": "<t>Professor Alan Treleven James (1924-2013): Biographical Note.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2014", 
+                    "howpublished": "???", 
+                    "topline": "misc james__alan_t-1", 
+                    "id": "james__alan_t-1"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

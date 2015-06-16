@@ -1,0 +1,378 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1903-12-28", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1957-02-08", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "von Neumann, John", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Obituary: John von Neumann, 1903-57", 
+                    "ref": "<t>Obituary: John von Neumann, 1903-57.</t> <au>Morgenstern, O.</au>. <j>Economic J.</j>, Vol. <v>68</v>, pp.<pp>170-174</pp>", 
+                    "author": "Morgenstern, O.", 
+                    "bibtype": "article", 
+                    "year": "1958", 
+                    "howpublished": "<j>Economic J.</j>, Vol. <v>68</v>, pp.<pp>170-174</pp>", 
+                    "topline": "article von_neumann__john:7", 
+                    "id": "von_neumann__john:7"
+                }, 
+                {
+                    "title": "John von Neumann, 1903-1957", 
+                    "ref": "<t>John von Neumann, 1903-1957.</t> <au>Ulam, S.</au>. <j>Bull. Amer. Math. Soc.</j>, Vol. <v>64</v>, 3, pp.<pp>1-49</pp>", 
+                    "author": "Ulam, S.", 
+                    "bibtype": "article", 
+                    "year": "1958", 
+                    "howpublished": "<j>Bull. Amer. Math. Soc.</j>, Vol. <v>64</v>, 3, pp.<pp>1-49</pp>", 
+                    "topline": "article von_neumann__john:8", 
+                    "id": "von_neumann__john:8"
+                }, 
+                {
+                    "title": "von Neumann and lattice theory", 
+                    "ref": "<t>von Neumann and lattice theory.</t> <au>Birkhoff, G.</au>. <j>Bull. Amer. Math. Soc.</j>, Vol. <v>64</v>, 3, pp.<pp>50-56</pp>", 
+                    "author": "Birkhoff, G.", 
+                    "bibtype": "article", 
+                    "year": "1958", 
+                    "howpublished": "<j>Bull. Amer. Math. Soc.</j>, Vol. <v>64</v>, 3, pp.<pp>50-56</pp>", 
+                    "topline": "article von_neumann__john:9", 
+                    "id": "von_neumann__john:9"
+                }, 
+                {
+                    "title": "Theory of operators, part I. Single operators", 
+                    "ref": "<t>Theory of operators, part I. Single operators.</t> <au>Murray, F. J.</au>. <j>Bull. Amer. Math. Soc.</j>, Vol. <v>64</v>, 3, pp.<pp>57-60</pp>", 
+                    "author": "Murray, F. J.", 
+                    "bibtype": "article", 
+                    "year": "1958", 
+                    "howpublished": "<j>Bull. Amer. Math. Soc.</j>, Vol. <v>64</v>, 3, pp.<pp>57-60</pp>", 
+                    "topline": "article von_neumann__john:10", 
+                    "id": "von_neumann__john:10"
+                }, 
+                {
+                    "title": "Theory of operators, part II. Operator algebras", 
+                    "ref": "<t>Theory of operators, part II. Operator algebras.</t> <au>Kadison, R. V.</au>. <j>Bull. Amer. Math. Soc.</j>, Vol. <v>64</v>, 3, pp.<pp>61-85</pp>", 
+                    "author": "Kadison, R. V.", 
+                    "bibtype": "article", 
+                    "year": "1958", 
+                    "howpublished": "<j>Bull. Amer. Math. Soc.</j>, Vol. <v>64</v>, 3, pp.<pp>61-85</pp>", 
+                    "topline": "article von_neumann__john:11", 
+                    "id": "von_neumann__john:11"
+                }, 
+                {
+                    "title": "von Neumann on measure and ergodic theory", 
+                    "ref": "<t>von Neumann on measure and ergodic theory.</t> <au>Halmos, Paul R.</au>. <j>Bull. Amer. Math. Soc.</j>, Vol. <v>64</v>, 3, pp.<pp>86-94</pp>", 
+                    "author": "Halmos, Paul R.", 
+                    "bibtype": "article", 
+                    "year": "1958", 
+                    "howpublished": "<j>Bull. Amer. Math. Soc.</j>, Vol. <v>64</v>, 3, pp.<pp>86-94</pp>", 
+                    "topline": "article von_neumann__john:12", 
+                    "id": "von_neumann__john:12"
+                }, 
+                {
+                    "title": "von Neumann's contributions to quantum theory", 
+                    "ref": "<t>von Neumann's contributions to quantum theory.</t> <au>van Hove, L.</au>. <j>Bull. Amer. Math. Soc.</j>, Vol. <v>64</v>, 3, pp.<pp>95-99</pp>", 
+                    "author": "van Hove, L.", 
+                    "bibtype": "article", 
+                    "year": "1958", 
+                    "howpublished": "<j>Bull. Amer. Math. Soc.</j>, Vol. <v>64</v>, 3, pp.<pp>95-99</pp>", 
+                    "topline": "article von_neumann__john:13", 
+                    "id": "von_neumann__john:13"
+                }, 
+                {
+                    "title": "John von Neumann's work in the theory of games and mathematical economics", 
+                    "ref": "<t>John von Neumann's work in the theory of games and mathematical economics.</t> <au>Kuhn, H. W. and Tucker, A. W.</au>. <j>Bull. Amer. Math. Soc.</j>, Vol. <v>64</v>, 3, pp.<pp>100-122</pp>", 
+                    "author": "Kuhn, H. W. and Tucker, A. W.", 
+                    "bibtype": "article", 
+                    "year": "1958", 
+                    "howpublished": "<j>Bull. Amer. Math. Soc.</j>, Vol. <v>64</v>, 3, pp.<pp>100-122</pp>", 
+                    "topline": "article von_neumann__john:14", 
+                    "id": "von_neumann__john:14"
+                }, 
+                {
+                    "title": "von Neumann's contributions to automata theory", 
+                    "ref": "<t>von Neumann's contributions to automata theory.</t> <au>Shannon, C. E.</au>. <j>Bull. Amer. Math. Soc.</j>, Vol. <v>64</v>, 3, pp.<pp>123-129</pp>", 
+                    "author": "Shannon, C. E.", 
+                    "bibtype": "article", 
+                    "year": "1958", 
+                    "howpublished": "<j>Bull. Amer. Math. Soc.</j>, Vol. <v>64</v>, 3, pp.<pp>123-129</pp>", 
+                    "topline": "article von_neumann__john:15", 
+                    "id": "von_neumann__john:15"
+                }
+            ], 
+            "ims_id": "von_neumann__john", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S0103-40141996000100017", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=208336", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:von-neumann.john", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=53213", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53640806", 
+                    "anchor": "Microsoft Academic: Von Neumann"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/45606094", 
+                    "anchor": "Microsoft Academic: Von Neumann"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/51641068", 
+                    "anchor": "Microsoft Academic: Von Neumann"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/48689070", 
+                    "anchor": "Microsoft Academic: Von Neumann"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Member", 
+                    "year": "1937", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1944", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1945", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Medal for Merit", 
+                    "year": "1947", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "The Royal Netherlands Academy of Arts and Sciences, Foreign Member", 
+                    "year": "1950", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Medal of Freedom", 
+                    "year": "1956", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "E&ouml;tv&ouml;s Lor&aacute;nd University", 
+                    "thesis_title": "Az &aacute;ltal&aacute;nos halmazelm&eacute;let axiomatikus fel&eacute;p&iacute;t&eacute;se [Die Axiomatisierung der Mengenlehre, Mathematische Zeitschrift 27, 669-752 (1928)]", 
+                    "year": "1926", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=53213"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "John von Neumann, December 28, 1903-February 8, 1957", 
+                    "ref": "<t>John von Neumann, December 28, 1903-February 8, 1957.</t> <au>Bochner, S.</au>. <j>Biographical Memoirs</j>, National Academies Press, pp.<pp>437-457</pp>", 
+                    "author": "Bochner, S.", 
+                    "bibtype": "article", 
+                    "year": "1958", 
+                    "howpublished": "<j>Biographical Memoirs</j>, National Academies Press, pp.<pp>437-457</pp>", 
+                    "topline": "article von_neumann__john:21", 
+                    "id": "von_neumann__john:21"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1958", 
+                    "howpublished": "???", 
+                    "topline": "misc von_neumann__john:415411", 
+                    "id": "von_neumann__john:415411"
+                }, 
+                {
+                    "title": "von Neumann, John", 
+                    "ref": "<t>von Neumann, John.</t> <au>Morgenstern, O.</au>. <inc>booktitle:international-encyclopedia-of-the-social-sciences</inc>. ???", 
+                    "author": "Morgenstern, O.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:international-encyclopedia-of-the-social-sciences", 
+                    "year": "1968", 
+                    "howpublished": "???", 
+                    "topline": "incollection von_neumann__john:23", 
+                    "id": "von_neumann__john:23"
+                }, 
+                {
+                    "title": "von Neumann, John", 
+                    "ref": "<t>von Neumann, John.</t> <au>Morgenstern, O.</au>. <inc>booktitle:international-encyclopedia-of-statistics</inc>. pp.<pp>1231-1233</pp>", 
+                    "author": "Morgenstern, O.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:international-encyclopedia-of-statistics", 
+                    "year": "1978", 
+                    "howpublished": "pp.<pp>1231-1233</pp>", 
+                    "topline": "incollection von_neumann__john:24", 
+                    "id": "von_neumann__john:24"
+                }, 
+                {
+                    "title": "John von Neumann", 
+                    "ref": "<t>John von Neumann.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "inwebcollection", 
+                    "year": "2003", 
+                    "howpublished": "???", 
+                    "topline": "inwebcollection von_neumann__john:29", 
+                    "id": "von_neumann__john:29"
+                }, 
+                {
+                    "title": "On John von Neumann and his role in the development of the computer", 
+                    "ref": "<t>On John von Neumann and his role in the development of the computer.</t> <au>Aspray, W.</au>. <j>SIAM News</j>, Vol. <v>Mar. 1,</v>", 
+                    "author": "Aspray, W.", 
+                    "bibtype": "article", 
+                    "year": "2005", 
+                    "howpublished": "<j>SIAM News</j>, Vol. <v>Mar. 1,</v>", 
+                    "topline": "article von_neumann__john:25", 
+                    "id": "von_neumann__john:25"
+                }, 
+                {
+                    "title": "von Neumann, Johann (or John)", 
+                    "ref": "<t>von Neumann, Johann (or John).</t> <au>Dieudonn&eacute;, J.</au>. <inc>booktitle:complete-dictionary-of-scientific-biography</inc>. Vol. <v>14</v>, pp.<pp>88-92</pp>", 
+                    "author": "Dieudonn&eacute;, J.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:complete-dictionary-of-scientific-biography", 
+                    "year": "2008", 
+                    "howpublished": "Vol. <v>14</v>, pp.<pp>88-92</pp>", 
+                    "topline": "incollection von_neumann__john:26", 
+                    "id": "von_neumann__john:26"
+                }, 
+                {
+                    "title": "von Neumann, John", 
+                    "ref": "<t>von Neumann, John.</t> <au>Zalai, E.</au>. <inc>booktitle:international-encyclopedia-of-the-social-sciences</inc>. ???", 
+                    "author": "Zalai, E.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:international-encyclopedia-of-the-social-sciences", 
+                    "year": "2008", 
+                    "howpublished": "???", 
+                    "topline": "incollection von_neumann__john:27", 
+                    "id": "von_neumann__john:27"
+                }, 
+                {
+                    "title": "The theoretical intelligence and the practical vision of John von Neumann", 
+                    "ref": "<t>The theoretical intelligence and the practical vision of John von Neumann.</t> <au>Lucchetti, R.</au>. <inc>booktitle:mathematical-lives-protagonists-of-the-twentieth-century-from-hilbert-to-wiles</inc>. pp.<pp>63-68</pp>", 
+                    "author": "Lucchetti, R.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:mathematical-lives-protagonists-of-the-twentieth-century-from-hilbert-to-wiles", 
+                    "year": "2010", 
+                    "howpublished": "pp.<pp>63-68</pp>", 
+                    "topline": "incollection von_neumann__john:28", 
+                    "id": "von_neumann__john:28"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Macmillan", 
+            "title": "International Encyclopedia of the Social Sciences", 
+            "url": "http://www.worldcat.org/title/international-encyclopedia-of-the-social-sciences/oclc/165466", 
+            "booktitle": "International Encyclopedia of the Social Sciences", 
+            "address": "Detroit", 
+            "editors": "W. A. Darity, Jr.", 
+            "bibtype": "reference", 
+            "edition": "2nd", 
+            "top_line": "reference booktitle:international-encyclopedia-of-the-social-sciences", 
+            "year": "1968", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>International Encyclopedia of the Social Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:international-encyclopedia-of-the-social-sciences"
+        }, 
+        {
+            "publisher": "Free Press", 
+            "title": "International Encyclopedia of Statistics", 
+            "url": "http://www.worldcat.org/title/international-encyclopedia-of-statistics/oclc/3966286", 
+            "booktitle": "International Encyclopedia of Statistics", 
+            "address": "New York", 
+            "editors": "W. H. Kruskal and J. M. Tanur", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:international-encyclopedia-of-statistics", 
+            "year": "1978", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>International Encyclopedia of Statistics.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:international-encyclopedia-of-statistics"
+        }, 
+        {
+            "publisher": "Scribner's", 
+            "title": "Complete Dictionary of Scientific Biography", 
+            "url": "http://www.worldcat.org/title/complete-dictionary-of-scientific-biography/oclc/187313311", 
+            "booktitle": "Complete Dictionary of Scientific Biography", 
+            "address": "Detroit", 
+            "editors": "F. L. Holmes", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:complete-dictionary-of-scientific-biography", 
+            "year": "2008", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Complete Dictionary of Scientific Biography.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:complete-dictionary-of-scientific-biography"
+        }, 
+        {
+            "publisher": "Macmillan", 
+            "title": "International Encyclopedia of the Social Sciences", 
+            "url": "http://www.worldcat.org/title/international-encyclopedia-of-the-social-sciences/oclc/165466", 
+            "booktitle": "International Encyclopedia of the Social Sciences", 
+            "address": "Detroit", 
+            "editors": "W. A. Darity, Jr.", 
+            "bibtype": "reference", 
+            "edition": "2nd", 
+            "top_line": "reference booktitle:international-encyclopedia-of-the-social-sciences", 
+            "year": "1968", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>International Encyclopedia of the Social Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:international-encyclopedia-of-the-social-sciences"
+        }, 
+        {
+            "publisher": "Springer", 
+            "title": "Mathematical Lives: Protagonists of the Twentieth Century from Hilbert to Wiles", 
+            "url": "http://www.worldcat.org/title/mathematical-lives-protagonists-of-the-twentieth-century-from-hilbert-to-wiles/oclc/682907521", 
+            "booktitle": "Mathematical Lives: Protagonists of the Twentieth Century from Hilbert to Wiles", 
+            "address": "Berlin", 
+            "editors": "C. Bartocci and R. Betti and A. Guerraggio and R. Lucchetti", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:mathematical-lives-protagonists-of-the-twentieth-century-from-hilbert-to-wiles", 
+            "year": "2010", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Mathematical Lives: Protagonists of the Twentieth Century from Hilbert to Wiles.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:mathematical-lives-protagonists-of-the-twentieth-century-from-hilbert-to-wiles"
+        }
+    ]
+}

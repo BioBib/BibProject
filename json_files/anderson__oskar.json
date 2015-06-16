@@ -1,0 +1,295 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1887-08-02", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1960-02-12", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Anderson, Oskar J. V.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Oskar Anderson, 1887-1960", 
+                    "ref": "<t>Oskar Anderson, 1887-1960.</t> <au>Sagaroff, S. and Isserlis, L.</au>. <j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>123</v>, pp.<pp>518-519</pp>", 
+                    "author": "Sagaroff, S. and Isserlis, L.", 
+                    "bibtype": "article", 
+                    "year": "1960", 
+                    "howpublished": "<j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>123</v>, pp.<pp>518-519</pp>", 
+                    "topline": "article anderson__oskar:10", 
+                    "id": "anderson__oskar:10"
+                }, 
+                {
+                    "title": "Nachruf f&uuml;r Oskar Anderson", 
+                    "ref": "<t>Nachruf f&uuml;r Oskar Anderson.</t> <au>Sagaroff, S.</au>. <j>Metrika</j>, Vol. <v>3</v>, pp.<pp>89-94</pp>", 
+                    "author": "Sagaroff, S.", 
+                    "bibtype": "article", 
+                    "year": "1960", 
+                    "howpublished": "<j>Metrika</j>, Vol. <v>3</v>, pp.<pp>89-94</pp>", 
+                    "topline": "article anderson__oskar:12", 
+                    "id": "anderson__oskar:12"
+                }, 
+                {
+                    "title": "Oskar Anderson, 1887-1960", 
+                    "ref": "<t>Oskar Anderson, 1887-1960.</t> <au>Wold, H.</au>. <j>Ann. Math. Statist.</j>, Vol. <v>32</v>, pp.<pp>651-660</pp>", 
+                    "author": "Wold, H.", 
+                    "bibtype": "article", 
+                    "year": "1961", 
+                    "howpublished": "<j>Ann. Math. Statist.</j>, Vol. <v>32</v>, pp.<pp>651-660</pp>", 
+                    "topline": "article anderson__oskar:8", 
+                    "id": "anderson__oskar:8"
+                }, 
+                {
+                    "title": "The statistical work of Oskar Anderson. J.", 
+                    "ref": "<t>The statistical work of Oskar Anderson. J.</t> <au>Tintner, G.</au>. <j>Amer. Statist.</j>, Vol. <v>56</v>, pp.<pp>273-280</pp>", 
+                    "author": "Tintner, G.", 
+                    "bibtype": "article", 
+                    "year": "1961", 
+                    "howpublished": "<j>Amer. Statist.</j>, Vol. <v>56</v>, pp.<pp>273-280</pp>", 
+                    "topline": "article anderson__oskar:9", 
+                    "id": "anderson__oskar:9"
+                }, 
+                {
+                    "title": "Oskar Anderson, 1887-1960", 
+                    "ref": "<t>Oskar Anderson, 1887-1960.</t> <au>Fels, E.</au>. <j>Econometrica</j>, Vol. <v>29</v>, pp.<pp>74-79</pp>", 
+                    "author": "Fels, E.", 
+                    "bibtype": "article", 
+                    "year": "1961", 
+                    "howpublished": "<j>Econometrica</j>, Vol. <v>29</v>, pp.<pp>74-79</pp>", 
+                    "topline": "article anderson__oskar:11", 
+                    "id": "anderson__oskar:11"
+                }
+            ], 
+            "ims_id": "anderson__oskar", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://en.wikipedia.org/wiki/Oskar_Anderson", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.york.ac.uk/depts/maths/histstat/people/anderson_o.gif", 
+                    "anchor": "www.york.ac.uk"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=403779", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:anderson.oskar-jun", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:anderson.oskar-n", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/34210467", 
+                    "anchor": "Microsoft Academic: Anderson, Oskar"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/27580897", 
+                    "anchor": "Microsoft Academic: Anderson, Oskar Johann Viktor"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1957", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Anderson, Oskar N.", 
+                    "ref": "<t>Anderson, Oskar N.</t> <au>Fels, E. M.</au>. <inc>booktitle:international-encyclopedia-of-the-social-sciences</inc>. ???", 
+                    "author": "Fels, E. M.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:international-encyclopedia-of-the-social-sciences", 
+                    "year": "1968", 
+                    "howpublished": "???", 
+                    "topline": "incollection anderson__oskar:13", 
+                    "id": "anderson__oskar:13"
+                }, 
+                {
+                    "title": "Anderson, Oskar N.", 
+                    "ref": "<t>Anderson, Oskar N.</t> <au>Fels, E. M.</au>. <inc>booktitle:international-encyclopedia-of-statistics</inc>. pp.<pp>1-3</pp>", 
+                    "author": "Fels, E. M.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:international-encyclopedia-of-statistics", 
+                    "year": "1978", 
+                    "howpublished": "pp.<pp>1-3</pp>", 
+                    "topline": "incollection anderson__oskar:14", 
+                    "id": "anderson__oskar:14"
+                }, 
+                {
+                    "title": "Oskar Johann Viktor Anderson", 
+                    "ref": "<t>Oskar Johann Viktor Anderson.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2000", 
+                    "howpublished": "???", 
+                    "topline": "incollection anderson__oskar:20", 
+                    "id": "anderson__oskar:20"
+                }, 
+                {
+                    "title": "Oskar Anderson", 
+                    "ref": "<t>Oskar Anderson.</t> <au>Strecker, H. and Strecker, R.</au>. <inc>booktitle:statisticians-of-the-centuries</inc>. pp.<pp>377-381</pp>", 
+                    "author": "Strecker, H. and Strecker, R.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:statisticians-of-the-centuries", 
+                    "year": "2001", 
+                    "howpublished": "pp.<pp>377-381</pp>", 
+                    "topline": "incollection anderson__oskar:16", 
+                    "id": "anderson__oskar:16"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <inc>booktitle:encyclopedia-of-statistical-sciences</inc>. ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-statistical-sciences", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "incollection anderson__oskar:15", 
+                    "id": "anderson__oskar:15"
+                }, 
+                {
+                    "title": "Anderson, Oskar Johann Viktor", 
+                    "ref": "<t>Anderson, Oskar Johann Viktor.</t> <au>Sheynin, O. B.</au>. <inc>booktitle:complete-dictionary-of-scientific-biography</inc>. Vol. <v>1</v>, pp.<pp>154-155</pp>", 
+                    "author": "Sheynin, O. B.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:complete-dictionary-of-scientific-biography", 
+                    "year": "2008", 
+                    "howpublished": "Vol. <v>1</v>, pp.<pp>154-155</pp>", 
+                    "topline": "incollection anderson__oskar:17", 
+                    "id": "anderson__oskar:17"
+                }, 
+                {
+                    "title": "Anderson, Oskar Nikolayevich (1887-1960).", 
+                    "ref": "<t>Anderson, Oskar Nikolayevich (1887-1960).</t> <au>Strecker, H. L.</au>. <inc>booktitle:new-palgrave-dictionary-of-economics</inc>. ???", 
+                    "author": "Strecker, H. L.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:new-palgrave-dictionary-of-economics", 
+                    "year": "2008", 
+                    "howpublished": "???", 
+                    "topline": "incollection anderson__oskar:18", 
+                    "id": "anderson__oskar:18"
+                }, 
+                {
+                    "title": "Oskar Anderson", 
+                    "ref": "<t>Oskar Anderson.</t> In: <bt>Famous Scholars from Kiel</bt>, Kiel University", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "year?", 
+                    "howpublished": "In: <bt>Famous Scholars from Kiel</bt>, Kiel University", 
+                    "topline": "misc anderson__oskar:19", 
+                    "id": "anderson__oskar:19"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Macmillan", 
+            "title": "International Encyclopedia of the Social Sciences", 
+            "url": "http://www.worldcat.org/title/international-encyclopedia-of-the-social-sciences/oclc/165466", 
+            "booktitle": "International Encyclopedia of the Social Sciences", 
+            "address": "Detroit", 
+            "editors": "W. A. Darity, Jr.", 
+            "bibtype": "reference", 
+            "edition": "2nd", 
+            "top_line": "reference booktitle:international-encyclopedia-of-the-social-sciences", 
+            "year": "1968", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>International Encyclopedia of the Social Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:international-encyclopedia-of-the-social-sciences"
+        }, 
+        {
+            "publisher": "Free Press", 
+            "title": "International Encyclopedia of Statistics", 
+            "url": "http://www.worldcat.org/title/international-encyclopedia-of-statistics/oclc/3966286", 
+            "booktitle": "International Encyclopedia of Statistics", 
+            "address": "New York", 
+            "editors": "W. H. Kruskal and J. M. Tanur", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:international-encyclopedia-of-statistics", 
+            "year": "1978", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>International Encyclopedia of Statistics.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:international-encyclopedia-of-statistics"
+        }, 
+        {
+            "publisher": "Springer", 
+            "title": "Statisticians of the Centuries", 
+            "url": "http://www.worldcat.org/title/statisticians-of-the-centuries/oclc/46791088", 
+            "booktitle": "Statisticians of the Centuries", 
+            "address": "New York", 
+            "editors": "C. C. Heyde and E. Seneta", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:statisticians-of-the-centuries", 
+            "year": "2001", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Statisticians of the Centuries.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:statisticians-of-the-centuries"
+        }, 
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Statistical Sciences", 
+            "url": "http://onlinelibrary.wiley.com/book/10.1002/0471667196", 
+            "booktitle": "Encyclopedia of Statistical Sciences", 
+            "address": "Hoboken, NJ", 
+            "editors": "S. Kotz and N. Balakrishnan and C. Read and B. Vidakovic", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:encyclopedia-of-statistical-sciences", 
+            "year": "2006", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }, 
+        {
+            "publisher": "Scribner's", 
+            "title": "Complete Dictionary of Scientific Biography", 
+            "url": "http://www.worldcat.org/title/complete-dictionary-of-scientific-biography/oclc/187313311", 
+            "booktitle": "Complete Dictionary of Scientific Biography", 
+            "address": "Detroit", 
+            "editors": "F. L. Holmes", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:complete-dictionary-of-scientific-biography", 
+            "year": "2008", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Complete Dictionary of Scientific Biography.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:complete-dictionary-of-scientific-biography"
+        }, 
+        {
+            "publisher": "Palgrave Macmillan", 
+            "title": "The New Palgrave Dictionary of Economics", 
+            "url": "http://www.worldcat.org/title/new-palgrave-dictionary-of-economics/oclc/181424188", 
+            "booktitle": "The New Palgrave Dictionary of Economics", 
+            "address": "New York", 
+            "editors": "S. N. Durlauf and L. E. Blume", 
+            "bibtype": "reference", 
+            "edition": "2nd", 
+            "top_line": "reference booktitle:new-palgrave-dictionary-of-economics", 
+            "year": "2008", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>The New Palgrave Dictionary of Economics.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:new-palgrave-dictionary-of-economics"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1911-12-13", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1999-07-28", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Haavelmo, Trygve M.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "haavelmo__trygve_m", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://en.wikipedia.org/wiki/Trygve_Haavelmo", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "category": "homepage", 
+                    "href": "http://en.wikipedia.org/wiki/Trygve_Haavelmo", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=285460", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:haavelmo.trygve", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54285037", 
+                    "anchor": "Microsoft Academic: Trygve Haavelmo"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/650421", 
+                    "anchor": "Microsoft Academic: Trygve Haavelmo"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/28119066", 
+                    "anchor": "Microsoft Academic: TRYGVE HAAVELMO"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52160397", 
+                    "anchor": "Microsoft Academic: Trygve Haavelmo"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/42161116", 
+                    "anchor": "Microsoft Academic: Trygve Haavelmo"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/44386100", 
+                    "anchor": "Microsoft Academic: Trygve Haavelmo"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1945", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Foreign Honorary Member", 
+                    "year": "1976", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Nobel Prize in Economic Sciences", 
+                    "year": "1989", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "haavelmo__trygve", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

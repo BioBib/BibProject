@@ -1,0 +1,143 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1929-10-05", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2004-03-11", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Geisser, Seymour", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Seymour Geisser, 1929-2004", 
+                    "ref": "<t>Seymour Geisser, 1929-2004.</t> <au>Berry, D. A.</au>. <j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>168</v>, pp.<pp>245-246</pp>", 
+                    "author": "Berry, D. A.", 
+                    "bibtype": "article", 
+                    "year": "2005", 
+                    "howpublished": "<j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>168</v>, pp.<pp>245-246</pp>", 
+                    "topline": "article geisser__seymour:7", 
+                    "id": "geisser__seymour:7"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "year?", 
+                    "howpublished": "???", 
+                    "topline": "misc geisser__seymour:428222", 
+                    "id": "geisser__seymour:428222"
+                }
+            ], 
+            "ims_id": "geisser__seymour", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.stat.umn.edu/Seymour_Geisser_note.html", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://en.wikipedia.org/wiki/Seymour_Geisser", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.york.ac.uk/depts/maths/histstat/people/geisser.gif", 
+                    "anchor": "www.york.ac.uk"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=72245", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:geisser.seymour", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=41382", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18641515", 
+                    "anchor": "Microsoft Academic: Geisser, Seymour"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1967", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "The University of North Carolina at Chapel Hill", 
+                    "thesis_title": "On the Exact Distributions of Certain Statistics Related to the Mean Square Successive Difference", 
+                    "year": "1955", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=41382"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Geisser, Seymour", 
+                    "ref": "<t>Geisser, Seymour.</t> <au>Christensen, R. and Johnson, W.</au>. <inc>booktitle:encyclopedia-of-biostatistics</inc>. ???", 
+                    "author": "Christensen, R. and Johnson, W.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-biostatistics", 
+                    "year": "2005", 
+                    "howpublished": "???", 
+                    "topline": "incollection geisser__seymour:9", 
+                    "id": "geisser__seymour:9"
+                }, 
+                {
+                    "title": "A conversation with Seymour Geisser", 
+                    "ref": "<t>A conversation with Seymour Geisser.</t> <au>Christensen, R. and Johnson, W.</au>. <j>Statist. Sci.</j>, Vol. <v>22</v>, pp.<pp>621-636</pp>", 
+                    "author": "Christensen, R. and Johnson, W.", 
+                    "bibtype": "article", 
+                    "year": "2007", 
+                    "howpublished": "<j>Statist. Sci.</j>, Vol. <v>22</v>, pp.<pp>621-636</pp>", 
+                    "topline": "article geisser__seymour:10", 
+                    "id": "geisser__seymour:10"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Biostatistics", 
+            "url": "http://www.worldcat.org/title/encyclopedia-of-biostatistics/oclc/38258277", 
+            "booktitle": "Encyclopedia of Biostatistics", 
+            "address": "Hoboken, NJ", 
+            "editors": "P. Armitage and T. Colton", 
+            "bibtype": "reference", 
+            "edition": "2nd", 
+            "top_line": "reference booktitle:encyclopedia-of-biostatistics", 
+            "year": "2005", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Biostatistics.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-biostatistics"
+        }
+    ]
+}

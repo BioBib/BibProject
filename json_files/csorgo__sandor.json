@@ -1,0 +1,135 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "S&aacute;ndor Cs&ouml;rg&odblac;, 1947-2008", 
+                    "ref": "<t>S&aacute;ndor Cs&ouml;rg&odblac;, 1947-2008.</t> <au>Bolyai Institute and Mason, D. M.</au>. <j>IMS Bulletin</j>, Vol. <v>37(4)</v>, pp.<pp>16</pp>", 
+                    "author": "Bolyai Institute and Mason, D. M.", 
+                    "bibtype": "article", 
+                    "year": "2008", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>37(4)</v>, pp.<pp>16</pp>", 
+                    "topline": "article csorgo__sandor:9", 
+                    "id": "csorgo__sandor:9"
+                }
+            ], 
+            "DOB": "1947-07-16", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2008-02-14", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Cs&ouml;rg&odblac;, S&aacute;ndor", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "S&aacute;ndor Cs&ouml;rg&odblac;, 1947-2008", 
+                    "ref": "<t>S&aacute;ndor Cs&ouml;rg&odblac;, 1947-2008.</t> <au>K&eacute;rchy, Cz&eacute;dli, G. and Hajnal, P. and others</au>. <j>Acta Sci. Math. (Szeged)</j>, Vol. <v>74</v>, pp.<pp>3-5</pp>", 
+                    "author": "K&eacute;rchy, Cz&eacute;dli, G. and Hajnal, P. and others", 
+                    "bibtype": "article", 
+                    "year": "2008", 
+                    "howpublished": "<j>Acta Sci. Math. (Szeged)</j>, Vol. <v>74</v>, pp.<pp>3-5</pp>", 
+                    "topline": "article csorgo__sandor:10", 
+                    "id": "csorgo__sandor:10"
+                }, 
+                {
+                    "title": "Publications of S&aacute;ndor Cs&ouml;rg\\Ho", 
+                    "ref": "<t>Publications of S&aacute;ndor Cs&ouml;rg\\Ho.</t> <j>Acta Sci. Math. (Szeged)</j>, Vol. <v>74</v>, pp.<pp>7-21</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2008", 
+                    "howpublished": "<j>Acta Sci. Math. (Szeged)</j>, Vol. <v>74</v>, pp.<pp>7-21</pp>", 
+                    "topline": "article csorgo__sandor:11", 
+                    "id": "csorgo__sandor:11"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2008", 
+                    "howpublished": "???", 
+                    "topline": "misc csorgo__sandor:496792", 
+                    "id": "csorgo__sandor:496792"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2008", 
+                    "howpublished": "???", 
+                    "topline": "misc csorgo__sandor:509188", 
+                    "id": "csorgo__sandor:509188"
+                }
+            ], 
+            "ims_id": "csorgo__sandor", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://en.wikipedia.org/wiki/S%C3%A1ndor_Cs%C3%B6rg%C5%91", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=53165", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:csorgo.sandor", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=51758", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/55065641", 
+                    "anchor": "Microsoft Academic: S. Csorgo (S. Cs\\\"{o"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18753770", 
+                    "anchor": "Microsoft Academic: Sandor Csorgo Bolyai (S\\'{a"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/3416526", 
+                    "anchor": "Microsoft Academic: Sandor Csorgo (S\\'{a"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1984", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "rer. nat. University of Szeged", 
+                    "thesis_title": "Weak Convergence of the Random Sample Size Empirical Process", 
+                    "year": "1971", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=51758"
+                        }
+                    ], 
+                    "type": "Dr."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

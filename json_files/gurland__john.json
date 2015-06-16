@@ -1,0 +1,82 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "John Gurland", 
+                    "ref": "<t>John Gurland.</t> <au>Clayton, M.</au>. <j>IMS Bulletin</j>, Vol. <v>27</v>, pp.<pp>4-6</pp>", 
+                    "author": "Clayton, M.", 
+                    "bibtype": "article", 
+                    "year": "1998", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>27</v>, pp.<pp>4-6</pp>", 
+                    "topline": "article gurland__john:7", 
+                    "id": "gurland__john:7"
+                }
+            ], 
+            "DOB": "1917-01-06", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1997-11-19", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Gurland, John", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "gurland__john", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=204739", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:gurland.john", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=34603", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12392255", 
+                    "anchor": "Microsoft Academic: Gurland, John"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1965", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of California, Berkeley", 
+                    "thesis_title": "I. \"Asymptotically Normal Estimates\" II. \"Inversion Formulae for the Distribution of Ratios\"", 
+                    "year": "1948", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=34603"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

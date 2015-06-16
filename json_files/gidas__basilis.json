@@ -1,0 +1,93 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Gidas, Basilis", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "gidas__basilis", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.dam.brown.edu/people/gidas/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=73355", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:gidas.basilis", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=14272", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12765903", 
+                    "anchor": "Microsoft Academic: Basilis Gidas"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12780454", 
+                    "anchor": "Microsoft Academic: Basilis Gidas"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/10501552", 
+                    "anchor": "Microsoft Academic: Basilis Gidas"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/49073703", 
+                    "anchor": "Microsoft Academic: Basilis Gidas"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12766102", 
+                    "anchor": "Microsoft Academic: Gidas, Basilis"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/44718436", 
+                    "anchor": "Microsoft Academic: B. Gidas"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1997", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=14272"
+                        }
+                    ], 
+                    "type": "Ph.D.", 
+                    "year": "year?"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

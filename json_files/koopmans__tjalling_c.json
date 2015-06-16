@@ -1,0 +1,122 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1910-08-28", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1985-02-26", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Koopmans, Tjalling C.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "koopmans__tjalling_c", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.newschool.edu/nssr/het/profiles/koopmans.htm", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=104725", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:koopmans.tjalling-charles", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/2680836", 
+                    "anchor": "Microsoft Academic: Koopmans, Tjalling C."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1943", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "The Royal Netherlands Academy of Arts and Sciences, Corresponding Member", 
+                    "year": "1950", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1960", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Member", 
+                    "year": "1969", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Nobel Prize in Economic Sciences", 
+                    "year": "1975", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "koopmans__tjalling", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Tjalling Charles Koopmans, August 28, 1910-February 26, 1985", 
+                    "ref": "<t>Tjalling Charles Koopmans, August 28, 1910-February 26, 1985.</t> <au>Scarf, H. E.</au>. <j>Biographical Memoirs</j>, National Academies Press, Vol. <v>67</v>, pp.<pp>262-291</pp>", 
+                    "author": "Scarf, H. E.", 
+                    "bibtype": "article", 
+                    "year": "1995", 
+                    "howpublished": "<j>Biographical Memoirs</j>, National Academies Press, Vol. <v>67</v>, pp.<pp>262-291</pp>", 
+                    "topline": "article koopmans__tjalling_c:12", 
+                    "id": "koopmans__tjalling_c:12"
+                }, 
+                {
+                    "title": "Koopmans, Tjalling", 
+                    "ref": "<t>Koopmans, Tjalling.</t> <au>Dimand, R. W.</au>. <inc>booktitle:international-encyclopedia-of-the-social-sciences</inc>. ???", 
+                    "author": "Dimand, R. W.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:international-encyclopedia-of-the-social-sciences", 
+                    "year": "2008", 
+                    "howpublished": "???", 
+                    "topline": "incollection koopmans__tjalling_c:13", 
+                    "id": "koopmans__tjalling_c:13"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Macmillan", 
+            "title": "International Encyclopedia of the Social Sciences", 
+            "url": "http://www.worldcat.org/title/international-encyclopedia-of-the-social-sciences/oclc/165466", 
+            "booktitle": "International Encyclopedia of the Social Sciences", 
+            "address": "Detroit", 
+            "editors": "W. A. Darity, Jr.", 
+            "bibtype": "reference", 
+            "edition": "2nd", 
+            "top_line": "reference booktitle:international-encyclopedia-of-the-social-sciences", 
+            "year": "1968", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>International Encyclopedia of the Social Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:international-encyclopedia-of-the-social-sciences"
+        }
+    ]
+}

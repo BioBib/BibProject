@@ -1,0 +1,136 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2012", 
+                    "howpublished": "???", 
+                    "topline": "misc hall__w_j:332659", 
+                    "id": "hall__w_j:332659"
+                }, 
+                {
+                    "title": "Obituary: W. Jackson Hall", 
+                    "ref": "<t>Obituary: W. Jackson Hall.</t> <au>David Oakes and Jon Wellner and Robert Strawderman and Siddhartha Dalal</au>. <j>IMS Bulletin</j>", 
+                    "author": "David Oakes and Jon Wellner and Robert Strawderman and Siddhartha Dalal", 
+                    "bibtype": "article", 
+                    "year": "2013", 
+                    "howpublished": "<j>IMS Bulletin</j>", 
+                    "topline": "article hall__w_j:1", 
+                    "id": "hall__w_j:1"
+                }
+            ], 
+            "DOB": "1929-11-13", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2012-10-14", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Hall, W. Jackson", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2013", 
+                    "howpublished": "???", 
+                    "topline": "misc hall__w_j:524999", 
+                    "id": "hall__w_j:524999"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2013", 
+                    "howpublished": "???", 
+                    "topline": "misc hall__w_j:901945", 
+                    "id": "hall__w_j:901945"
+                }
+            ], 
+            "ims_id": "hall__w_j", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=80130", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:hall.william-j", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=13421", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54095274", 
+                    "anchor": "Microsoft Academic: Hall, Wm. Jackson"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1966", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "hall__w", 
+            "Festschrift": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2003", 
+                    "howpublished": "???", 
+                    "topline": "misc hall__w_j:725138", 
+                    "id": "hall__w_j:725138"
+                }
+            ], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "The University of North Carolina at Chapel Hill", 
+                    "thesis_title": "Most Economical Multiple-Decision Rules", 
+                    "year": "1955", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=13421"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Preface", 
+                    "ref": "<t>Preface.</t> <au>Kolassa, J. E. and Oakes, D.</au>. ???", 
+                    "author": "Kolassa, J. E. and Oakes, D.", 
+                    "bibtype": "misc", 
+                    "year": "2003", 
+                    "howpublished": "???", 
+                    "topline": "misc hall__w_j:518624", 
+                    "id": "hall__w_j:518624"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

@@ -1,0 +1,81 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Tusn&aacute;dy, G&aacute;bor", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "tusnady__gabor", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.enzim.hu/~tusi/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:tusnady.gabor", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/42507470", 
+                    "anchor": "Microsoft Academic: G. Tusnadi"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52878113", 
+                    "anchor": "Microsoft Academic: G. Tusnady (G. Tusn\\'{a"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12857887", 
+                    "anchor": "Microsoft Academic: Gabor E. Tusnady (G\\'{a"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52878114", 
+                    "anchor": "Microsoft Academic: Gabor E. Tusnady (G\\'{a"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/3422320", 
+                    "anchor": "Microsoft Academic: Gabor E. Tusnady (G\\'{a"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/42786619", 
+                    "anchor": "Microsoft Academic: G. Tusnady (G. Tusn\\'{a"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/56472269", 
+                    "anchor": "Microsoft Academic: G. Tusnady (G. Tusn\\'{a"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/35969272", 
+                    "anchor": "Microsoft Academic: Tusnady E. Gabor (Tusn\\'{a"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1984", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

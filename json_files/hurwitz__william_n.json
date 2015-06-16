@@ -1,0 +1,87 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1908-12-25", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1969-03-27", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Hurwitz, William N.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Washington Statistical Society Memorial Meeting for William N. Hurwitz. J.", 
+                    "ref": "<t>Washington Statistical Society Memorial Meeting for William N. Hurwitz. J.</t> <j>Amer. Statist.</j>, Vol. <v>64</v>, pp.<pp>1121</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1969", 
+                    "howpublished": "<j>Amer. Statist.</j>, Vol. <v>64</v>, pp.<pp>1121</pp>", 
+                    "topline": "article hurwitz__william_n:9", 
+                    "id": "hurwitz__william_n:9"
+                }, 
+                {
+                    "title": "A memorial for William N. Hurwitz. J.", 
+                    "ref": "<t>A memorial for William N. Hurwitz. J.</t> <au>Hansen, M. H.</au>. <j>Amer. Statist.</j>, Vol. <v>64</v>, pp.<pp>1122-1128</pp>", 
+                    "author": "Hansen, M. H.", 
+                    "bibtype": "article", 
+                    "year": "1969", 
+                    "howpublished": "<j>Amer. Statist.</j>, Vol. <v>64</v>, pp.<pp>1122-1128</pp>", 
+                    "topline": "article hurwitz__william_n:10", 
+                    "id": "hurwitz__william_n:10"
+                }
+            ], 
+            "ims_id": "hurwitz__william_n", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=343370", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:hurwitz.william-n", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18749900", 
+                    "anchor": "Microsoft Academic: Hurwitz, William N."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1945", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "hurwitz__william", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "William N. Hurwitz", 
+                    "ref": "<t>William N. Hurwitz.</t> <j>Amer. Statist.</j>, Vol. <v>23(2)</v>, pp.<pp>33</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1969", 
+                    "howpublished": "<j>Amer. Statist.</j>, Vol. <v>23(2)</v>, pp.<pp>33</pp>", 
+                    "topline": "article hurwitz__william_n:8", 
+                    "id": "hurwitz__william_n:8"
+                }
+            ], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

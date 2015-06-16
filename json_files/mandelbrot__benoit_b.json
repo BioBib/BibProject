@@ -1,0 +1,493 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1924-2010", 
+                    "howpublished": "???", 
+                    "topline": "misc mandelbrot__benoit_b:847819", 
+                    "id": "mandelbrot__benoit_b:847819"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc mandelbrot__benoit_b:984925", 
+                    "id": "mandelbrot__benoit_b:984925"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc mandelbrot__benoit_b:927573", 
+                    "id": "mandelbrot__benoit_b:927573"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc mandelbrot__benoit_b:213475", 
+                    "id": "mandelbrot__benoit_b:213475"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc mandelbrot__benoit_b:361264", 
+                    "id": "mandelbrot__benoit_b:361264"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc mandelbrot__benoit_b:79112", 
+                    "id": "mandelbrot__benoit_b:79112"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc mandelbrot__benoit_b:887211", 
+                    "id": "mandelbrot__benoit_b:887211"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc mandelbrot__benoit_b:975537", 
+                    "id": "mandelbrot__benoit_b:975537"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc mandelbrot__benoit_b:497387", 
+                    "id": "mandelbrot__benoit_b:497387"
+                }
+            ], 
+            "DOB": "1924-11-20", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2010-10-14", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Mandelbrot, Benoit B.", 
+            "Oral_History": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1998", 
+                    "howpublished": "???", 
+                    "topline": "misc mandelbrot__benoit_b:733296", 
+                    "id": "mandelbrot__benoit_b:733296"
+                }
+            ], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc mandelbrot__benoit_b:879195", 
+                    "id": "mandelbrot__benoit_b:879195"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc mandelbrot__benoit_b:391186", 
+                    "id": "mandelbrot__benoit_b:391186"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc mandelbrot__benoit_b:99505", 
+                    "id": "mandelbrot__benoit_b:99505"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc mandelbrot__benoit_b:207813", 
+                    "id": "mandelbrot__benoit_b:207813"
+                }, 
+                {
+                    "title": "Benoit Mandelbrot, 1924-2010", 
+                    "ref": "<t>Benoit Mandelbrot, 1924-2010.</t> <au>Hudson, R.</au>. <j>IMS Bulletin</j>, Vol. <v>40(4)</v>, pp.<pp>8-9</pp>", 
+                    "author": "Hudson, R.", 
+                    "bibtype": "article", 
+                    "year": "2011", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>40(4)</v>, pp.<pp>8-9</pp>", 
+                    "topline": "article mandelbrot__benoit_b:8", 
+                    "id": "mandelbrot__benoit_b:8"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2011", 
+                    "howpublished": "???", 
+                    "topline": "misc mandelbrot__benoit_b:146057", 
+                    "id": "mandelbrot__benoit_b:146057"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2011", 
+                    "howpublished": "???", 
+                    "topline": "misc mandelbrot__benoit_b:394878", 
+                    "id": "mandelbrot__benoit_b:394878"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2011", 
+                    "howpublished": "???", 
+                    "topline": "misc mandelbrot__benoit_b:889319", 
+                    "id": "mandelbrot__benoit_b:889319"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2011", 
+                    "howpublished": "???", 
+                    "topline": "misc mandelbrot__benoit_b:722522", 
+                    "id": "mandelbrot__benoit_b:722522"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2011", 
+                    "howpublished": "???", 
+                    "topline": "misc mandelbrot__benoit_b:9779", 
+                    "id": "mandelbrot__benoit_b:9779"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2011", 
+                    "howpublished": "???", 
+                    "topline": "misc mandelbrot__benoit_b:498643", 
+                    "id": "mandelbrot__benoit_b:498643"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2011", 
+                    "howpublished": "???", 
+                    "topline": "misc mandelbrot__benoit_b:976355", 
+                    "id": "mandelbrot__benoit_b:976355"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2011", 
+                    "howpublished": "???", 
+                    "topline": "misc mandelbrot__benoit_b:62104", 
+                    "id": "mandelbrot__benoit_b:62104"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2012", 
+                    "howpublished": "???", 
+                    "topline": "misc mandelbrot__benoit_b:431916", 
+                    "id": "mandelbrot__benoit_b:431916"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2012", 
+                    "howpublished": "???", 
+                    "topline": "misc mandelbrot__benoit_b:429305", 
+                    "id": "mandelbrot__benoit_b:429305"
+                }
+            ], 
+            "ims_id": "mandelbrot__benoit_b", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2012", 
+                    "howpublished": "???", 
+                    "topline": "misc mandelbrot__benoit_b:445587", 
+                    "id": "mandelbrot__benoit_b:445587"
+                }
+            ], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.math.yale.edu/mandelbrot/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "https://en.wikipedia.org/wiki/Benoit_Mandelbrot", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=119060", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:mandelbrot.benoit-b", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=60791", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/42230820", 
+                    "anchor": "Microsoft Academic: Benoit B. Mandelbrot (Beno\\^{\\i"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/42774031", 
+                    "anchor": "Microsoft Academic: BENOIT B. MANDELBROT"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/703403", 
+                    "anchor": "Microsoft Academic: Benoit Mandelbrot"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/49042871", 
+                    "anchor": "Microsoft Academic: B. Mandelbrot"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/10565543", 
+                    "anchor": "Microsoft Academic: BENOIT MANDELBROT"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52860955", 
+                    "anchor": "Microsoft Academic: Benoit B. Mandelbrot"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/19512319", 
+                    "anchor": "Microsoft Academic: B. Mandelbrot"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1968", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Medallion Lecturer", 
+                    "year": "1980", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1982", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Barnard Medal for Meritorius Service to Science", 
+                    "year": "1985", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Member", 
+                    "year": "1987", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Wolf Prize in Physics", 
+                    "year": "1993", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Philosophical Society, Member", 
+                    "year": "2004", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "mandelbrot__benoit", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "phil. Universit&eacute; de Paris", 
+                    "thesis_title": "Contribution &agrave; la th&eacute;orie math&eacute;matique des communications", 
+                    "year": "1952", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=60791"
+                        }
+                    ], 
+                    "type": "Dr."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1985", 
+                    "howpublished": "???", 
+                    "topline": "misc mandelbrot__benoit_b:156925", 
+                    "id": "mandelbrot__benoit_b:156925"
+                }, 
+                {
+                    "title": "Benoit Mandelbrot", 
+                    "ref": "<t>Benoit Mandelbrot.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "1999", 
+                    "howpublished": "???", 
+                    "topline": "incollection mandelbrot__benoit_b:13", 
+                    "id": "mandelbrot__benoit_b:13"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2004", 
+                    "howpublished": "???", 
+                    "topline": "misc mandelbrot__benoit_b:774891", 
+                    "id": "mandelbrot__benoit_b:774891"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2005", 
+                    "howpublished": "???", 
+                    "topline": "misc mandelbrot__benoit_b:567667", 
+                    "id": "mandelbrot__benoit_b:567667"
+                }, 
+                {
+                    "title": "Benoit Mandelbrot", 
+                    "ref": "<t>Benoit Mandelbrot.</t> <au>Barcellos, A.</au>. <inc>booktitle:mathematical-people-profiles-and-interviews</inc>. pp.<pp>205-225</pp>", 
+                    "author": "Barcellos, A.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:mathematical-people-profiles-and-interviews", 
+                    "year": "2008", 
+                    "howpublished": "pp.<pp>205-225</pp>", 
+                    "topline": "incollection mandelbrot__benoit_b:12", 
+                    "id": "mandelbrot__benoit_b:12"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2012", 
+                    "howpublished": "???", 
+                    "topline": "misc mandelbrot__benoit_b:22326", 
+                    "id": "mandelbrot__benoit_b:22326"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2012", 
+                    "howpublished": "???", 
+                    "topline": "misc mandelbrot__benoit_b:514090", 
+                    "id": "mandelbrot__benoit_b:514090"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Peters", 
+            "title": "Mathematical People: Profiles and Interviews", 
+            "url": "http://www.worldcat.org/title/mathematical-people-profiles-and-interviews/oclc/181730644", 
+            "booktitle": "Mathematical People: Profiles and Interviews", 
+            "address": "Wellesley, MA", 
+            "editors": "D. J. Albers and G. L. Alexanderson", 
+            "bibtype": "reference", 
+            "edition": "2nd", 
+            "top_line": "reference booktitle:mathematical-people-profiles-and-interviews", 
+            "year": "2008", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Mathematical People: Profiles and Interviews.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:mathematical-people-profiles-and-interviews"
+        }
+    ]
+}

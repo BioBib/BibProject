@@ -1,0 +1,71 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Jin, Jiashun", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "jin__jiashun", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.stat.cmu.edu/%7Ejiashun/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:jin.jiashun", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12810077", 
+                    "anchor": "Microsoft Academic: Jin, Jiashun"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "Tweedie New Researcher Award", 
+                    "year": "2009", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "2011", 
+                    "citation": "For outstanding contributions to sparse signal recovery, the analysis of high-dimensional data more generally and the optimality of statistical methods, exhibiting deep technical expertise and the ability to create path-breaking new research strategies", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Profile: Jiashun Jin", 
+                    "ref": "<t>Profile: Jiashun Jin.</t> <j>IMS Bulletin</j>, Vol. <v>36(5)</v>, pp.<pp>10-11</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2007", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>36(5)</v>, pp.<pp>10-11</pp>", 
+                    "topline": "article jin__jiashun:7", 
+                    "id": "jin__jiashun:7"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

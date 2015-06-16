@@ -1,0 +1,99 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Zacks, Shelemyahu", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "zacks__shelemyahu", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.math.binghamton.edu/shelly/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=186135", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:zacks.shelemyahu", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=6775", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53147467", 
+                    "anchor": "Microsoft Academic: Zacks, Shelley"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12923807", 
+                    "anchor": "Microsoft Academic: Zacks, Shelemyahu"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1972", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Columbia University", 
+                    "thesis_title": "Optimal Strategies in Randomized Factorial Experiments", 
+                    "year": "1962", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=6775"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Conference for Shelemyahu Zacks", 
+                    "ref": "<t>Conference for Shelemyahu Zacks.</t> <au>Mukhopadhyay, N.</au>. <j>IMS Bulletin</j>, Vol. <v>39(3)</v>, pp.<pp>7</pp>", 
+                    "author": "Mukhopadhyay, N.", 
+                    "bibtype": "article", 
+                    "year": "2010", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>39(3)</v>, pp.<pp>7</pp>", 
+                    "topline": "article zacks__shelemyahu:5", 
+                    "id": "zacks__shelemyahu:5"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc zacks__shelemyahu:308927", 
+                    "id": "zacks__shelemyahu:308927"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

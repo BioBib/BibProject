@@ -1,0 +1,333 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1893-09-25", 
+            "DVD": [
+                {
+                    "title": "Mathematical probability and statistical inference, some recollections from an important phase of scientific development", 
+                    "ref": "<t>Mathematical probability and statistical inference, some recollections from an important phase of scientific development.</t> <au>Cram&eacute;r, H.</au>. Distinguished Statistician Video Series, Pfizer, University of Connecticut-Storrs and American Statistical Association, Vol. <v>DS002</v>", 
+                    "author": "Cram&eacute;r, H.", 
+                    "bibtype": "misc", 
+                    "year": "1980", 
+                    "howpublished": "Distinguished Statistician Video Series, Pfizer, University of Connecticut-Storrs and American Statistical Association, Vol. <v>DS002</v>", 
+                    "topline": "misc cramer__harald:30", 
+                    "id": "cramer__harald:30"
+                }
+            ], 
+            "Collected_Works": [
+                {
+                    "title": "Harald Cram&eacute;r: Collected Works", 
+                    "ref": "<t>Harald Cram&eacute;r: Collected Works.</t> Springer", 
+                    "author": "Anonymous", 
+                    "bibtype": "book", 
+                    "year": "1994", 
+                    "howpublished": "Springer", 
+                    "topline": "book cramer__harald:29", 
+                    "id": "cramer__harald:29"
+                }
+            ], 
+            "DOD": "1985-10-05", 
+            "Member": [], 
+            "Symposium": [
+                {
+                    "title": "Harald Cram&eacute;r Symposium. Proceedings of the symposium held in Stockholm, September 24-25, 1993", 
+                    "ref": "<t>Harald Cram&eacute;r Symposium. Proceedings of the symposium held in Stockholm, September 24-25, 1993.</t> <j>Scand. Actuar. J.</j>, Vol. <v>1995</v>, pp.<pp>1-152</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1995", 
+                    "howpublished": "<j>Scand. Actuar. J.</j>, Vol. <v>1995</v>, pp.<pp>1-152</pp>", 
+                    "topline": "article cramer__harald:31", 
+                    "id": "cramer__harald:31"
+                }
+            ], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Cram&eacute;r, Harald", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Harald Cram&eacute;r in memoriam", 
+                    "ref": "<t>Harald Cram&eacute;r in memoriam.</t> <au>Bohman, H.</au>. <j>Scand. Actuar. J.</j>, Vol. <v>1985</v>, pp.<pp>129-130</pp>", 
+                    "author": "Bohman, H.", 
+                    "bibtype": "article", 
+                    "year": "1985", 
+                    "howpublished": "<j>Scand. Actuar. J.</j>, Vol. <v>1985</v>, pp.<pp>129-130</pp>", 
+                    "topline": "article cramer__harald:11", 
+                    "id": "cramer__harald:11"
+                }, 
+                {
+                    "title": "Harald Cram&eacute;r, 1893-1985", 
+                    "ref": "<t>Harald Cram&eacute;r, 1893-1985.</t> <au>Kingman, J. F. C.</au>. <j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>149</v>, pp.<pp>186</pp>", 
+                    "author": "Kingman, J. F. C.", 
+                    "bibtype": "article", 
+                    "year": "1986", 
+                    "howpublished": "<j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>149</v>, pp.<pp>186</pp>", 
+                    "topline": "article cramer__harald:12", 
+                    "id": "cramer__harald:12"
+                }, 
+                {
+                    "title": "In memoriam: Harald Cram&eacute;r", 
+                    "ref": "<t>In memoriam: Harald Cram&eacute;r.</t> <au>Jung, J.</au>. <j>Mitt. Verein. Schweiz. Versicherungsmath.</j>, Vol. <v>1986</v>, pp.<pp>121-122</pp>", 
+                    "author": "Jung, J.", 
+                    "bibtype": "article", 
+                    "year": "1986", 
+                    "howpublished": "<j>Mitt. Verein. Schweiz. Versicherungsmath.</j>, Vol. <v>1986</v>, pp.<pp>121-122</pp>", 
+                    "topline": "article cramer__harald:13", 
+                    "id": "cramer__harald:13"
+                }, 
+                {
+                    "title": "Harald Cram&eacute;r, 25th September 1893-5th October 1985", 
+                    "ref": "<t>Harald Cram&eacute;r, 25th September 1893-5th October 1985.</t> <au>Lundberg, O.</au>. <j>Astin Bull.</j>, Vol. <v>16</v>, pp.<pp>9-10</pp>", 
+                    "author": "Lundberg, O.", 
+                    "bibtype": "article", 
+                    "year": "1986", 
+                    "howpublished": "<j>Astin Bull.</j>, Vol. <v>16</v>, pp.<pp>9-10</pp>", 
+                    "topline": "article cramer__harald:14", 
+                    "id": "cramer__harald:14"
+                }, 
+                {
+                    "title": "Harald Cram&eacute;r 1893-1985", 
+                    "ref": "<t>Harald Cram&eacute;r 1893-1985.</t> <au>Blom, G.</au>. <j>Ann. Statist.</j>, Vol. <v>15</v>, pp.<pp>1335-1350</pp>", 
+                    "author": "Blom, G.", 
+                    "bibtype": "article", 
+                    "year": "1987", 
+                    "howpublished": "<j>Ann. Statist.</j>, Vol. <v>15</v>, pp.<pp>1335-1350</pp>", 
+                    "topline": "article cramer__harald:15", 
+                    "id": "cramer__harald:15"
+                }, 
+                {
+                    "title": "Harald Cram&eacute;r, 1893-1985", 
+                    "ref": "<t>Harald Cram&eacute;r, 1893-1985.</t> <au>Leadbetter, M. R.</au>. <j>Internat. Statist. Rev.</j>, Vol. <v>56</v>, pp.<pp>89-97</pp>", 
+                    "author": "Leadbetter, M. R.", 
+                    "bibtype": "article", 
+                    "year": "1988", 
+                    "howpublished": "<j>Internat. Statist. Rev.</j>, Vol. <v>56</v>, pp.<pp>89-97</pp>", 
+                    "topline": "article cramer__harald:16", 
+                    "id": "cramer__harald:16"
+                }
+            ], 
+            "ims_id": "cramer__harald", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.york.ac.uk/depts/maths/histstat/people/cramer.gif", 
+                    "anchor": "www.york.ac.uk"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=638667", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:cramer.harald.1", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=20611", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/47633725", 
+                    "anchor": "Microsoft Academic: Harald Cramer"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "Spanish Academy of Sciences", 
+                    "year": "Royal", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1946", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Rietz Lecturer", 
+                    "year": "1953", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Foreign Honorary Member", 
+                    "year": "1961", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Guy Medal in Gold", 
+                    "year": "1972", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Foreign Associate", 
+                    "year": "1984", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [
+                {
+                    "title": "Probability and Statistics, The Harald Cram&eacute;r Volume", 
+                    "ref": "<t>Probability and Statistics, The Harald Cram&eacute;r Volume.</t> Almqvist &amp; Wiksell", 
+                    "author": "Anonymous", 
+                    "bibtype": "book", 
+                    "year": "1959", 
+                    "howpublished": "Almqvist &amp; Wiksell", 
+                    "topline": "book cramer__harald:9", 
+                    "id": "cramer__harald:9"
+                }
+            ], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>15</v>, pp.<pp>271</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1986", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>15</v>, pp.<pp>271</pp>", 
+                    "topline": "article cramer__harald:10", 
+                    "id": "cramer__harald:10"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Stockholm University", 
+                    "thesis_title": "Sur une classe de series de Dirichlet", 
+                    "year": "1917", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=20611"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "A tribute to Harald Cram&eacute;r", 
+                    "ref": "<t>A tribute to Harald Cram&eacute;r.</t> <au>Kendall, D.</au>. <j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>146</v>, pp.<pp>211-212</pp>", 
+                    "author": "Kendall, D.", 
+                    "bibtype": "article", 
+                    "year": "1983", 
+                    "howpublished": "<j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>146</v>, pp.<pp>211-212</pp>", 
+                    "topline": "article cramer__harald:21", 
+                    "id": "cramer__harald:21"
+                }, 
+                {
+                    "title": "Bibliography: Publications by Harald Cram&eacute;r", 
+                    "ref": "<t>Bibliography: Publications by Harald Cram&eacute;r.</t> <au>Blom, G. and Mat&eacute;rn, B.</au>. <j>Scand. Actuar. J.</j>, Vol. <v>1984</v>, pp.<pp>1-10</pp>", 
+                    "author": "Blom, G. and Mat&eacute;rn, B.", 
+                    "bibtype": "article", 
+                    "year": "1984", 
+                    "howpublished": "<j>Scand. Actuar. J.</j>, Vol. <v>1984</v>, pp.<pp>1-10</pp>", 
+                    "topline": "article cramer__harald:22", 
+                    "id": "cramer__harald:22"
+                }, 
+                {
+                    "title": "Some personal recollections of Harald Cram&eacute;r on the development of statistics and probability", 
+                    "ref": "<t>Some personal recollections of Harald Cram&eacute;r on the development of statistics and probability.</t> <au>Wegman, E. J.</au>. <j>Statist. Sci.</j>, Vol. <v>1</v>, pp.<pp>528-535</pp>", 
+                    "author": "Wegman, E. J.", 
+                    "bibtype": "article", 
+                    "year": "1986", 
+                    "howpublished": "<j>Statist. Sci.</j>, Vol. <v>1</v>, pp.<pp>528-535</pp>", 
+                    "topline": "article cramer__harald:23", 
+                    "id": "cramer__harald:23"
+                }, 
+                {
+                    "title": "A survey of the life and works of Harald Cram&eacute;r", 
+                    "ref": "<t>A survey of the life and works of Harald Cram&eacute;r.</t> <au>Grenander, U.</au>. <j>Scand. Actuar. J.</j>, Vol. <v>1995</v>, pp.<pp>2-5</pp>", 
+                    "author": "Grenander, U.", 
+                    "bibtype": "article", 
+                    "year": "1995", 
+                    "howpublished": "<j>Scand. Actuar. J.</j>, Vol. <v>1995</v>, pp.<pp>2-5</pp>", 
+                    "topline": "article cramer__harald:24", 
+                    "id": "cramer__harald:24"
+                }, 
+                {
+                    "title": "A view of Harald Cram&eacute;r: Working with the master in his later years", 
+                    "ref": "<t>A view of Harald Cram&eacute;r: Working with the master in his later years.</t> <au>Leadbetter, M. R.</au>. <j>Scand. Actuar. J.</j>, Vol. <v>1995</v>, pp.<pp>6-11</pp>", 
+                    "author": "Leadbetter, M. R.", 
+                    "bibtype": "article", 
+                    "year": "1995", 
+                    "howpublished": "<j>Scand. Actuar. J.</j>, Vol. <v>1995</v>, pp.<pp>6-11</pp>", 
+                    "topline": "article cramer__harald:25", 
+                    "id": "cramer__harald:25"
+                }, 
+                {
+                    "title": "Carl Harald Cram&eacute;r", 
+                    "ref": "<t>Carl Harald Cram&eacute;r.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2000", 
+                    "howpublished": "???", 
+                    "topline": "incollection cramer__harald:28", 
+                    "id": "cramer__harald:28"
+                }, 
+                {
+                    "title": "Harald Cram&eacute;r", 
+                    "ref": "<t>Harald Cram&eacute;r.</t> <au>Leadbetter, M. R.</au>. <inc>booktitle:statisticians-of-the-centuries</inc>. pp.<pp>439-443</pp>", 
+                    "author": "Leadbetter, M. R.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:statisticians-of-the-centuries", 
+                    "year": "2001", 
+                    "howpublished": "pp.<pp>439-443</pp>", 
+                    "topline": "incollection cramer__harald:27", 
+                    "id": "cramer__harald:27"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <inc>booktitle:encyclopedia-of-statistical-sciences</inc>. ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-statistical-sciences", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "incollection cramer__harald:26", 
+                    "id": "cramer__harald:26"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Springer", 
+            "title": "Statisticians of the Centuries", 
+            "url": "http://www.worldcat.org/title/statisticians-of-the-centuries/oclc/46791088", 
+            "booktitle": "Statisticians of the Centuries", 
+            "address": "New York", 
+            "editors": "C. C. Heyde and E. Seneta", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:statisticians-of-the-centuries", 
+            "year": "2001", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Statisticians of the Centuries.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:statisticians-of-the-centuries"
+        }, 
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Statistical Sciences", 
+            "url": "http://onlinelibrary.wiley.com/book/10.1002/0471667196", 
+            "booktitle": "Encyclopedia of Statistical Sciences", 
+            "address": "Hoboken, NJ", 
+            "editors": "S. Kotz and N. Balakrishnan and C. Read and B. Vidakovic", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:encyclopedia-of-statistical-sciences", 
+            "year": "2006", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }
+    ]
+}

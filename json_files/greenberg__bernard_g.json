@@ -1,0 +1,137 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1919-10-04", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1985-11-24", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Greenberg, Bernard G.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "In Memoriam: Bernard George Greenberg, 1919-1985", 
+                    "ref": "<t>In Memoriam: Bernard George Greenberg, 1919-1985.</t> <au>Abernathy, J. R. and Sen, P. K.</au>. <j>Amer. Statist.</j>, Vol. <v>40</v>, pp.<pp>183-184</pp>", 
+                    "author": "Abernathy, J. R. and Sen, P. K.", 
+                    "bibtype": "article", 
+                    "year": "1986", 
+                    "howpublished": "<j>Amer. Statist.</j>, Vol. <v>40</v>, pp.<pp>183-184</pp>", 
+                    "topline": "article greenberg__bernard_g:10", 
+                    "id": "greenberg__bernard_g:10"
+                }
+            ], 
+            "ims_id": "greenberg__bernard_g", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=76585", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:greenberg.bernard-g", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18624270", 
+                    "anchor": "Microsoft Academic: Greenberg, Bernard G."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1977", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "greenberg__bernard", 
+            "Festschrift": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1985", 
+                    "howpublished": "???", 
+                    "topline": "misc greenberg__bernard_g:8", 
+                    "id": "greenberg__bernard_g:8"
+                }
+            ], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>15</v>, pp.<pp>199</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1986", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>15</v>, pp.<pp>199</pp>", 
+                    "topline": "article greenberg__bernard_g:9", 
+                    "id": "greenberg__bernard_g:9"
+                }
+            ], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "year?", 
+                    "howpublished": "???", 
+                    "topline": "misc greenberg__bernard_g:13", 
+                    "id": "greenberg__bernard_g:13"
+                }
+            ], 
+            "Biography": [
+                {
+                    "title": "Greenberg, Bernard George", 
+                    "ref": "<t>Greenberg, Bernard George.</t> <au>Sen, P. K.</au>. <inc>booktitle:encyclopedia-of-biostatistics</inc>. ???", 
+                    "author": "Sen, P. K.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-biostatistics", 
+                    "year": "2005", 
+                    "howpublished": "???", 
+                    "topline": "incollection greenberg__bernard_g:11", 
+                    "id": "greenberg__bernard_g:11"
+                }, 
+                {
+                    "title": "Dr. Bernard G. Greenberg: A visionary leader", 
+                    "ref": "<t>Dr. Bernard G. Greenberg: A visionary leader.</t> <au>Kastleman, L.</au>. <j>Carolina Public Health</j>, Vol. <v>1(5)</v>, pp.<pp>34</pp>", 
+                    "author": "Kastleman, L.", 
+                    "bibtype": "article", 
+                    "year": "2008", 
+                    "howpublished": "<j>Carolina Public Health</j>, Vol. <v>1(5)</v>, pp.<pp>34</pp>", 
+                    "topline": "article greenberg__bernard_g:12", 
+                    "id": "greenberg__bernard_g:12"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Biostatistics", 
+            "url": "http://www.worldcat.org/title/encyclopedia-of-biostatistics/oclc/38258277", 
+            "booktitle": "Encyclopedia of Biostatistics", 
+            "address": "Hoboken, NJ", 
+            "editors": "P. Armitage and T. Colton", 
+            "bibtype": "reference", 
+            "edition": "2nd", 
+            "top_line": "reference booktitle:encyclopedia-of-biostatistics", 
+            "year": "2005", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Biostatistics.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-biostatistics"
+        }
+    ]
+}

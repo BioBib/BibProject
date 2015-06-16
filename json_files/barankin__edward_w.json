@@ -1,0 +1,94 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1920", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1985-05-01", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Barankin, Edward W.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1986", 
+                    "howpublished": "???", 
+                    "topline": "misc barankin__edward_w:518097", 
+                    "id": "barankin__edward_w:518097"
+                }
+            ], 
+            "ims_id": "barankin__edward_w", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=30865", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:barankin.edward-w", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=31715", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18725128", 
+                    "anchor": "Microsoft Academic: Barankin, Edward W."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1951", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "barankin__edward", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>14</v>, pp.<pp>339</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1985", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>14</v>, pp.<pp>339</pp>", 
+                    "topline": "article barankin__edward_w:8", 
+                    "id": "barankin__edward_w:8"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of California, Berkeley", 
+                    "thesis_title": "The Characteristic Values of Linear Transformations", 
+                    "year": "1946", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=31715"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

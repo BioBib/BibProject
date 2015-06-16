@@ -1,0 +1,85 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Dr. Junjiro Ogawa", 
+                    "ref": "<t>Dr. Junjiro Ogawa.</t> <au>Siotani, M. and Hayakawa, T.</au>. <j>IMS Bulletin</j>, Vol. <v>29</v>, pp.<pp>413-414</pp>", 
+                    "author": "Siotani, M. and Hayakawa, T.", 
+                    "bibtype": "article", 
+                    "year": "2000", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>29</v>, pp.<pp>413-414</pp>", 
+                    "topline": "article ogawa__junjiro:7", 
+                    "id": "ogawa__junjiro:7"
+                }
+            ], 
+            "DOB": "1915-04-18", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2000-03-08", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Ogawa, Junjiro", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "ogawa__junjiro", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=234340", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:ogawa.junjiro", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=52471", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/42777210", 
+                    "anchor": "Microsoft Academic: Ogawa, Junjiro"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/56754463", 
+                    "anchor": "Microsoft Academic: Ogawa, Junjiro"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1975", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=52471"
+                        }
+                    ], 
+                    "type": "Ph.D.", 
+                    "year": "year?"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

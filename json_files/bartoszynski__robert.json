@@ -1,0 +1,93 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Robert Bartoszy&nacute;ski", 
+                    "ref": "<t>Robert Bartoszy&nacute;ski.</t> <au>Santner, T. and Pearl, D.</au>. <j>IMS Bulletin</j>, Vol. <v>27</v>, pp.<pp>71-72</pp>", 
+                    "author": "Santner, T. and Pearl, D.", 
+                    "bibtype": "article", 
+                    "year": "1998", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>27</v>, pp.<pp>71-72</pp>", 
+                    "topline": "article bartoszynski__robert:8", 
+                    "id": "bartoszynski__robert:8"
+                }
+            ], 
+            "DOB": "1933-07-09", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1998-01-17", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Bartoszy&nacute;ski, Robert", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "bartoszynski__robert", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=32050", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:bartoszynski.robert", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52884474", 
+                    "anchor": "Microsoft Academic: Robert Bartoszynski (Robert Bart\\^{o"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/27445098", 
+                    "anchor": "Microsoft Academic: Robrt Bartoszynski (Robrt Bartoszy\\'{n"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/56911553", 
+                    "anchor": "Microsoft Academic: Robert Bartoszynski"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52631062", 
+                    "anchor": "Microsoft Academic: Robert Bartoszynski"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/51224740", 
+                    "anchor": "Microsoft Academic: R. Bartoszynski"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18698293", 
+                    "anchor": "Microsoft Academic: Robert Bartoszynski"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/55227644", 
+                    "anchor": "Microsoft Academic: Robert Bartoszynski"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/55250621", 
+                    "anchor": "Microsoft Academic: Robert Bartoszynski"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1995", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

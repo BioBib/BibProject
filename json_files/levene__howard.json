@@ -1,0 +1,82 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Howard Levene", 
+                    "ref": "<t>Howard Levene.</t> <au>Kalicharan, D.</au>. <j>IMS Bulletin</j>, Vol. <v>32(5)</v>, pp.<pp>11</pp>", 
+                    "author": "Kalicharan, D.", 
+                    "bibtype": "article", 
+                    "year": "2003", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>32(5)</v>, pp.<pp>11</pp>", 
+                    "topline": "article levene__howard:7", 
+                    "id": "levene__howard:7"
+                }
+            ], 
+            "DOB": "1914-01-07", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2003-07-02", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Levene, Howard", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "levene__howard", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=487278", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:levene.howard", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=97707", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/42232741", 
+                    "anchor": "Microsoft Academic: Howard Levene"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1951", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Columbia University", 
+                    "thesis_title": "Contributions to the Theory of Non-Parametric Tests of Randomness", 
+                    "year": "1953", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=97707"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

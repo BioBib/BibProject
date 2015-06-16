@@ -1,0 +1,220 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1997", 
+                    "howpublished": "???", 
+                    "topline": "misc bahadur__r_raj:113597", 
+                    "id": "bahadur__r_raj:113597"
+                }, 
+                {
+                    "title": "Raghu Raj Bahadur, Statistics", 
+                    "ref": "<t>Raghu Raj Bahadur, Statistics.</t> <j>The University of Chicago Chronicle</j>, Vol. <v>16</v>, 9", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1997", 
+                    "howpublished": "<j>The University of Chicago Chronicle</j>, Vol. <v>16</v>, 9", 
+                    "topline": "article bahadur__r_r:11", 
+                    "id": "bahadur__r_r:11"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1997", 
+                    "howpublished": "???", 
+                    "topline": "misc bahadur__r_raj:836985", 
+                    "id": "bahadur__r_raj:836985"
+                }, 
+                {
+                    "title": "Raghu Raj Bahadur, 1924-97", 
+                    "ref": "<t>Raghu Raj Bahadur, 1924-97.</t> <au>Stigler, S. M.</au>. <j>IMS Bulletin</j>, Vol. <v>26</v>, pp.<pp>357-358</pp>", 
+                    "author": "Stigler, S. M.", 
+                    "bibtype": "article", 
+                    "year": "1997", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>26</v>, pp.<pp>357-358</pp>", 
+                    "topline": "article bahadur__r_r:13", 
+                    "id": "bahadur__r_r:13"
+                }
+            ], 
+            "DOB": "1924-04-30", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1997-06-07", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Bahadur, Raghu Raj", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Raghu Raj Bahadur", 
+                    "ref": "<t>Raghu Raj Bahadur.</t> <j>Sankhy&amacr;</j>, Vol. <v>59</v>, pp.<pp>146</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1997", 
+                    "howpublished": "<j>Sankhy&amacr;</j>, Vol. <v>59</v>, pp.<pp>146</pp>", 
+                    "topline": "article bahadur__r_r:14", 
+                    "id": "bahadur__r_r:14"
+                }, 
+                {
+                    "title": "Raghu Raj Bahadur 1924-1997", 
+                    "ref": "<t>Raghu Raj Bahadur 1924-1997.</t> <au>Stigler, S. M.</au>. <inc>booktitle:rr-bahadurs-lectures-on-the-theory-of-estimation</inc>. Vol. <v>39</v>, pp.<pp>76-79</pp>", 
+                    "author": "Stigler, S. M.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:rr-bahadurs-lectures-on-the-theory-of-estimation", 
+                    "year": "2002", 
+                    "howpublished": "Vol. <v>39</v>, pp.<pp>76-79</pp>", 
+                    "topline": "incollection bahadur__r_r:15", 
+                    "id": "bahadur__r_r:15"
+                }
+            ], 
+            "ims_id": "bahadur__r_raj", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://en.wikipedia.org/wiki/Raghu_Raj_Bahadur", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.york.ac.uk/depts/maths/histstat/people/bahadur.gif", 
+                    "anchor": "www.york.ac.uk"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=407800", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:bahadur.raghu-raj", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/421304", 
+                    "anchor": "Microsoft Academic: Bahadur, R. R."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54128259", 
+                    "anchor": "Microsoft Academic: Bahadur, Raghu Raj"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1954", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Indian National Science Academy, Fellow", 
+                    "year": "1959", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS President", 
+                    "year": "1974", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Wald Lecturer", 
+                    "year": "1974", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Indian Academy of Sciences, Fellow", 
+                    "year": "1975", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Indian National Science Academy, Fellow", 
+                    "year": "1975", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1986", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "bahadur__r_r", 
+            "Festschrift": [
+                {
+                    "title": "Statistics and Probability: A Raghu Raj Bahadur Festschrift", 
+                    "ref": "<t>Statistics and Probability: A Raghu Raj Bahadur Festschrift.</t> Wiley", 
+                    "author": "Anonymous", 
+                    "bibtype": "book", 
+                    "year": "1993", 
+                    "howpublished": "Wiley", 
+                    "topline": "book bahadur__r_r:9", 
+                    "id": "bahadur__r_r:9"
+                }
+            ], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Bahadur, Raghu Raj", 
+                    "ref": "<t>Bahadur, Raghu Raj.</t> <au>Stigler, S. M.</au>. <inc>booktitle:encyclopedia-of-statistical-sciences</inc>. ???", 
+                    "author": "Stigler, S. M.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-statistical-sciences", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "incollection bahadur__r_r:20", 
+                    "id": "bahadur__r_r:20"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Statistical Sciences", 
+            "url": "http://onlinelibrary.wiley.com/book/10.1002/0471667196", 
+            "booktitle": "Encyclopedia of Statistical Sciences", 
+            "address": "Hoboken, NJ", 
+            "editors": "S. Kotz and N. Balakrishnan and C. Read and B. Vidakovic", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:encyclopedia-of-statistical-sciences", 
+            "year": "2006", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }, 
+        {
+            "publisher": "Institute of Mathematical Statistics", 
+            "bibtype": "reference", 
+            "title": "R. R. Bahadur's Lectures on the Theory of Estimation", 
+            "url": "http://www.worldcat.org/title/rr-bahadurs-lectures-on-the-theory-of-estimation/oclc/50556413", 
+            "series": "Lecture Notes-Monograph Series", 
+            "booktitle": "R. R. Bahadur's Lectures on the Theory of Estimation", 
+            "address": "Beachwood, OH", 
+            "editors": "S. M. Stigler, W. H. Wong and D. Xu", 
+            "volume": "39", 
+            "top_line": "reference booktitle:rr-bahadurs-lectures-on-the-theory-of-estimation", 
+            "year": "2002", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>R. R. Bahadur's Lectures on the Theory of Estimation.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:rr-bahadurs-lectures-on-the-theory-of-estimation"
+        }
+    ]
+}

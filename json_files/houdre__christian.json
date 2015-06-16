@@ -1,0 +1,86 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Houdr&eacute;, Christian", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "houdre__christian", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://people.math.gatech.edu/~houdre/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=288786", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:houdre.christian", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=62813", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/51679010", 
+                    "anchor": "Microsoft Academic: C. Houdr E"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/875570", 
+                    "anchor": "Microsoft Academic: Christian Houdre (Christian Houdr\\'{e"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/3221516", 
+                    "anchor": "Microsoft Academic: Christian Houdr"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/44369316", 
+                    "anchor": "Microsoft Academic: Christian Houdre (Christian Houdr\\'{e"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "2004", 
+                    "citation": "For his outstanding work in the theories and applications of non-stationary, non-Gaussian processes, wavelet transforms, and isoperimetric inequalities", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "McGill University", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=62813"
+                        }
+                    ], 
+                    "type": "Ph.D.", 
+                    "year": "1988"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

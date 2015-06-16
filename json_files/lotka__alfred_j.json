@@ -1,0 +1,164 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1949", 
+                    "howpublished": "???", 
+                    "topline": "misc lotka__alfred_j:52092", 
+                    "id": "lotka__alfred_j:52092"
+                }
+            ], 
+            "DOB": "1880-03-02", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1949-12-05", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Lotka, Alfred J.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Alfred James Lotka, 1880-1949. J.", 
+                    "ref": "<t>Alfred James Lotka, 1880-1949. J.</t> <au>Dublin, L. I.</au>. <j>Amer. Statist.</j>, Vol. <v>45</v>, pp.<pp>138-139</pp>", 
+                    "author": "Dublin, L. I.", 
+                    "bibtype": "article", 
+                    "year": "1950", 
+                    "howpublished": "<j>Amer. Statist.</j>, Vol. <v>45</v>, pp.<pp>138-139</pp>", 
+                    "topline": "article lotka__alfred_j:9", 
+                    "id": "lotka__alfred_j:9"
+                }, 
+                {
+                    "title": "Alfred James Lotka (1880-1949)", 
+                    "ref": "<t>Alfred James Lotka (1880-1949).</t> <au>Notestein, F. W.</au>. <j>Population Index</j>, Vol. <v>16</v>, pp.<pp>22-23</pp>", 
+                    "author": "Notestein, F. W.", 
+                    "bibtype": "article", 
+                    "year": "1950", 
+                    "howpublished": "<j>Population Index</j>, Vol. <v>16</v>, pp.<pp>22-23</pp>", 
+                    "topline": "article lotka__alfred_j:10", 
+                    "id": "lotka__alfred_j:10"
+                }, 
+                {
+                    "title": "Alfred J. Lotka (1880-1949)", 
+                    "ref": "<t>Alfred J. Lotka (1880-1949).</t> <au>P. V.</au>. <j>Population (French Edition)</j>, Vol. <v>5</v>, pp.<pp>13-14</pp>", 
+                    "author": "P. V.", 
+                    "bibtype": "article", 
+                    "year": "1950", 
+                    "howpublished": "<j>Population (French Edition)</j>, Vol. <v>5</v>, pp.<pp>13-14</pp>", 
+                    "topline": "article lotka__alfred_j:11", 
+                    "id": "lotka__alfred_j:11"
+                }
+            ], 
+            "ims_id": "lotka__alfred_j", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.absoluteastronomy.com/topics/Alfred_J._Lotka", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=116070", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:lotka.alfred-j", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/2482526", 
+                    "anchor": "Microsoft Academic: Lotka, Alfred J."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "before 1943", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "lotka__alfred", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Bibliography, Alfred James Lotka", 
+                    "ref": "<t>Bibliography, Alfred James Lotka.</t> <j>Population Index</j>, Vol. <v>16</v>, pp.<pp>23-29</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1950", 
+                    "howpublished": "<j>Population Index</j>, Vol. <v>16</v>, pp.<pp>23-29</pp>", 
+                    "topline": "article lotka__alfred_j:12", 
+                    "id": "lotka__alfred_j:12"
+                }, 
+                {
+                    "title": "Lotka, Alfred James (1880-1949).", 
+                    "ref": "<t>Lotka, Alfred James (1880-1949).</t> <au>Keyfitz, N.</au>. <inc>booktitle:international-encyclopedia-of-the-social-behavioral-sciences</inc>. pp.<pp>9089-9091</pp>", 
+                    "author": "Keyfitz, N.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:international-encyclopedia-of-the-social-behavioral-sciences", 
+                    "year": "2001", 
+                    "howpublished": "pp.<pp>9089-9091</pp>", 
+                    "topline": "incollection lotka__alfred_j:13", 
+                    "id": "lotka__alfred_j:13"
+                }, 
+                {
+                    "title": "Lotka, Alfred James", 
+                    "ref": "<t>Lotka, Alfred James.</t> <au>Gridgeman, N. T.</au>. <inc>booktitle:complete-dictionary-of-scientific-biography</inc>. Vol. <v>8</v>, pp.<pp>512</pp>", 
+                    "author": "Gridgeman, N. T.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:complete-dictionary-of-scientific-biography", 
+                    "year": "2008", 
+                    "howpublished": "Vol. <v>8</v>, pp.<pp>512</pp>", 
+                    "topline": "incollection lotka__alfred_j:14", 
+                    "id": "lotka__alfred_j:14"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "North-Holland", 
+            "title": "International Encyclopedia of the Social and Behavioral Sciences", 
+            "url": "http://www.worldcat.org/title/international-encyclopedia-of-the-social-behavioral-sciences/oclc/47869490", 
+            "booktitle": "International Encyclopedia of the Social and Behavioral Sciences", 
+            "address": "Amsterdam", 
+            "editors": "N. J. Smelser and P. B. Baltes", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:international-encyclopedia-of-the-social-behavioral-sciences", 
+            "year": "2001", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>International Encyclopedia of the Social and Behavioral Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:international-encyclopedia-of-the-social-behavioral-sciences"
+        }, 
+        {
+            "publisher": "Scribner's", 
+            "title": "Complete Dictionary of Scientific Biography", 
+            "url": "http://www.worldcat.org/title/complete-dictionary-of-scientific-biography/oclc/187313311", 
+            "booktitle": "Complete Dictionary of Scientific Biography", 
+            "address": "Detroit", 
+            "editors": "F. L. Holmes", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:complete-dictionary-of-scientific-biography", 
+            "year": "2008", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Complete Dictionary of Scientific Biography.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:complete-dictionary-of-scientific-biography"
+        }
+    ]
+}

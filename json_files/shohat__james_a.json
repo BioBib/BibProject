@@ -1,0 +1,131 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1944", 
+                    "howpublished": "???", 
+                    "topline": "misc shohat__james_a:647987", 
+                    "id": "shohat__james_a:647987"
+                }
+            ], 
+            "DOB": "1886-11-18", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1944-10-08", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Shohat, James A.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "James Alexander Shohat", 
+                    "ref": "<t>James Alexander Shohat.</t> <au>Kline, J. R.</au>. <j>Science</j>, Vol. <v>100</v>, pp.<pp>397-398</pp>", 
+                    "author": "Kline, J. R.", 
+                    "bibtype": "article", 
+                    "year": "1944", 
+                    "howpublished": "<j>Science</j>, Vol. <v>100</v>, pp.<pp>397-398</pp>", 
+                    "topline": "article shohat__james_a:10", 
+                    "id": "shohat__james_a:10"
+                }
+            ], 
+            "ims_id": "shohat__james_a", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=538818", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:shohat.j-a", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=7801", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12800210", 
+                    "anchor": "Microsoft Academic: Shohat, J. A."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "before 1943", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "shohat__james", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>Ann. Math. Statist.</j>, Vol. <v>16</v>, pp.<pp>100</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1945", 
+                    "howpublished": "<j>Ann. Math. Statist.</j>, Vol. <v>16</v>, pp.<pp>100</pp>", 
+                    "topline": "article shohat__james_a:8", 
+                    "id": "shohat__james_a:8"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=7801"
+                        }
+                    ], 
+                    "type": "Ph.D.", 
+                    "year": "year?"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Mathematics at the University of Michigan", 
+                    "ref": "<t>Mathematics at the University of Michigan.</t> <au>Kaplan, W.</au>. <inc>booktitle:century-of-mathematics-in-america-part-iii</inc>. pp.<pp>179-189</pp>", 
+                    "author": "Kaplan, W.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:century-of-mathematics-in-america-part-iii", 
+                    "year": "1989", 
+                    "howpublished": "pp.<pp>179-189</pp>", 
+                    "topline": "incollection shohat__james_a:11", 
+                    "id": "shohat__james_a:11"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "American Mathematical Society", 
+            "title": "A Century of Mathematics in America, Part III", 
+            "url": "http://www.worldcat.org/title/century-of-mathematics-in-america-part-iii/oclc/28363941", 
+            "booktitle": "A Century of Mathematics in America, Part III", 
+            "address": "Providence, RI", 
+            "editors": "P. Duren and R. Askey and H. M. Edwards and U. C. Merzbach", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:century-of-mathematics-in-america-part-iii", 
+            "year": "1989", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>A Century of Mathematics in America, Part III.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:century-of-mathematics-in-america-part-iii"
+        }
+    ]
+}

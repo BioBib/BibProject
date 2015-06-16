@@ -1,0 +1,125 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Joseph Lawson Hodges, Jr. (2000)", 
+                    "ref": "<t>Joseph Lawson Hodges, Jr. (2000).</t> <au>Bickel, P. and Lehmann, E.</au>. <j>IMS Bulletin</j>, Vol. <v>29</v>, pp.<pp>411-412</pp>", 
+                    "author": "Bickel, P. and Lehmann, E.", 
+                    "bibtype": "article", 
+                    "year": "2000", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>29</v>, pp.<pp>411-412</pp>", 
+                    "topline": "article hodges_jr__joseph_l:9", 
+                    "id": "hodges_jr__joseph_l:9"
+                }
+            ], 
+            "DOB": "1922-04-10", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2000-03-01", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Hodges, Joseph L., Jr.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2000", 
+                    "howpublished": "???", 
+                    "topline": "misc hodges_jr__joseph_l:580451", 
+                    "id": "hodges_jr__joseph_l:580451"
+                }
+            ], 
+            "ims_id": "hodges_jr__joseph_l", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=86785", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:hodges.joseph-l-jun", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=32297", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18057406", 
+                    "anchor": "Microsoft Academic: Hodges, J. L."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/55120647", 
+                    "anchor": "Microsoft Academic: Hodges, J. L."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1950", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "hodges__joseph", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of California, Berkeley", 
+                    "thesis_title": "I. Initial Sample Size in the Stein Procedure. II. Stringency in Acceptance Sampling. (Studies in optimum Statistical Procedures)", 
+                    "year": "1948", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=32297"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Hodges, Joseph Lawson, Jr.", 
+                    "ref": "<t>Hodges, Joseph Lawson, Jr.</t> <au>Lehmann, E. L.</au>. <inc>booktitle:encyclopedia-of-statistical-sciences</inc>. ???", 
+                    "author": "Lehmann, E. L.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-statistical-sciences", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "incollection hodges_jr__joseph_l:11", 
+                    "id": "hodges_jr__joseph_l:11"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Statistical Sciences", 
+            "url": "http://onlinelibrary.wiley.com/book/10.1002/0471667196", 
+            "booktitle": "Encyclopedia of Statistical Sciences", 
+            "address": "Hoboken, NJ", 
+            "editors": "S. Kotz and N. Balakrishnan and C. Read and B. Vidakovic", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:encyclopedia-of-statistical-sciences", 
+            "year": "2006", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }
+    ]
+}

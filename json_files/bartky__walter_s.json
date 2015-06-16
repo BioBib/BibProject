@@ -1,0 +1,94 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1958", 
+                    "howpublished": "???", 
+                    "topline": "misc bartky__walter_s:594517", 
+                    "id": "bartky__walter_s:594517"
+                }
+            ], 
+            "DOB": "1901", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1958-03-19", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Bartky, Walter S.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "bartky__walter_s", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=409629", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:bartky.walter", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=6302", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18409750", 
+                    "anchor": "Microsoft Academic: Bartky, Walter"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1944", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "bartky__walter", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "The University of Chicago", 
+                    "thesis_title": "A Method for Computing an Ephemeris Directly from Three Observations", 
+                    "year": "1926", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=6302"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [
+                {
+                    "title": "Bartky, Walter. Archival Biographical Files,", 
+                    "ref": "<t>Bartky, Walter. Archival Biographical Files,.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "year?", 
+                    "howpublished": "???", 
+                    "topline": "misc bartky__walter_s:9", 
+                    "id": "bartky__walter_s:9"
+                }
+            ], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

@@ -1,0 +1,171 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1914-08-16", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1984-10-25", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Kac, Mark", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "kac__mark", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://de.wikipedia.org/wiki/Mark_Kac", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=193014", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:kac.mark", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=17851", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12603037", 
+                    "anchor": "Microsoft Academic: Kac, Mark"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1946", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1959", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "John von Neumann Lecturer", 
+                    "year": "1961", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Member", 
+                    "year": "1965", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Chauvenet Prize", 
+                    "year": "1968", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Philosophical Society, Member", 
+                    "year": "1969", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Birkhoff Prize, AMS and SIAM", 
+                    "year": "1978", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Wald Lecturer", 
+                    "year": "1978", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "The Royal Netherlands Academy of Arts and Sciences, Foreign Member", 
+                    "year": "1981", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS President", 
+                    "year": "1982", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>14</v>, pp.<pp>75</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1985", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>14</v>, pp.<pp>75</pp>", 
+                    "topline": "article kac__mark:9", 
+                    "id": "kac__mark:9"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Lw&oacute;w", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=17851"
+                        }
+                    ], 
+                    "type": "Ph.D.", 
+                    "year": "1937"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1985", 
+                    "howpublished": "???", 
+                    "topline": "misc kac__mark:280356", 
+                    "id": "kac__mark:280356"
+                }, 
+                {
+                    "title": "Mark Kac, August 16, 1914-October 25, 1984", 
+                    "ref": "<t>Mark Kac, August 16, 1914-October 25, 1984.</t> <au>McKean, H. P.</au>. <j>Biographical Memoirs</j>, National Academies Press, pp.<pp>214-235</pp>", 
+                    "author": "McKean, H. P.", 
+                    "bibtype": "article", 
+                    "year": "1990", 
+                    "howpublished": "<j>Biographical Memoirs</j>, National Academies Press, pp.<pp>214-235</pp>", 
+                    "topline": "article kac__mark:20", 
+                    "id": "kac__mark:20"
+                }, 
+                {
+                    "title": "Mark Kac", 
+                    "ref": "<t>Mark Kac.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "1998", 
+                    "howpublished": "???", 
+                    "topline": "incollection kac__mark:21", 
+                    "id": "kac__mark:21"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

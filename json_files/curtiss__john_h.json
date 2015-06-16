@@ -1,0 +1,98 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1909-12-23", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1977-08-13", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Curtiss, John H.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "John Hamilton Curtiss, 1909-1977", 
+                    "ref": "<t>John Hamilton Curtiss, 1909-1977.</t> <au>Todd, J.</au>. <j>Ann Hist. Comput.</j>, Vol. <v>2</v>, pp.<pp>104-110</pp>", 
+                    "author": "Todd, J.", 
+                    "bibtype": "article", 
+                    "year": "1980", 
+                    "howpublished": "<j>Ann Hist. Comput.</j>, Vol. <v>2</v>, pp.<pp>104-110</pp>", 
+                    "topline": "article curtiss__john_h:9", 
+                    "id": "curtiss__john_h:9"
+                }
+            ], 
+            "ims_id": "curtiss__john_h", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=429412", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:curtiss.john-h", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=35897", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18009539", 
+                    "anchor": "Microsoft Academic: Curtiss, J. H."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/42780804", 
+                    "anchor": "Microsoft Academic: Curtiss, J. H."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1943", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "curtiss__john", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>7</v>, pp.<pp>56</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1978", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>7</v>, pp.<pp>56</pp>", 
+                    "topline": "article curtiss__john_h:8", 
+                    "id": "curtiss__john_h:8"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Harvard University", 
+                    "thesis_title": "Interpolation in Transforms of the Roots of Unity and the Jacobi Interpolation Series on the Lemniscate of Convergence", 
+                    "year": "1935", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=35897"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

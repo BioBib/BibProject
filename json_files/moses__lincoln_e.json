@@ -1,0 +1,89 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1921-12-21", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2006-12-17", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Moses, Lincoln E.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Lincoln Moses, 1921-2006", 
+                    "ref": "<t>Lincoln Moses, 1921-2006.</t> <au>Efron, B.</au>. <j>IMS Bulletin</j>, Vol. <v>36(4)</v>, pp.<pp>12</pp>", 
+                    "author": "Efron, B.", 
+                    "bibtype": "article", 
+                    "year": "2007", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>36(4)</v>, pp.<pp>12</pp>", 
+                    "topline": "article moses__lincoln_e:8", 
+                    "id": "moses__lincoln_e:8"
+                }
+            ], 
+            "ims_id": "moses__lincoln_e", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=195923", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:moses.lincoln-e", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=40892", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18624275", 
+                    "anchor": "Microsoft Academic: Moses, Lincoln E."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1966", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1981", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "moses__lincoln", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Stanford University", 
+                    "thesis_title": "An Iterative Construction of the Optimum Sequential Decision Procedure when the Cost Function is Linear", 
+                    "year": "1951", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=40892"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

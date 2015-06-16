@@ -1,0 +1,93 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1892-07-23", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1974-04-04", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Baten, William Dowell", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "baten__william_d", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=410039", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:baten.william-dowell", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=5287", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18749722", 
+                    "anchor": "Microsoft Academic: Baten, William Dowell"
+                }, 
+                {
+                    "href": "http://um2017.org/faculty-history/faculty/william-dowell-baten", 
+                    "anchor": "profile University of Michigan, Faculty History Project"
+                }
+            ], 
+            "Position": [
+                {
+                    "category": "position", 
+                    "text": "Assistant Professor of Mathematics,  University of Michigan", 
+                    "year": "1928-1936"
+                }
+            ], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "before 1943", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "baten__william", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>3</v>, pp.<pp>144</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1974", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>3</v>, pp.<pp>144</pp>", 
+                    "topline": "article baten__william_d:8", 
+                    "id": "baten__william_d:8"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Michigan", 
+                    "thesis_title": "Theorems Concerning Probability", 
+                    "year": "1929", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=5287"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

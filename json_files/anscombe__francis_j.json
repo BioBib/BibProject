@@ -1,0 +1,158 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2001", 
+                    "howpublished": "???", 
+                    "topline": "misc anscombe__francis_j:517314", 
+                    "id": "anscombe__francis_j:517314"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2001", 
+                    "howpublished": "???", 
+                    "topline": "misc anscombe__francis_j:215993", 
+                    "id": "anscombe__francis_j:215993"
+                }
+            ], 
+            "DOB": "1918-05-13", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2001-10-17", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Anscombe, Francis J.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <au>Anscombe, F. R. and Anscombe, P.</au>. <j>IMS Bulletin</j>, Vol. <v>31(1)</v>, pp.<pp>17</pp>", 
+                    "author": "Anscombe, F. R. and Anscombe, P.", 
+                    "bibtype": "article", 
+                    "year": "2002", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>31(1)</v>, pp.<pp>17</pp>", 
+                    "topline": "article anscombe__francis_j:10", 
+                    "id": "anscombe__francis_j:10"
+                }, 
+                {
+                    "title": "Frank Anscombe", 
+                    "ref": "<t>Frank Anscombe.</t> <au>Cox, D. R.</au>. <j>J. Roy. Statist. Soc. Ser. D</j>, Vol. <v>52</v>, pp.<pp>679-680</pp>", 
+                    "author": "Cox, D. R.", 
+                    "bibtype": "article", 
+                    "year": "2003", 
+                    "howpublished": "<j>J. Roy. Statist. Soc. Ser. D</j>, Vol. <v>52</v>, pp.<pp>679-680</pp>", 
+                    "topline": "article anscombe__francis_j:11", 
+                    "id": "anscombe__francis_j:11"
+                }
+            ], 
+            "ims_id": "anscombe__francis_j", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://en.wikipedia.org/wiki/Francis_Anscombe", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.york.ac.uk/depts/maths/histstat/people/anscombe.gif", 
+                    "anchor": "www.york.ac.uk"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=26375", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:anscombe.francis-john", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=62936", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12763083", 
+                    "anchor": "Microsoft Academic: Anscombe, F. J."
+                }, 
+                {
+                    "href": "http://en.wikipedia.org/wiki/F.J._Anscombe", 
+                    "anchor": "Wikipedia"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1951", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "R. A. Fisher Lecturer", 
+                    "year": "1982", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "anscombe__francis", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Cambridge", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=62936"
+                        }
+                    ], 
+                    "type": "M.A.", 
+                    "year": "1943"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Anscombe, Francis John", 
+                    "ref": "<t>Anscombe, Francis John.</t> <au>Brillinger, D. R.</au>. <inc>booktitle:encyclopedia-of-statistical-sciences</inc>. ???", 
+                    "author": "Brillinger, D. R.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-statistical-sciences", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "incollection anscombe__francis_j:13", 
+                    "id": "anscombe__francis_j:13"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Statistical Sciences", 
+            "url": "http://onlinelibrary.wiley.com/book/10.1002/0471667196", 
+            "booktitle": "Encyclopedia of Statistical Sciences", 
+            "address": "Hoboken, NJ", 
+            "editors": "S. Kotz and N. Balakrishnan and C. Read and B. Vidakovic", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:encyclopedia-of-statistical-sciences", 
+            "year": "2006", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }
+    ]
+}

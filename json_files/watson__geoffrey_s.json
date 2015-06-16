@@ -1,0 +1,87 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <au>Mardia, K. V.</au>. <j>IMS Bulletin</j>, Vol. <v>27</v>, pp.<pp>140-141</pp>", 
+                    "author": "Mardia, K. V.", 
+                    "bibtype": "article", 
+                    "year": "1998", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>27</v>, pp.<pp>140-141</pp>", 
+                    "topline": "article watson__geoffrey_s:9", 
+                    "id": "watson__geoffrey_s:9"
+                }
+            ], 
+            "DOB": "1921-12-03", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1998-01-03", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Watson, Geoffrey S.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "watson__geoffrey_s", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=180905", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:watson.geoffrey-s", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=11242", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12760224", 
+                    "anchor": "Microsoft Academic: Watson, Geoffrey S."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/50788644", 
+                    "anchor": "Microsoft Academic: Watson, George S."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1958", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "watson__geoffrey", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "North Carolina State University", 
+                    "thesis_title": "Serial Correlation in Regression Analysis.", 
+                    "year": "1952", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=11242"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

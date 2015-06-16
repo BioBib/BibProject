@@ -1,0 +1,100 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1903-02-02", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1996-01-12", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "van der Waerden, Bartel L.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "van_der_waerden__bartel_l", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://en.wikipedia.org/wiki/Bartel_Leendert_van_der_Waerden", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:van-der-waerden.bartel-leendert", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=30607", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18675629", 
+                    "anchor": "Microsoft Academic: Bartel L. van der Waerden"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "The Royal Netherlands Academy of Arts and Sciences, Member", 
+                    "year": "1949", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1961", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "van_der_waerden__bartel", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Phil. Nat. Universiteit van Amsterdam", 
+                    "thesis_title": "De algebraiese grondslagen der meetkunde van het aantal", 
+                    "year": "1926", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=30607"
+                        }
+                    ], 
+                    "type": "Dr."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1997", 
+                    "howpublished": "???", 
+                    "topline": "misc van_der_waerden__bartel_l:973599", 
+                    "id": "van_der_waerden__bartel_l:973599"
+                }, 
+                {
+                    "title": "Bartel Leendert van der Waerden", 
+                    "ref": "<t>Bartel Leendert van der Waerden.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2009", 
+                    "howpublished": "???", 
+                    "topline": "incollection van_der_waerden__bartel_l:10", 
+                    "id": "van_der_waerden__bartel_l:10"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

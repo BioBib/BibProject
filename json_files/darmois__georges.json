@@ -1,0 +1,171 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1888-06-24", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1960-01-03", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Darmois, Georges", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Georges Darmois, 1888-1960", 
+                    "ref": "<t>Georges Darmois, 1888-1960.</t> <au>Roy, R.</au>. <j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>123</v>, pp.<pp>520-522</pp>", 
+                    "author": "Roy, R.", 
+                    "bibtype": "article", 
+                    "year": "1960", 
+                    "howpublished": "<j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>123</v>, pp.<pp>520-522</pp>", 
+                    "topline": "article darmois__georges:7", 
+                    "id": "darmois__georges:7"
+                }, 
+                {
+                    "title": "Georges Darmois, 1888-1960", 
+                    "ref": "<t>Georges Darmois, 1888-1960.</t> <au>Dugu&eacute;, D.</au>. <j>Ann. Math. Statist.</j>, Vol. <v>32</v>, pp.<pp>357-360</pp>", 
+                    "author": "Dugu&eacute;, D.", 
+                    "bibtype": "article", 
+                    "year": "1961", 
+                    "howpublished": "<j>Ann. Math. Statist.</j>, Vol. <v>32</v>, pp.<pp>357-360</pp>", 
+                    "topline": "article darmois__georges:8", 
+                    "id": "darmois__georges:8"
+                }, 
+                {
+                    "title": "Georges Darmois, 1888-1960", 
+                    "ref": "<t>Georges Darmois, 1888-1960.</t> <au>Roy, R.</au>. <j>Econometrica</j>, Vol. <v>29</v>, pp.<pp>80-83</pp>", 
+                    "author": "Roy, R.", 
+                    "bibtype": "article", 
+                    "year": "1961", 
+                    "howpublished": "<j>Econometrica</j>, Vol. <v>29</v>, pp.<pp>80-83</pp>", 
+                    "topline": "article darmois__georges:9", 
+                    "id": "darmois__georges:9"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "year?", 
+                    "howpublished": "???", 
+                    "topline": "misc darmois__georges:828064", 
+                    "id": "darmois__georges:828064"
+                }
+            ], 
+            "ims_id": "darmois__georges", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://en.wikipedia.org/wiki/Georges_Darmois", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://fr.wikipedia.org/wiki/Georges_Darmois", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.york.ac.uk/depts/maths/histstat/people/darmois.gif", 
+                    "anchor": "www.york.ac.uk"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=431600", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:darmois.georges", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=81193", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/271945", 
+                    "anchor": "Microsoft Academic: G. Darmois"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/48520503", 
+                    "anchor": "Microsoft Academic: Georges Darmois"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1947", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Acad&eacute;mie des sciences, Member", 
+                    "year": "1956", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "&egrave;s Sciences Universit&eacute; de Paris", 
+                    "thesis_title": "Sur les courbes alg&eacute;briques &agrave; torsion constante", 
+                    "year": "1921", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=81193"
+                        }
+                    ], 
+                    "type": "Doctorat"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Georges Darmois", 
+                    "ref": "<t>Georges Darmois.</t> <au>Bru, B.</au>. <inc>booktitle:statisticians-of-the-centuries</inc>. pp.<pp>382-385</pp>", 
+                    "author": "Bru, B.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:statisticians-of-the-centuries", 
+                    "year": "2001", 
+                    "howpublished": "pp.<pp>382-385</pp>", 
+                    "topline": "incollection darmois__georges:12", 
+                    "id": "darmois__georges:12"
+                }, 
+                {
+                    "title": "Georges Darmois", 
+                    "ref": "<t>Georges Darmois.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2011", 
+                    "howpublished": "???", 
+                    "topline": "incollection darmois__georges:13", 
+                    "id": "darmois__georges:13"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Springer", 
+            "title": "Statisticians of the Centuries", 
+            "url": "http://www.worldcat.org/title/statisticians-of-the-centuries/oclc/46791088", 
+            "booktitle": "Statisticians of the Centuries", 
+            "address": "New York", 
+            "editors": "C. C. Heyde and E. Seneta", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:statisticians-of-the-centuries", 
+            "year": "2001", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Statisticians of the Centuries.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:statisticians-of-the-centuries"
+        }
+    ]
+}

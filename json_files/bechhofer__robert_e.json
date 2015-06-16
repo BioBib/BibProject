@@ -1,0 +1,107 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1996", 
+                    "howpublished": "???", 
+                    "topline": "misc bechhofer__robert_e:89842", 
+                    "id": "bechhofer__robert_e:89842"
+                }, 
+                {
+                    "title": "Robert Eric Bechhofer: 1919-1996", 
+                    "ref": "<t>Robert Eric Bechhofer: 1919-1996.</t> <au>Olkin, I. and Santner, T. J. and Tamhane, A. C.</au>. <j>IMS Bulletin</j>, Vol. <v>25</v>, pp.<pp>488-489</pp>", 
+                    "author": "Olkin, I. and Santner, T. J. and Tamhane, A. C.", 
+                    "bibtype": "article", 
+                    "year": "1996", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>25</v>, pp.<pp>488-489</pp>", 
+                    "topline": "article bechhofer__robert_e:8", 
+                    "id": "bechhofer__robert_e:8"
+                }
+            ], 
+            "DOB": "1919-03-11", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1996-05-13", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Bechhofer, Robert E.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Some personal thoughts on Robert E. Bechhofer (1919-1996)", 
+                    "ref": "<t>Some personal thoughts on Robert E. Bechhofer (1919-1996).</t> <au>Goldsman, D.</au>. <j>Amer. J. Math. Management Sci.</j>, Vol. <v>29</v>, pp.<pp>5-14</pp>", 
+                    "author": "Goldsman, D.", 
+                    "bibtype": "article", 
+                    "year": "2009", 
+                    "howpublished": "<j>Amer. J. Math. Management Sci.</j>, Vol. <v>29</v>, pp.<pp>5-14</pp>", 
+                    "topline": "article bechhofer__robert_e:9", 
+                    "id": "bechhofer__robert_e:9"
+                }
+            ], 
+            "ims_id": "bechhofer__robert_e", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.york.ac.uk/depts/maths/histstat/people/bechhofer.gif", 
+                    "anchor": "www.york.ac.uk"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=33265", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:bechhofer.robert-e", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=85681", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/1240134", 
+                    "anchor": "Microsoft Academic: Bechhofer, Robert E."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1961", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "bechhofer__robert", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "?school?", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=85681"
+                        }
+                    ], 
+                    "type": "?type?", 
+                    "year": "year?"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

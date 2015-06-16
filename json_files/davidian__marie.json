@@ -1,0 +1,76 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Davidian, Marie", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "davidian__marie", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www4.stat.ncsu.edu/~davidian/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:davidian.marie-louise", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54562175", 
+                    "anchor": "Microsoft Academic: Davidian, Marie"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12765945", 
+                    "anchor": "Microsoft Academic: Davidian, Marie"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "2006", 
+                    "citation": "For fundamental research contributions in the areas of estimation of variance functions, longitudinal data analysis, nonlinear models, joint modeling of longitudinal and survival data; for outstanding interdisciplinary research in biomedical sciences and pharmacokinetics; and for leadership service to the profession", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "George W. Snedecor Award", 
+                    "year": "2009", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Medallion Lecturer", 
+                    "year": "2010", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "F. N. David Award", 
+                    "year": "2011", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

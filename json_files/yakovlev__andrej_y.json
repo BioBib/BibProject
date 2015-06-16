@@ -1,0 +1,70 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1944-11-30", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2008-02-27", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Yakovlev, Andrej Y.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>Amstat News</j>, Vol. <v>July 2008</v>, pp.<pp>36-37</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2008", 
+                    "howpublished": "<j>Amstat News</j>, Vol. <v>July 2008</v>, pp.<pp>36-37</pp>", 
+                    "topline": "article yakovlev__andrej_y:8", 
+                    "id": "yakovlev__andrej_y:8"
+                }
+            ], 
+            "ims_id": "yakovlev__andrej_y", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=225240", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:yakovlev.andrej-yu", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53410413", 
+                    "anchor": "Microsoft Academic: Yakovlev, Andrej Yu."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18771310", 
+                    "anchor": "Microsoft Academic: Yakovlev, Andrei Yu"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1998", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "yakovlev__andrej", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

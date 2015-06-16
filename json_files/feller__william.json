@@ -1,0 +1,192 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1906-07-07", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1970-01-14", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Feller, William", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "William Feller, 1906-1970", 
+                    "ref": "<t>William Feller, 1906-1970.</t> <au>Cram&eacute;r, H.</au>. <j>Rev. l'Inst. Internat. Statist.</j>, Vol. <v>38</v>, pp.<pp>435-436</pp>", 
+                    "author": "Cram&eacute;r, H.", 
+                    "bibtype": "article", 
+                    "year": "1970", 
+                    "howpublished": "<j>Rev. l'Inst. Internat. Statist.</j>, Vol. <v>38</v>, pp.<pp>435-436</pp>", 
+                    "topline": "article feller__william:7", 
+                    "id": "feller__william:7"
+                }
+            ], 
+            "ims_id": "feller__william", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://en.wikipedia.org/wiki/William_Feller", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.york.ac.uk/depts/maths/histstat/people/feller.gif", 
+                    "anchor": "www.york.ac.uk"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=217063", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:feller.william", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/574622", 
+                    "anchor": "Microsoft Academic: Feller, William"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1943", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS President", 
+                    "year": "1947", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Rietz Lecturer", 
+                    "year": "1955", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1958", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Member", 
+                    "year": "1960", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Philosophical Society, Member", 
+                    "year": "1966", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Medal of Science", 
+                    "year": "1969", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "William Feller", 
+                    "ref": "<t>William Feller.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2005", 
+                    "howpublished": "???", 
+                    "topline": "incollection feller__william:18", 
+                    "id": "feller__william:18"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <inc>booktitle:encyclopedia-of-statistical-sciences</inc>. ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-statistical-sciences", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "incollection feller__william:14", 
+                    "id": "feller__william:14"
+                }, 
+                {
+                    "title": "William Feller (1906-1970)", 
+                    "ref": "<t>William Feller (1906-1970).</t> <au>Zubrinic, D.</au>. ???", 
+                    "author": "Zubrinic, D.", 
+                    "bibtype": "misc", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "misc feller__william:15", 
+                    "id": "feller__william:15"
+                }, 
+                {
+                    "title": "William Feller, July 7, 1906-January 14, 1970", 
+                    "ref": "<t>William Feller, July 7, 1906-January 14, 1970.</t> <au>Rosenblatt, M.</au>. <j>Biographical Memoirs</j>, National Academies Press, pp.<pp>2-17</pp>", 
+                    "author": "Rosenblatt, M.", 
+                    "bibtype": "article", 
+                    "year": "2007", 
+                    "howpublished": "<j>Biographical Memoirs</j>, National Academies Press, pp.<pp>2-17</pp>", 
+                    "topline": "article feller__william:16", 
+                    "id": "feller__william:16"
+                }, 
+                {
+                    "title": "Feller, William", 
+                    "ref": "<t>Feller, William.</t> <au>Doob, J. L.</au>. <inc>booktitle:complete-dictionary-of-scientific-biography</inc>. Vol. <v>17</v>, pp.<pp>287-289</pp>", 
+                    "author": "Doob, J. L.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:complete-dictionary-of-scientific-biography", 
+                    "year": "2008", 
+                    "howpublished": "Vol. <v>17</v>, pp.<pp>287-289</pp>", 
+                    "topline": "incollection feller__william:17", 
+                    "id": "feller__william:17"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Statistical Sciences", 
+            "url": "http://onlinelibrary.wiley.com/book/10.1002/0471667196", 
+            "booktitle": "Encyclopedia of Statistical Sciences", 
+            "address": "Hoboken, NJ", 
+            "editors": "S. Kotz and N. Balakrishnan and C. Read and B. Vidakovic", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:encyclopedia-of-statistical-sciences", 
+            "year": "2006", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }, 
+        {
+            "publisher": "Scribner's", 
+            "title": "Complete Dictionary of Scientific Biography", 
+            "url": "http://www.worldcat.org/title/complete-dictionary-of-scientific-biography/oclc/187313311", 
+            "booktitle": "Complete Dictionary of Scientific Biography", 
+            "address": "Detroit", 
+            "editors": "F. L. Holmes", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:complete-dictionary-of-scientific-biography", 
+            "year": "2008", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Complete Dictionary of Scientific Biography.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:complete-dictionary-of-scientific-biography"
+        }
+    ]
+}

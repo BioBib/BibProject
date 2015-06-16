@@ -1,0 +1,181 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1917-11-20", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2009-09-12", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Lehmann, Erich L.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Erich Lehmann, 1917-2009", 
+                    "ref": "<t>Erich Lehmann, 1917-2009.</t> <au>Bickel, P.</au>. <j>IMS Bulletin</j>, Vol. <v>38(9)</v>, pp.<pp>10</pp>", 
+                    "author": "Bickel, P.", 
+                    "bibtype": "article", 
+                    "year": "2009", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>38(9)</v>, pp.<pp>10</pp>", 
+                    "topline": "article lehmann__erich_l:9", 
+                    "id": "lehmann__erich_l:9"
+                }, 
+                {
+                    "title": "Erich L. Lehmann, 1917-2009", 
+                    "ref": "<t>Erich L. Lehmann, 1917-2009.</t> <au>Bickel, P. and Lehmann family</au>. <j>Bernoulli News</j>, Vol. <v>16(2)</v>", 
+                    "author": "Bickel, P. and Lehmann family", 
+                    "bibtype": "article", 
+                    "year": "2009", 
+                    "howpublished": "<j>Bernoulli News</j>, Vol. <v>16(2)</v>", 
+                    "topline": "article lehmann__erich_l:10", 
+                    "id": "lehmann__erich_l:10"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc lehmann__erich_l:934620", 
+                    "id": "lehmann__erich_l:934620"
+                }
+            ], 
+            "ims_id": "lehmann__erich_l", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=112000", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:lehmann.erich-l", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=12693", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/17955845", 
+                    "anchor": "Microsoft Academic: Lehmann, Erich Leo"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1948", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS President", 
+                    "year": "1961", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Wald Lecturer", 
+                    "year": "1964", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1975", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Member", 
+                    "year": "1978", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "R. A. Fisher Lecturer", 
+                    "year": "1988", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Samuel S. Wilks Award", 
+                    "year": "1996", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "lehmann__erich", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>Notices Amer. Math. Soc.</j>, Vol. <v>57</v>, pp.<pp>767</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2010", 
+                    "howpublished": "<j>Notices Amer. Math. Soc.</j>, Vol. <v>57</v>, pp.<pp>767</pp>", 
+                    "topline": "article lehmann__erich_l:8", 
+                    "id": "lehmann__erich_l:8"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of California, Berkeley", 
+                    "thesis_title": "Optimum Tests of a Certain Class of Hypotheses Specifying the Value of a Correlation Coefficient", 
+                    "year": "1946", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=12693"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1986", 
+                    "howpublished": "???", 
+                    "topline": "misc lehmann__erich_l:206275", 
+                    "id": "lehmann__erich_l:206275"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2009", 
+                    "howpublished": "???", 
+                    "topline": "misc lehmann__erich_l:104568", 
+                    "id": "lehmann__erich_l:104568"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2009", 
+                    "howpublished": "???", 
+                    "topline": "misc lehmann__erich_l:984418", 
+                    "id": "lehmann__erich_l:984418"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

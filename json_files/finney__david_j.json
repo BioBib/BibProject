@@ -1,0 +1,91 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Finney, David J.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "finney__david_j", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://catalogue.nla.gov.au/Record/1903778", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:finney.david-j", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18624352", 
+                    "anchor": "Microsoft Academic: Finney, D. J."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/55626758", 
+                    "anchor": "Microsoft Academic: Finney, D. J."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/55626663", 
+                    "anchor": "Microsoft Academic: Finney, David J."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1949", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "The Royal Society of Edinburgh, Fellow", 
+                    "year": "1955", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "The Royal Society, Fellow", 
+                    "year": "1955", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Commander of the Order of the British Empire", 
+                    "year": "1978", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "finney__david", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "A conversation with David J. Finney", 
+                    "ref": "<t>A conversation with David J. Finney.</t> <au>MacNeill, I.</au>. <j>Statist. Sci.</j>, Vol. <v>8</v>, pp.<pp>187-201</pp>", 
+                    "author": "MacNeill, I.", 
+                    "bibtype": "article", 
+                    "year": "1993", 
+                    "howpublished": "<j>Statist. Sci.</j>, Vol. <v>8</v>, pp.<pp>187-201</pp>", 
+                    "topline": "article finney__david_j:9", 
+                    "id": "finney__david_j:9"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

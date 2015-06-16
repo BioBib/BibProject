@@ -1,0 +1,63 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Bayarri, M. J. (Susie)", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "bayarri__m_j", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.uv.es/bayarri/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:bayarri.maria-j", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12533826", 
+                    "anchor": "Microsoft Academic: Bayarri, Maria J."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54938050", 
+                    "anchor": "Microsoft Academic: Bayarri, M. Jesus"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54938049", 
+                    "anchor": "Microsoft Academic: Bayarri, Maria J."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "2008", 
+                    "citation": "For contributions to Bayesian analysis of selection models and queueing systems, model selection, statistical foundations, and the interface of statistics with complex computer modeling; and for service to the profession through numerous leadership roles and editorial work", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "bayarri__", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

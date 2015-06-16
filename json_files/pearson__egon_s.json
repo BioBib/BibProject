@@ -1,0 +1,236 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1980", 
+                    "howpublished": "???", 
+                    "topline": "misc pearson__egon_s:302903", 
+                    "id": "pearson__egon_s:302903"
+                }
+            ], 
+            "DOB": "1895-08-11", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1980-06-12", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Pearson, Egon S.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> In: <bt>Statisticians in History</bt>, American Statistical Association", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "year?", 
+                    "howpublished": "In: <bt>Statisticians in History</bt>, American Statistical Association", 
+                    "topline": "article pearson__egon_s:9", 
+                    "id": "pearson__egon_s:9"
+                }
+            ], 
+            "ims_id": "pearson__egon_s", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=345332", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:pearson.egon-s", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=29652", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/56774510", 
+                    "anchor": "Microsoft Academic: Pearson, E. S."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/56774477", 
+                    "anchor": "Microsoft Academic: Pearson, E. S."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1944", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Commander of the Order of the British Empire", 
+                    "year": "1946", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Guy Medal in Gold", 
+                    "year": "1955", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "The Royal Society, Fellow", 
+                    "year": "1966", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "pearson__egon", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=29652"
+                        }
+                    ], 
+                    "type": "Ph.D.", 
+                    "year": "year?"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Egon Sharpe Pearson, 11 August 1895-12 June 1980", 
+                    "ref": "<t>Egon Sharpe Pearson, 11 August 1895-12 June 1980.</t> <au>Bartlett, M. S.</au>. <j>Biogr. Mems. Fell. R. Soc.</j>, Vol. <v>27</v>, pp.<pp>425-443</pp>", 
+                    "author": "Bartlett, M. S.", 
+                    "bibtype": "article", 
+                    "year": "1981", 
+                    "howpublished": "<j>Biogr. Mems. Fell. R. Soc.</j>, Vol. <v>27</v>, pp.<pp>425-443</pp>", 
+                    "topline": "article pearson__egon_s:12", 
+                    "id": "pearson__egon_s:12"
+                }, 
+                {
+                    "title": "Egon Sharpe Pearson", 
+                    "ref": "<t>Egon Sharpe Pearson.</t> <au>Bartholomew, D. J.</au>. <inc>booktitle:statisticians-of-the-centuries</inc>. pp.<pp>373-376</pp>", 
+                    "author": "Bartholomew, D. J.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:statisticians-of-the-centuries", 
+                    "year": "2001", 
+                    "howpublished": "pp.<pp>373-376</pp>", 
+                    "topline": "incollection pearson__egon_s:14", 
+                    "id": "pearson__egon_s:14"
+                }, 
+                {
+                    "title": "Egon Sharpe Pearson", 
+                    "ref": "<t>Egon Sharpe Pearson.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2003", 
+                    "howpublished": "???", 
+                    "topline": "incollection pearson__egon_s:17", 
+                    "id": "pearson__egon_s:17"
+                }, 
+                {
+                    "title": "Pearson, Egon Sharpe (1895-1980)", 
+                    "ref": "<t>Pearson, Egon Sharpe (1895-1980).</t> <au>Bartlett, M. S.</au>. <inc>booktitle:oxford-dictionary-of-national-biography-in-association-with-the-british-academy-from-the-earliest-times-to-the-year-2000</inc>. ???", 
+                    "author": "Bartlett, M. S.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:oxford-dictionary-of-national-biography-in-association-with-the-british-academy-from-the-earliest-times-to-the-year-2000", 
+                    "year": "2004", 
+                    "howpublished": "???", 
+                    "topline": "incollection pearson__egon_s:15", 
+                    "id": "pearson__egon_s:15"
+                }, 
+                {
+                    "title": "Pearson, Egon Sharpe", 
+                    "ref": "<t>Pearson, Egon Sharpe.</t> <inc>booktitle:encyclopedia-of-biostatistics</inc>. ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-biostatistics", 
+                    "year": "2005", 
+                    "howpublished": "???", 
+                    "topline": "incollection pearson__egon_s:16", 
+                    "id": "pearson__egon_s:16"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <inc>booktitle:encyclopedia-of-statistical-sciences</inc>. ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-statistical-sciences", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "incollection pearson__egon_s:13", 
+                    "id": "pearson__egon_s:13"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Springer", 
+            "title": "Statisticians of the Centuries", 
+            "url": "http://www.worldcat.org/title/statisticians-of-the-centuries/oclc/46791088", 
+            "booktitle": "Statisticians of the Centuries", 
+            "address": "New York", 
+            "editors": "C. C. Heyde and E. Seneta", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:statisticians-of-the-centuries", 
+            "year": "2001", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Statisticians of the Centuries.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:statisticians-of-the-centuries"
+        }, 
+        {
+            "publisher": "Oxford Univ. Press", 
+            "title": "Oxford Dictionary of National Biography", 
+            "url": "http://www.worldcat.org/title/oxford-dictionary-of-national-biography-in-association-with-the-british-academy-from-the-earliest-times-to-the-year-2000/oclc/54778415", 
+            "booktitle": "Oxford Dictionary of National Biography", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:oxford-dictionary-of-national-biography-in-association-with-the-british-academy-from-the-earliest-times-to-the-year-2000", 
+            "year": "2004", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Oxford Dictionary of National Biography.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:oxford-dictionary-of-national-biography-in-association-with-the-british-academy-from-the-earliest-times-to-the-year-2000"
+        }, 
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Biostatistics", 
+            "url": "http://www.worldcat.org/title/encyclopedia-of-biostatistics/oclc/38258277", 
+            "booktitle": "Encyclopedia of Biostatistics", 
+            "address": "Hoboken, NJ", 
+            "editors": "P. Armitage and T. Colton", 
+            "bibtype": "reference", 
+            "edition": "2nd", 
+            "top_line": "reference booktitle:encyclopedia-of-biostatistics", 
+            "year": "2005", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Biostatistics.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-biostatistics"
+        }, 
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Statistical Sciences", 
+            "url": "http://onlinelibrary.wiley.com/book/10.1002/0471667196", 
+            "booktitle": "Encyclopedia of Statistical Sciences", 
+            "address": "Hoboken, NJ", 
+            "editors": "S. Kotz and N. Balakrishnan and C. Read and B. Vidakovic", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:encyclopedia-of-statistical-sciences", 
+            "year": "2006", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }
+    ]
+}

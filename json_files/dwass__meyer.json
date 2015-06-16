@@ -1,0 +1,86 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Meyer Dwass, 1923-96", 
+                    "ref": "<t>Meyer Dwass, 1923-96.</t> <au>Zabell, S.</au>. <j>IMS Bulletin</j>, Vol. <v>27</v>, pp.<pp>4-6</pp>", 
+                    "author": "Zabell, S.", 
+                    "bibtype": "article", 
+                    "year": "1998", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>27</v>, pp.<pp>4-6</pp>", 
+                    "topline": "article dwass__meyer:7", 
+                    "id": "dwass__meyer:7"
+                }
+            ], 
+            "DOB": "1923-04-09", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1996-07-15", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Dwass, Meyer", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "dwass__meyer", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=61065", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:dwass.meyer", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=12551", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18661004", 
+                    "anchor": "Microsoft Academic: Dwass, Meyer"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/55564602", 
+                    "anchor": "Microsoft Academic: Dwass, Meyer"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1960", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "The University of North Carolina at Chapel Hill", 
+                    "thesis_title": "On the Large Sample Power of Certain Rank Order Tests", 
+                    "year": "1952", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=12551"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

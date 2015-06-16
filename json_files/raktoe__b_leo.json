@@ -1,0 +1,76 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1932-08-02", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2009-11-13", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Raktoe, B. Leo", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc raktoe__b_leo:846741", 
+                    "id": "raktoe__b_leo:846741"
+                }, 
+                {
+                    "title": "Bishnoedath Leo Raktoe, 1932-2009", 
+                    "ref": "<t>Bishnoedath Leo Raktoe, 1932-2009.</t> <au>Pesotan, H. and Singh, R. S.</au>. <j>IMS Bulletin</j>, Vol. <v>40(1)</v>, pp.<pp>10</pp>", 
+                    "author": "Pesotan, H. and Singh, R. S.", 
+                    "bibtype": "article", 
+                    "year": "2011", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>40(1)</v>, pp.<pp>10</pp>", 
+                    "topline": "article raktoe__b_leo:8", 
+                    "id": "raktoe__b_leo:8"
+                }
+            ], 
+            "ims_id": "raktoe__b_leo", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=189315", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:raktoe.bisnoedath-leo", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/3488507", 
+                    "anchor": "Microsoft Academic: Raktoe, B. L."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1975", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "raktoe__b", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

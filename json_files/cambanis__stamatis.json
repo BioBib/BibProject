@@ -1,0 +1,145 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Stamatis Cambanis, 1943-95", 
+                    "ref": "<t>Stamatis Cambanis, 1943-95.</t> <au>Leadbetter, R.</au>. <j>IMS Bulletin</j>, Vol. <v>24</v>, pp.<pp>231-232</pp>", 
+                    "author": "Leadbetter, R.", 
+                    "bibtype": "article", 
+                    "year": "1995", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>24</v>, pp.<pp>231-232</pp>", 
+                    "topline": "article cambanis__stamatis:8", 
+                    "id": "cambanis__stamatis:8"
+                }
+            ], 
+            "DOB": "1943-07-08", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1995-04-12", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Cambanis, Stamatis", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Stamatis Cambanis (1943-1995)", 
+                    "ref": "<t>Stamatis Cambanis (1943-1995).</t> <au>Karatzas, I.</au>. <j>J. Appl. Probab.</j>, Vol. <v>33</v>, pp.<pp>284</pp>", 
+                    "author": "Karatzas, I.", 
+                    "bibtype": "article", 
+                    "year": "1996", 
+                    "howpublished": "<j>J. Appl. Probab.</j>, Vol. <v>33</v>, pp.<pp>284</pp>", 
+                    "topline": "article cambanis__stamatis:9", 
+                    "id": "cambanis__stamatis:9"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1996", 
+                    "howpublished": "???", 
+                    "topline": "misc cambanis__stamatis:143728", 
+                    "id": "cambanis__stamatis:143728"
+                }
+            ], 
+            "ims_id": "cambanis__stamatis", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=44510", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:cambanis.stamatis", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=18740", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/2863745", 
+                    "anchor": "Microsoft Academic: Cambanis, Stamatis"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54228590", 
+                    "anchor": "Microsoft Academic: Cambanis, Stamatis"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1984", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1995", 
+                    "howpublished": "???", 
+                    "topline": "misc cambanis__stamatis:7", 
+                    "id": "cambanis__stamatis:7"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Princeton University", 
+                    "thesis_title": "Representations of Stochastic Processes and Some of Their Applications", 
+                    "year": "1969", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=18740"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Stamatis Cambanis---A glimpse of his life and work", 
+                    "ref": "<t>Stamatis Cambanis---A glimpse of his life and work.</t> <au>Kallianpur, G. and Leadbetter, R.</au>. <inc>booktitle:stochastic-processes-and-related-topics-in-memory-of-stamatis-cambanis-1943-1995</inc>. pp.<pp>xi-xvi</pp>", 
+                    "author": "Kallianpur, G. and Leadbetter, R.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:stochastic-processes-and-related-topics-in-memory-of-stamatis-cambanis-1943-1995", 
+                    "year": "1998", 
+                    "howpublished": "pp.<pp>xi-xvi</pp>", 
+                    "topline": "incollection cambanis__stamatis:11", 
+                    "id": "cambanis__stamatis:11"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Birkh&auml;user", 
+            "title": "Stochastic Processes and Related Topics: In Memory of Stamatis Cambanis, 1943-1995", 
+            "url": "http://www.worldcat.org/title/stochastic-processes-and-related-topics-in-memory-of-stamatis-cambanis-1943-1995/oclc/38833210", 
+            "booktitle": "Stochastic Processes and Related Topics: In Memory of Stamatis Cambanis, 1943-1995", 
+            "address": "Boston", 
+            "editors": "I. Karatzas and B. Rajput and M. S. Taqqu", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:stochastic-processes-and-related-topics-in-memory-of-stamatis-cambanis-1943-1995", 
+            "year": "1998", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Stochastic Processes and Related Topics: In Memory of Stamatis Cambanis, 1943-1995.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:stochastic-processes-and-related-topics-in-memory-of-stamatis-cambanis-1943-1995"
+        }
+    ]
+}

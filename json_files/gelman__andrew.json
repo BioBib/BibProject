@@ -1,0 +1,113 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Gelman, Andrew", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "gelman__andrew", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.stat.columbia.edu/~gelman/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=334520", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:gelman.andrew", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=34263", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12376843", 
+                    "anchor": "Microsoft Academic: Gelman, Andrew"
+                }, 
+                {
+                    "href": "http://scholar.google.be/citations?user=SEOgduoAAAAJ&hl=en", 
+                    "anchor": "Google Scholar"
+                }, 
+                {
+                    "href": "http://www.stat.columbia.edu/~gelman/", 
+                    "anchor": "Homepage"
+                }, 
+                {
+                    "href": "http://www.stat.columbia.edu/~gelman/research/published/", 
+                    "anchor": "Publication List"
+                }, 
+                {
+                    "href": "http://www.stat.columbia.edu/~gelman/books/", 
+                    "anchor": "Books List"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1997", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Medallion Lecturer", 
+                    "year": "2000", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "COPSS Presidents' Award", 
+                    "year": "2003", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Harvard University", 
+                    "thesis_title": "Topics in Image Reconstruction for Emission Tomography", 
+                    "year": "1990", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=34263"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Profile: Andrew Gelman", 
+                    "ref": "<t>Profile: Andrew Gelman.</t> <au>Meng, X.-L.</au>. <j>IMS Bulletin</j>, Vol. <v>32(6)</v>, pp.<pp>1</pp>", 
+                    "author": "Meng, X.-L.", 
+                    "bibtype": "article", 
+                    "year": "2003", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>32(6)</v>, pp.<pp>1</pp>", 
+                    "topline": "article gelman__andrew:6", 
+                    "id": "gelman__andrew:6"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

@@ -1,0 +1,150 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "year?", 
+                    "howpublished": "???", 
+                    "topline": "misc mood__alexander_m:8", 
+                    "id": "mood__alexander_m:8"
+                }
+            ], 
+            "DOB": "1913-05-31", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2009-04-26", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Mood, Alexander M.", 
+            "Oral_History": [
+                {
+                    "title": "George W. Brown and Alexander M. Mood", 
+                    "ref": "<t>George W. Brown and Alexander M. Mood.</t> In: <bt>[http://www.princeton.edu/~mudd/finding\\_aids/mathoral/pm02.htm The Princeton Mathematics Community in the 1930s]</bt>, [http://www.princeton.edu/mudd/ Seeley G. Mudd Manuscript Library, Princeton University], Vol. <v>no. 3</v>", 
+                    "author": "Anonymous", 
+                    "bibtype": "incollection", 
+                    "year": "1985", 
+                    "howpublished": "In: <bt>[http://www.princeton.edu/~mudd/finding\\_aids/mathoral/pm02.htm The Princeton Mathematics Community in the 1930s]</bt>, [http://www.princeton.edu/mudd/ Seeley G. Mudd Manuscript Library, Princeton University], Vol. <v>no. 3</v>", 
+                    "topline": "incollection mood__alexander_m:12", 
+                    "id": "mood__alexander_m:12"
+                }
+            ], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "mood__alexander_m", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=290682", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:mood.alexander-mcfarlane", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=34708", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53983043", 
+                    "anchor": "Microsoft Academic: Alexander M. Mood"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/34122547", 
+                    "anchor": "Microsoft Academic: A M. Mood"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/56475418", 
+                    "anchor": "Microsoft Academic: Alexander M. Mood"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/43245100", 
+                    "anchor": "Microsoft Academic: Alexander M. Mood"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1943", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS President", 
+                    "year": "1957", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Samuel S. Wilks Award", 
+                    "year": "1979", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "mood__alexander", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Princeton University", 
+                    "thesis_title": "Distribution Theory of Runs", 
+                    "year": "1940", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=34708"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "year?", 
+                    "howpublished": "???", 
+                    "topline": "misc mood__alexander_m:13", 
+                    "id": "mood__alexander_m:13"
+                }
+            ], 
+            "Biography": [
+                {
+                    "title": "A grateful students honors his mentor", 
+                    "ref": "<t>A grateful students honors his mentor.</t> <au>Wasserstein, R.</au>. <j>Amstat News</j>, Vol. <v>Mar. 2008</v>, pp.<pp>24</pp>", 
+                    "author": "Wasserstein, R.", 
+                    "bibtype": "article", 
+                    "year": "2008", 
+                    "howpublished": "<j>Amstat News</j>, Vol. <v>Mar. 2008</v>, pp.<pp>24</pp>", 
+                    "topline": "article mood__alexander_m:11", 
+                    "id": "mood__alexander_m:11"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2008", 
+                    "howpublished": "???", 
+                    "topline": "misc mood__alexander_m:873742", 
+                    "id": "mood__alexander_m:873742"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

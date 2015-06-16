@@ -1,0 +1,82 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Hermann Witting, 1927-2010", 
+                    "ref": "<t>Hermann Witting, 1927-2010.</t> <au>Lerche, H. R.</au>. <j>IMS Bulletin</j>, Vol. <v>39(10)</v>, pp.<pp>6</pp>", 
+                    "author": "Lerche, H. R.", 
+                    "bibtype": "article", 
+                    "year": "2010", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>39(10)</v>, pp.<pp>6</pp>", 
+                    "topline": "article witting__hermann:7", 
+                    "id": "witting__hermann:7"
+                }
+            ], 
+            "DOB": "1927-05-29", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2010-10-05", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Witting, Hermann", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "witting__hermann", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=183855", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:witting.hermann", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=21639", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18645246", 
+                    "anchor": "Microsoft Academic: Witting, Hermann"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1968", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Albert-Ludwigs-Universit&auml;t Freiburg im Breisgau", 
+                    "thesis_title": "Verbesserung des Differenzenverfahrens von H. Goertler zur Berechnung laminarer Grenzschichten", 
+                    "year": "1953", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=21639"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

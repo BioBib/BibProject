@@ -1,0 +1,87 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Narayan Chandra Giri, 1928-2006", 
+                    "ref": "<t>Narayan Chandra Giri, 1928-2006.</t> <au>Sinha, B. K.</au>. <j>IMS Bulletin</j>, pp.<pp>11</pp>", 
+                    "author": "Sinha, B. K.", 
+                    "bibtype": "article", 
+                    "year": "2006", 
+                    "howpublished": "<j>IMS Bulletin</j>, pp.<pp>11</pp>", 
+                    "topline": "article giri__narayan_c:8", 
+                    "id": "giri__narayan_c:8"
+                }
+            ], 
+            "DOB": "1928-05-01", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2006-01-29", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Giri, Narayan Chandra", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "giri__narayan_c", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=74000", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:giri.narayan-c", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=73095", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18641435", 
+                    "anchor": "Microsoft Academic: Giri, Narayan C."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/42782740", 
+                    "anchor": "Microsoft Academic: Giri, N. C."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1973", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "giri__narayan", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Stanford University", 
+                    "thesis_title": "On Tests with Likelihood Ratio Criteria in Some Problems of Multivariate Analysis", 
+                    "year": "1962", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=73095"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

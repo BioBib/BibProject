@@ -1,0 +1,79 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Math professor Arcones dies", 
+                    "ref": "<t>Math professor Arcones dies.</t> <j>Inside Binghamton University</j>, Vol. <v>31(18)</v>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2010", 
+                    "howpublished": "<j>Inside Binghamton University</j>, Vol. <v>31(18)</v>", 
+                    "topline": "article arcones__miguel_a:9", 
+                    "id": "arcones__miguel_a:9"
+                }
+            ], 
+            "DOB": "1963-03-01", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2009-12-30", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Arcones, Miguel A.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>Bernoulli News</j>, Vol. <v>17(1)</v>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2010", 
+                    "howpublished": "<j>Bernoulli News</j>, Vol. <v>17(1)</v>", 
+                    "topline": "article arcones__miguel_a:10", 
+                    "id": "arcones__miguel_a:10"
+                }
+            ], 
+            "ims_id": "arcones__miguel_a", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.math.binghamton.edu/arcones/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:arcones.miguel-a", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/2063315", 
+                    "anchor": "Microsoft Academic: Arcones, Miguel A."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "2008", 
+                    "citation": "For contributions to probability and mathematical statistics including the bootstrap, U-statistics, M-estimators, Gaussian processes, limit theorems, empirical processes and large deviation theory; and for extensive editorial work", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "arcones__miguel", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

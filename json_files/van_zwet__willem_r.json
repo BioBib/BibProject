@@ -1,0 +1,161 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "van Zwet, Willem R.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "van_zwet__willem_r", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.stat.unc.edu/faculty/vanz.html", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=187795", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:van-zwet.willem-r", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=68841", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52739127", 
+                    "anchor": "Microsoft Academic: W. R. van Zwet"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52739128", 
+                    "anchor": "Microsoft Academic: Willem R. van Zwet"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54572944", 
+                    "anchor": "Microsoft Academic: W. R. van Zwet"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/17914253", 
+                    "anchor": "Microsoft Academic: Willem R. van Zwet"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/56967240", 
+                    "anchor": "Microsoft Academic: W. R. van Zwet"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/26820246", 
+                    "anchor": "Microsoft Academic: W. R. van Zwet"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1972", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "The Royal Netherlands Academy of Arts and Sciences, Member", 
+                    "year": "1979", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Medallion Lecturer", 
+                    "year": "1986", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS President", 
+                    "year": "1992", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Wald Lecturer", 
+                    "year": "1992", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "van_zwet__willem", 
+            "Festschrift": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2001", 
+                    "howpublished": "???", 
+                    "topline": "misc van_zwet__willem_r:444153", 
+                    "id": "van_zwet__willem_r:444153"
+                }
+            ], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Universiteit van Amsterdam", 
+                    "thesis_title": "Convex Transformations of Random Variables", 
+                    "year": "1964", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=68841"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Willem Rutger van Zwet", 
+                    "ref": "<t>Willem Rutger van Zwet.</t> <au>Jure&ccaron;kov&aacute;, J.</au>. <j>IMS Bulletin</j>, Vol. <v>26</v>, pp.<pp>356-357</pp>", 
+                    "author": "Jure&ccaron;kov&aacute;, J.", 
+                    "bibtype": "article", 
+                    "year": "1997", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>26</v>, pp.<pp>356-357</pp>", 
+                    "topline": "article van_zwet__willem_r:9", 
+                    "id": "van_zwet__willem_r:9"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2001", 
+                    "howpublished": "???", 
+                    "topline": "misc van_zwet__willem_r:93972", 
+                    "id": "van_zwet__willem_r:93972"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2001", 
+                    "howpublished": "???", 
+                    "topline": "misc van_zwet__willem_r:295366", 
+                    "id": "van_zwet__willem_r:295366"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

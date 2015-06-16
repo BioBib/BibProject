@@ -1,0 +1,99 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1937-10-04", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2010-04-05", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Robertson, Timothy J.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc robertson__timothy_j:935889", 
+                    "id": "robertson__timothy_j:935889"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc robertson__timothy_j:929517", 
+                    "id": "robertson__timothy_j:929517"
+                }, 
+                {
+                    "title": "Timothy Robertson, 1937-2010", 
+                    "ref": "<t>Timothy Robertson, 1937-2010.</t> <au>Dykstra, R.</au>. <j>IMS Bulletin</j>, Vol. <v>40(5)</v>, pp.<pp>9</pp>", 
+                    "author": "Dykstra, R.", 
+                    "bibtype": "article", 
+                    "year": "2011", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>40(5)</v>, pp.<pp>9</pp>", 
+                    "topline": "article robertson__timothy_j:8", 
+                    "id": "robertson__timothy_j:8"
+                }
+            ], 
+            "ims_id": "robertson__timothy_j", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=193354", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=36870", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12608430", 
+                    "anchor": "Microsoft Academic: Robertson, Tim"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1979", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "robertson__timothy", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Missouri - Columbia", 
+                    "thesis_title": "Conditional Expectation Given a Sigma-Lattice and Estimation of Restricted Densities", 
+                    "year": "1966", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=36870"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

@@ -1,0 +1,81 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc kotz__samuel:165290", 
+                    "id": "kotz__samuel:165290"
+                }
+            ], 
+            "DOB": "1930-08-28", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2010-03-16", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Kotz, Samuel", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Samuel Kotz, 1930-2010", 
+                    "ref": "<t>Samuel Kotz, 1930-2010.</t> <au>Nadarajah, S.</au>. <j>IMS Bulletin</j>, Vol. <v>39(6)</v>, pp.<pp>6</pp>", 
+                    "author": "Nadarajah, S.", 
+                    "bibtype": "article", 
+                    "year": "2010", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>39(6)</v>, pp.<pp>6</pp>", 
+                    "topline": "article kotz__samuel:7", 
+                    "id": "kotz__samuel:7"
+                }
+            ], 
+            "ims_id": "kotz__samuel", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.seas.gwu.edu/~kotz/SamuelKotzPapers05-09.html", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=105490", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:kotz.samuel", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12601244", 
+                    "anchor": "Microsoft Academic: Kotz, Samuel"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1974", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

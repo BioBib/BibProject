@@ -1,0 +1,207 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1900-01-12", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1971-03-31", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Youden, William J.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "youden__william_j", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://it.wikipedia.org/wiki/William_J._Youden", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=569075", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:youden.w-j", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53883604", 
+                    "anchor": "Microsoft Academic: W. J. Youden"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/19158064", 
+                    "anchor": "Microsoft Academic: W. J. Youden"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/49250324", 
+                    "anchor": "Microsoft Academic: W. J. Youden"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/46694689", 
+                    "anchor": "Microsoft Academic: W. J. Youden"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53332642", 
+                    "anchor": "Microsoft Academic: W. J. Youden"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52826903", 
+                    "anchor": "Microsoft Academic: W. J. Youden"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/57098166", 
+                    "anchor": "Microsoft Academic: W. J. Youden"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/20143205", 
+                    "anchor": "Microsoft Academic: W. J. Youden"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53883605", 
+                    "anchor": "Microsoft Academic: W. J. Youden"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/48577878", 
+                    "anchor": "Microsoft Academic: W. J. Youden"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/48577941", 
+                    "anchor": "Microsoft Academic: W. J. Youden"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53220314", 
+                    "anchor": "Microsoft Academic: W. J. Youden"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "Samuel S. Wilks Award", 
+                    "year": "1969", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "19??", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "youden__william", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Youden, W. J.", 
+                    "ref": "<t>Youden, W. J.</t> <au>Ku, H. H.</au>. <inc>booktitle:international-encyclopedia-of-statistics</inc>. pp.<pp>1257-1261</pp>", 
+                    "author": "Ku, H. H.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:international-encyclopedia-of-statistics", 
+                    "year": "1978", 
+                    "howpublished": "pp.<pp>1257-1261</pp>", 
+                    "topline": "incollection youden__william_j:8", 
+                    "id": "youden__william_j:8"
+                }, 
+                {
+                    "title": "W. J. Youden: The man and his methodology", 
+                    "ref": "<t>W. J. Youden: The man and his methodology.</t> <au>Cornell, J. A.</au>. <j>ASQC Statistics Division Newsletter</j>, Vol. <v>13(2)</v>, pp.<pp>9-18</pp>", 
+                    "author": "Cornell, J. A.", 
+                    "bibtype": "article", 
+                    "year": "1993", 
+                    "howpublished": "<j>ASQC Statistics Division Newsletter</j>, Vol. <v>13(2)</v>, pp.<pp>9-18</pp>", 
+                    "topline": "article youden__william_j:9", 
+                    "id": "youden__william_j:9"
+                }, 
+                {
+                    "title": "William John Youden", 
+                    "ref": "<t>William John Youden.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2000", 
+                    "howpublished": "???", 
+                    "topline": "incollection youden__william_j:12", 
+                    "id": "youden__william_j:12"
+                }, 
+                {
+                    "title": "William John Youden", 
+                    "ref": "<t>William John Youden.</t> <au>Ku, H. H. and Rosenblatt, J. R.</au>. <inc>booktitle:statisticians-of-the-centuries</inc>. pp.<pp>479-484</pp>", 
+                    "author": "Ku, H. H. and Rosenblatt, J. R.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:statisticians-of-the-centuries", 
+                    "year": "2001", 
+                    "howpublished": "pp.<pp>479-484</pp>", 
+                    "topline": "incollection youden__william_j:10", 
+                    "id": "youden__william_j:10"
+                }, 
+                {
+                    "title": "Youden, William John", 
+                    "ref": "<t>Youden, William John.</t> <au>Eisenhart, C.</au>. <inc>booktitle:complete-dictionary-of-scientific-biography</inc>. Vol. <v>14</v>, pp.<pp>552-557</pp>", 
+                    "author": "Eisenhart, C.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:complete-dictionary-of-scientific-biography", 
+                    "year": "2008", 
+                    "howpublished": "Vol. <v>14</v>, pp.<pp>552-557</pp>", 
+                    "topline": "incollection youden__william_j:11", 
+                    "id": "youden__william_j:11"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Free Press", 
+            "title": "International Encyclopedia of Statistics", 
+            "url": "http://www.worldcat.org/title/international-encyclopedia-of-statistics/oclc/3966286", 
+            "booktitle": "International Encyclopedia of Statistics", 
+            "address": "New York", 
+            "editors": "W. H. Kruskal and J. M. Tanur", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:international-encyclopedia-of-statistics", 
+            "year": "1978", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>International Encyclopedia of Statistics.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:international-encyclopedia-of-statistics"
+        }, 
+        {
+            "publisher": "Springer", 
+            "title": "Statisticians of the Centuries", 
+            "url": "http://www.worldcat.org/title/statisticians-of-the-centuries/oclc/46791088", 
+            "booktitle": "Statisticians of the Centuries", 
+            "address": "New York", 
+            "editors": "C. C. Heyde and E. Seneta", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:statisticians-of-the-centuries", 
+            "year": "2001", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Statisticians of the Centuries.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:statisticians-of-the-centuries"
+        }, 
+        {
+            "publisher": "Scribner's", 
+            "title": "Complete Dictionary of Scientific Biography", 
+            "url": "http://www.worldcat.org/title/complete-dictionary-of-scientific-biography/oclc/187313311", 
+            "booktitle": "Complete Dictionary of Scientific Biography", 
+            "address": "Detroit", 
+            "editors": "F. L. Holmes", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:complete-dictionary-of-scientific-biography", 
+            "year": "2008", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Complete Dictionary of Scientific Biography.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:complete-dictionary-of-scientific-biography"
+        }
+    ]
+}

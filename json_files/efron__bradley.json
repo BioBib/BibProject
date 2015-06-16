@@ -1,0 +1,204 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [
+                {
+                    "title": "The Science of Bradley Efron: Selected Papers", 
+                    "ref": "<t>The Science of Bradley Efron: Selected Papers.</t> Springer", 
+                    "author": "Anonymous", 
+                    "bibtype": "book", 
+                    "year": "2008", 
+                    "howpublished": "Springer", 
+                    "topline": "book efron__bradley:21", 
+                    "id": "efron__bradley:21"
+                }
+            ], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Efron, Bradley", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "efron__bradley", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www-stat.stanford.edu/~ckirby/brad/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://en.wikipedia.org/wiki/Bradley_Efron", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=61975", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:efron.bradley", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=14941", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/522437", 
+                    "anchor": "Microsoft Academic: Efron, Bradley"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1972", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Rietz Lecturer", 
+                    "year": "1977", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Wald Lecturer", 
+                    "year": "1981", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1983", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "MacArthur Fellow", 
+                    "year": "1983", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Member", 
+                    "year": "1986", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS President", 
+                    "year": "1988", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Samuel S. Wilks Award", 
+                    "year": "1990", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "R. A. Fisher Lecturer", 
+                    "year": "1996", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Medal of Science", 
+                    "year": "2005", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Stanford University", 
+                    "thesis_title": "Problems in Probability of a Geometric Nature", 
+                    "year": "1964", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=14941"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Bradley Efron---A world-class statistician", 
+                    "ref": "<t>Bradley Efron---A world-class statistician.</t> <au>Saleh, A. K. Md. Ehsanes</au>. <j>J. Statistical Research</j>, Vol. <v>33</v>, pp.<pp>85-86</pp>", 
+                    "author": "Saleh, A. K. Md. Ehsanes", 
+                    "bibtype": "article", 
+                    "year": "1999", 
+                    "howpublished": "<j>J. Statistical Research</j>, Vol. <v>33</v>, pp.<pp>85-86</pp>", 
+                    "topline": "article efron__bradley:14", 
+                    "id": "efron__bradley:14"
+                }, 
+                {
+                    "title": "Bradley Efron: A conversation with good friends", 
+                    "ref": "<t>Bradley Efron: A conversation with good friends.</t> <au>Holmes, S. and Morris, C. and Tibshirani, R.</au>. <j>Statist. Sci.</j>, Vol. <v>18</v>, pp.<pp>268-281</pp>", 
+                    "author": "Holmes, S. and Morris, C. and Tibshirani, R.", 
+                    "bibtype": "article", 
+                    "year": "2003", 
+                    "howpublished": "<j>Statist. Sci.</j>, Vol. <v>18</v>, pp.<pp>268-281</pp>", 
+                    "topline": "article efron__bradley:15", 
+                    "id": "efron__bradley:15"
+                }, 
+                {
+                    "title": "Brad Efron, National Medal of Science", 
+                    "ref": "<t>Brad Efron, National Medal of Science.</t> <au>Morris, C. N.</au>. <j>IMS Bulletin</j>, Vol. <v>36(6)</v>, pp.<pp>1</pp>", 
+                    "author": "Morris, C. N.", 
+                    "bibtype": "article", 
+                    "year": "2007", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>36(6)</v>, pp.<pp>1</pp>", 
+                    "topline": "article efron__bradley:16", 
+                    "id": "efron__bradley:16"
+                }, 
+                {
+                    "title": "Efron receives National Medal of Science", 
+                    "ref": "<t>Efron receives National Medal of Science.</t> <au>Jackson, A.</au>. <j>Notices Amer. Math. Soc.</j>, Vol. <v>54</v>, pp.<pp>999</pp>", 
+                    "author": "Jackson, A.", 
+                    "bibtype": "article", 
+                    "year": "2007", 
+                    "howpublished": "<j>Notices Amer. Math. Soc.</j>, Vol. <v>54</v>, pp.<pp>999</pp>", 
+                    "topline": "article efron__bradley:17", 
+                    "id": "efron__bradley:17"
+                }, 
+                {
+                    "title": "Bradley Efron", 
+                    "ref": "<t>Bradley Efron.</t> <au>Champkin, J.</au>. <j>Significance</j>, Vol. <v>7</v>, pp.<pp>178-181</pp>", 
+                    "author": "Champkin, J.", 
+                    "bibtype": "article", 
+                    "year": "2010", 
+                    "howpublished": "<j>Significance</j>, Vol. <v>7</v>, pp.<pp>178-181</pp>", 
+                    "topline": "article efron__bradley:18", 
+                    "id": "efron__bradley:18"
+                }, 
+                {
+                    "title": "A biographical sketch of Professor Bradley Efron: A distinguished statistician and the star of the science", 
+                    "ref": "<t>A biographical sketch of Professor Bradley Efron: A distinguished statistician and the star of the science.</t> <au>Kibria, B. M. G.</au>. <j>J. Statistical Research</j>, Vol. <v>44</v>, pp.<pp>1-13</pp>", 
+                    "author": "Kibria, B. M. G.", 
+                    "bibtype": "article", 
+                    "year": "2010", 
+                    "howpublished": "<j>J. Statistical Research</j>, Vol. <v>44</v>, pp.<pp>1-13</pp>", 
+                    "topline": "article efron__bradley:19", 
+                    "id": "efron__bradley:19"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

@@ -1,0 +1,93 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1924-07-16", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2011-06-12", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Kemperman, Johannes H. B.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Johannes Kemperman, 1924-2011", 
+                    "ref": "<t>Johannes Kemperman, 1924-2011.</t> <au>Hall, J. and Naus, J.</au>. <j>IMS Bulletin</j>, Vol. <v>41(2)</v>, pp.<pp>6-7</pp>", 
+                    "author": "Hall, J. and Naus, J.", 
+                    "bibtype": "article", 
+                    "year": "2012", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>41(2)</v>, pp.<pp>6-7</pp>", 
+                    "topline": "article kemperman__johannes_h_b:9", 
+                    "id": "kemperman__johannes_h_b:9"
+                }
+            ], 
+            "ims_id": "kemperman__johannes_h_b", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=219580", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:kemperman.johannes-henricus-bernardus", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=8008", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53902851", 
+                    "anchor": "Microsoft Academic: Kemperman, J. H. B."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12858872", 
+                    "anchor": "Microsoft Academic: Kemperman, J. H. B."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "The Royal Netherlands Academy of Arts and Sciences, Member", 
+                    "year": "1964", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1965", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "kemperman__johannes", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Universiteit van Amsterdam", 
+                    "thesis_title": "The General One-Dimensional Random Walk with Absorbing Barriers, with Applications to Sequential Analysis", 
+                    "year": "1950", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=8008"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

@@ -1,0 +1,64 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "R&eacute;v&eacute;sz, P&aacute;l", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "revesz__pal", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=147395", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:revesz.pal", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/44697427", 
+                    "anchor": "Microsoft Academic: Pal Revesz"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/47650394", 
+                    "anchor": "Microsoft Academic: Pal Revesz (P\\'{a"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53171468", 
+                    "anchor": "Microsoft Academic: Pal Revesz (P\\'{a"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/41738964", 
+                    "anchor": "Microsoft Academic: Pal Revesz (P\\'{a"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1977", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

@@ -1,0 +1,94 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Robert Fleming Tate", 
+                    "ref": "<t>Robert Fleming Tate.</t> <au>Truax, D. and Andrews, F.</au>. <j>IMS Bulletin</j>, Vol. <v>29</v>, pp.<pp>6</pp>", 
+                    "author": "Truax, D. and Andrews, F.", 
+                    "bibtype": "article", 
+                    "year": "2000", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>29</v>, pp.<pp>6</pp>", 
+                    "topline": "article tate__robert_f:9", 
+                    "id": "tate__robert_f:9"
+                }
+            ], 
+            "DOB": "1921-12-15", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1999-11-07", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Tate, Robert F.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "tate__robert_f", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=551319", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:tate.robert-f", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=12799", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18624279", 
+                    "anchor": "Microsoft Academic: Tate, Robert F."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1967", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "tate__robert", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Robert F. Tate", 
+                    "ref": "<t>Robert F. Tate.</t> <j>News and Views, faculty and staff newsletter of the University of Oregon</j>", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1999", 
+                    "howpublished": "<j>News and Views, faculty and staff newsletter of the University of Oregon</j>", 
+                    "topline": "misc tate__robert_f:8", 
+                    "id": "tate__robert_f:8"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of California, Berkeley", 
+                    "thesis_title": "Contributions to the Theory of Random Numbers of Random Variables", 
+                    "year": "1952", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=12799"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

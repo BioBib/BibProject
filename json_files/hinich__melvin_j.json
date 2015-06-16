@@ -1,0 +1,119 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1939-04-29", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2010-09-06", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Hinich, Melvin J.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "hinich__melvin_j", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://en.wikipedia.org/wiki/Melvin_J._Hinich", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "category": "homepage", 
+                    "href": "http://www.hedgefund-index.com/s_hinich.asp", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "category": "homepage", 
+                    "href": "http://en.wikipedia.org/wiki/Melvin_J._Hinich", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=86130", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:hinich.melvin-j", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=14674", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53054755", 
+                    "anchor": "Microsoft Academic: Melvin J. Hinich"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/847758", 
+                    "anchor": "Microsoft Academic: Melvin J. Hinich"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53054750", 
+                    "anchor": "Microsoft Academic: Melvin J. Hinich"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53054752", 
+                    "anchor": "Microsoft Academic: M. J. Hinich"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53054753", 
+                    "anchor": "Microsoft Academic: Melvin J. Hinich"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52500436", 
+                    "anchor": "Microsoft Academic: Mel Hinich"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/49067455", 
+                    "anchor": "Microsoft Academic: M. J. Hinich"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53054749", 
+                    "anchor": "Microsoft Academic: MELVIN J. HINICH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/10587704", 
+                    "anchor": "Microsoft Academic: Melvin J. Hinich"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1973", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "hinich__melvin", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Stanford University", 
+                    "thesis_title": "Large Sample Estimates of an Unknown Discrete Waveform which is Randomly Repeating in Gaussian Noise", 
+                    "year": "1964", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=14674"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

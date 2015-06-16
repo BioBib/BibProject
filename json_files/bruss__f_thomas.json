@@ -1,0 +1,96 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Bruss, Franz Thomas", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "bruss__f_thomas", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://homepages.ulb.ac.be/~tbruss/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "category": "homepage", 
+                    "href": "http://www.math.ucla.edu/~tom/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=42600", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:bruss.f-thomas", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=86683", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12978331", 
+                    "anchor": "Microsoft Academic: Bruss, F. Thomas"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54186684", 
+                    "anchor": "Microsoft Academic: Bruss, F. Thomas"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1999", 
+                    "citation": "For his distinguished contributions to the theory of branching processes and record processes, and to the theory and applications of optimal stopping, in particular to rank-based selection problems", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "bruss__franz", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Universit&auml;t des Saarlandes", 
+                    "thesis_title": "Hinreichende Kriterien fuer das Aussterben von Modifizierten Verzweigungsprozessen.", 
+                    "year": "1977", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=86683"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Thomas Bruss", 
+                    "ref": "<t>Thomas Bruss.</t> <j>Bernoulli News</j>, Vol. <v>11(2)</v>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2004", 
+                    "howpublished": "<j>Bernoulli News</j>, Vol. <v>11(2)</v>", 
+                    "topline": "article bruss__f_thomas:7", 
+                    "id": "bruss__f_thomas:7"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

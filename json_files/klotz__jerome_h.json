@@ -1,0 +1,92 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Jerome Hamilton Klotz, 1934-2006", 
+                    "ref": "<t>Jerome Hamilton Klotz, 1934-2006.</t> <au>Johnson, R. and Doksum, K.</au>. <j>IMS Bulletin</j>, Vol. <v>36(2)</v>, pp.<pp>7</pp>", 
+                    "author": "Johnson, R. and Doksum, K.", 
+                    "bibtype": "article", 
+                    "year": "2007", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>36(2)</v>, pp.<pp>7</pp>", 
+                    "topline": "article klotz__jerome_h:8", 
+                    "id": "klotz__jerome_h:8"
+                }
+            ], 
+            "DOB": "1934-06-21", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2006-11-12", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Klotz, Jerome H.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "klotz__jerome_h", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://pages.cs.wisc.edu/~klotz/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=103050", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:klotz.jerome-h", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=34494", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18731437", 
+                    "anchor": "Microsoft Academic: Klotz, Jerome H."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/55194499", 
+                    "anchor": "Microsoft Academic: Klotz, Jerome"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1973", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "klotz__jerome", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of California, Berkeley", 
+                    "thesis_title": "Nonparametric Tests for Scale", 
+                    "year": "1960", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=34494"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

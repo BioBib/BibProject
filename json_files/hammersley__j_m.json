@@ -1,0 +1,159 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2004", 
+                    "howpublished": "???", 
+                    "topline": "misc hammersley__j_m:656447", 
+                    "id": "hammersley__j_m:656447"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2004", 
+                    "howpublished": "???", 
+                    "topline": "misc hammersley__j_m:350605", 
+                    "id": "hammersley__j_m:350605"
+                }
+            ], 
+            "DOB": "1920-03-21", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2004-05-02", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Hammersley, John Michael", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "hammersley__j_m", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://en.wikipedia.org/wiki/John_Hammersley", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=80570", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:hammersley.john-michael", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=58750", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/1884769", 
+                    "anchor": "Microsoft Academic: Hammersley, J. M."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1957", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "The Royal Society, Fellow", 
+                    "year": "1976", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "hammersley__john", 
+            "Festschrift": [
+                {
+                    "title": "Disorder in Physical Systems: A Volume in Honour of John M. Hammersley", 
+                    "ref": "<t>Disorder in Physical Systems: A Volume in Honour of John M. Hammersley.</t> Oxford Univ. Press", 
+                    "author": "Anonymous", 
+                    "bibtype": "book", 
+                    "year": "1990", 
+                    "howpublished": "Oxford Univ. Press", 
+                    "topline": "book hammersley__j_m:8", 
+                    "id": "hammersley__j_m:8"
+                }
+            ], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Cambridge", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=58750"
+                        }
+                    ], 
+                    "type": "Sc.D.", 
+                    "year": "1959"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "John Michael Hammersley, 21 March 1920-2 May 2004", 
+                    "ref": "<t>John Michael Hammersley, 21 March 1920-2 May 2004.</t> <au>Grimmett, G. and Welsh, D.</au>. <j>Biogr. Mems. Fell. R. Soc.</j>, Vol. <v>53</v>, pp.<pp>164-183</pp>", 
+                    "author": "Grimmett, G. and Welsh, D.", 
+                    "bibtype": "article", 
+                    "year": "2007", 
+                    "howpublished": "<j>Biogr. Mems. Fell. R. Soc.</j>, Vol. <v>53</v>, pp.<pp>164-183</pp>", 
+                    "topline": "article hammersley__j_m:12", 
+                    "id": "hammersley__j_m:12"
+                }, 
+                {
+                    "title": "Hammersley, John Michael (1920-2004)", 
+                    "ref": "<t>Hammersley, John Michael (1920-2004).</t> <au>Grimmett, G. R.</au>. <inc>booktitle:oxford-dictionary-of-national-biography-in-association-with-the-british-academy-from-the-earliest-times-to-the-year-2000</inc>. ???", 
+                    "author": "Grimmett, G. R.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:oxford-dictionary-of-national-biography-in-association-with-the-british-academy-from-the-earliest-times-to-the-year-2000", 
+                    "year": "2008", 
+                    "howpublished": "???", 
+                    "topline": "incollection hammersley__j_m:13", 
+                    "id": "hammersley__j_m:13"
+                }, 
+                {
+                    "title": "John Michael Hammersley", 
+                    "ref": "<t>John Michael Hammersley.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2008", 
+                    "howpublished": "???", 
+                    "topline": "incollection hammersley__j_m:14", 
+                    "id": "hammersley__j_m:14"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Oxford Univ. Press", 
+            "title": "Oxford Dictionary of National Biography", 
+            "url": "http://www.worldcat.org/title/oxford-dictionary-of-national-biography-in-association-with-the-british-academy-from-the-earliest-times-to-the-year-2000/oclc/54778415", 
+            "booktitle": "Oxford Dictionary of National Biography", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:oxford-dictionary-of-national-biography-in-association-with-the-british-academy-from-the-earliest-times-to-the-year-2000", 
+            "year": "2004", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Oxford Dictionary of National Biography.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:oxford-dictionary-of-national-biography-in-association-with-the-british-academy-from-the-earliest-times-to-the-year-2000"
+        }
+    ]
+}

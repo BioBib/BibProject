@@ -1,0 +1,222 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1867-02-07", 
+            "DVD": [], 
+            "Collected_Works": [
+                {
+                    "title": "The Works of Irving Fisher", 
+                    "ref": "<t>The Works of Irving Fisher.</t> <au>Fisher, I.</au>. <ed>W. J. Barber</ed>. W. J. Barber, Pickering and Chatto", 
+                    "author": "Fisher, I.", 
+                    "bibtype": "book", 
+                    "editor": "W. J. Barber", 
+                    "year": "1997", 
+                    "howpublished": "W. J. Barber, Pickering and Chatto", 
+                    "topline": "book fisher__irving:17", 
+                    "id": "fisher__irving:17"
+                }
+            ], 
+            "DOD": "1947-04-29", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Fisher, Irving", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Irving Fisher", 
+                    "ref": "<t>Irving Fisher.</t> <au>Westerfield, R. B.</au>. <j>American Economic Review</j>, Vol. <v>37</v>, pp.<pp>656-661</pp>", 
+                    "author": "Westerfield, R. B.", 
+                    "bibtype": "article", 
+                    "year": "1947", 
+                    "howpublished": "<j>American Economic Review</j>, Vol. <v>37</v>, pp.<pp>656-661</pp>", 
+                    "topline": "article fisher__irving:7", 
+                    "id": "fisher__irving:7"
+                }, 
+                {
+                    "title": "Irving Fisher", 
+                    "ref": "<t>Irving Fisher.</t> <au>Douglas, P. H.</au>. <j>American Economic Review</j>, Vol. <v>37</v>, pp.<pp>661-663</pp>", 
+                    "author": "Douglas, P. H.", 
+                    "bibtype": "article", 
+                    "year": "1947", 
+                    "howpublished": "<j>American Economic Review</j>, Vol. <v>37</v>, pp.<pp>661-663</pp>", 
+                    "topline": "article fisher__irving:8", 
+                    "id": "fisher__irving:8"
+                }, 
+                {
+                    "title": "Irving Fisher and social science", 
+                    "ref": "<t>Irving Fisher and social science.</t> <au>Sasuly, M.</au>. <j>Econometrica</j>, Vol. <v>15</v>, pp.<pp>255-278</pp>", 
+                    "author": "Sasuly, M.", 
+                    "bibtype": "article", 
+                    "year": "1947", 
+                    "howpublished": "<j>Econometrica</j>, Vol. <v>15</v>, pp.<pp>255-278</pp>", 
+                    "topline": "article fisher__irving:9", 
+                    "id": "fisher__irving:9"
+                }
+            ], 
+            "ims_id": "fisher__irving", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=341909", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:fisher.irving", 
+                    "anchor": "zbMATH"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1912", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "before 1943", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Irving Fisher's econometrics", 
+                    "ref": "<t>Irving Fisher's econometrics.</t> <au>Schumpeter, J. A.</au>. <j>Econometrica</j>, Vol. <v>16</v>, pp.<pp>219-231</pp>", 
+                    "author": "Schumpeter, J. A.", 
+                    "bibtype": "article", 
+                    "year": "1948", 
+                    "howpublished": "<j>Econometrica</j>, Vol. <v>16</v>, pp.<pp>219-231</pp>", 
+                    "topline": "article fisher__irving:11", 
+                    "id": "fisher__irving:11"
+                }, 
+                {
+                    "title": "Irving Fisher: A Biography", 
+                    "ref": "<t>Irving Fisher: A Biography.</t> <au>Allen, R. L.</au>. Blackwell", 
+                    "author": "Allen, R. L.", 
+                    "bibtype": "book", 
+                    "year": "1993", 
+                    "howpublished": "Blackwell", 
+                    "topline": "book fisher__irving:12", 
+                    "id": "fisher__irving:12"
+                }, 
+                {
+                    "title": "Irving Fisher", 
+                    "ref": "<t>Irving Fisher.</t> <au>Vogt, A.</au>. <inc>booktitle:statisticians-of-the-centuries</inc>. pp.<pp>268-272</pp>", 
+                    "author": "Vogt, A.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:statisticians-of-the-centuries", 
+                    "year": "2001", 
+                    "howpublished": "pp.<pp>268-272</pp>", 
+                    "topline": "incollection fisher__irving:14", 
+                    "id": "fisher__irving:14"
+                }, 
+                {
+                    "title": "Fisher, Irving (1867-1947).", 
+                    "ref": "<t>Fisher, Irving (1867-1947).</t> <au>Barber, W. J.</au>. <inc>booktitle:international-encyclopedia-of-the-social-behavioral-sciences</inc>. pp.<pp>5694-5698</pp>", 
+                    "author": "Barber, W. J.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:international-encyclopedia-of-the-social-behavioral-sciences", 
+                    "year": "2001", 
+                    "howpublished": "pp.<pp>5694-5698</pp>", 
+                    "topline": "incollection fisher__irving:15", 
+                    "id": "fisher__irving:15"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <inc>booktitle:encyclopedia-of-statistical-sciences</inc>. ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-statistical-sciences", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "incollection fisher__irving:13", 
+                    "id": "fisher__irving:13"
+                }, 
+                {
+                    "title": "Fisher, Irving", 
+                    "ref": "<t>Fisher, Irving.</t> <au>Dimand, R. W.</au>. <inc>booktitle:international-encyclopedia-of-the-social-sciences</inc>. ???", 
+                    "author": "Dimand, R. W.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:international-encyclopedia-of-the-social-sciences", 
+                    "year": "2008", 
+                    "howpublished": "???", 
+                    "topline": "incollection fisher__irving:16", 
+                    "id": "fisher__irving:16"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Springer", 
+            "title": "Statisticians of the Centuries", 
+            "url": "http://www.worldcat.org/title/statisticians-of-the-centuries/oclc/46791088", 
+            "booktitle": "Statisticians of the Centuries", 
+            "address": "New York", 
+            "editors": "C. C. Heyde and E. Seneta", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:statisticians-of-the-centuries", 
+            "year": "2001", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Statisticians of the Centuries.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:statisticians-of-the-centuries"
+        }, 
+        {
+            "publisher": "North-Holland", 
+            "title": "International Encyclopedia of the Social and Behavioral Sciences", 
+            "url": "http://www.worldcat.org/title/international-encyclopedia-of-the-social-behavioral-sciences/oclc/47869490", 
+            "booktitle": "International Encyclopedia of the Social and Behavioral Sciences", 
+            "address": "Amsterdam", 
+            "editors": "N. J. Smelser and P. B. Baltes", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:international-encyclopedia-of-the-social-behavioral-sciences", 
+            "year": "2001", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>International Encyclopedia of the Social and Behavioral Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:international-encyclopedia-of-the-social-behavioral-sciences"
+        }, 
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Statistical Sciences", 
+            "url": "http://onlinelibrary.wiley.com/book/10.1002/0471667196", 
+            "booktitle": "Encyclopedia of Statistical Sciences", 
+            "address": "Hoboken, NJ", 
+            "editors": "S. Kotz and N. Balakrishnan and C. Read and B. Vidakovic", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:encyclopedia-of-statistical-sciences", 
+            "year": "2006", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }, 
+        {
+            "publisher": "Macmillan", 
+            "title": "International Encyclopedia of the Social Sciences", 
+            "url": "http://www.worldcat.org/title/international-encyclopedia-of-the-social-sciences/oclc/165466", 
+            "booktitle": "International Encyclopedia of the Social Sciences", 
+            "address": "Detroit", 
+            "editors": "W. A. Darity, Jr.", 
+            "bibtype": "reference", 
+            "edition": "2nd", 
+            "top_line": "reference booktitle:international-encyclopedia-of-the-social-sciences", 
+            "year": "1968", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>International Encyclopedia of the Social Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:international-encyclopedia-of-the-social-sciences"
+        }
+    ]
+}

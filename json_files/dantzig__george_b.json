@@ -1,0 +1,398 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2005", 
+                    "howpublished": "???", 
+                    "topline": "misc dantzig__george_b:627513", 
+                    "id": "dantzig__george_b:627513"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2005", 
+                    "howpublished": "???", 
+                    "topline": "misc dantzig__george_b:216354", 
+                    "id": "dantzig__george_b:216354"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2005", 
+                    "howpublished": "???", 
+                    "topline": "misc dantzig__george_b:530111", 
+                    "id": "dantzig__george_b:530111"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2005", 
+                    "howpublished": "???", 
+                    "topline": "misc dantzig__george_b:965738", 
+                    "id": "dantzig__george_b:965738"
+                }
+            ], 
+            "DOB": "1914-11-08", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2005-05-13", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Dantzig, George B.", 
+            "Oral_History": [], 
+            "Selected_Works": [
+                {
+                    "title": "The Basic George B. Dantzig", 
+                    "ref": "<t>The Basic George B. Dantzig.</t> Stanford Business Books", 
+                    "author": "Anonymous", 
+                    "bibtype": "book", 
+                    "year": "2003", 
+                    "howpublished": "Stanford Business Books", 
+                    "topline": "book dantzig__george_b:41", 
+                    "id": "dantzig__george_b:41"
+                }
+            ], 
+            "In_Memoriam": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <au>Bickel, P.</au>. <j>IMS Bulletin</j>, Vol. <v>34(7)</v>, pp.<pp>6</pp>", 
+                    "author": "Bickel, P.", 
+                    "bibtype": "article", 
+                    "year": "2005", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>34(7)</v>, pp.<pp>6</pp>", 
+                    "topline": "article dantzig__george_b:16", 
+                    "id": "dantzig__george_b:16"
+                }, 
+                {
+                    "title": "Professor George Bernard Dantzig, life and legend", 
+                    "ref": "<t>Professor George Bernard Dantzig, life and legend.</t> <au>Allende, S. M. and Bouza, C. N.</au>. <j>Investigaci&oacute;n Oper.</j>, Vol. <v>26</v>, pp.<pp>205-211</pp>", 
+                    "author": "Allende, S. M. and Bouza, C. N.", 
+                    "bibtype": "article", 
+                    "year": "2005", 
+                    "howpublished": "<j>Investigaci&oacute;n Oper.</j>, Vol. <v>26</v>, pp.<pp>205-211</pp>", 
+                    "topline": "article dantzig__george_b:17", 
+                    "id": "dantzig__george_b:17"
+                }, 
+                {
+                    "title": "George B. Dantzig: operations research icon", 
+                    "ref": "<t>George B. Dantzig: operations research icon.</t> <au>Cottle, R. W.</au>. <j>Oper. Res.</j>, Vol. <v>53</v>, pp.<pp>892-898</pp>", 
+                    "author": "Cottle, R. W.", 
+                    "bibtype": "article", 
+                    "year": "2005", 
+                    "howpublished": "<j>Oper. Res.</j>, Vol. <v>53</v>, pp.<pp>892-898</pp>", 
+                    "topline": "article dantzig__george_b:18", 
+                    "id": "dantzig__george_b:18"
+                }, 
+                {
+                    "title": "George Dantzig 1914-2005", 
+                    "ref": "<t>George Dantzig 1914-2005.</t> <au>Albers, D.</au>. <j>Focus: Newsletter of the Math. Assoc. America</j>, Vol. <v>25(6)</v>, pp.<pp>8-10</pp>", 
+                    "author": "Albers, D.", 
+                    "bibtype": "article", 
+                    "year": "2005", 
+                    "howpublished": "<j>Focus: Newsletter of the Math. Assoc. America</j>, Vol. <v>25(6)</v>, pp.<pp>8-10</pp>", 
+                    "topline": "article dantzig__george_b:19", 
+                    "id": "dantzig__george_b:19"
+                }, 
+                {
+                    "title": "En la muerte de George B. Dantzig", 
+                    "ref": "<t>En la muerte de George B. Dantzig.</t> <au>Escudero, L. F.</au>. <j>Bol. Estad. Investig. Oper.</j>, Vol. <v>21</v>, pp.<pp>29-31</pp>", 
+                    "author": "Escudero, L. F.", 
+                    "bibtype": "article", 
+                    "year": "2005", 
+                    "howpublished": "<j>Bol. Estad. Investig. Oper.</j>, Vol. <v>21</v>, pp.<pp>29-31</pp>", 
+                    "topline": "article dantzig__george_b:20", 
+                    "id": "dantzig__george_b:20"
+                }, 
+                {
+                    "title": "George B. Dantzig: a legendary life in mathematical programming", 
+                    "ref": "<t>George B. Dantzig: a legendary life in mathematical programming.</t> <au>Cottle, R. W.</au>. <j>Math Program. Ser. A</j>, Vol. <v>105(1)</v>, pp.<pp>1-8</pp>", 
+                    "author": "Cottle, R. W.", 
+                    "bibtype": "article", 
+                    "year": "2006", 
+                    "howpublished": "<j>Math Program. Ser. A</j>, Vol. <v>105(1)</v>, pp.<pp>1-8</pp>", 
+                    "topline": "article dantzig__george_b:21", 
+                    "id": "dantzig__george_b:21"
+                }, 
+                {
+                    "title": "Remembering George Dantzig", 
+                    "ref": "<t>Remembering George Dantzig.</t> <au>Cottle, R. W. and Wright, M. H.</au>. <j>SIAM News</j>, Vol. <v>Apr. 12,</v>", 
+                    "author": "Cottle, R. W. and Wright, M. H.", 
+                    "bibtype": "article", 
+                    "year": "2006", 
+                    "howpublished": "<j>SIAM News</j>, Vol. <v>Apr. 12,</v>", 
+                    "topline": "article dantzig__george_b:22", 
+                    "id": "dantzig__george_b:22"
+                }, 
+                {
+                    "title": "George B. Dantzig (1914-2005)", 
+                    "ref": "<t>George B. Dantzig (1914-2005).</t> <au>Cottle, R. and Johnson, E. and Wets, R.</au>. <j>Notices Amer. Math. Soc.</j>, Vol. <v>54</v>, pp.<pp>344-362</pp>", 
+                    "author": "Cottle, R. and Johnson, E. and Wets, R.", 
+                    "bibtype": "article", 
+                    "year": "2007", 
+                    "howpublished": "<j>Notices Amer. Math. Soc.</j>, Vol. <v>54</v>, pp.<pp>344-362</pp>", 
+                    "topline": "article dantzig__george_b:23", 
+                    "id": "dantzig__george_b:23"
+                }, 
+                {
+                    "title": "A special issue in memory of George B. Dantzig", 
+                    "ref": "<t>A special issue in memory of George B. Dantzig.</t> <au>Balas, E. and Hoffman, A. J. and McCormick, S. T.</au>. <j>Discrete Optim.</j>, Vol. <v>5</v>, pp.<pp>145-150</pp>", 
+                    "author": "Balas, E. and Hoffman, A. J. and McCormick, S. T.", 
+                    "bibtype": "article", 
+                    "year": "2008", 
+                    "howpublished": "<j>Discrete Optim.</j>, Vol. <v>5</v>, pp.<pp>145-150</pp>", 
+                    "topline": "article dantzig__george_b:24", 
+                    "id": "dantzig__george_b:24"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "year?", 
+                    "howpublished": "???", 
+                    "topline": "misc dantzig__george_b:310753", 
+                    "id": "dantzig__george_b:310753"
+                }
+            ], 
+            "ims_id": "dantzig__george_b", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://en.wikipedia.org/wiki/George_Dantzig", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://en.wikipedia.org/wiki/George_Dantzig", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.york.ac.uk/depts/maths/histstat/people/dantzig.gif", 
+                    "anchor": "www.york.ac.uk"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=54520", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:dantzig.george-b", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=32292", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/48332547", 
+                    "anchor": "Microsoft Academic: George B. Dantzig"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/23408343", 
+                    "anchor": "Microsoft Academic: G. B. Dantzig"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/51243458", 
+                    "anchor": "Microsoft Academic: George B. Dantzig"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/904139", 
+                    "anchor": "Microsoft Academic: George Dantzig"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/10558155", 
+                    "anchor": "Microsoft Academic: G. B. Dantzig"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1959", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Member", 
+                    "year": "1971", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1975", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "John von Neumann Theory Prize", 
+                    "year": "1975", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Medal of Science", 
+                    "year": "1975", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "The George B. Dantzig Prize, Mathematical Optimization Society and the Society for Industrial and Applied Mathematics", 
+                    "year": "1979", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Engineering, Member", 
+                    "year": "1985", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "dantzig__george", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Optimization community mourns loss of two linear programming giants", 
+                    "ref": "<t>Optimization community mourns loss of two linear programming giants.</t> <j>SIAM News</j>, Vol. <v>Jun. 10,</v>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2005", 
+                    "howpublished": "<j>SIAM News</j>, Vol. <v>Jun. 10,</v>", 
+                    "topline": "article dantzig__george_b:15", 
+                    "id": "dantzig__george_b:15"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of California, Berkeley", 
+                    "thesis_title": "I. Complete Form Neyman-Pearson Fundamental Lemma. II. On the Non-Existence of Tests of Student's Hypothesis Having Power Functions Independent of Sigma", 
+                    "year": "1946", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=32292"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "An interview with George B. Dantzig: The father of linear programming", 
+                    "ref": "<t>An interview with George B. Dantzig: The father of linear programming.</t> <au>Albers, D. J. and Reid, C.</au>. <j>College Math. J.</j>, Vol. <v>17</v>, pp.<pp>292-314</pp>", 
+                    "author": "Albers, D. J. and Reid, C.", 
+                    "bibtype": "article", 
+                    "year": "1986", 
+                    "howpublished": "<j>College Math. J.</j>, Vol. <v>17</v>, pp.<pp>292-314</pp>", 
+                    "topline": "article dantzig__george_b:32", 
+                    "id": "dantzig__george_b:32"
+                }, 
+                {
+                    "title": "George B. Dantzig", 
+                    "ref": "<t>George B. Dantzig.</t> <inc>booktitle:more-mathematical-people-contemporary-conversations</inc>. pp.<pp>61-79</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:more-mathematical-people-contemporary-conversations", 
+                    "year": "1990", 
+                    "howpublished": "pp.<pp>61-79</pp>", 
+                    "topline": "incollection dantzig__george_b:33", 
+                    "id": "dantzig__george_b:33"
+                }, 
+                {
+                    "title": "George Bernard Dantzig", 
+                    "ref": "<t>George Bernard Dantzig.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2003", 
+                    "howpublished": "???", 
+                    "topline": "incollection dantzig__george_b:39", 
+                    "id": "dantzig__george_b:39"
+                }, 
+                {
+                    "title": "George B. Dantzig and systems optimization", 
+                    "ref": "<t>George B. Dantzig and systems optimization.</t> <au>Gill, P. E. and Murray, W. and Saunders, M. A. and Tomlin, J. A. and Wright, M. H.</au>. <j>Discrete Optim.</j>, Vol. <v>5</v>, pp.<pp>151-158</pp>", 
+                    "author": "Gill, P. E. and Murray, W. and Saunders, M. A. and Tomlin, J. A. and Wright, M. H.", 
+                    "bibtype": "article", 
+                    "year": "2008", 
+                    "howpublished": "<j>Discrete Optim.</j>, Vol. <v>5</v>, pp.<pp>151-158</pp>", 
+                    "topline": "article dantzig__george_b:34", 
+                    "id": "dantzig__george_b:34"
+                }, 
+                {
+                    "title": "George Dantzig in the development of economic analysis", 
+                    "ref": "<t>George Dantzig in the development of economic analysis.</t> <au>Arrow, K. J.</au>. <j>Discrete Optim.</j>, Vol. <v>5</v>, pp.<pp>159-167</pp>", 
+                    "author": "Arrow, K. J.", 
+                    "bibtype": "article", 
+                    "year": "2008", 
+                    "howpublished": "<j>Discrete Optim.</j>, Vol. <v>5</v>, pp.<pp>159-167</pp>", 
+                    "topline": "article dantzig__george_b:35", 
+                    "id": "dantzig__george_b:35"
+                }, 
+                {
+                    "title": "George Dantzig's contributions to integer programming", 
+                    "ref": "<t>George Dantzig's contributions to integer programming.</t> <au>Gr&ouml;tschel, M. and Nemhauser, G. L.</au>. <j>Discrete Optim.</j>, Vol. <v>5</v>, pp.<pp>168-173</pp>", 
+                    "author": "Gr&ouml;tschel, M. and Nemhauser, G. L.", 
+                    "bibtype": "article", 
+                    "year": "2008", 
+                    "howpublished": "<j>Discrete Optim.</j>, Vol. <v>5</v>, pp.<pp>168-173</pp>", 
+                    "topline": "article dantzig__george_b:36", 
+                    "id": "dantzig__george_b:36"
+                }, 
+                {
+                    "title": "George Dantzig's impact on the theory of computation", 
+                    "ref": "<t>George Dantzig's impact on the theory of computation.</t> <au>Karp, R. M.</au>. <j>Discrete Optim.</j>, Vol. <v>5</v>, pp.<pp>174-185</pp>", 
+                    "author": "Karp, R. M.", 
+                    "bibtype": "article", 
+                    "year": "2008", 
+                    "howpublished": "<j>Discrete Optim.</j>, Vol. <v>5</v>, pp.<pp>174-185</pp>", 
+                    "topline": "article dantzig__george_b:37", 
+                    "id": "dantzig__george_b:37"
+                }, 
+                {
+                    "title": "Book review of The Basic George B. Dantzig", 
+                    "ref": "<t>Book review of The Basic George B. Dantzig.</t> <au>Todd, M. J.</au>. <j>Bull. Amer. Math. Soc.</j>, Vol. <v>48</v>, pp.<pp>123-129</pp>", 
+                    "author": "Todd, M. J.", 
+                    "bibtype": "article", 
+                    "year": "2011", 
+                    "howpublished": "<j>Bull. Amer. Math. Soc.</j>, Vol. <v>48</v>, pp.<pp>123-129</pp>", 
+                    "topline": "article dantzig__george_b:38", 
+                    "id": "dantzig__george_b:38"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Academic Press", 
+            "title": "More Mathematical People: Contemporary Conversations", 
+            "url": "http://www.worldcat.org/title/more-mathematical-people-contemporary-conversations/oclc/21335917", 
+            "booktitle": "More Mathematical People: Contemporary Conversations", 
+            "address": "San Diego, CA", 
+            "editors": "D. J. Albers and G. L. Alexanderson and C. Reid", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:more-mathematical-people-contemporary-conversations", 
+            "year": "1990", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>More Mathematical People: Contemporary Conversations.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:more-mathematical-people-contemporary-conversations"
+        }
+    ]
+}

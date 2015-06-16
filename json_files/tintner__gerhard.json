@@ -1,0 +1,85 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1907-09-29", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1983-11-13", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Tintner, Gerhard", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "tintner__gerhard", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=247524", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:tintner.gerhard", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=9428", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/42776159", 
+                    "anchor": "Microsoft Academic: Tintner, Gerhard"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54277246", 
+                    "anchor": "Microsoft Academic: Huang, Weihong"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1947", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>13</v>, pp.<pp>92</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1984", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>13</v>, pp.<pp>92</pp>", 
+                    "topline": "article tintner__gerhard:7", 
+                    "id": "tintner__gerhard:7"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Universit&auml;t Wien", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=9428"
+                        }
+                    ], 
+                    "type": "Ph.D.", 
+                    "year": "1929"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

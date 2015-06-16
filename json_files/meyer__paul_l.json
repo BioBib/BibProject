@@ -1,0 +1,79 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1926-03-23", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1970-11-17", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Meyer, Paul L.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "In memory of Paul L. Meyer", 
+                    "ref": "<t>In memory of Paul L. Meyer.</t> <au>Birnbaum, Z. W.</au>. <j>Ann. Math. Statist.</j>, Vol. <v>42</v>, pp.<pp>847</pp>", 
+                    "author": "Birnbaum, Z. W.", 
+                    "bibtype": "article", 
+                    "year": "1971", 
+                    "howpublished": "<j>Ann. Math. Statist.</j>, Vol. <v>42</v>, pp.<pp>847</pp>", 
+                    "topline": "article meyer__paul_l:8", 
+                    "id": "meyer__paul_l:8"
+                }
+            ], 
+            "ims_id": "meyer__paul_l", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=500024", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=69994", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18725183", 
+                    "anchor": "Microsoft Academic: Meyer, Paul L."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1968", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "meyer__paul", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Stanford University", 
+                    "thesis_title": "An Application of the Invariance Principle to the Student Hypothesis", 
+                    "year": "1955", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=69994"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

@@ -1,0 +1,132 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Samuel W. Greenhouse", 
+                    "ref": "<t>Samuel W. Greenhouse.</t> <au>Lachin, J. M. and Greenhouse, J. B.</au>. <j>IMS Bulletin</j>, Vol. <v>29</v>, pp.<pp>539-540</pp>", 
+                    "author": "Lachin, J. M. and Greenhouse, J. B.", 
+                    "bibtype": "article", 
+                    "year": "2000", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>29</v>, pp.<pp>539-540</pp>", 
+                    "topline": "article greenhouse__samuel_w:8", 
+                    "id": "greenhouse__samuel_w:8"
+                }
+            ], 
+            "DOB": "1918-01-13", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2000-09-29", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Greenhouse, Samuel W.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2001", 
+                    "howpublished": "???", 
+                    "topline": "misc greenhouse__samuel_w:355054", 
+                    "id": "greenhouse__samuel_w:355054"
+                }
+            ], 
+            "ims_id": "greenhouse__samuel_w", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=76650", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:greenhouse.samuel-w", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=97774", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54445866", 
+                    "anchor": "Microsoft Academic: Greenhouse, Samuel W."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1968", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "greenhouse__samuel", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "The George Washington University", 
+                    "thesis_title": "On the Problem of Discrimination Between Statistical Populations", 
+                    "year": "1959", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=97774"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Samuel W. Greenhouse, 1918-2000", 
+                    "ref": "<t>Samuel W. Greenhouse, 1918-2000.</t> <au>Lachin, J. M. and Greenhouse, J.</au>. In: <bt>Statisticians in History</bt>, American Statistical Association", 
+                    "author": "Lachin, J. M. and Greenhouse, J.", 
+                    "bibtype": "incollection", 
+                    "year": "2000", 
+                    "howpublished": "In: <bt>Statisticians in History</bt>, American Statistical Association", 
+                    "topline": "incollection greenhouse__samuel_w:10", 
+                    "id": "greenhouse__samuel_w:10"
+                }, 
+                {
+                    "title": "Greenhouse, Samuel W.", 
+                    "ref": "<t>Greenhouse, Samuel W.</t> <au>Greenhouse, J. B. and Lachin, J. M.</au>. <inc>booktitle:encyclopedia-of-biostatistics</inc>. ???", 
+                    "author": "Greenhouse, J. B. and Lachin, J. M.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-biostatistics", 
+                    "year": "2005", 
+                    "howpublished": "???", 
+                    "topline": "incollection greenhouse__samuel_w:9", 
+                    "id": "greenhouse__samuel_w:9"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Biostatistics", 
+            "url": "http://www.worldcat.org/title/encyclopedia-of-biostatistics/oclc/38258277", 
+            "booktitle": "Encyclopedia of Biostatistics", 
+            "address": "Hoboken, NJ", 
+            "editors": "P. Armitage and T. Colton", 
+            "bibtype": "reference", 
+            "edition": "2nd", 
+            "top_line": "reference booktitle:encyclopedia-of-biostatistics", 
+            "year": "2005", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Biostatistics.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-biostatistics"
+        }
+    ]
+}

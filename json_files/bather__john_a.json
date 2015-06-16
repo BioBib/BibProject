@@ -1,0 +1,113 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Professor John Bather; Statistician who developed mathematical tools to optimize the operations of big and complex organisations.", 
+                    "ref": "<t>Professor John Bather; Statistician who developed mathematical tools to optimize the operations of big and complex organisations.</t> <j>The Times</j>", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2012", 
+                    "howpublished": "<j>The Times</j>", 
+                    "topline": "misc bather__john_a:819410", 
+                    "id": "bather__john_a:819410"
+                }, 
+                {
+                    "title": "Obituary: John and June Bather", 
+                    "ref": "<t>Obituary: John and June Bather.</t> <au>Haigh, John and Goldie, Charles</au>. ???", 
+                    "author": "Haigh, John and Goldie, Charles", 
+                    "bibtype": "misc", 
+                    "year": "2012", 
+                    "howpublished": "???", 
+                    "topline": "misc bather__john_a:40650", 
+                    "id": "bather__john_a:40650"
+                }
+            ], 
+            "DOB": "1936-01-20", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2012-09-07", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Bather, John A.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "John Bather, 1936-2012", 
+                    "ref": "<t>John Bather, 1936-2012.</t> <au>Haigh, J.</au>. <j>IMS Bulletin</j>", 
+                    "author": "Haigh, J.", 
+                    "bibtype": "misc", 
+                    "year": "2013", 
+                    "howpublished": "<j>IMS Bulletin</j>", 
+                    "topline": "misc bather__john_a:851289", 
+                    "id": "bather__john_a:851289"
+                }
+            ], 
+            "ims_id": "bather__john_a", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=32505", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:bather.john-a", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=79386", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52755731", 
+                    "anchor": "Microsoft Academic: Bather, John"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12873497", 
+                    "anchor": "Microsoft Academic: Bather, John A."
+                }
+            ], 
+            "Position": [
+                {
+                    "category": "position", 
+                    "text": "University of Sussex, University of Sussex", 
+                    "year": "1967-2003"
+                }
+            ], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1975", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "bather__john", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=79386"
+                        }
+                    ], 
+                    "type": "Ph.D.", 
+                    "year": "year?"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

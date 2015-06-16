@@ -1,0 +1,218 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1881-10-20", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1974-02-15", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Snedecor, George W.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "snedecor__george_w", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=262271", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:snedecor.george-w", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=89292", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53216555", 
+                    "anchor": "Microsoft Academic: George W. Snedecor"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/41939953", 
+                    "anchor": "Microsoft Academic: George W. Snedecor"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/34153558", 
+                    "anchor": "Microsoft Academic: George W. Snedecor"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18067452", 
+                    "anchor": "Microsoft Academic: G. W. Snedecor"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/36361230", 
+                    "anchor": "Microsoft Academic: G. W. Snedecor"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/47474525", 
+                    "anchor": "Microsoft Academic: GEORGE W. SNEDECOR"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/48929428", 
+                    "anchor": "Microsoft Academic: George W. Snedecor"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/42863428", 
+                    "anchor": "Microsoft Academic: George W. Snedecor"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/57098928", 
+                    "anchor": "Microsoft Academic: G. W. Snedecor"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "Samuel S. Wilks Award", 
+                    "year": "1970", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "before 1943", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "snedecor__george", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>3</v>, pp.<pp>103</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1974", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>3</v>, pp.<pp>103</pp>", 
+                    "topline": "article snedecor__george_w:8", 
+                    "id": "snedecor__george_w:8"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Michigan", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=89292"
+                        }
+                    ], 
+                    "type": "M.S.", 
+                    "year": "1913"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "George Waddel Snedecor", 
+                    "ref": "<t>George Waddel Snedecor.</t> <au>Carriquiry, A. L. and David, H. A.</au>. <inc>booktitle:statisticians-of-the-centuries</inc>. pp.<pp>346-351</pp>", 
+                    "author": "Carriquiry, A. L. and David, H. A.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:statisticians-of-the-centuries", 
+                    "year": "2001", 
+                    "howpublished": "pp.<pp>346-351</pp>", 
+                    "topline": "incollection snedecor__george_w:11", 
+                    "id": "snedecor__george_w:11"
+                }, 
+                {
+                    "title": "George Snedecor", 
+                    "ref": "<t>George Snedecor.</t> <j>Amstat News</j>, Vol. <v>Sept. 2004</v>, pp.<pp>10-11</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2004", 
+                    "howpublished": "<j>Amstat News</j>, Vol. <v>Sept. 2004</v>, pp.<pp>10-11</pp>", 
+                    "topline": "article snedecor__george_w:13", 
+                    "id": "snedecor__george_w:13"
+                }, 
+                {
+                    "title": "Snedecor, George Waddel", 
+                    "ref": "<t>Snedecor, George Waddel.</t> <au>Cox, D. F.</au>. <inc>booktitle:encyclopedia-of-biostatistics</inc>. ???", 
+                    "author": "Cox, D. F.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-biostatistics", 
+                    "year": "2005", 
+                    "howpublished": "???", 
+                    "topline": "incollection snedecor__george_w:12", 
+                    "id": "snedecor__george_w:12"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <inc>booktitle:encyclopedia-of-statistical-sciences</inc>. ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-statistical-sciences", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "incollection snedecor__george_w:10", 
+                    "id": "snedecor__george_w:10"
+                }, 
+                {
+                    "title": "George Waddel Snedecor", 
+                    "ref": "<t>George Waddel Snedecor.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "incollection snedecor__george_w:14", 
+                    "id": "snedecor__george_w:14"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Springer", 
+            "title": "Statisticians of the Centuries", 
+            "url": "http://www.worldcat.org/title/statisticians-of-the-centuries/oclc/46791088", 
+            "booktitle": "Statisticians of the Centuries", 
+            "address": "New York", 
+            "editors": "C. C. Heyde and E. Seneta", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:statisticians-of-the-centuries", 
+            "year": "2001", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Statisticians of the Centuries.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:statisticians-of-the-centuries"
+        }, 
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Biostatistics", 
+            "url": "http://www.worldcat.org/title/encyclopedia-of-biostatistics/oclc/38258277", 
+            "booktitle": "Encyclopedia of Biostatistics", 
+            "address": "Hoboken, NJ", 
+            "editors": "P. Armitage and T. Colton", 
+            "bibtype": "reference", 
+            "edition": "2nd", 
+            "top_line": "reference booktitle:encyclopedia-of-biostatistics", 
+            "year": "2005", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Biostatistics.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-biostatistics"
+        }, 
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Statistical Sciences", 
+            "url": "http://onlinelibrary.wiley.com/book/10.1002/0471667196", 
+            "booktitle": "Encyclopedia of Statistical Sciences", 
+            "address": "Hoboken, NJ", 
+            "editors": "S. Kotz and N. Balakrishnan and C. Read and B. Vidakovic", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:encyclopedia-of-statistical-sciences", 
+            "year": "2006", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }
+    ]
+}

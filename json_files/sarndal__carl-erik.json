@@ -1,0 +1,93 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "S&auml;rndal, Carl-Erik", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "sarndal__carl-erik", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=154730", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:sarndal.carl-erik", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/28722468", 
+                    "anchor": "Microsoft Academic: Carl Erik Sarndal (Carl Erik S\\\"{a"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/23399016", 
+                    "anchor": "Microsoft Academic: Carl Erik Sarndal (Carl Erik S\\\"{a"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/36231308", 
+                    "anchor": "Microsoft Academic: Erik Sarndal (Erik S\\\"{a"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18703102", 
+                    "anchor": "Microsoft Academic: Carl Erik Sarndal (Carl Erik S\\\"{a"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/44777874", 
+                    "anchor": "Microsoft Academic: C. E Sarndal"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18753666", 
+                    "anchor": "Microsoft Academic: Cabl-Erik Sarndal (Cabl-Erik S\\\"{a"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/51761365", 
+                    "anchor": "Microsoft Academic: Carl-Erik Sarndal (Carl-Erik S\\\"{a"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18641455", 
+                    "anchor": "Microsoft Academic: Carl-Erik Sarndal (Carl-Erik S\\\"{a"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/42341847", 
+                    "anchor": "Microsoft Academic: Carl-Erik Sarndal (Carl-Erik S\\\"{a"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/56626329", 
+                    "anchor": "Microsoft Academic: C. E. Sarndal (C. E. S\\\"{a"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/45508899", 
+                    "anchor": "Microsoft Academic: CARL-ERIK SARNDAL (CARL-ERIK S\\\"{A"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1974", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "sarndal__carl_e", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

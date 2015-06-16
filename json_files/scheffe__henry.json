@@ -1,0 +1,163 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1907-04-11", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1977-07-05", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Scheff&eacute;, Henry", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "scheffe__henry", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.educ.fc.ul.pt/icm/icm2003/icm14/Scheffe.htm", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=342479", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:scheffe.henry", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=8054", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12797614", 
+                    "anchor": "Microsoft Academic: Henry Scheffe"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54672287", 
+                    "anchor": "Microsoft Academic: Henry Scheffe (Henry Scheff\\'{e"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/57113914", 
+                    "anchor": "Microsoft Academic: HENRY SCHEFFE"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1944", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS President", 
+                    "year": "1955", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>6</v>, pp.<pp>234</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1977", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>6</v>, pp.<pp>234</pp>", 
+                    "topline": "article scheffe__henry:8", 
+                    "id": "scheffe__henry:8"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Wisconsin-Madison", 
+                    "thesis_title": "The Asymptotic Solutions of Certain Linear Differential Equations in Which the Coefficient of the Parameter May Have a Zero", 
+                    "year": "1935", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=8054"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Henry Scheff\\'e", 
+                    "ref": "<t>Henry Scheff\\'e.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2000", 
+                    "howpublished": "???", 
+                    "topline": "incollection scheffe__henry:12", 
+                    "id": "scheffe__henry:12"
+                }, 
+                {
+                    "title": "Scheff&eacute;, Henry", 
+                    "ref": "<t>Scheff&eacute;, Henry.</t> <au>Lehmann, E. L.</au>. <inc>booktitle:encyclopedia-of-statistical-sciences</inc>. ???", 
+                    "author": "Lehmann, E. L.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-statistical-sciences", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "incollection scheffe__henry:10", 
+                    "id": "scheffe__henry:10"
+                }, 
+                {
+                    "title": "Scheff&eacute;, Henry", 
+                    "ref": "<t>Scheff&eacute;, Henry.</t> <au>Lehmann, E.</au>. <inc>booktitle:complete-dictionary-of-scientific-biography</inc>. Vol. <v>18</v>, pp.<pp>783-784</pp>", 
+                    "author": "Lehmann, E.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:complete-dictionary-of-scientific-biography", 
+                    "year": "2008", 
+                    "howpublished": "Vol. <v>18</v>, pp.<pp>783-784</pp>", 
+                    "topline": "incollection scheffe__henry:11", 
+                    "id": "scheffe__henry:11"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Statistical Sciences", 
+            "url": "http://onlinelibrary.wiley.com/book/10.1002/0471667196", 
+            "booktitle": "Encyclopedia of Statistical Sciences", 
+            "address": "Hoboken, NJ", 
+            "editors": "S. Kotz and N. Balakrishnan and C. Read and B. Vidakovic", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:encyclopedia-of-statistical-sciences", 
+            "year": "2006", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }, 
+        {
+            "publisher": "Scribner's", 
+            "title": "Complete Dictionary of Scientific Biography", 
+            "url": "http://www.worldcat.org/title/complete-dictionary-of-scientific-biography/oclc/187313311", 
+            "booktitle": "Complete Dictionary of Scientific Biography", 
+            "address": "Detroit", 
+            "editors": "F. L. Holmes", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:complete-dictionary-of-scientific-biography", 
+            "year": "2008", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Complete Dictionary of Scientific Biography.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:complete-dictionary-of-scientific-biography"
+        }
+    ]
+}

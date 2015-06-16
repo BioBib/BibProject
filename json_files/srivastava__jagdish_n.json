@@ -1,0 +1,105 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2011", 
+                    "howpublished": "???", 
+                    "topline": "misc srivastava__jagdish_n:437204", 
+                    "id": "srivastava__jagdish_n:437204"
+                }
+            ], 
+            "DOB": "1933-06-20", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2010-11-18", 
+            "Member": [], 
+            "alt_name": "Srivastava, Jaya N.", 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Srivastava, Jagdish N.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc srivastava__jagdish_n:665327", 
+                    "id": "srivastava__jagdish_n:665327"
+                }, 
+                {
+                    "title": "J. N. Srivastava, 1933-2010", 
+                    "ref": "<t>J. N. Srivastava, 1933-2010.</t> <au>Ghosh, S.</au>. <j>IMS Bulletin</j>, Vol. <v>40(1)</v>, pp.<pp>11</pp>", 
+                    "author": "Ghosh, S.", 
+                    "bibtype": "article", 
+                    "year": "2011", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>40(1)</v>, pp.<pp>11</pp>", 
+                    "topline": "article srivastava__jagdish_n:8", 
+                    "id": "srivastava__jagdish_n:8"
+                }
+            ], 
+            "ims_id": "srivastava__jagdish_n", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=165905", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:srivastava.jagdish-n", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=22760", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/17987835", 
+                    "anchor": "Microsoft Academic: Srivastava, Jagdish N."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1972", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "srivastava__jagdish", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "The University of North Carolina at Chapel Hill", 
+                    "thesis_title": "Contributions to the Construction and Analysis of Designs", 
+                    "year": "1962", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=22760"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

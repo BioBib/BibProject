@@ -1,0 +1,764 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [
+                {
+                    "category": "service", 
+                    "text": "President, Institute of Mathematical Statistics", 
+                    "link_ls": "", 
+                    "year": "1956"
+                }, 
+                {
+                    "category": "service", 
+                    "text": "Vice-President, American Mathematical Society", 
+                    "link_ls": "", 
+                    "year": "1968--71"
+                }, 
+                {
+                    "category": "service", 
+                    "text": "Chairman, Berkeley", 
+                    "link_ls": "", 
+                    "year": "1972--73"
+                }, 
+                {
+                    "category": "service", 
+                    "text": "President, International Association for Statistics in the Physical Sciences", 
+                    "link_ls": "", 
+                    "year": "1973"
+                }, 
+                {
+                    "category": "service", 
+                    "text": "President, Bernoulli Society for Mathematical Statistics and Probability", 
+                    "link_ls": "", 
+                    "year": "1975--78"
+                }, 
+                {
+                    "category": "service", 
+                    "text": "Vice-President, International Statistical Institute", 
+                    "link_ls": "", 
+                    "year": "1975--77"
+                }, 
+                {
+                    "category": "service", 
+                    "text": "Vice-President, American Statistical Association", 
+                    "link_ls": "", 
+                    "year": "1978"
+                }
+            ], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc blackwell__david_h:212647", 
+                    "id": "blackwell__david_h:212647"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc blackwell__david_h:133033", 
+                    "id": "blackwell__david_h:133033"
+                }, 
+                {
+                    "title": "David Blackwell dies at 91; mathematician, UC Berkeley's first tenured black professor.", 
+                    "ref": "<t>David Blackwell dies at 91; mathematician, UC Berkeley's first tenured black professor.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc blackwell__david_h:458020", 
+                    "id": "blackwell__david_h:458020"
+                }, 
+                {
+                    "title": "Eminent statistician David Blackwell has died at 91.", 
+                    "ref": "<t>Eminent statistician David Blackwell has died at 91.</t> <au>Sanders, Robert</au>. <j>UC Berkeley News Center</j>, Vol. <v>Jul. 15, 2010</v>", 
+                    "author": "Sanders, Robert", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "<j>UC Berkeley News Center</j>, Vol. <v>Jul. 15, 2010</v>", 
+                    "topline": "misc blackwell__david_h:103613", 
+                    "id": "blackwell__david_h:103613"
+                }, 
+                {
+                    "title": "Noted mathematician David Blackwell has died at 91.", 
+                    "ref": "<t>Noted mathematician David Blackwell has died at 91.</t> <au>The MAA Mathematical Sciences Digital Library, Jul. 19, 2010</au>. ???", 
+                    "author": "The MAA Mathematical Sciences Digital Library, Jul. 19, 2010", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc blackwell__david_h:15", 
+                    "id": "blackwell__david_h:15"
+                }, 
+                {
+                    "title": "David Blackwell fought racism; became world-famous statistician", 
+                    "ref": "<t>David Blackwell fought racism; became world-famous statistician.</t> <j>St. Louis Post-Dispatch</j>, Vol. <v>Jul. 14, 2010</v>", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "<j>St. Louis Post-Dispatch</j>, Vol. <v>Jul. 14, 2010</v>", 
+                    "topline": "misc blackwell__david_h:63388", 
+                    "id": "blackwell__david_h:63388"
+                }, 
+                {
+                    "title": "David Blackwell.", 
+                    "ref": "<t>David Blackwell.</t> <j>Amstat News</j>, Vol. <v>Aug. 2010</v>, pp.<pp>38</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "<j>Amstat News</j>, Vol. <v>Aug. 2010</v>, pp.<pp>38</pp>", 
+                    "topline": "misc blackwell__david_h:593009", 
+                    "id": "blackwell__david_h:593009"
+                }
+            ], 
+            "DOB": "1919-04-24", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2010-07-08", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Blackwell, David H.", 
+            "Oral_History": [
+                {
+                    "title": "An oral history with David Blackwell. Interviews conducted by N. Wilmot in 2002 and 2003.", 
+                    "ref": "<t>An oral history with David Blackwell. Interviews conducted by N. Wilmot in 2002 and 2003.</t> <au>Blackwell, D.</au>. Regional Oral History Office, The Bancroft Library, University of California, Berkeley", 
+                    "author": "Blackwell, D.", 
+                    "bibtype": "misc", 
+                    "year": "2003", 
+                    "howpublished": "Regional Oral History Office, The Bancroft Library, University of California, Berkeley", 
+                    "topline": "misc blackwell__david_h:47", 
+                    "id": "blackwell__david_h:47"
+                }, 
+                {
+                    "title": "David Harold Blackwell: National Visonary", 
+                    "ref": "<t>David Harold Blackwell: National Visonary.</t> In: <bt>National Visionary Leadership Project</bt>", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "year?", 
+                    "howpublished": "In: <bt>National Visionary Leadership Project</bt>", 
+                    "topline": "misc blackwell__david_h:48", 
+                    "id": "blackwell__david_h:48"
+                }
+            ], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "David Blackwell, 1919-2010", 
+                    "ref": "<t>David Blackwell, 1919-2010.</t> <au>Roussas, G. G.</au>. <j>IMS Bulletin</j>, Vol. <v>39(8)</v>, pp.<pp>14</pp>", 
+                    "author": "Roussas, G. G.", 
+                    "bibtype": "article", 
+                    "year": "2010", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>39(8)</v>, pp.<pp>14</pp>", 
+                    "topline": "article blackwell__david_h:17", 
+                    "id": "blackwell__david_h:17"
+                }, 
+                {
+                    "title": "David Blackwell, 1919-2010", 
+                    "ref": "<t>David Blackwell, 1919-2010.</t> <au>Lockhart, D.</au>. <j>Bernoulli News</j>, Vol. <v>17(2)</v>", 
+                    "author": "Lockhart, D.", 
+                    "bibtype": "article", 
+                    "year": "2010", 
+                    "howpublished": "<j>Bernoulli News</j>, Vol. <v>17(2)</v>", 
+                    "topline": "article blackwell__david_h:18", 
+                    "id": "blackwell__david_h:18"
+                }, 
+                {
+                    "title": "Remembering David Blackwell.", 
+                    "ref": "<t>Remembering David Blackwell.</t> <au>Mike Orkin and Robert Pisani</au>. ???", 
+                    "author": "Mike Orkin and Robert Pisani", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc blackwell__david_h:499703", 
+                    "id": "blackwell__david_h:499703"
+                }, 
+                {
+                    "title": "A tribute to David Blackwell", 
+                    "ref": "<t>A tribute to David Blackwell.</t> <au>Roussas, G. G., coord. ed.</au>. <j>Notices Amer. Math. Soc.</j>, Vol. <v>58</v>, pp.<pp>912-928</pp>", 
+                    "author": "Roussas, G. G., coord. ed.", 
+                    "bibtype": "article", 
+                    "year": "2011", 
+                    "howpublished": "<j>Notices Amer. Math. Soc.</j>, Vol. <v>58</v>, pp.<pp>912-928</pp>", 
+                    "topline": "article blackwell__david_h:20", 
+                    "id": "blackwell__david_h:20"
+                }, 
+                {
+                    "title": "David Blackwell", 
+                    "ref": "<t>David Blackwell.</t> <au>Swift, R.</au>. <j>Math. Sci.</j>, Vol. <v>36(1)</v>, pp.<pp>70-71</pp>", 
+                    "author": "Swift, R.", 
+                    "bibtype": "article", 
+                    "year": "2011", 
+                    "howpublished": "<j>Math. Sci.</j>, Vol. <v>36(1)</v>, pp.<pp>70-71</pp>", 
+                    "topline": "article blackwell__david_h:21", 
+                    "id": "blackwell__david_h:21"
+                }, 
+                {
+                    "title": "David H. Blackwell (1919-2010)", 
+                    "ref": "<t>David H. Blackwell (1919-2010).</t> <au>G&oacute;mez Villegas, M. A.</au>. <j>BEIO</j>, Vol. <v>27</v>, pp.<pp>85-87</pp>", 
+                    "author": "G&oacute;mez Villegas, M. A.", 
+                    "bibtype": "article", 
+                    "year": "2011", 
+                    "howpublished": "<j>BEIO</j>, Vol. <v>27</v>, pp.<pp>85-87</pp>", 
+                    "topline": "article blackwell__david_h:22", 
+                    "id": "blackwell__david_h:22"
+                }
+            ], 
+            "ims_id": "blackwell__david_h", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://en.wikipedia.org/wiki/David_Blackwell", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.york.ac.uk/depts/maths/histstat/people/blackwell.gif", 
+                    "anchor": "www.york.ac.uk"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=37555", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:blackwell.david", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=4209", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/51533788", 
+                    "anchor": "Microsoft Academic: Blackwell, David"
+                }, 
+                {
+                    "href": "http://celebratio.org/Blackwell_DH", 
+                    "anchor": "Celebratio"
+                }
+            ], 
+            "Position": [
+                {
+                    "category": "position", 
+                    "text": "Rosenwald Fellow,  Institute for Advanced Study", 
+                    "year": "1941--42"
+                }, 
+                {
+                    "category": "position", 
+                    "text": "(Summer),  Assistant Statistician OPA", 
+                    "year": "1942"
+                }, 
+                {
+                    "category": "position", 
+                    "text": "Instructor,  Southern University, Baton Rouge, LA", 
+                    "year": "1942--43"
+                }, 
+                {
+                    "category": "position", 
+                    "text": "Instructor,   Clark College, Atlanta, Georgia", 
+                    "year": "1943--44"
+                }, 
+                {
+                    "category": "position", 
+                    "text": "Assistant Professor,  Howard University, Washington, DC", 
+                    "year": "1944--46"
+                }, 
+                {
+                    "category": "position", 
+                    "text": "Associate Professor,  Howard University, Washington, DC", 
+                    "year": "1946--47"
+                }, 
+                {
+                    "category": "position", 
+                    "text": "Professor and Head,  Mathematics Department Howard University, Washington, DC", 
+                    "year": "1947--54"
+                }, 
+                {
+                    "category": "position", 
+                    "text": "(Summers),  Mathematician, Rand Corporation", 
+                    "year": "1948--50"
+                }, 
+                {
+                    "category": "position", 
+                    "text": "Visiting Professor,  Stanford University", 
+                    "year": "1950--51"
+                }, 
+                {
+                    "category": "position", 
+                    "text": "Visiting Professor,  University of California, Berkeley", 
+                    "year": "1954--55"
+                }, 
+                {
+                    "category": "position", 
+                    "text": "Professor of Statistics,  University of California, Berkeley", 
+                    "year": "1955--73"
+                }, 
+                {
+                    "category": "position", 
+                    "text": "Chairman,  Department of Statistics, University of California, Berkeley", 
+                    "year": "1957--61"
+                }, 
+                {
+                    "category": "position", 
+                    "text": "Director,  University of California Study Center United Kingdom and Ireland (Education Abroad Program)", 
+                    "year": "1973--75"
+                }, 
+                {
+                    "category": "position", 
+                    "text": "Professor of Mathematics and Statistics,  University of California, Berkeley", 
+                    "year": "1973--2010"
+                }
+            ], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "Faculty Research Lecturer, University of California, Berkeley", 
+                    "year": "1971", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "D.Sc.  (Honorary)\tMichigan State University", 
+                    "year": "1969", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "D.Sc.  (Honorary)\tSouthern Illinois University", 
+                    "year": "1971", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "D.Sc.  (Honorary)\tCarnegie-Mellon University", 
+                    "year": "1980", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "D.Sc.  (Honorary)\tNational University of Lesotho", 
+                    "year": "1987", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "D.Sc.  (Honorary)\tAmherst College", 
+                    "year": "1988", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "D.Sc.  (Honorary)\tHarvard University", 
+                    "year": "1988", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "D.Sc.  (Honorary)\tHoward University", 
+                    "year": "1990", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "D.Sc.  (Honorary)\tYale University", 
+                    "year": "1990", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "D.Sc.  (Honorary)\tUniversity of Warwick", 
+                    "year": "1990", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "D.Sc.  (Honorary)\tSyracuse University", 
+                    "year": "1991", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "D.Sc.  (Honorary)\tUniversity of Southern California", 
+                    "year": "1992", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1947", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Rietz Lecturer", 
+                    "year": "1961", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Member", 
+                    "year": "1965", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts &amp; Sciences, Member", 
+                    "year": "1968", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1969", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Wald Lecturer", 
+                    "year": "1976", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "John von Neumann Theory Prize", 
+                    "year": "1979", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "R. A. Fisher Lecturer", 
+                    "year": "1986", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Philosophical Society, Member", 
+                    "year": "1990", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "W. W. Rouse Ball Lecturer, University of Cambridge, UK", 
+                    "year": "1974", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Elected Honorary Fellow, Royal Statistical Society", 
+                    "year": "1976", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Wald Lecturer, Institute of Mathematical Statistics", 
+                    "year": "1977", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "TIMS/ORSA John Von Neumann Theory Prize", 
+                    "year": "1979", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "R.A. Fisher Award, Committee of Presidents of Statistical Societies", 
+                    "year": "1986", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "The Berkeley Citation", 
+                    "year": "1988", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "blackwell__david", 
+            "Festschrift": [
+                {
+                    "title": "Statistics, Probability and Game Theory: Papers in Honor of David Blackwell.", 
+                    "ref": "<t>Statistics, Probability and Game Theory: Papers in Honor of David Blackwell.</t> <au>Ferguson, T. S. and Shapley, L. S. and MacQueen, J. B. (eds.)</au>. Institute of Mathematical Statistics, Vol. <v>30</v>", 
+                    "author": "Ferguson, T. S. and Shapley, L. S. and MacQueen, J. B. (eds.)", 
+                    "bibtype": "book", 
+                    "year": "1996", 
+                    "howpublished": "Institute of Mathematical Statistics, Vol. <v>30</v>", 
+                    "topline": "book blackwell__david_h:8", 
+                    "id": "blackwell__david_h:8"
+                }, 
+                {
+                    "title": "Learning in games: A symposium in honor of David Blackwell", 
+                    "ref": "<t>Learning in games: A symposium in honor of David Blackwell.</t> <au>Foster, D. P. and Levine, D. K. and Vohra, R. V.  (eds.)</au>. Games Econom. Behav., Vol. <v>29</v>, pp.<pp>i, 1-316</pp>", 
+                    "author": "Foster, D. P. and Levine, D. K. and Vohra, R. V.  (eds.)", 
+                    "bibtype": "book", 
+                    "year": "1999", 
+                    "howpublished": "Games Econom. Behav., Vol. <v>29</v>, pp.<pp>i, 1-316</pp>", 
+                    "topline": "book blackwell__david_h:9", 
+                    "id": "blackwell__david_h:9"
+                }
+            ], 
+            "Death_Notice": [
+                {
+                    "title": "David Blackwell: 1919-2010", 
+                    "ref": "<t>David Blackwell: 1919-2010.</t> <j>IMS Bulletin</j>, Vol. <v>39(7)</v>, pp.<pp>2</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2010", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>39(7)</v>, pp.<pp>2</pp>", 
+                    "topline": "article blackwell__david_h:10", 
+                    "id": "blackwell__david_h:10"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "education", 
+                    "text": "Centralia Public Schools", 
+                    "year": "1925--35"
+                }, 
+                {
+                    "category": "education", 
+                    "text": "University of Illinois", 
+                    "year": "1935--41"
+                }, 
+                {
+                    "category": "degree", 
+                    "school": "University of Illinois", 
+                    "type": "AB", 
+                    "year": "1938"
+                }, 
+                {
+                    "category": "degree", 
+                    "school": "University of Illinois", 
+                    "type": "AM", 
+                    "year": "1939"
+                }, 
+                {
+                    "category": "degree", 
+                    "school": "Mathematics, University of Illinois at Urbana-Champaign", 
+                    "thesis_title": "Properties of Markov Chains", 
+                    "year": "1941", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=4209"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "A conversation with David Blackwell", 
+                    "ref": "<t>A conversation with David Blackwell.</t> <au>DeGroot, M. H.</au>. <j>Statist. Sci.</j>, Vol. <v>1</v>, pp.<pp>40-53</pp>", 
+                    "author": "DeGroot, M. H.", 
+                    "bibtype": "article", 
+                    "year": "1986", 
+                    "howpublished": "<j>Statist. Sci.</j>, Vol. <v>1</v>, pp.<pp>40-53</pp>", 
+                    "topline": "article blackwell__david_h:31", 
+                    "id": "blackwell__david_h:31"
+                }, 
+                {
+                    "title": "Biography packet", 
+                    "ref": "<t>Biography packet.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1993", 
+                    "howpublished": "???", 
+                    "topline": "misc blackwell__david_h:41", 
+                    "id": "blackwell__david_h:41"
+                }, 
+                {
+                    "title": "Statistics, Probability and Game Theory: Papers in Honor of David Blackwell.", 
+                    "ref": "<t>Statistics, Probability and Game Theory: Papers in Honor of David Blackwell.</t> <au>Ferguson, T. S. and Shapley, L. S. and MacQueen, J. B.</au>. Institute of Mathematical Statistics, Vol. <v>30</v>, pp.<pp>v-xiv</pp>", 
+                    "author": "Ferguson, T. S. and Shapley, L. S. and MacQueen, J. B.", 
+                    "bibtype": "book", 
+                    "year": "1996", 
+                    "howpublished": "Institute of Mathematical Statistics, Vol. <v>30</v>, pp.<pp>v-xiv</pp>", 
+                    "topline": "book blackwell__david_h:32", 
+                    "id": "blackwell__david_h:32"
+                }, 
+                {
+                    "title": "David Harold Blackwell", 
+                    "ref": "<t>David Harold Blackwell.</t> <inc>booktitle:distinguished-african-american-scientists-of-the-20th-century</inc>. pp.<pp>12-16</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:distinguished-african-american-scientists-of-the-20th-century", 
+                    "year": "1996", 
+                    "howpublished": "pp.<pp>12-16</pp>", 
+                    "topline": "incollection blackwell__david_h:33", 
+                    "id": "blackwell__david_h:33"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1996", 
+                    "howpublished": "???", 
+                    "topline": "misc blackwell__david_h:455910", 
+                    "id": "blackwell__david_h:455910"
+                }, 
+                {
+                    "title": "Dr. David Harold Blackwell, African American pioneer", 
+                    "ref": "<t>Dr. David Harold Blackwell, African American pioneer.</t> <au>Agwu, N. and Smith, L. and Barry, A.</au>. <j>Math. Mag.</j>, Vol. <v>76</v>, pp.<pp>3-14</pp>", 
+                    "author": "Agwu, N. and Smith, L. and Barry, A.", 
+                    "bibtype": "article", 
+                    "year": "2003", 
+                    "howpublished": "<j>Math. Mag.</j>, Vol. <v>76</v>, pp.<pp>3-14</pp>", 
+                    "topline": "article blackwell__david_h:34", 
+                    "id": "blackwell__david_h:34"
+                }, 
+                {
+                    "title": "Profile: David Blackwell", 
+                    "ref": "<t>Profile: David Blackwell.</t> <au>Brown, E. N. and Bickel, P.</au>. <j>IMS Bulletin</j>, Vol. <v>35(9)</v>, pp.<pp>8</pp>", 
+                    "author": "Brown, E. N. and Bickel, P.", 
+                    "bibtype": "article", 
+                    "year": "2006", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>35(9)</v>, pp.<pp>8</pp>", 
+                    "topline": "article blackwell__david_h:35", 
+                    "id": "blackwell__david_h:35"
+                }, 
+                {
+                    "title": "David Blackwell", 
+                    "ref": "<t>David Blackwell.</t> <au>Albers, D. J.</au>. <inc>booktitle:mathematical-people-profiles-and-interviews</inc>. pp.<pp>14-27</pp>", 
+                    "author": "Albers, D. J.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:mathematical-people-profiles-and-interviews", 
+                    "year": "2008", 
+                    "howpublished": "pp.<pp>14-27</pp>", 
+                    "topline": "incollection blackwell__david_h:36", 
+                    "id": "blackwell__david_h:36"
+                }, 
+                {
+                    "title": "David Blackwell receives Honorary Doctorate from NC State University", 
+                    "ref": "<t>David Blackwell receives Honorary Doctorate from NC State University.</t> <j>IMS Bulletin</j>, Vol. <v>37(2)</v>, pp.<pp>2</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2008", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>37(2)</v>, pp.<pp>2</pp>", 
+                    "topline": "article blackwell__david_h:37", 
+                    "id": "blackwell__david_h:37"
+                }, 
+                {
+                    "title": "David Blackwell", 
+                    "ref": "<t>David Blackwell.</t> <j>Amstat News</j>, Vol. <v>Mar. 2008</v>, pp.<pp>37</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2008", 
+                    "howpublished": "<j>Amstat News</j>, Vol. <v>Mar. 2008</v>, pp.<pp>37</pp>", 
+                    "topline": "article blackwell__david_h:38", 
+                    "id": "blackwell__david_h:38"
+                }, 
+                {
+                    "title": "David Harold Blackwell", 
+                    "ref": "<t>David Harold Blackwell.</t> In: <bt>Mathematicians of the African Diaspora</bt>", 
+                    "author": "Anonymous", 
+                    "bibtype": "incollection", 
+                    "year": "2008", 
+                    "howpublished": "In: <bt>Mathematicians of the African Diaspora</bt>", 
+                    "topline": "incollection blackwell__david_h:45", 
+                    "id": "blackwell__david_h:45"
+                }, 
+                {
+                    "title": "David Blackwell, `Superstar.'", 
+                    "ref": "<t>David Blackwell, `Superstar.'.</t> <au>Cattau, D.</au>. <j>Illinois Alumni Magazine</j>, pp.<pp>32-34</pp>", 
+                    "author": "Cattau, D.", 
+                    "bibtype": "article", 
+                    "year": "2009", 
+                    "howpublished": "<j>Illinois Alumni Magazine</j>, pp.<pp>32-34</pp>", 
+                    "topline": "article blackwell__david_h:39", 
+                    "id": "blackwell__david_h:39"
+                }, 
+                {
+                    "title": "David Harold Blackwell", 
+                    "ref": "<t>David Harold Blackwell.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2009", 
+                    "howpublished": "???", 
+                    "topline": "incollection blackwell__david_h:43", 
+                    "id": "blackwell__david_h:43"
+                }, 
+                {
+                    "title": "David H. Blackwell, 1919-2010", 
+                    "ref": "<t>David H. Blackwell, 1919-2010.</t> In: <bt>Statisticians in History</bt>, American Statistical Association", 
+                    "author": "Anonymous", 
+                    "bibtype": "incollection", 
+                    "year": "2010", 
+                    "howpublished": "In: <bt>Statisticians in History</bt>, American Statistical Association", 
+                    "topline": "incollection blackwell__david_h:42", 
+                    "id": "blackwell__david_h:42"
+                }, 
+                {
+                    "title": "Blackwell, David Harold (1919-2010)", 
+                    "ref": "<t>Blackwell, David Harold (1919-2010).</t> <au>Hunter, M.</au>. In: <bt>Online Encyclopedia of Significant People and Places in African American History</bt>", 
+                    "author": "Hunter, M.", 
+                    "bibtype": "incollection", 
+                    "year": "2010", 
+                    "howpublished": "In: <bt>Online Encyclopedia of Significant People and Places in African American History</bt>", 
+                    "topline": "incollection blackwell__david_h:44", 
+                    "id": "blackwell__david_h:44"
+                }, 
+                {
+                    "title": "David Blackwell", 
+                    "ref": "<t>David Blackwell.</t> <au>Erhan &Ccedil;inlar and Jim Pitman (eds.)</au>. Mathematical Sciences Publishers", 
+                    "author": "Erhan &Ccedil;inlar and Jim Pitman (eds.)", 
+                    "bibtype": "incollection", 
+                    "year": "2012", 
+                    "howpublished": "Mathematical Sciences Publishers", 
+                    "topline": "incollection blackwell__david_h:40", 
+                    "id": "blackwell__david_h:40"
+                }, 
+                {
+                    "title": "Blackwell Lecture", 
+                    "ref": "<t>Blackwell Lecture.</t> <au>Bickel, Peter</au>. <j>IMS Bulletin</j>", 
+                    "author": "Bickel, Peter", 
+                    "bibtype": "misc", 
+                    "year": "2013", 
+                    "howpublished": "<j>IMS Bulletin</j>", 
+                    "topline": "misc blackwell__david_h:957373", 
+                    "id": "blackwell__david_h:957373"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Oryx Press", 
+            "title": "Distinguished African American Scientists of the 20th Century", 
+            "url": "http://books.google.com/books?id=-ydHVdMUqdEC", 
+            "booktitle": "Distinguished African American Scientists of the 20th Century", 
+            "address": "Phoenix, AZ", 
+            "editors": "J. H. Kessler and J. S. Kidd and R. A. Kidd and K. A. Morin", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:distinguished-african-american-scientists-of-the-20th-century", 
+            "year": "1996", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Distinguished African American Scientists of the 20th Century.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:distinguished-african-american-scientists-of-the-20th-century"
+        }, 
+        {
+            "publisher": "Peters", 
+            "title": "Mathematical People: Profiles and Interviews", 
+            "url": "http://www.worldcat.org/title/mathematical-people-profiles-and-interviews/oclc/181730644", 
+            "booktitle": "Mathematical People: Profiles and Interviews", 
+            "address": "Wellesley, MA", 
+            "editors": "D. J. Albers and G. L. Alexanderson", 
+            "bibtype": "reference", 
+            "edition": "2nd", 
+            "top_line": "reference booktitle:mathematical-people-profiles-and-interviews", 
+            "year": "2008", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Mathematical People: Profiles and Interviews.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:mathematical-people-profiles-and-interviews"
+        }
+    ]
+}

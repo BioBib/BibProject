@@ -1,0 +1,74 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Sanz-Sol&eacute;, Marta", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "sanz-sole__marta", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.mat.ub.edu/~sanz/main.htm", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:sanz-sole.marta", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/56847886", 
+                    "anchor": "Microsoft Academic: Marta Sanz-Sole (Marta Sanz-Sol\\'{e"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54478764", 
+                    "anchor": "Microsoft Academic: Sanz-sole Marta (Sanz-sol\\'{e"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/51234928", 
+                    "anchor": "Microsoft Academic: Marta Sanz i Sole (Marta Sanz i Sol\\'{e"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53878410", 
+                    "anchor": "Microsoft Academic: M. Sanz-Sole"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/3969321", 
+                    "anchor": "Microsoft Academic: Marta Sanz-Sole (Marta Sanz-Sol\\'{e"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/55486319", 
+                    "anchor": "Microsoft Academic: M. Sanz Sole (M. Sanz Sol\\'{e"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "2011", 
+                    "citation": "For influential work in a variety of branches of stochastic analysis, including anticipating calculus, large deviations and especially the application of Malliavin calculus to stochastic partial differential equations; and for leadership within the European Mathematical Society", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

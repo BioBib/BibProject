@@ -1,0 +1,94 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1873", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1946-03-07", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Crathorne, Arthur R.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "crathorne__arthur_r", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=428718", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:crathorne.arthur-robert", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=7367", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54299617", 
+                    "anchor": "Microsoft Academic: Crathorne, A. R."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1935", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "crathorne__arthur", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>Ann. Math. Statist.</j>, Vol. <v>17</v>, pp.<pp>373</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1946", 
+                    "howpublished": "<j>Ann. Math. Statist.</j>, Vol. <v>17</v>, pp.<pp>373</pp>", 
+                    "topline": "article crathorne__arthur_r:8", 
+                    "id": "crathorne__arthur_r:8"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Georg-August-Universit&auml;t G&ouml;ttingen", 
+                    "thesis_title": "Das r&auml;umliche isoperimetrische Problem", 
+                    "year": "1907", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=7367"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "year?", 
+                    "howpublished": "???", 
+                    "topline": "misc crathorne__arthur_r:9", 
+                    "id": "crathorne__arthur_r:9"
+                }
+            ], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

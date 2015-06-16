@@ -1,0 +1,108 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>8</v>, pp.<pp>71</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1979", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>8</v>, pp.<pp>71</pp>", 
+                    "topline": "article craig__allen_t:8", 
+                    "id": "craig__allen_t:8"
+                }
+            ], 
+            "DOB": "1904-08-05", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1978-11-27", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Craig, Allen T.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "craig__allen_t", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=428636", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:craig.allen-t", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=42771", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/56751743", 
+                    "anchor": "Microsoft Academic: Allen T. Craig"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/56751526", 
+                    "anchor": "Microsoft Academic: Allen T. Craig"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "before 1943", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "craig__allen", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Iowa", 
+                    "thesis_title": "On the Distributions of Certain Statistics", 
+                    "year": "1931", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=42771"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Allen Thornton Craig, 1904-1978", 
+                    "ref": "<t>Allen Thornton Craig, 1904-1978.</t> <j>IMS Bulletin</j>, Vol. <v>20</v>, pp.<pp>389</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1991", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>20</v>, pp.<pp>389</pp>", 
+                    "topline": "article craig__allen_t:9", 
+                    "id": "craig__allen_t:9"
+                }, 
+                {
+                    "title": "On Statistics at Iowa before 1950 (excerpts from the Allen T. Craig Lectures, 17-18 April 1979)", 
+                    "ref": "<t>On Statistics at Iowa before 1950 (excerpts from the Allen T. Craig Lectures, 17-18 April 1979).</t> <au>Hogg, R. V.</au>. <j>IMS Bulletin</j>, Vol. <v>20</v>, pp.<pp>390-395</pp>", 
+                    "author": "Hogg, R. V.", 
+                    "bibtype": "article", 
+                    "year": "1991", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>20</v>, pp.<pp>390-395</pp>", 
+                    "topline": "article craig__allen_t:10", 
+                    "id": "craig__allen_t:10"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

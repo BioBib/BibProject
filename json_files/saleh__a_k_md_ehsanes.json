@@ -1,0 +1,119 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Saleh, A. K. Md. Ehsanes", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "saleh__a_k_md_ehsanes", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=153360", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:saleh.a-k-ms-e", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:saleh.a-k-md-ehsanes", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=72722", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/56353250", 
+                    "anchor": "Microsoft Academic: Saleh, A. K. M. Ehsanes"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18732248", 
+                    "anchor": "Microsoft Academic: Saleh, A. K. M. D. Ehsanes"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1991", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "saleh__a", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Western Ontario", 
+                    "thesis_title": "On the Estimation of the Parameters of the Exponential Distribution Based on Optimum Order Statistics in Censored Samples", 
+                    "year": "year?", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=72722"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "A. K. Md. Ehsanes Saleh elected Fellow of the Bangladesh Academy of Sciences", 
+                    "ref": "<t>A. K. Md. Ehsanes Saleh elected Fellow of the Bangladesh Academy of Sciences.</t> <j>IMS Bulletin</j>, Vol. <v>32(4)</v>, pp.<pp>2</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2003", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>32(4)</v>, pp.<pp>2</pp>", 
+                    "topline": "article saleh__a_k_md_ehsanes:6", 
+                    "id": "saleh__a_k_md_ehsanes:6"
+                }, 
+                {
+                    "title": "A. K. Md. Ehsanes Saleh", 
+                    "ref": "<t>A. K. Md. Ehsanes Saleh.</t> <j>Bernoulli News</j>, Vol. <v>10(2)</v>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2003", 
+                    "howpublished": "<j>Bernoulli News</j>, Vol. <v>10(2)</v>", 
+                    "topline": "article saleh__a_k_md_ehsanes:7", 
+                    "id": "saleh__a_k_md_ehsanes:7"
+                }, 
+                {
+                    "title": "A. K. Md. Ehsanes Saleh", 
+                    "ref": "<t>A. K. Md. Ehsanes Saleh.</t> <j>Bernoulli News</j>, Vol. <v>12(2)</v>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2005", 
+                    "howpublished": "<j>Bernoulli News</j>, Vol. <v>12(2)</v>", 
+                    "topline": "article saleh__a_k_md_ehsanes:8", 
+                    "id": "saleh__a_k_md_ehsanes:8"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc saleh__a_k_md_ehsanes:1096", 
+                    "id": "saleh__a_k_md_ehsanes:1096"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

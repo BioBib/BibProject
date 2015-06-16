@@ -1,0 +1,94 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Hallin, Marc", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "hallin__marc", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.ecares.org/index.php?option=com_comprofiler&amp;task=userProfile&amp;user=114&amp;Itemid=263", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=80175", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:hallin.marc", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=76860", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/309603", 
+                    "anchor": "Microsoft Academic: Hallin, Marc"
+                }, 
+                {
+                    "href": "http://ideas.repec.org/f/pha368.html", 
+                    "anchor": "ideas.repec.org"
+                }, 
+                {
+                    "href": "http://collec.repec.org/nodes/h/a/368.html", 
+                    "anchor": "collec.repec.org"
+                }, 
+                {
+                    "href": "http://www.ecares.org/images/comprofiler/plug_profilegallery/114/pg_2143675473.pdf", 
+                    "anchor": "CV"
+                }, 
+                {
+                    "href": "http://www.ecares.org/index.php?option=com_comprofiler&task=userProfile&user=114&Itemid=263", 
+                    "anchor": "profile European Centre for Advanced Research in Economics and Statistics (ECARES)"
+                }, 
+                {
+                    "href": "http://scholar.google.be/citations?user=zyhmblMAAAAJ&hl=en", 
+                    "anchor": "Google Scholar"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1990", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Universit&eacute; Libre de Bruxelles", 
+                    "thesis_title": "Structures de coalition et probl&egrave;mes de n&eacute;gociation. Echanges d'information dans les jeux &agrave; information incompl&egrave;te", 
+                    "year": "1976", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=76860"
+                        }
+                    ], 
+                    "type": "D.Sc."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

@@ -1,0 +1,346 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1894-04-16", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1981-08-05", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Neyman, Jerzy", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "J. Neyman, 1894-1981", 
+                    "ref": "<t>J. Neyman, 1894-1981.</t> <au>Hammersley, J. M.</au>. <j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>145</v>, pp.<pp>523-524</pp>", 
+                    "author": "Hammersley, J. M.", 
+                    "bibtype": "article", 
+                    "year": "1982", 
+                    "howpublished": "<j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>145</v>, pp.<pp>523-524</pp>", 
+                    "topline": "article neyman__jerzy:8", 
+                    "id": "neyman__jerzy:8"
+                }
+            ], 
+            "ims_id": "neyman__jerzy", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.encyclopedia.com/topic/Jerzy_Neyman.aspx", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=130870", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:neyman-jerzy.", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:neyman.jerzy", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:splawa-neyman.jerzy", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=12694", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12833676", 
+                    "anchor": "Microsoft Academic: Neyman, Jerzy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54171100", 
+                    "anchor": "Microsoft Academic: Neyman, Jerzy"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS President", 
+                    "year": "1949", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Rietz Lecturer", 
+                    "year": "1949", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Member", 
+                    "year": "1963", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Guy Medal in Gold", 
+                    "year": "1966", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Medal of Science", 
+                    "year": "1968", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Samuel S. Wilks Award", 
+                    "year": "1968", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1976", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "The Royal Society, Foreign Member", 
+                    "year": "1979", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "before 1943", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>10</v>, pp.<pp>240</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1981", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>10</v>, pp.<pp>240</pp>", 
+                    "topline": "article neyman__jerzy:7", 
+                    "id": "neyman__jerzy:7"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Uniwersytet Warszawski", 
+                    "thesis_title": "Justification of Applications of Calculus of Probability to the Solution of Certain Questions of Agricultural Experimentation", 
+                    "year": "1924", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=12694"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "J. Neyman: On the occasion of his 80th birthday", 
+                    "ref": "<t>J. Neyman: On the occasion of his 80th birthday.</t> <au>Le Cam, L. and Lehmann, E. L.</au>. <j>Ann. Statist.</j>, Vol. <v>2(3)</v>, pp.<pp>vii-xiii</pp>", 
+                    "author": "Le Cam, L. and Lehmann, E. L.", 
+                    "bibtype": "article", 
+                    "year": "1974", 
+                    "howpublished": "<j>Ann. Statist.</j>, Vol. <v>2(3)</v>, pp.<pp>vii-xiii</pp>", 
+                    "topline": "article neyman__jerzy:16", 
+                    "id": "neyman__jerzy:16"
+                }, 
+                {
+                    "title": "Jerzy Neyman, 1894-1981", 
+                    "ref": "<t>Jerzy Neyman, 1894-1981.</t> <au>Chiang, C. L.</au>. In: <bt>Statisticians in History</bt>, American Statistical Association", 
+                    "author": "Chiang, C. L.", 
+                    "bibtype": "incollection", 
+                    "year": "1981", 
+                    "howpublished": "In: <bt>Statisticians in History</bt>, American Statistical Association", 
+                    "topline": "incollection neyman__jerzy:25", 
+                    "id": "neyman__jerzy:25"
+                }, 
+                {
+                    "title": "Neyman---from Life", 
+                    "ref": "<t>Neyman---from Life.</t> <au>Reid, C.</au>. Springer", 
+                    "author": "Reid, C.", 
+                    "bibtype": "book", 
+                    "year": "1982", 
+                    "howpublished": "Springer", 
+                    "topline": "book neyman__jerzy:17", 
+                    "id": "neyman__jerzy:17"
+                }, 
+                {
+                    "title": "Jerzy Neyman, 16 April 1894-5 August 1981", 
+                    "ref": "<t>Jerzy Neyman, 16 April 1894-5 August 1981.</t> <au>Kendall, D. G. and Bartlett, M. S. and Page, T. L.</au>. <j>Biogr. Mems. Fell. R. Soc.</j>, Vol. <v>28</v>, pp.<pp>379-412</pp>", 
+                    "author": "Kendall, D. G. and Bartlett, M. S. and Page, T. L.", 
+                    "bibtype": "article", 
+                    "year": "1982", 
+                    "howpublished": "<j>Biogr. Mems. Fell. R. Soc.</j>, Vol. <v>28</v>, pp.<pp>379-412</pp>", 
+                    "topline": "article neyman__jerzy:18", 
+                    "id": "neyman__jerzy:18"
+                }, 
+                {
+                    "title": "Jerzy Neyman, April 16, 1894-August 5, 1981", 
+                    "ref": "<t>Jerzy Neyman, April 16, 1894-August 5, 1981.</t> <au>Lehmann, E. L.</au>. <j>Biographical Memoirs</j>, National Academies Press, pp.<pp>394-420</pp>", 
+                    "author": "Lehmann, E. L.", 
+                    "bibtype": "article", 
+                    "year": "1994", 
+                    "howpublished": "<j>Biographical Memoirs</j>, National Academies Press, pp.<pp>394-420</pp>", 
+                    "topline": "article neyman__jerzy:19", 
+                    "id": "neyman__jerzy:19"
+                }, 
+                {
+                    "title": "Neyman, Jerzy", 
+                    "ref": "<t>Neyman, Jerzy.</t> <au>Scott, E. L.</au>. <inc>booktitle:leading-personalities-in-statistical-sciences-from-the-17th-century-to-the-present</inc>. pp.<pp>137-145</pp>", 
+                    "author": "Scott, E. L.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:leading-personalities-in-statistical-sciences-from-the-17th-century-to-the-present", 
+                    "year": "1997", 
+                    "howpublished": "pp.<pp>137-145</pp>", 
+                    "topline": "incollection neyman__jerzy:20", 
+                    "id": "neyman__jerzy:20"
+                }, 
+                {
+                    "title": "Jerzy Neyman", 
+                    "ref": "<t>Jerzy Neyman.</t> <au>Fienberg, S. E. and Tanur, J. M.</au>. <inc>booktitle:statisticians-of-the-centuries</inc>. pp.<pp>444-448</pp>", 
+                    "author": "Fienberg, S. E. and Tanur, J. M.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:statisticians-of-the-centuries", 
+                    "year": "2001", 
+                    "howpublished": "pp.<pp>444-448</pp>", 
+                    "topline": "incollection neyman__jerzy:21", 
+                    "id": "neyman__jerzy:21"
+                }, 
+                {
+                    "title": "Jerzy Neyman", 
+                    "ref": "<t>Jerzy Neyman.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2003", 
+                    "howpublished": "???", 
+                    "topline": "incollection neyman__jerzy:26", 
+                    "id": "neyman__jerzy:26"
+                }, 
+                {
+                    "title": "Neyman, Jerzy", 
+                    "ref": "<t>Neyman, Jerzy.</t> <au>Chiang, C. L.</au>. <inc>booktitle:encyclopedia-of-biostatistics</inc>. ???", 
+                    "author": "Chiang, C. L.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-biostatistics", 
+                    "year": "2005", 
+                    "howpublished": "???", 
+                    "topline": "incollection neyman__jerzy:22", 
+                    "id": "neyman__jerzy:22"
+                }, 
+                {
+                    "title": "Neyman, Jerzy", 
+                    "ref": "<t>Neyman, Jerzy.</t> <au>Scott, E. L.</au>. <inc>booktitle:encyclopedia-of-statistical-sciences</inc>. ???", 
+                    "author": "Scott, E. L.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-statistical-sciences", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "incollection neyman__jerzy:23", 
+                    "id": "neyman__jerzy:23"
+                }, 
+                {
+                    "title": "Neyman, Jerzy", 
+                    "ref": "<t>Neyman, Jerzy.</t> <au>Lehmann, E. L.</au>. <inc>booktitle:complete-dictionary-of-scientific-biography</inc>. Vol. <v>18</v>, pp.<pp>669-675</pp>", 
+                    "author": "Lehmann, E. L.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:complete-dictionary-of-scientific-biography", 
+                    "year": "2008", 
+                    "howpublished": "Vol. <v>18</v>, pp.<pp>669-675</pp>", 
+                    "topline": "incollection neyman__jerzy:24", 
+                    "id": "neyman__jerzy:24"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Wiley", 
+            "title": "Leading Personalities in Statistical Sciences, from the 17th Century to the Present", 
+            "url": "http://www.worldcat.org/title/leading-personalities-in-statistical-sciences-from-the-17th-century-to-the-present/oclc/36430730", 
+            "booktitle": "Leading Personalities in Statistical Sciences, from the 17th Century to the Present", 
+            "address": "New York", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:leading-personalities-in-statistical-sciences-from-the-17th-century-to-the-present", 
+            "editor": "N. L. Johnson and S. Kotz", 
+            "year": "1997", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Leading Personalities in Statistical Sciences, from the 17th Century to the Present.</t> <ed>N. L. Johnson and S. Kotz</ed>. In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:leading-personalities-in-statistical-sciences-from-the-17th-century-to-the-present"
+        }, 
+        {
+            "publisher": "Springer", 
+            "title": "Statisticians of the Centuries", 
+            "url": "http://www.worldcat.org/title/statisticians-of-the-centuries/oclc/46791088", 
+            "booktitle": "Statisticians of the Centuries", 
+            "address": "New York", 
+            "editors": "C. C. Heyde and E. Seneta", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:statisticians-of-the-centuries", 
+            "year": "2001", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Statisticians of the Centuries.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:statisticians-of-the-centuries"
+        }, 
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Biostatistics", 
+            "url": "http://www.worldcat.org/title/encyclopedia-of-biostatistics/oclc/38258277", 
+            "booktitle": "Encyclopedia of Biostatistics", 
+            "address": "Hoboken, NJ", 
+            "editors": "P. Armitage and T. Colton", 
+            "bibtype": "reference", 
+            "edition": "2nd", 
+            "top_line": "reference booktitle:encyclopedia-of-biostatistics", 
+            "year": "2005", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Biostatistics.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-biostatistics"
+        }, 
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Statistical Sciences", 
+            "url": "http://onlinelibrary.wiley.com/book/10.1002/0471667196", 
+            "booktitle": "Encyclopedia of Statistical Sciences", 
+            "address": "Hoboken, NJ", 
+            "editors": "S. Kotz and N. Balakrishnan and C. Read and B. Vidakovic", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:encyclopedia-of-statistical-sciences", 
+            "year": "2006", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }, 
+        {
+            "publisher": "Scribner's", 
+            "title": "Complete Dictionary of Scientific Biography", 
+            "url": "http://www.worldcat.org/title/complete-dictionary-of-scientific-biography/oclc/187313311", 
+            "booktitle": "Complete Dictionary of Scientific Biography", 
+            "address": "Detroit", 
+            "editors": "F. L. Holmes", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:complete-dictionary-of-scientific-biography", 
+            "year": "2008", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Complete Dictionary of Scientific Biography.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:complete-dictionary-of-scientific-biography"
+        }
+    ]
+}

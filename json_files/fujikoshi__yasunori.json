@@ -1,0 +1,61 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Fujikoshi, Yasunori", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "fujikoshi__yasunori", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=69955", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:fujikoshi.yasunori", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54755664", 
+                    "anchor": "Microsoft Academic: Fujikoshi, Yasunori"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18028699", 
+                    "anchor": "Microsoft Academic: Fujikoshi, Yasunori"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54755662", 
+                    "anchor": "Microsoft Academic: Fujikoshi, Yasunori"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "2004", 
+                    "citation": "For outstanding contributions in multivariate analysis, in particular in the asymptotic theory of test statistics in normal and non-normal samples, selection of variables, providing error bounds in asymptotic expansions, and for inspiring teaching and supervision of graduate students", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

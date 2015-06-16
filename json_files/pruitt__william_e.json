@@ -1,0 +1,103 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "William Pruitt, 1934-1993", 
+                    "ref": "<t>William Pruitt, 1934-1993.</t> <au>Jain, N.</au>. <j>IMS Bulletin</j>, Vol. <v>22</v>", 
+                    "author": "Jain, N.", 
+                    "bibtype": "article", 
+                    "year": "1993", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>22</v>", 
+                    "topline": "article pruitt__william_e:8", 
+                    "id": "pruitt__william_e:8"
+                }
+            ], 
+            "DOB": "1934-05-11", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1993-07-25", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Pruitt, William E.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "pruitt__william_e", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=189757", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:pruitt.william-e", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=15029", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54378912", 
+                    "anchor": "Microsoft Academic: Pruitt, William E."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54378911", 
+                    "anchor": "Microsoft Academic: Pruitt, William E."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/2780735", 
+                    "anchor": "Microsoft Academic: Pruitt, William E."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Medallion Lecturer", 
+                    "year": "1978", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Medallion Lecturer", 
+                    "year": "1985", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1986", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "pruitt__william", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Stanford University", 
+                    "thesis_title": "Bilateral Birth and Death Processes", 
+                    "year": "1960", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=15029"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

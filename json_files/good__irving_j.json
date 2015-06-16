@@ -1,0 +1,146 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "I. J. Good", 
+                    "ref": "<t>I. J. Good.</t> <j>Amstat News</j>, Vol. <v>May 2009</v>, pp.<pp>46-47</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2009", 
+                    "howpublished": "<j>Amstat News</j>, Vol. <v>May 2009</v>, pp.<pp>46-47</pp>", 
+                    "topline": "article good__irving_j:8", 
+                    "id": "good__irving_j:8"
+                }
+            ], 
+            "DOB": "1916-12-09", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2009-04-05", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Good, Irving J.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "I. J. Good, 1916-2009", 
+                    "ref": "<t>I. J. Good, 1916-2009.</t> <au>Banks, D.</au>. <j>IMS Bulletin</j>, Vol. <v>38(5)</v>, pp.<pp>11-12</pp>", 
+                    "author": "Banks, D.", 
+                    "bibtype": "article", 
+                    "year": "2009", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>38(5)</v>, pp.<pp>11-12</pp>", 
+                    "topline": "article good__irving_j:10", 
+                    "id": "good__irving_j:10"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2009", 
+                    "howpublished": "???", 
+                    "topline": "misc good__irving_j:504128", 
+                    "id": "good__irving_j:504128"
+                }
+            ], 
+            "ims_id": "good__irving_j", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=75220", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:good.irving-john", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=72215", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/56679685", 
+                    "anchor": "Microsoft Academic: Good, I. J."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/34150085", 
+                    "anchor": "Microsoft Academic: Good, Irving John"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1957", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1985", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "good__irving", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>Notices Amer. Math. Soc.</j>, Vol. <v>56</v>, pp.<pp>850</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2009", 
+                    "howpublished": "<j>Notices Amer. Math. Soc.</j>, Vol. <v>56</v>, pp.<pp>850</pp>", 
+                    "topline": "article good__irving_j:9", 
+                    "id": "good__irving_j:9"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Cambridge", 
+                    "thesis_title": "Fourier Analysis", 
+                    "year": "1941", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=72215"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Irving J. Good, 1916-2009", 
+                    "ref": "<t>Irving J. Good, 1916-2009.</t> In: <bt>Statisticians in History</bt>, American Statistical Association", 
+                    "author": "Anonymous", 
+                    "bibtype": "incollection", 
+                    "year": "2009", 
+                    "howpublished": "In: <bt>Statisticians in History</bt>, American Statistical Association", 
+                    "topline": "incollection good__irving_j:12", 
+                    "id": "good__irving_j:12"
+                }, 
+                {
+                    "title": "Irving John Good", 
+                    "ref": "<t>Irving John Good.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2009", 
+                    "howpublished": "???", 
+                    "topline": "incollection good__irving_j:13", 
+                    "id": "good__irving_j:13"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

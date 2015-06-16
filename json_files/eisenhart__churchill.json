@@ -1,0 +1,106 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1994", 
+                    "howpublished": "???", 
+                    "topline": "misc eisenhart__churchill:576597", 
+                    "id": "eisenhart__churchill:576597"
+                }, 
+                {
+                    "title": "Churchill Eisenhart: 1913-94", 
+                    "ref": "<t>Churchill Eisenhart: 1913-94.</t> <au>Cameron, J. M. and Rosenblatt, J. R.</au>. <j>IMS Bulletin</j>, Vol. <v>24</v>, pp.<pp>4-5</pp>", 
+                    "author": "Cameron, J. M. and Rosenblatt, J. R.", 
+                    "bibtype": "article", 
+                    "year": "1995", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>24</v>, pp.<pp>4-5</pp>", 
+                    "topline": "article eisenhart__churchill:7", 
+                    "id": "eisenhart__churchill:7"
+                }
+            ], 
+            "DOB": "1913-03-11", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1994-06-25", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Eisenhart, Churchill", 
+            "Oral_History": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1985", 
+                    "howpublished": "???", 
+                    "topline": "misc eisenhart__churchill:9", 
+                    "id": "eisenhart__churchill:9"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1985", 
+                    "howpublished": "???", 
+                    "topline": "misc eisenhart__churchill:10", 
+                    "id": "eisenhart__churchill:10"
+                }
+            ], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "eisenhart__churchill", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=288707", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:eisenhart.churchill", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54273632", 
+                    "anchor": "Microsoft Academic: Eisenhart, Churchill"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/51708737", 
+                    "anchor": "Microsoft Academic: Eisenhart, Churchill"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1943", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Samuel S. Wilks Award", 
+                    "year": "1977", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

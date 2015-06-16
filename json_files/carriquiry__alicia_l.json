@@ -1,0 +1,80 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Carriquiry, Alicia L.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "carriquiry__alicia_l", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.public.iastate.edu/~alicia/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "category": "homepage", 
+                    "href": "http://www.public.iastate.edu/~alicia/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:carriquiry.alicia-l", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/50424411", 
+                    "anchor": "Microsoft Academic: A. L. Carriquiry"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/43781319", 
+                    "anchor": "Microsoft Academic: A. L. Carriquiry"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/56318262", 
+                    "anchor": "Microsoft Academic: Alicia L. Carriquiry"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52650709", 
+                    "anchor": "Microsoft Academic: Alicia Carriquiry"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/23359023", 
+                    "anchor": "Microsoft Academic: Alicia L. Carriquiry"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18674321", 
+                    "anchor": "Microsoft Academic: Alicia L. Carriquiry"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "2006", 
+                    "citation": "For outstanding contributions to applied statistics, especially, in the field of human nutrition; and for exceptional contributions to statistics in Latin America, to Bayesian statistics, and to the work of the IMS", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "carriquiry__alici", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

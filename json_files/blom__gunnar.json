@@ -1,0 +1,93 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1920-04-09", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2003-08-01", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Blom, Gunnar", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Gunnar Blom", 
+                    "ref": "<t>Gunnar Blom.</t> <au>Lanke, J.</au>. <j>IMS Bulletin</j>, Vol. <v>33(2)</v>, pp.<pp>10</pp>", 
+                    "author": "Lanke, J.", 
+                    "bibtype": "article", 
+                    "year": "2004", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>33(2)</v>, pp.<pp>10</pp>", 
+                    "topline": "article blom__gunnar:8", 
+                    "id": "blom__gunnar:8"
+                }
+            ], 
+            "ims_id": "blom__gunnar", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=38115", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:blom.gunnar", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=44719", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/50833202", 
+                    "anchor": "Microsoft Academic: Blom, Gunnar"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1965", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "book", 
+                    "year": "1985", 
+                    "howpublished": "???", 
+                    "topline": "book blom__gunnar:7", 
+                    "id": "blom__gunnar:7"
+                }
+            ], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Stockholm University", 
+                    "thesis_title": "Statistical Estimates and Transformed Beta-variables", 
+                    "year": "1958", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=44719"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

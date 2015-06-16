@@ -1,0 +1,109 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Barndorff-Nielsen, O. E.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "barndorff-nielson__o_e", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=31370", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:barndorff-nielsen.ole-eiler", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=43855", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/55943898", 
+                    "anchor": "Microsoft Academic: Barndorff-Nielsen, O. E."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12756980", 
+                    "anchor": "Microsoft Academic: Barndorff-Nielsen, Ole"
+                }, 
+                {
+                    "href": "http://en.wikipedia.org/wiki/Barndorff-Nielsen", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://pure.au.dk//portal/en/persons/ole-e-barndorffnielsen(e0c305d5-8780-447c-9657-24c4c127bf72).html", 
+                    "anchor": "Department of Mathematics, Aarhus University"
+                }, 
+                {
+                    "href": "http://pure.au.dk/portal/en/persons/ole-e-barndorffnielsen(e0c305d5-8780-447c-9657-24c4c127bf72)/publications.html", 
+                    "anchor": "Publication List"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1974", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Royal Danish Academy of Sciences and Letters, Member", 
+                    "year": "1980", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Medallion Lecturer", 
+                    "year": "1986", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Rietz Lecturer", 
+                    "year": "1993", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "The Royal Society of Edinburgh, Corresponding Fellow", 
+                    "year": "2001", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "barndorff-nielsen__o", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=43855"
+                        }
+                    ], 
+                    "type": "Ph.D.", 
+                    "year": "year?"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

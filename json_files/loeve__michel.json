@@ -1,0 +1,73 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1907-01-22", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1979-02-17", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Lo&egrave;ve, Michel", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "loeve__michel", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=303619", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:loeve.michel", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/11209750", 
+                    "anchor": "Microsoft Academic: M. Loeve (M. Lo\\`{e"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/50822454", 
+                    "anchor": "Microsoft Academic: Michel Loeve (Michel Lo\\`{e"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53928262", 
+                    "anchor": "Microsoft Academic: Michel Loeve (Michel Lo\\`{e"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1949", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>8</v>, pp.<pp>131</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1979", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>8</v>, pp.<pp>131</pp>", 
+                    "topline": "article loeve__michel:8", 
+                    "id": "loeve__michel:8"
+                }
+            ], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

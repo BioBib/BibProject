@@ -1,0 +1,129 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1904-08-27", 
+            "DVD": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1988", 
+                    "howpublished": "???", 
+                    "topline": "misc daniel__cuthbert:13", 
+                    "id": "daniel__cuthbert:13"
+                }
+            ], 
+            "Collected_Works": [], 
+            "DOD": "1997-08-08", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Daniel, Cuthbert", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Cuthbert Daniel: Industrial statistician", 
+                    "ref": "<t>Cuthbert Daniel: Industrial statistician.</t> <au>Hunter, J. S.</au>. <j>Amer. Statist.</j>, Vol. <v>52</v>, pp.<pp>89-92</pp>", 
+                    "author": "Hunter, J. S.", 
+                    "bibtype": "article", 
+                    "year": "1998", 
+                    "howpublished": "<j>Amer. Statist.</j>, Vol. <v>52</v>, pp.<pp>89-92</pp>", 
+                    "topline": "article daniel__cuthbert:8", 
+                    "id": "daniel__cuthbert:8"
+                }, 
+                {
+                    "title": "Cuthbert Daniel, 1905-1997", 
+                    "ref": "<t>Cuthbert Daniel, 1905-1997.</t> <au>Mallows, C.</au>. <j>J. Roy. Statist. Soc. Ser. D</j>, Vol. <v>49</v>, pp.<pp>111</pp>", 
+                    "author": "Mallows, C.", 
+                    "bibtype": "article", 
+                    "year": "2000", 
+                    "howpublished": "<j>J. Roy. Statist. Soc. Ser. D</j>, Vol. <v>49</v>, pp.<pp>111</pp>", 
+                    "topline": "article daniel__cuthbert:9", 
+                    "id": "daniel__cuthbert:9"
+                }
+            ], 
+            "ims_id": "daniel__cuthbert", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.irsst.qc.ca/fr/_personne_0723.html", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.york.ac.uk/depts/maths/histstat/people/daniel.gif", 
+                    "anchor": "www.york.ac.uk"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=431378", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:daniel.cuthbert", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12526350", 
+                    "anchor": "Microsoft Academic: Cuthbert Daniel"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1963", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "R. A. Fisher Lecturer", 
+                    "year": "1971", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Samuel S. Wilks Award", 
+                    "year": "1974", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [
+                {
+                    "title": "Design, Data and Analysis, by Some Friends of Cuthbert Daniel", 
+                    "ref": "<t>Design, Data and Analysis, by Some Friends of Cuthbert Daniel.</t> Wiley", 
+                    "author": "Anonymous", 
+                    "bibtype": "book", 
+                    "year": "1987", 
+                    "howpublished": "Wiley", 
+                    "topline": "book daniel__cuthbert:7", 
+                    "id": "daniel__cuthbert:7"
+                }
+            ], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "A conversation with Cuthbert Daniel", 
+                    "ref": "<t>A conversation with Cuthbert Daniel.</t> <au>Tufte, E. R.</au>. <j>Statist. Sci.</j>, Vol. <v>3</v>, pp.<pp>413-424</pp>", 
+                    "author": "Tufte, E. R.", 
+                    "bibtype": "article", 
+                    "year": "1988", 
+                    "howpublished": "<j>Statist. Sci.</j>, Vol. <v>3</v>, pp.<pp>413-424</pp>", 
+                    "topline": "article daniel__cuthbert:12", 
+                    "id": "daniel__cuthbert:12"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

@@ -1,0 +1,108 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Carl-Gustav Esseen", 
+                    "ref": "<t>Carl-Gustav Esseen.</t> <au>Gut, A. and Holst, L.</au>. <j>IMS Bulletin</j>, Vol. <v>30</v>, pp.<pp>408-409</pp>", 
+                    "author": "Gut, A. and Holst, L.", 
+                    "bibtype": "article", 
+                    "year": "2001", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>30</v>, pp.<pp>408-409</pp>", 
+                    "topline": "article esseen__carl-gustav:7", 
+                    "id": "esseen__carl-gustav:7"
+                }
+            ], 
+            "DOB": "1918-09-18", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2001-11-10", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Esseen, Carl-Gustav", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Carl-Gustav Esseen", 
+                    "ref": "<t>Carl-Gustav Esseen.</t> <au>Gut, A. and Holst, L.</au>. <j>Bernoulli News</j>, Vol. <v>9(1)</v>", 
+                    "author": "Gut, A. and Holst, L.", 
+                    "bibtype": "article", 
+                    "year": "2002", 
+                    "howpublished": "<j>Bernoulli News</j>, Vol. <v>9(1)</v>", 
+                    "topline": "article esseen__carl-gustav:8", 
+                    "id": "esseen__carl-gustav:8"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2002", 
+                    "howpublished": "???", 
+                    "topline": "misc esseen__carl-gustav:334281", 
+                    "id": "esseen__carl-gustav:334281"
+                }
+            ], 
+            "ims_id": "esseen__carl-gustav", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://sv.wikipedia.org/wiki/Carl-Gustav_Esseen", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=217489", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:esseen.carl-gustav", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=20033", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/2079757", 
+                    "anchor": "Microsoft Academic: Esseen, Carl-Gustav"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1966", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Uppsala Universitet", 
+                    "thesis_title": "Fourier Analysis of Distribution Functions. A Mathematical Study of the Laplace-Gaussian Law.", 
+                    "year": "1944", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=20033"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

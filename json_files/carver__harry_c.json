@@ -1,0 +1,195 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1890-12-04", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1977-01-30", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Carver, Harry C.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Harry C. Carver, 1890-1977", 
+                    "ref": "<t>Harry C. Carver, 1890-1977.</t> <au>Craig, C. C.</au>. <j>Ann. Statist</j>, Vol. <v>6</v>, pp.<pp>1-4</pp>", 
+                    "author": "Craig, C. C.", 
+                    "bibtype": "article", 
+                    "year": "1978", 
+                    "howpublished": "<j>Ann. Statist</j>, Vol. <v>6</v>, pp.<pp>1-4</pp>", 
+                    "topline": "article carver__harry_c:9", 
+                    "id": "carver__harry_c:9"
+                }
+            ], 
+            "ims_id": "carver__harry_c", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://en.wikipedia.org/wiki/Harry_C._Carver", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=422391", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=7600", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/47158043", 
+                    "anchor": "Microsoft Academic: Carver, Harry C."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "before 1943", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "carver__harry", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>6</v>, pp.<pp>61</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1977", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>6</v>, pp.<pp>61</pp>", 
+                    "topline": "article carver__harry_c:8", 
+                    "id": "carver__harry_c:8"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Michigan", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=7600"
+                        }
+                    ], 
+                    "type": "B.S.", 
+                    "year": "1915"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Harry Clyde Carver", 
+                    "ref": "<t>Harry Clyde Carver.</t> In: <bt>Faculty History Project</bt>, University of Michigan", 
+                    "author": "Anonymous", 
+                    "bibtype": "incollection", 
+                    "year": "1961", 
+                    "howpublished": "In: <bt>Faculty History Project</bt>, University of Michigan", 
+                    "topline": "incollection carver__harry_c:10", 
+                    "id": "carver__harry_c:10"
+                }, 
+                {
+                    "title": "Early days in statistics at Michigan", 
+                    "ref": "<t>Early days in statistics at Michigan.</t> <au>Craig, C. C.</au>. <j>Statist. Sci.</j>, Vol. <v>1</v>, pp.<pp>292-293</pp>", 
+                    "author": "Craig, C. C.", 
+                    "bibtype": "article", 
+                    "year": "1986", 
+                    "howpublished": "<j>Statist. Sci.</j>, Vol. <v>1</v>, pp.<pp>292-293</pp>", 
+                    "topline": "article carver__harry_c:11", 
+                    "id": "carver__harry_c:11"
+                }, 
+                {
+                    "title": "Mathematics at the University of Michigan", 
+                    "ref": "<t>Mathematics at the University of Michigan.</t> <au>Kaplan, W.</au>. <inc>booktitle:century-of-mathematics-in-america-part-iii</inc>. pp.<pp>179-189</pp>", 
+                    "author": "Kaplan, W.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:century-of-mathematics-in-america-part-iii", 
+                    "year": "1989", 
+                    "howpublished": "pp.<pp>179-189</pp>", 
+                    "topline": "incollection carver__harry_c:14", 
+                    "id": "carver__harry_c:14"
+                }, 
+                {
+                    "title": "Reminiscences of mathematics Michigan", 
+                    "ref": "<t>Reminiscences of mathematics Michigan.</t> <au>Wilder, R. L.</au>. <inc>booktitle:century-of-mathematics-in-america-part-iii</inc>. pp.<pp>191-204</pp>", 
+                    "author": "Wilder, R. L.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:century-of-mathematics-in-america-part-iii", 
+                    "year": "1989", 
+                    "howpublished": "pp.<pp>191-204</pp>", 
+                    "topline": "incollection carver__harry_c:15", 
+                    "id": "carver__harry_c:15"
+                }, 
+                {
+                    "title": "The history of statistics in 1993", 
+                    "ref": "<t>The history of statistics in 1993.</t> <au>Stigler, S. M.</au>. <j>Statist. Sci.</j>, Vol. <v>11</v>, pp.<pp>244-252</pp>", 
+                    "author": "Stigler, S. M.", 
+                    "bibtype": "article", 
+                    "year": "1996", 
+                    "howpublished": "<j>Statist. Sci.</j>, Vol. <v>11</v>, pp.<pp>244-252</pp>", 
+                    "topline": "article carver__harry_c:13", 
+                    "id": "carver__harry_c:13"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "year?", 
+                    "howpublished": "???", 
+                    "topline": "misc carver__harry_c:12", 
+                    "id": "carver__harry_c:12"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "year?", 
+                    "howpublished": "???", 
+                    "topline": "misc carver__harry_c:16", 
+                    "id": "carver__harry_c:16"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "American Mathematical Society", 
+            "title": "A Century of Mathematics in America, Part III", 
+            "url": "http://www.worldcat.org/title/century-of-mathematics-in-america-part-iii/oclc/28363941", 
+            "booktitle": "A Century of Mathematics in America, Part III", 
+            "address": "Providence, RI", 
+            "editors": "P. Duren and R. Askey and H. M. Edwards and U. C. Merzbach", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:century-of-mathematics-in-america-part-iii", 
+            "year": "1989", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>A Century of Mathematics in America, Part III.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:century-of-mathematics-in-america-part-iii"
+        }, 
+        {
+            "publisher": "American Mathematical Society", 
+            "title": "A Century of Mathematics in America, Part III", 
+            "url": "http://www.worldcat.org/title/century-of-mathematics-in-america-part-iii/oclc/28363941", 
+            "booktitle": "A Century of Mathematics in America, Part III", 
+            "address": "Providence, RI", 
+            "editors": "P. Duren and R. Askey and H. M. Edwards and U. C. Merzbach", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:century-of-mathematics-in-america-part-iii", 
+            "year": "1989", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>A Century of Mathematics in America, Part III.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:century-of-mathematics-in-america-part-iii"
+        }
+    ]
+}

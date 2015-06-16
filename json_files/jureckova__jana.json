@@ -1,0 +1,83 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Jure&ccaron;kov&aacute;, Jana", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "jureckova__jana", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.karlin.mff.cuni.cz/~jurecko/janaus.htm", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:jureckova.jana", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/50691943", 
+                    "anchor": "Microsoft Academic: Jureckova Jana (Jure\\v{c"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12782370", 
+                    "anchor": "Microsoft Academic: Jana Jureckova (Jana Jure\\v{c"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/43446772", 
+                    "anchor": "Microsoft Academic: Jana Jureckova (Jana Jure\\v{c"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1980", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc jureckova__jana:348733", 
+                    "id": "jureckova__jana:348733"
+                }
+            ], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc jureckova__jana:776641", 
+                    "id": "jureckova__jana:776641"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

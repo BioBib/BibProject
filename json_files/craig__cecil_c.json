@@ -1,0 +1,127 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1898-04-14", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1985-06-16", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Craig, Cecil C.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "1985", 
+                    "howpublished": "???", 
+                    "topline": "misc craig__cecil_c:380239", 
+                    "id": "craig__cecil_c:380239"
+                }
+            ], 
+            "ims_id": "craig__cecil_c", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=233293", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:craig.cecil-c", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=5292", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/10720616", 
+                    "anchor": "Microsoft Academic: Craig, Cecil"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "President", 
+                    "year": "IMS", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "before 1943", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "craig__cecil", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>14</v>, pp.<pp>339</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1985", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>14</v>, pp.<pp>339</pp>", 
+                    "topline": "article craig__cecil_c:9", 
+                    "id": "craig__cecil_c:9"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Michigan", 
+                    "thesis_title": "An Application of Thiele's Semi-Invariants to the Sampling Problem", 
+                    "year": "1927", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=5292"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Mathematics at the University of Michigan", 
+                    "ref": "<t>Mathematics at the University of Michigan.</t> <au>Kaplan, W.</au>. <inc>booktitle:century-of-mathematics-in-america-part-iii</inc>. pp.<pp>179-189</pp>", 
+                    "author": "Kaplan, W.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:century-of-mathematics-in-america-part-iii", 
+                    "year": "1989", 
+                    "howpublished": "pp.<pp>179-189</pp>", 
+                    "topline": "incollection craig__cecil_c:12", 
+                    "id": "craig__cecil_c:12"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "American Mathematical Society", 
+            "title": "A Century of Mathematics in America, Part III", 
+            "url": "http://www.worldcat.org/title/century-of-mathematics-in-america-part-iii/oclc/28363941", 
+            "booktitle": "A Century of Mathematics in America, Part III", 
+            "address": "Providence, RI", 
+            "editors": "P. Duren and R. Askey and H. M. Edwards and U. C. Merzbach", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:century-of-mathematics-in-america-part-iii", 
+            "year": "1989", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>A Century of Mathematics in America, Part III.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:century-of-mathematics-in-america-part-iii"
+        }
+    ]
+}

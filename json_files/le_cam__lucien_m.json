@@ -1,0 +1,182 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Lucien Le Cam", 
+                    "ref": "<t>Lucien Le Cam.</t> <au>Beran, R. and Yang, G.</au>. <j>IMS Bulletin</j>, Vol. <v>29</v>, pp.<pp>464-466</pp>", 
+                    "author": "Beran, R. and Yang, G.", 
+                    "bibtype": "article", 
+                    "year": "2000", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>29</v>, pp.<pp>464-466</pp>", 
+                    "topline": "article le_cam__lucien_m:8", 
+                    "id": "le_cam__lucien_m:8"
+                }
+            ], 
+            "DOB": "1924-11-18", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2000-04-25", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Le Cam, Lucien M.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "le_cam__lucien_m", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://en.wikipedia.org/wiki/LeCam", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=111350", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:le-cam.lucien-m", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=32891", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18007020", 
+                    "anchor": "Microsoft Academic: Le Cam"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/23374336", 
+                    "anchor": "Microsoft Academic: Lucien Le Cam"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1954", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Wald Lecturer", 
+                    "year": "1963", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS President", 
+                    "year": "1973", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1976", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "le_cam__lucien", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of California, Berkeley", 
+                    "thesis_title": "On Some Asymptotic Properties of Maximum Likelihood Estimates and Related Bayes' Estimates", 
+                    "year": "1952", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=32891"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Lucien Le Cam", 
+                    "ref": "<t>Lucien Le Cam.</t> <inc>booktitle:more-mathematical-people-contemporary-conversations</inc>. pp.<pp>161-179</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:more-mathematical-people-contemporary-conversations", 
+                    "year": "1990", 
+                    "howpublished": "pp.<pp>161-179</pp>", 
+                    "topline": "incollection le_cam__lucien_m:12", 
+                    "id": "le_cam__lucien_m:12"
+                }, 
+                {
+                    "title": "Lucien Le Cam. Tribute read at honorary doctorate ceremony at Universit&eacute; libre de Bruxelles", 
+                    "ref": "<t>Lucien Le Cam. Tribute read at honorary doctorate ceremony at Universit&eacute; libre de Bruxelles.</t> <j>IMS Bulletin</j>, Vol. <v>26</v>, pp.<pp>84-86</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1997", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>26</v>, pp.<pp>84-86</pp>", 
+                    "topline": "article le_cam__lucien_m:13", 
+                    "id": "le_cam__lucien_m:13"
+                }, 
+                {
+                    "title": "Le Cam, Lucien", 
+                    "ref": "<t>Le Cam, Lucien.</t> <au>Yang, G. L.</au>. <inc>booktitle:encyclopedia-of-statistical-sciences</inc>. ???", 
+                    "author": "Yang, G. L.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-statistical-sciences", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "incollection le_cam__lucien_m:14", 
+                    "id": "le_cam__lucien_m:14"
+                }, 
+                {
+                    "title": "Lucien Marie Le Cam", 
+                    "ref": "<t>Lucien Marie Le Cam.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "2011", 
+                    "howpublished": "???", 
+                    "topline": "incollection le_cam__lucien_m:15", 
+                    "id": "le_cam__lucien_m:15"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Academic Press", 
+            "title": "More Mathematical People: Contemporary Conversations", 
+            "url": "http://www.worldcat.org/title/more-mathematical-people-contemporary-conversations/oclc/21335917", 
+            "booktitle": "More Mathematical People: Contemporary Conversations", 
+            "address": "San Diego, CA", 
+            "editors": "D. J. Albers and G. L. Alexanderson and C. Reid", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:more-mathematical-people-contemporary-conversations", 
+            "year": "1990", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>More Mathematical People: Contemporary Conversations.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:more-mathematical-people-contemporary-conversations"
+        }, 
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Statistical Sciences", 
+            "url": "http://onlinelibrary.wiley.com/book/10.1002/0471667196", 
+            "booktitle": "Encyclopedia of Statistical Sciences", 
+            "address": "Hoboken, NJ", 
+            "editors": "S. Kotz and N. Balakrishnan and C. Read and B. Vidakovic", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:encyclopedia-of-statistical-sciences", 
+            "year": "2006", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }
+    ]
+}

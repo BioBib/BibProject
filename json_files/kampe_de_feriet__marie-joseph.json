@@ -1,0 +1,120 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1893-05-14", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1982-04-06", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Kamp&eacute; de F&eacute;riet, Marie-Joseph", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Joseph Kamp&eacute; de F&eacute;riet (1893-1982)", 
+                    "ref": "<t>Joseph Kamp&eacute; de F&eacute;riet (1893-1982).</t> <au>Malavard, L.</au>. <j>C. R. Acad. Sci. Vie Acad&eacute;mique</j>, Vol. <v>296 suppl. 11</v>, pp.<pp>33-35</pp>", 
+                    "author": "Malavard, L.", 
+                    "bibtype": "article", 
+                    "year": "1983", 
+                    "howpublished": "<j>C. R. Acad. Sci. Vie Acad&eacute;mique</j>, Vol. <v>296 suppl. 11</v>, pp.<pp>33-35</pp>", 
+                    "topline": "article kampe_de_feriet__marie-joseph:9", 
+                    "id": "kampe_de_feriet__marie-joseph:9"
+                }
+            ], 
+            "ims_id": "kampe_de_feriet__marie-joseph", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:kampe-de-feriet.joseph", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:de-feriet.kampe", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:kampe-de-ferriet.joseph", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/46848483", 
+                    "anchor": "Microsoft Academic: De Feriet"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/2881853", 
+                    "anchor": "Microsoft Academic: Joseph KampE De FEriet (Joseph Kamp\\'{E"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/50657487", 
+                    "anchor": "Microsoft Academic: J. Kampe de Feriet (J. Kamp\\'{e"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/48053382", 
+                    "anchor": "Microsoft Academic: Kampe de Feriet (Kamp\\'{e"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/55149023", 
+                    "anchor": "Microsoft Academic: J. Kampe de Feriet"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/49659242", 
+                    "anchor": "Microsoft Academic: J. Kampe de Feriet (J. Kamp\\'{e"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/48832163", 
+                    "anchor": "Microsoft Academic: J. Kampe de Feriet (J. Kamp\\'{e"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/23218547", 
+                    "anchor": "Microsoft Academic: J. Kampe de Feriet (J. Kamp\\'{e"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "Spanish Academy of Sciences", 
+                    "year": "Royal", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Acad&eacute;mie des sciences, Correspondent", 
+                    "year": "1954", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1970", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>11</v>, pp.<pp>216</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1982", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>11</v>, pp.<pp>216</pp>", 
+                    "topline": "article kampe_de_feriet__marie-joseph:8", 
+                    "id": "kampe_de_feriet__marie-joseph:8"
+                }
+            ], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

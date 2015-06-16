@@ -1,0 +1,74 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Chinubhai Ghelabhai Khatri, 1931-1989", 
+                    "ref": "<t>Chinubhai Ghelabhai Khatri, 1931-1989.</t> <au>Shah, K. R.</au>. <j>IMS Bulletin</j>, Vol. <v>18</v>, pp.<pp>339</pp>", 
+                    "author": "Shah, K. R.", 
+                    "bibtype": "article", 
+                    "year": "1989", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>18</v>, pp.<pp>339</pp>", 
+                    "topline": "article khatri__c_g:8", 
+                    "id": "khatri__c_g:8"
+                }
+            ], 
+            "DOB": "1931-08-08", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1989-03-31", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Khatri, Chinubal G.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "khatri__c_g", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=101030", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:khatri.chinubal-g", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12609361", 
+                    "anchor": "Microsoft Academic: Khatri, C. G."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54820883", 
+                    "anchor": "Microsoft Academic: Khatri, C. G."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54820884", 
+                    "anchor": "Microsoft Academic: Khatri, Chinubal G."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1972", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "khatri__chinubal", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

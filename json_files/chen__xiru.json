@@ -1,0 +1,86 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1934-02-11", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2005-08-08", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Chen, Xiru", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "A paper to express condolence on the passing of Academician Xiru Chen (in Chinese). Chinese", 
+                    "ref": "<t>A paper to express condolence on the passing of Academician Xiru Chen (in Chinese). Chinese.</t> <j>J. Appl. Probab.</j>, Vol. <v>21</v>, pp.<pp>337-338</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2005", 
+                    "howpublished": "<j>J. Appl. Probab.</j>, Vol. <v>21</v>, pp.<pp>337-338</pp>", 
+                    "topline": "article chen__xiru:8", 
+                    "id": "chen__xiru:8"
+                }, 
+                {
+                    "title": "A master of minds", 
+                    "ref": "<t>A master of minds.</t> <au>Fan, J.</au>. <j>Statist. Sinica</j>, Vol. <v>18</v>, pp.<pp>399-400</pp>", 
+                    "author": "Fan, J.", 
+                    "bibtype": "article", 
+                    "year": "2008", 
+                    "howpublished": "<j>Statist. Sinica</j>, Vol. <v>18</v>, pp.<pp>399-400</pp>", 
+                    "topline": "article chen__xiru:9", 
+                    "id": "chen__xiru:9"
+                }, 
+                {
+                    "title": "Editorial: A rigorous statistician and passionate educator", 
+                    "ref": "<t>Editorial: A rigorous statistician and passionate educator.</t> <au>Chen, J.</au>. <j>Statist. Sinica</j>, Vol. <v>18</v>, pp.<pp>401-403</pp>", 
+                    "author": "Chen, J.", 
+                    "bibtype": "article", 
+                    "year": "2008", 
+                    "howpublished": "<j>Statist. Sinica</j>, Vol. <v>18</v>, pp.<pp>401-403</pp>", 
+                    "topline": "article chen__xiru:10", 
+                    "id": "chen__xiru:10"
+                }
+            ], 
+            "ims_id": "chen__xiru", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=194080", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:chen.xiru", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18663297", 
+                    "anchor": "Microsoft Academic: Chen, Xiru"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "2002", 
+                    "citation": "For fundamental contributions to asymptotic theory in linear models, U-statistics, robust and density estimation, leadership for statistical research in China, dedicated editorial and professional service", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

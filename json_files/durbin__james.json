@@ -1,0 +1,159 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2012", 
+                    "howpublished": "???", 
+                    "topline": "misc durbin__james:49906", 
+                    "id": "durbin__james:49906"
+                }
+            ], 
+            "DOB": "1923-06-30", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2012-06-23", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Durbin, James", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2012", 
+                    "howpublished": "???", 
+                    "topline": "misc durbin__james:857497", 
+                    "id": "durbin__james:857497"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2012", 
+                    "howpublished": "???", 
+                    "topline": "misc durbin__james:326971", 
+                    "id": "durbin__james:326971"
+                }
+            ], 
+            "ims_id": "durbin__james", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://en.wikipedia.org/wiki/James_Durbin", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.york.ac.uk/depts/maths/histstat/people/durbin.gif", 
+                    "anchor": "www.york.ac.uk"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=194583", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:durbin.james", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52378750", 
+                    "anchor": "Microsoft Academic: Durbin, J."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1958", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Guy Medal in Bronze", 
+                    "year": "1966", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Guy Medal in Silver", 
+                    "year": "1976", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "British Academy, Fellow", 
+                    "year": "2001", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Guy Medal in Gold", 
+                    "year": "2008", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Statistics in the University of London: Prof. James Durbin", 
+                    "ref": "<t>Statistics in the University of London: Prof. James Durbin.</t> <j>Nature</j>, Vol. <v>191</v>, pp.<pp>1247</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1961", 
+                    "howpublished": "<j>Nature</j>, Vol. <v>191</v>, pp.<pp>1247</pp>", 
+                    "topline": "article durbin__james:10", 
+                    "id": "durbin__james:10"
+                }, 
+                {
+                    "title": "The ET interview: Professor James Durbin", 
+                    "ref": "<t>The ET interview: Professor James Durbin.</t> <au>Phillips, P. C. B.</au>. <j>Econometric Theory</j>, Vol. <v>4</v>, pp.<pp>125-157</pp>", 
+                    "author": "Phillips, P. C. B.", 
+                    "bibtype": "article", 
+                    "year": "1988", 
+                    "howpublished": "<j>Econometric Theory</j>, Vol. <v>4</v>, pp.<pp>125-157</pp>", 
+                    "topline": "article durbin__james:11", 
+                    "id": "durbin__james:11"
+                }, 
+                {
+                    "title": "ISI honorary member interviews: Professor James Durbin", 
+                    "ref": "<t>ISI honorary member interviews: Professor James Durbin.</t> <j>ISI Newsletter</j>, Vol. <v>28(2)</v>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2004", 
+                    "howpublished": "<j>ISI Newsletter</j>, Vol. <v>28(2)</v>", 
+                    "topline": "article durbin__james:12", 
+                    "id": "durbin__james:12"
+                }, 
+                {
+                    "title": "Jim Durbin: How did statisticians evolve?", 
+                    "ref": "<t>Jim Durbin: How did statisticians evolve?</t> <au>Champkin, J.</au>. <j>Significance</j>, Vol. <v>6</v>, pp.<pp>130-131</pp>", 
+                    "author": "Champkin, J.", 
+                    "bibtype": "article", 
+                    "year": "2009", 
+                    "howpublished": "<j>Significance</j>, Vol. <v>6</v>, pp.<pp>130-131</pp>", 
+                    "topline": "article durbin__james:13", 
+                    "id": "durbin__james:13"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

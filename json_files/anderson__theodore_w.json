@@ -1,0 +1,148 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Anderson, Theodore W., Jr.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "anderson__theodore_w", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://statweb.stanford.edu/~ckirby/ted/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=25845", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:anderson.theodore-w", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=83137", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/10566443", 
+                    "anchor": "Microsoft Academic: Anderson, Theodore W."
+                }, 
+                {
+                    "href": "https://statistics.stanford.edu/people/theodore-w-anderson", 
+                    "anchor": "Stanford Statistics"
+                }, 
+                {
+                    "href": "http://www-stat.stanford.edu/~ckirby/ted/CV.pdf", 
+                    "anchor": "CV"
+                }, 
+                {
+                    "href": "http://statweb.stanford.edu/~ckirby/ted/bibliography.pdf", 
+                    "anchor": "Publication List"
+                }, 
+                {
+                    "href": "http://statweb.stanford.edu/~ckirby/ted/papers/", 
+                    "anchor": "Publication List"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1947", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS President", 
+                    "year": "1963", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "American Academy of Arts and Sciences, Fellow", 
+                    "year": "1974", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "National Academy of Sciences, Member", 
+                    "year": "1976", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Wald Lecturer", 
+                    "year": "1982", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "R. A. Fisher Lecturer", 
+                    "year": "1985", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Samuel S. Wilks Award", 
+                    "year": "1988", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "anderson__theodore", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Princeton University", 
+                    "thesis_title": "The Non-Central Wishart Distribution and Its Application to Problems in Multivariate Statistics", 
+                    "year": "1945", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=83137"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Conference given in honor of T. W. Anderson", 
+                    "ref": "<t>Conference given in honor of T. W. Anderson.</t> <au>Hansen, P. R. and Lai, T. L. and Velu, R.</au>. <j>Amstat News</j>, Vol. <v>Aug. 2009</v>, pp.<pp>43</pp>", 
+                    "author": "Hansen, P. R. and Lai, T. L. and Velu, R.", 
+                    "bibtype": "article", 
+                    "year": "2009", 
+                    "howpublished": "<j>Amstat News</j>, Vol. <v>Aug. 2009</v>, pp.<pp>43</pp>", 
+                    "topline": "article anderson__theodore_w:13", 
+                    "id": "anderson__theodore_w:13"
+                }, 
+                {
+                    "title": "Conference in Economics and Statistics, in honor of T. W. Anderson's 90th birthday", 
+                    "ref": "<t>Conference in Economics and Statistics, in honor of T. W. Anderson's 90th birthday.</t> <au>Hansen, P. R. and Lai, T. L. and Velu, R.</au>. <j>IMS Bulletin</j>, Vol. <v>38(1)</v>, pp.<pp>7</pp>", 
+                    "author": "Hansen, P. R. and Lai, T. L. and Velu, R.", 
+                    "bibtype": "article", 
+                    "year": "2009", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>38(1)</v>, pp.<pp>7</pp>", 
+                    "topline": "article anderson__theodore_w:14", 
+                    "id": "anderson__theodore_w:14"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

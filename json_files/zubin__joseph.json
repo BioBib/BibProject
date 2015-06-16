@@ -1,0 +1,83 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1900-10-06", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1990-12-18", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Zubin, Joseph", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "zubin__joseph", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.wpic.pitt.edu/research/biometrics/joseph_zubin.htm", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:zubin.joseph", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54277187", 
+                    "anchor": "Microsoft Academic: J Zubin"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54836158", 
+                    "anchor": "Microsoft Academic: Joseph Zubin"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53618122", 
+                    "anchor": "Microsoft Academic: J. ZUBIN"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52829008", 
+                    "anchor": "Microsoft Academic: J. Zubin"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/48587174", 
+                    "anchor": "Microsoft Academic: J. Zubin"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54459337", 
+                    "anchor": "Microsoft Academic: Joseph Zubin"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54459335", 
+                    "anchor": "Microsoft Academic: Joseph Zubin"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/8498379", 
+                    "anchor": "Microsoft Academic: Joseph Zubin"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "19??", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

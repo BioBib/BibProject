@@ -1,0 +1,75 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Cs&ouml;rg&odblac;, Mikl&oacute;s", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "csorgo__miklos", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://lrsp.carleton.ca/directors/csorgo/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=53160", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:csorgo.miklos", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53334322", 
+                    "anchor": "Microsoft Academic: M Csorgo (M Cs\\\"{o"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/28417064", 
+                    "anchor": "Microsoft Academic: M. Csorgo (M. Cs\\\"{o"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/13054815", 
+                    "anchor": "Microsoft Academic: Miklos Csorgo (Mikl\\'{o"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53334284", 
+                    "anchor": "Microsoft Academic: Miklos Csorgo (Mikl\\'{o"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1978", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "The Royal Society of Canada, Fellow", 
+                    "year": "1989", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

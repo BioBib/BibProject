@@ -1,0 +1,124 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1947-08-22", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2001-06-07", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Tweedie, Richard L.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Richard Tweedie", 
+                    "ref": "<t>Richard Tweedie.</t> <au>Hall, P.</au>. <j>Bernoulli News</j>, Vol. <v>8(2)</v>", 
+                    "author": "Hall, P.", 
+                    "bibtype": "article", 
+                    "year": "2001", 
+                    "howpublished": "<j>Bernoulli News</j>, Vol. <v>8(2)</v>", 
+                    "topline": "article tweedie__richard_l:10", 
+                    "id": "tweedie__richard_l:10"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <au>Dunsmuir, W. T. M.</au>. ???", 
+                    "author": "Dunsmuir, W. T. M.", 
+                    "bibtype": "misc", 
+                    "year": "2002", 
+                    "howpublished": "???", 
+                    "topline": "misc tweedie__richard_l:599294", 
+                    "id": "tweedie__richard_l:599294"
+                }
+            ], 
+            "ims_id": "tweedie__richard_l", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.biostat.umn.edu/~tweedie/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=175535", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:tweedie.richard-l", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=38843", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54078754", 
+                    "anchor": "Microsoft Academic: Tweedie, Richard L."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12526370", 
+                    "anchor": "Microsoft Academic: Tweedie, Richard L."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1989", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "tweedie__richard", 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>30</v>, pp.<pp>178</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2001", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>30</v>, pp.<pp>178</pp>", 
+                    "topline": "article tweedie__richard_l:9", 
+                    "id": "tweedie__richard_l:9"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Cambridge", 
+                    "thesis_title": "R-Theory and Truncation Algorithms for Markov Chains and Processes", 
+                    "year": "1972", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=38843"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2002", 
+                    "howpublished": "???", 
+                    "topline": "misc tweedie__richard_l:333806", 
+                    "id": "tweedie__richard_l:333806"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

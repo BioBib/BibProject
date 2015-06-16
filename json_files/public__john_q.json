@@ -1,0 +1,274 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [
+                {
+                    "category": "service", 
+                    "text": "Correspondent, London Psychogeographical Association", 
+                    "link_ls": "", 
+                    "year": "1990-1992"
+                }
+            ], 
+            "Obituary": [
+                {
+                    "title": "John Q. Public visits a Land called Uqbar", 
+                    "ref": "<t>John Q. Public visits a Land called Uqbar.</t> <au>Haslam, Silas</au>. <j>Revista Canadiense de Estudios Hisp\\'anicos</j>, JSTOR, pp.<pp>275--280</pp>", 
+                    "author": "Haslam, Silas", 
+                    "bibtype": "article", 
+                    "year": "2001", 
+                    "howpublished": "<j>Revista Canadiense de Estudios Hisp\\'anicos</j>, JSTOR, pp.<pp>275--280</pp>", 
+                    "topline": "article public__john_q:13", 
+                    "id": "public__john_q:13"
+                }
+            ], 
+            "DOB": "1963-11-23", 
+            "DVD": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> DVD of BBC program", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2002", 
+                    "howpublished": "DVD of BBC program", 
+                    "topline": "misc public__john_q:7", 
+                    "id": "public__john_q:7"
+                }
+            ], 
+            "Collected_Works": [
+                {
+                    "title": "Further Essays on the History of John Q. Public", 
+                    "ref": "<t>Further Essays on the History of John Q. Public.</t> <au>Vier, Ligurn</au>. Oxford University Press", 
+                    "author": "Vier, Ligurn", 
+                    "bibtype": "book", 
+                    "year": "1976", 
+                    "howpublished": "Oxford University Press", 
+                    "topline": "book public__john_q:5", 
+                    "id": "public__john_q:5"
+                }
+            ], 
+            "DOD": "2001-09-10", 
+            "Member": [], 
+            "birth_place": "Chicago, IL, USA", 
+            "alt_name": "John Doe", 
+            "Symposium": [
+                {
+                    "title": "John Q. Public and The Case of the Family Jewels", 
+                    "ref": "<t>John Q. Public and The Case of the Family Jewels.</t> <au>Mount, Evadne</au>. <j>European Journal of Clinical Nutrition</j>, Vol. <v>10</v>, pp.<pp>129-133</pp>", 
+                    "author": "Mount, Evadne", 
+                    "bibtype": "article", 
+                    "year": "1973", 
+                    "howpublished": "<j>European Journal of Clinical Nutrition</j>, Vol. <v>10</v>, pp.<pp>129-133</pp>", 
+                    "topline": "article public__john_q:2", 
+                    "id": "public__john_q:2"
+                }
+            ], 
+            "Memoir": [
+                {
+                    "title": "John Q. Public and The Ironic High Style", 
+                    "ref": "<t>John Q. Public and The Ironic High Style.</t> <au>Public, John Q. and Sewell, Martha</au>. <inc>booktitle:survey-of-combinatorial-theory</inc>. pp.<pp>199-201</pp>", 
+                    "author": "Public, John Q. and Sewell, Martha", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:survey-of-combinatorial-theory", 
+                    "year": "1996", 
+                    "howpublished": "pp.<pp>199-201</pp>", 
+                    "topline": "incollection public__john_q:10", 
+                    "id": "public__john_q:10"
+                }
+            ], 
+            "Degree": [], 
+            "complete_name": "Public, John Q.", 
+            "Oral_History": [
+                {
+                    "title": "John Q. Public and Ariel in Mayfair", 
+                    "ref": "<t>John Q. Public and Ariel in Mayfair.</t> <au>Maltby, Hilary</au>. <j>New Zealand Math. Soc. Newslett.</j>, Vol. <v>15</v>, pp.<pp>20--21</pp>", 
+                    "author": "Maltby, Hilary", 
+                    "bibtype": "article", 
+                    "year": "1995", 
+                    "howpublished": "<j>New Zealand Math. Soc. Newslett.</j>, Vol. <v>15</v>, pp.<pp>20--21</pp>", 
+                    "topline": "article public__john_q:11", 
+                    "id": "public__john_q:11"
+                }
+            ], 
+            "Selected_Works": [
+                {
+                    "title": "John Q. Public, Accounting For Everything: A Guide to Personal Finance", 
+                    "ref": "<t>John Q. Public, Accounting For Everything: A Guide to Personal Finance.</t> <au>Fenton, P. C.</au>. <j>Journal of Accounting and Economics</j>, Vol. <v>10</v>, pp.<pp>73-75</pp>", 
+                    "author": "Fenton, P. C.", 
+                    "bibtype": "article", 
+                    "year": "1999", 
+                    "howpublished": "<j>Journal of Accounting and Economics</j>, Vol. <v>10</v>, pp.<pp>73-75</pp>", 
+                    "topline": "article public__john_q:6", 
+                    "id": "public__john_q:6"
+                }
+            ], 
+            "In_Memoriam": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>Milwaukee Journal</j>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2002", 
+                    "howpublished": "<j>Milwaukee Journal</j>", 
+                    "topline": "article public__john_q:14", 
+                    "id": "public__john_q:14"
+                }
+            ], 
+            "ims_id": "public__john_q", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [
+                {
+                    "title": "John Q. Public and The Worshipful and Ancient Law of Gallifrey", 
+                    "ref": "<t>John Q. Public and The Worshipful and Ancient Law of Gallifrey.</t> <au>Rassilon</au>. <j>Sov. Astron. Lett. (Engl. Transl.)</j>, Vol. <v>23</v>, pp.<pp>20-21</pp>", 
+                    "author": "Rassilon", 
+                    "bibtype": "article", 
+                    "year": "1995", 
+                    "howpublished": "<j>Sov. Astron. Lett. (Engl. Transl.)</j>, Vol. <v>23</v>, pp.<pp>20-21</pp>", 
+                    "topline": "article public__john_q:4", 
+                    "id": "public__john_q:4"
+                }
+            ], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.usingenglish.com/reference/idioms/john+q+public.html", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://en.wikipedia.org/wiki/John_Q._Public", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://en.wiktionary.org/wiki/John_Q._Public", 
+                    "anchor": "en.wiktionary.org"
+                }
+            ], 
+            "Position": [
+                {
+                    "category": "position", 
+                    "text": "Researcher,  Amundsen-Scott South Pole Station", 
+                    "year": "1979-1989"
+                }, 
+                {
+                    "category": "position", 
+                    "text": "Professor of Statistics,  Miskatonic University", 
+                    "year": "1989-2001"
+                }
+            ], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "Fellowship of the Ring", 
+                    "year": "2001", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "public__john", 
+            "Festschrift": [
+                {
+                    "title": "John Q. Public goes Cherry Picking in Vermont", 
+                    "ref": "<t>John Q. Public goes Cherry Picking in Vermont.</t> <au>Arthur, Doris</au>. Academia Publishers", 
+                    "author": "Arthur, Doris", 
+                    "bibtype": "book", 
+                    "year": "2002", 
+                    "howpublished": "Academia Publishers", 
+                    "topline": "book public__john_q:9", 
+                    "id": "public__john_q:9"
+                }
+            ], 
+            "Death_Notice": [
+                {
+                    "title": "John Q. Public and the `Testament of J. K. Borkman'", 
+                    "ref": "<t>John Q. Public and the `Testament of J. K. Borkman'.</t> <au>Borkman, Jorgen Knut</au>. <inc>booktitle:complete-dictionary-of-scientific-biography</inc>. Vol. <v>19</v>, pp.<pp>352-357</pp>", 
+                    "author": "Borkman, Jorgen Knut", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:complete-dictionary-of-scientific-biography", 
+                    "year": "2001", 
+                    "howpublished": "Vol. <v>19</v>, pp.<pp>352-357</pp>", 
+                    "topline": "incollection public__john_q:12", 
+                    "id": "public__john_q:12"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Miskatonic University", 
+                    "thesis_title": "A Statistical Interrogation of `Psychological Distress and Repeated Television Viewing'", 
+                    "year": "1979", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=125938"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [
+                {
+                    "title": "John Q. Public's gift to the Girl from Jupiter", 
+                    "ref": "<t>John Q. Public's gift to the Girl from Jupiter.</t> <au>Clark, Isaac</au>. <j>British Journal of Clinical Psychology</j>, Vol. <v>30</v>, 2, pp.<pp>131--138</pp>", 
+                    "author": "Clark, Isaac", 
+                    "bibtype": "article", 
+                    "year": "1991", 
+                    "howpublished": "<j>British Journal of Clinical Psychology</j>, Vol. <v>30</v>, 2, pp.<pp>131--138</pp>", 
+                    "topline": "article public__john_q:8", 
+                    "id": "public__john_q:8"
+                }
+            ], 
+            "Archive": [
+                {
+                    "title": "John Q. Public and The Big Bang Theory -- A Personal View", 
+                    "ref": "<t>John Q. Public and The Big Bang Theory -- A Personal View.</t> <au>Gallumbits, Eccentrica</au>. <j>Physical Review D</j>, Vol. <v>22</v>, 1, pp.<pp>21-23</pp>", 
+                    "author": "Gallumbits, Eccentrica", 
+                    "bibtype": "article", 
+                    "year": "1995", 
+                    "howpublished": "<j>Physical Review D</j>, Vol. <v>22</v>, 1, pp.<pp>21-23</pp>", 
+                    "topline": "article public__john_q:3", 
+                    "id": "public__john_q:3"
+                }
+            ], 
+            "Biography": [
+                {
+                    "title": "John Q. Public: Through Flatland to Thoughtland", 
+                    "ref": "<t>John Q. Public: Through Flatland to Thoughtland.</t> <au>Square, A.</au>. <j>Business Ethics Quarterly</j>, Vol. <v>14</v>, pp.<pp>1-14</pp>", 
+                    "author": "Square, A.", 
+                    "bibtype": "article", 
+                    "year": "1984", 
+                    "howpublished": "<j>Business Ethics Quarterly</j>, Vol. <v>14</v>, pp.<pp>1-14</pp>", 
+                    "topline": "article public__john_q:1", 
+                    "id": "public__john_q:1"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "North-Holland", 
+            "title": "A Survey of Combinatorial Theory", 
+            "url": "http://www.worldcat.org/title/survey-of-combinatorial-theory/oclc/713965", 
+            "booktitle": "A Survey of Combinatorial Theory", 
+            "address": "Amsterdam", 
+            "editors": "J. N. Srivastava and others", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:survey-of-combinatorial-theory", 
+            "year": "1973", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>A Survey of Combinatorial Theory.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:survey-of-combinatorial-theory"
+        }, 
+        {
+            "publisher": "Scribner's", 
+            "title": "Complete Dictionary of Scientific Biography", 
+            "url": "http://www.worldcat.org/title/complete-dictionary-of-scientific-biography/oclc/187313311", 
+            "booktitle": "Complete Dictionary of Scientific Biography", 
+            "address": "Detroit", 
+            "editors": "F. L. Holmes", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:complete-dictionary-of-scientific-biography", 
+            "year": "2008", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Complete Dictionary of Scientific Biography.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:complete-dictionary-of-scientific-biography"
+        }
+    ]
+}

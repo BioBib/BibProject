@@ -1,0 +1,94 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Eugene Lukacs, 1906-1987", 
+                    "ref": "<t>Eugene Lukacs, 1906-1987.</t> <au>Rohatgi, V. K.</au>. <j>IMS Bulletin</j>, Vol. <v>17</v>, pp.<pp>160</pp>", 
+                    "author": "Rohatgi, V. K.", 
+                    "bibtype": "article", 
+                    "year": "1988", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>17</v>, pp.<pp>160</pp>", 
+                    "topline": "article lukacs__eugene:8", 
+                    "id": "lukacs__eugene:8"
+                }
+            ], 
+            "DOB": "1906-08-14", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1987-12-21", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Lukacs, Eugene", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "lukacs__eugene", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://en.wikipedia.org/wiki/Eugene_Lukacs", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "category": "homepage", 
+                    "href": "http://en.wikipedia.org/wiki/Eugene_Lukacs", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=198364", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:lukacs.eugene", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/54273675", 
+                    "anchor": "Microsoft Academic: Lukacs, Eugene"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/50342255", 
+                    "anchor": "Microsoft Academic: Lukacs, Eugene"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18660938", 
+                    "anchor": "Microsoft Academic: Lukacs, Eugene"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1957", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Eugene Lukacs", 
+                    "ref": "<t>Eugene Lukacs.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
+                    "author": "O'Connor, J. J. and Robertson, E. F.", 
+                    "bibtype": "incollection", 
+                    "year": "1998", 
+                    "howpublished": "???", 
+                    "topline": "incollection lukacs__eugene:9", 
+                    "id": "lukacs__eugene:9"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

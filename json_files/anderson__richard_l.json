@@ -1,0 +1,115 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2003", 
+                    "howpublished": "???", 
+                    "topline": "misc anderson__richard_l:3705", 
+                    "id": "anderson__richard_l:3705"
+                }
+            ], 
+            "DOB": "1915-04-20", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2003-01-19", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Anderson, Richard L.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2003", 
+                    "howpublished": "???", 
+                    "topline": "misc anderson__richard_l:252352", 
+                    "id": "anderson__richard_l:252352"
+                }, 
+                {
+                    "title": "Richard L. Anderson", 
+                    "ref": "<t>Richard L. Anderson.</t> <au>Nelson, L. A.</au>. <j>IMS Bulletin</j>, Vol. <v>33(1)</v>, pp.<pp>10</pp>", 
+                    "author": "Nelson, L. A.", 
+                    "bibtype": "article", 
+                    "year": "2004", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>33(1)</v>, pp.<pp>10</pp>", 
+                    "topline": "article anderson__richard_l:9", 
+                    "id": "anderson__richard_l:9"
+                }
+            ], 
+            "ims_id": "anderson__richard_l", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=281481", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:anderson.richard-l", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=13426", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/48427500", 
+                    "anchor": "Microsoft Academic: Richard L. Anderson"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "19??", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "anderson__richard", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Iowa State University", 
+                    "thesis_title": "Serial Correlation in the Analysis of Time Series", 
+                    "year": "1941", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=13426"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Richard L. Anderson, 1915-2003", 
+                    "ref": "<t>Richard L. Anderson, 1915-2003.</t> In: <bt>Statisticians in History</bt>, American Statistical Association", 
+                    "author": "Anonymous", 
+                    "bibtype": "incollection", 
+                    "year": "2003", 
+                    "howpublished": "In: <bt>Statisticians in History</bt>, American Statistical Association", 
+                    "topline": "incollection anderson__richard_l:11", 
+                    "id": "anderson__richard_l:11"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

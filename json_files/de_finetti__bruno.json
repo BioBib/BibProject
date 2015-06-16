@@ -1,0 +1,326 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1906-06-13", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1985-07-20", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "de Finetti, Bruno", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Bruno de Finetti, 1906-1985", 
+                    "ref": "<t>Bruno de Finetti, 1906-1985.</t> <au>Lindley, D. V.</au>. <j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>149</v>, pp.<pp>252</pp>", 
+                    "author": "Lindley, D. V.", 
+                    "bibtype": "article", 
+                    "year": "1986", 
+                    "howpublished": "<j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>149</v>, pp.<pp>252</pp>", 
+                    "topline": "article de_finetti__bruno:9", 
+                    "id": "de_finetti__bruno:9"
+                }, 
+                {
+                    "title": "Bruno de Finetti, 13th June 1906-20th July 1985", 
+                    "ref": "<t>Bruno de Finetti, 13th June 1906-20th July 1985.</t> <au>Ferrara, G.</au>. <j>Astin Bull.</j>, Vol. <v>16</v>, pp.<pp>11-12</pp>", 
+                    "author": "Ferrara, G.", 
+                    "bibtype": "article", 
+                    "year": "1986", 
+                    "howpublished": "<j>Astin Bull.</j>, Vol. <v>16</v>, pp.<pp>11-12</pp>", 
+                    "topline": "article de_finetti__bruno:10", 
+                    "id": "de_finetti__bruno:10"
+                }, 
+                {
+                    "title": "Bruno de Finetti", 
+                    "ref": "<t>Bruno de Finetti.</t> <au>Daboni, L.</au>. <j>Boll. Un. Mat. Ital. A (7)</j>, Vol. <v>1</v>, pp.<pp>283-308</pp>", 
+                    "author": "Daboni, L.", 
+                    "bibtype": "article", 
+                    "year": "1987", 
+                    "howpublished": "<j>Boll. Un. Mat. Ital. A (7)</j>, Vol. <v>1</v>, pp.<pp>283-308</pp>", 
+                    "topline": "article de_finetti__bruno:11", 
+                    "id": "de_finetti__bruno:11"
+                }, 
+                {
+                    "title": "In memory of Bruno de Finetti", 
+                    "ref": "<t>In memory of Bruno de Finetti.</t> <au>Daboni, L.</au>. <j>Riv. Mat. Sci. Econom. Social.</j>, Vol. <v>10</v>, pp.<pp>91-127</pp>", 
+                    "author": "Daboni, L.", 
+                    "bibtype": "article", 
+                    "year": "1987", 
+                    "howpublished": "<j>Riv. Mat. Sci. Econom. Social.</j>, Vol. <v>10</v>, pp.<pp>91-127</pp>", 
+                    "topline": "article de_finetti__bruno:12", 
+                    "id": "de_finetti__bruno:12"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "year?", 
+                    "howpublished": "???", 
+                    "topline": "misc de_finetti__bruno:512297", 
+                    "id": "de_finetti__bruno:512297"
+                }
+            ], 
+            "ims_id": "de_finetti__bruno", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://en.wikipedia.org/wiki/Bruno_de_Finetti", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.york.ac.uk/depts/maths/histstat/people/de_finetti.gif", 
+                    "anchor": "www.york.ac.uk"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:finetti.bruno-de", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:de-finetti.bruno", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/45509087", 
+                    "anchor": "Microsoft Academic: Bruno De Finetti"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/55253084", 
+                    "anchor": "Microsoft Academic: Bruno De Finetti"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/51891495", 
+                    "anchor": "Microsoft Academic: De Finetti B"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1951", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "Accademia Nazionale dei Lincei, Member", 
+                    "year": "1974", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [
+                {
+                    "title": "Bayesian Inference and Decision Techniques: Essays in Honor of Bruno de Finetti", 
+                    "ref": "<t>Bayesian Inference and Decision Techniques: Essays in Honor of Bruno de Finetti.</t> North-Holland", 
+                    "author": "Anonymous", 
+                    "bibtype": "book", 
+                    "year": "1986", 
+                    "howpublished": "North-Holland", 
+                    "topline": "book de_finetti__bruno:8", 
+                    "id": "de_finetti__bruno:8"
+                }
+            ], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Salute to Bruno de Finetti", 
+                    "ref": "<t>Salute to Bruno de Finetti.</t> <au>Scardovi, I.</au>. <j>Statistica,</j>, Vol. <v>45</v>, pp.<pp>149-152</pp>", 
+                    "author": "Scardovi, I.", 
+                    "bibtype": "article", 
+                    "year": "1985", 
+                    "howpublished": "<j>Statistica,</j>, Vol. <v>45</v>, pp.<pp>149-152</pp>", 
+                    "topline": "article de_finetti__bruno:15", 
+                    "id": "de_finetti__bruno:15"
+                }, 
+                {
+                    "title": "De Finetti's contribution to probability and statistics", 
+                    "ref": "<t>De Finetti's contribution to probability and statistics.</t> <au>Cifarelli, D. M. and Regazzini, E.</au>. <j>Statist. Sci.</j>, Vol. <v>11</v>, pp.<pp>253-282</pp>", 
+                    "author": "Cifarelli, D. M. and Regazzini, E.", 
+                    "bibtype": "article", 
+                    "year": "1996", 
+                    "howpublished": "<j>Statist. Sci.</j>, Vol. <v>11</v>, pp.<pp>253-282</pp>", 
+                    "topline": "article de_finetti__bruno:16", 
+                    "id": "de_finetti__bruno:16"
+                }, 
+                {
+                    "title": "Bruno de Finetti: The mathematician, the statistician, the economist, the forerunner", 
+                    "ref": "<t>Bruno de Finetti: The mathematician, the statistician, the economist, the forerunner.</t> <au>Rossi, C.</au>. <j>Stat. Med.</j>, Vol. <v>20</v>, pp.<pp>3651-3666</pp>", 
+                    "author": "Rossi, C.", 
+                    "bibtype": "article", 
+                    "year": "2001", 
+                    "howpublished": "<j>Stat. Med.</j>, Vol. <v>20</v>, pp.<pp>3651-3666</pp>", 
+                    "topline": "article de_finetti__bruno:18", 
+                    "id": "de_finetti__bruno:18"
+                }, 
+                {
+                    "title": "De Finetti, Bruno (1906-85).", 
+                    "ref": "<t>De Finetti, Bruno (1906-85).</t> <au>Hill, B. M.</au>. <inc>booktitle:international-encyclopedia-of-the-social-behavioral-sciences</inc>. pp.<pp>3260-3263</pp>", 
+                    "author": "Hill, B. M.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:international-encyclopedia-of-the-social-behavioral-sciences", 
+                    "year": "2001", 
+                    "howpublished": "pp.<pp>3260-3263</pp>", 
+                    "topline": "incollection de_finetti__bruno:19", 
+                    "id": "de_finetti__bruno:19"
+                }, 
+                {
+                    "title": "L. Bruno de Finetti", 
+                    "ref": "<t>L. Bruno de Finetti.</t> <au>Luca La Rocca and Reggio Emilia</au>. ???", 
+                    "author": "Luca La Rocca and Reggio Emilia", 
+                    "bibtype": "incollection", 
+                    "year": "2004", 
+                    "howpublished": "???", 
+                    "topline": "incollection de_finetti__bruno:25", 
+                    "id": "de_finetti__bruno:25"
+                }, 
+                {
+                    "title": "de Finetti, Bruno", 
+                    "ref": "<t>de Finetti, Bruno.</t> <au>Lindley, D. V.</au>. <inc>booktitle:encyclopedia-of-biostatistics</inc>. ???", 
+                    "author": "Lindley, D. V.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-biostatistics", 
+                    "year": "2005", 
+                    "howpublished": "???", 
+                    "topline": "incollection de_finetti__bruno:20", 
+                    "id": "de_finetti__bruno:20"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <inc>booktitle:encyclopedia-of-statistical-sciences</inc>. ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-statistical-sciences", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "incollection de_finetti__bruno:17", 
+                    "id": "de_finetti__bruno:17"
+                }, 
+                {
+                    "title": "Bruno de Finetti---a great probabilist and a great man", 
+                    "ref": "<t>Bruno de Finetti---a great probabilist and a great man.</t> <au>Anichini, G.</au>. <j>European Mathematical Society Newsletter</j>, pp.<pp>24-28</pp>", 
+                    "author": "Anichini, G.", 
+                    "bibtype": "article", 
+                    "year": "2006", 
+                    "howpublished": "<j>European Mathematical Society Newsletter</j>, pp.<pp>24-28</pp>", 
+                    "topline": "article de_finetti__bruno:21", 
+                    "id": "de_finetti__bruno:21"
+                }, 
+                {
+                    "title": "Profile: Bruno de Finetti", 
+                    "ref": "<t>Profile: Bruno de Finetti.</t> <au>Anichini, G.</au>. <j>IMS Bulletin</j>, Vol. <v>36(3)</v>, pp.<pp>7</pp>", 
+                    "author": "Anichini, G.", 
+                    "bibtype": "article", 
+                    "year": "2007", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>36(3)</v>, pp.<pp>7</pp>", 
+                    "topline": "article de_finetti__bruno:22", 
+                    "id": "de_finetti__bruno:22"
+                }, 
+                {
+                    "title": "de Finetti, Bruno", 
+                    "ref": "<t>de Finetti, Bruno.</t> <au>Weirich, P.</au>. <inc>booktitle:complete-dictionary-of-scientific-biography</inc>. Vol. <v>20</v>, pp.<pp>255-258</pp>", 
+                    "author": "Weirich, P.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:complete-dictionary-of-scientific-biography", 
+                    "year": "2008", 
+                    "howpublished": "Vol. <v>20</v>, pp.<pp>255-258</pp>", 
+                    "topline": "incollection de_finetti__bruno:23", 
+                    "id": "de_finetti__bruno:23"
+                }, 
+                {
+                    "title": "Bruno de Finetti: The foundations of probability", 
+                    "ref": "<t>Bruno de Finetti: The foundations of probability.</t> <au>Cifarelli, D. M.</au>. <inc>booktitle:mathematical-lives-protagonists-of-the-twentieth-century-from-hilbert-to-wiles</inc>. pp.<pp>109-113</pp>", 
+                    "author": "Cifarelli, D. M.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:mathematical-lives-protagonists-of-the-twentieth-century-from-hilbert-to-wiles", 
+                    "year": "2010", 
+                    "howpublished": "pp.<pp>109-113</pp>", 
+                    "topline": "incollection de_finetti__bruno:24", 
+                    "id": "de_finetti__bruno:24"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "North-Holland", 
+            "title": "International Encyclopedia of the Social and Behavioral Sciences", 
+            "url": "http://www.worldcat.org/title/international-encyclopedia-of-the-social-behavioral-sciences/oclc/47869490", 
+            "booktitle": "International Encyclopedia of the Social and Behavioral Sciences", 
+            "address": "Amsterdam", 
+            "editors": "N. J. Smelser and P. B. Baltes", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:international-encyclopedia-of-the-social-behavioral-sciences", 
+            "year": "2001", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>International Encyclopedia of the Social and Behavioral Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:international-encyclopedia-of-the-social-behavioral-sciences"
+        }, 
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Biostatistics", 
+            "url": "http://www.worldcat.org/title/encyclopedia-of-biostatistics/oclc/38258277", 
+            "booktitle": "Encyclopedia of Biostatistics", 
+            "address": "Hoboken, NJ", 
+            "editors": "P. Armitage and T. Colton", 
+            "bibtype": "reference", 
+            "edition": "2nd", 
+            "top_line": "reference booktitle:encyclopedia-of-biostatistics", 
+            "year": "2005", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Biostatistics.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-biostatistics"
+        }, 
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Statistical Sciences", 
+            "url": "http://onlinelibrary.wiley.com/book/10.1002/0471667196", 
+            "booktitle": "Encyclopedia of Statistical Sciences", 
+            "address": "Hoboken, NJ", 
+            "editors": "S. Kotz and N. Balakrishnan and C. Read and B. Vidakovic", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:encyclopedia-of-statistical-sciences", 
+            "year": "2006", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }, 
+        {
+            "publisher": "Scribner's", 
+            "title": "Complete Dictionary of Scientific Biography", 
+            "url": "http://www.worldcat.org/title/complete-dictionary-of-scientific-biography/oclc/187313311", 
+            "booktitle": "Complete Dictionary of Scientific Biography", 
+            "address": "Detroit", 
+            "editors": "F. L. Holmes", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:complete-dictionary-of-scientific-biography", 
+            "year": "2008", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Complete Dictionary of Scientific Biography.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:complete-dictionary-of-scientific-biography"
+        }, 
+        {
+            "publisher": "Springer", 
+            "title": "Mathematical Lives: Protagonists of the Twentieth Century from Hilbert to Wiles", 
+            "url": "http://www.worldcat.org/title/mathematical-lives-protagonists-of-the-twentieth-century-from-hilbert-to-wiles/oclc/682907521", 
+            "booktitle": "Mathematical Lives: Protagonists of the Twentieth Century from Hilbert to Wiles", 
+            "address": "Berlin", 
+            "editors": "C. Bartocci and R. Betti and A. Guerraggio and R. Lucchetti", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:mathematical-lives-protagonists-of-the-twentieth-century-from-hilbert-to-wiles", 
+            "year": "2010", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Mathematical Lives: Protagonists of the Twentieth Century from Hilbert to Wiles.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:mathematical-lives-protagonists-of-the-twentieth-century-from-hilbert-to-wiles"
+        }
+    ]
+}

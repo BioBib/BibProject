@@ -1,0 +1,113 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2002", 
+                    "howpublished": "???", 
+                    "topline": "misc chakravarti__indra_m:441615", 
+                    "id": "chakravarti__indra_m:441615"
+                }
+            ], 
+            "DOB": "1928-04-08", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2002-04-16", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Chakravarti, Indra M.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Indra Mohan Chakravarti", 
+                    "ref": "<t>Indra Mohan Chakravarti.</t> <au>Kallianpur, G. and Sen, P. K.</au>. <j>IMS Bulletin</j>, Vol. <v>31(4)</v>, pp.<pp>10</pp>", 
+                    "author": "Kallianpur, G. and Sen, P. K.", 
+                    "bibtype": "article", 
+                    "year": "2002", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>31(4)</v>, pp.<pp>10</pp>", 
+                    "topline": "article chakravarti__indra_m:9", 
+                    "id": "chakravarti__indra_m:9"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2002", 
+                    "howpublished": "???", 
+                    "topline": "misc chakravarti__indra_m:543554", 
+                    "id": "chakravarti__indra_m:543554"
+                }
+            ], 
+            "ims_id": "chakravarti__indra_m", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.stat.unc.edu/faculty/chakrav.html", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=47040", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:chakravarti.indra-mohan", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=9430", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/55296864", 
+                    "anchor": "Microsoft Academic: Chakravarti, I. M."
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/1200283", 
+                    "anchor": "Microsoft Academic: Chakravarti, I. M."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1973", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "chakravarti__indra", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Indian Statistical Institute, Calcutta", 
+                    "thesis_title": "Contributions to the Design and Analysis of Factorial Experiments", 
+                    "year": "1958", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=9430"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

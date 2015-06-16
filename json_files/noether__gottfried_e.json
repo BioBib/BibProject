@@ -1,0 +1,70 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Gottfried Emanuel Noether, 1915-1991", 
+                    "ref": "<t>Gottfried Emanuel Noether, 1915-1991.</t> <au>D'Agostino, R. and Koehn, U.</au>. <j>IMS Bulletin</j>, Vol. <v>20</v>, pp.<pp>530</pp>", 
+                    "author": "D'Agostino, R. and Koehn, U.", 
+                    "bibtype": "article", 
+                    "year": "1991", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>20</v>, pp.<pp>530</pp>", 
+                    "topline": "article noether__gottfried_e:8", 
+                    "id": "noether__gottfried_e:8"
+                }
+            ], 
+            "DOB": "1915-01-07", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1991-08-22", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Noether, Gottfried E.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "noether__gottfried_e", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=194089", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:noether.gottfried-emanuel", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18683373", 
+                    "anchor": "Microsoft Academic: Noether, Gottfried Emanuel"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/3111739", 
+                    "anchor": "Microsoft Academic: Noether, Gottfried E."
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1961", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "noether__gottfried", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}

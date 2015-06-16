@@ -1,0 +1,175 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc besag__julian_e:974766", 
+                    "id": "besag__julian_e:974766"
+                }
+            ], 
+            "DOB": "1945-03-26", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "2010-08-06", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Besag, Julian E.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Julian Besag, FRS, 1945-2010", 
+                    "ref": "<t>Julian Besag, FRS, 1945-2010.</t> <au>Green, P. and Diggle, P.</au>. <j>IMS Bulletin</j>, Vol. <v>39(10)</v>, pp.<pp>5</pp>", 
+                    "author": "Green, P. and Diggle, P.", 
+                    "bibtype": "article", 
+                    "year": "2010", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>39(10)</v>, pp.<pp>5</pp>", 
+                    "topline": "article besag__julian_e:9", 
+                    "id": "besag__julian_e:9"
+                }, 
+                {
+                    "title": "Julian Besag, 1945-2010", 
+                    "ref": "<t>Julian Besag, 1945-2010.</t> <au>Green, P.</au>. <j>The ISBA Bulletin</j>, Vol. <v>17(3)</v>, pp.<pp>10-11</pp>", 
+                    "author": "Green, P.", 
+                    "bibtype": "article", 
+                    "year": "2010", 
+                    "howpublished": "<j>The ISBA Bulletin</j>, Vol. <v>17(3)</v>, pp.<pp>10-11</pp>", 
+                    "topline": "article besag__julian_e:11", 
+                    "id": "besag__julian_e:11"
+                }, 
+                {
+                    "title": "Julian Besag FRS, 1945-2010", 
+                    "ref": "<t>Julian Besag FRS, 1945-2010.</t> <au>Green, Peter</au>. ???", 
+                    "author": "Green, Peter", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc besag__julian_e:396519", 
+                    "id": "besag__julian_e:396519"
+                }, 
+                {
+                    "title": "Julian Besag FRS, 1945-2010", 
+                    "ref": "<t>Julian Besag FRS, 1945-2010.</t> <au>Diggle, P. J. and Green, P. J.</au>. <j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>174</v>, pp.<pp>502-504</pp>", 
+                    "author": "Diggle, P. J. and Green, P. J.", 
+                    "bibtype": "article", 
+                    "year": "2011", 
+                    "howpublished": "<j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>174</v>, pp.<pp>502-504</pp>", 
+                    "topline": "article besag__julian_e:10", 
+                    "id": "besag__julian_e:10"
+                }, 
+                {
+                    "title": "Julian Besag", 
+                    "ref": "<t>Julian Besag.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2011", 
+                    "howpublished": "???", 
+                    "topline": "misc besag__julian_e:982553", 
+                    "id": "besag__julian_e:982553"
+                }
+            ], 
+            "ims_id": "besag__julian_e", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.stat.washington.edu/history/besag/", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://en.wikipedia.org/wiki/Julian_Besag", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.york.ac.uk/depts/maths/histstat/people/besag.gif", 
+                    "anchor": "www.york.ac.uk"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=239739", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:besag.julian", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=22252", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/12532064", 
+                    "anchor": "Microsoft Academic: Besag, Julian"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "Guy Medal in Silver", 
+                    "year": "1983", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1991", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "IMS Medallion Lecturer", 
+                    "year": "1992", 
+                    "link_ls": ""
+                }, 
+                {
+                    "category": "honor", 
+                    "text": "The Royal Society, Fellow", 
+                    "year": "2004", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "besag__julian", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=22252"
+                        }
+                    ], 
+                    "type": "", 
+                    "year": "year?"
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Profile: Julian Besag, FRS", 
+                    "ref": "<t>Profile: Julian Besag, FRS.</t> <j>IMS Bulletin</j>, Vol. <v>33(5)</v>, pp.<pp>13</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "2004", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>33(5)</v>, pp.<pp>13</pp>", 
+                    "topline": "article besag__julian_e:15", 
+                    "id": "besag__julian_e:15"
+                }
+            ]
+        }
+    ], 
+    "books": []
+}

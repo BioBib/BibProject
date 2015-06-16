@@ -1,0 +1,183 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DOB": "1923-05-27", 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "DOD": "1976-07-01", 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Birnbaum, Allan", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [
+                {
+                    "title": "Allan Birnbaum, 1923-1976", 
+                    "ref": "<t>Allan Birnbaum, 1923-1976.</t> <au>Godambe, V. P.</au>. <j>Amer. Statist.</j>, Vol. <v>31</v>, pp.<pp>178-179</pp>", 
+                    "author": "Godambe, V. P.", 
+                    "bibtype": "article", 
+                    "year": "1977", 
+                    "howpublished": "<j>Amer. Statist.</j>, Vol. <v>31</v>, pp.<pp>178-179</pp>", 
+                    "topline": "article birnbaum__allan:8", 
+                    "id": "birnbaum__allan:8"
+                }, 
+                {
+                    "title": "Allan D. Birnbaum, 1923-1976", 
+                    "ref": "<t>Allan D. Birnbaum, 1923-1976.</t> <au>Norton, B.</au>. <j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>140</v>, pp.<pp>564-565</pp>", 
+                    "author": "Norton, B.", 
+                    "bibtype": "article", 
+                    "year": "1977", 
+                    "howpublished": "<j>J. Roy. Statist. Soc. Ser. A</j>, Vol. <v>140</v>, pp.<pp>564-565</pp>", 
+                    "topline": "article birnbaum__allan:9", 
+                    "id": "birnbaum__allan:9"
+                }, 
+                {
+                    "title": "Allan Birnbaum's conception of statistical evidence", 
+                    "ref": "<t>Allan Birnbaum's conception of statistical evidence.</t> <au>Giere, R. N.</au>. <j>Synthese</j>, Vol. <v>36</v>, pp.<pp>5-13</pp>", 
+                    "author": "Giere, R. N.", 
+                    "bibtype": "article", 
+                    "year": "1977", 
+                    "howpublished": "<j>Synthese</j>, Vol. <v>36</v>, pp.<pp>5-13</pp>", 
+                    "topline": "article birnbaum__allan:10", 
+                    "id": "birnbaum__allan:10"
+                }, 
+                {
+                    "title": "Allan Birnbaum 1923-1976", 
+                    "ref": "<t>Allan Birnbaum 1923-1976.</t> <au>Barnard, G. A. and Godambe, V. P.</au>. <j>Ann. Math. Statist.</j>, Vol. <v>10</v>, pp.<pp>1033-1039</pp>", 
+                    "author": "Barnard, G. A. and Godambe, V. P.", 
+                    "bibtype": "article", 
+                    "year": "1982", 
+                    "howpublished": "<j>Ann. Math. Statist.</j>, Vol. <v>10</v>, pp.<pp>1033-1039</pp>", 
+                    "topline": "article birnbaum__allan:11", 
+                    "id": "birnbaum__allan:11"
+                }
+            ], 
+            "ims_id": "birnbaum__allan", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "href": "http://en.wikipedia.org/wiki/Allan_Birnbaum", 
+                    "anchor": "Wikipedia"
+                }, 
+                {
+                    "href": "http://www.york.ac.uk/depts/maths/histstat/people/birnbaum.gif", 
+                    "anchor": "www.york.ac.uk"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=413961", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:birnbaum.allan", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=33041", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/18725131", 
+                    "anchor": "Microsoft Academic: Birnbaum, Allan"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1956", 
+                    "link_ls": ""
+                }
+            ], 
+            "Festschrift": [], 
+            "Death_Notice": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <j>IMS Bulletin</j>, Vol. <v>6</v>, pp.<pp>63</pp>", 
+                    "author": "Anonymous", 
+                    "bibtype": "article", 
+                    "year": "1977", 
+                    "howpublished": "<j>IMS Bulletin</j>, Vol. <v>6</v>, pp.<pp>63</pp>", 
+                    "topline": "article birnbaum__allan:7", 
+                    "id": "birnbaum__allan:7"
+                }
+            ], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "Columbia University", 
+                    "thesis_title": "Characterizations of Complete Classes of Tests of Some Multiparametric Hypotheses, with Applications to Likelihood Ratio Tests", 
+                    "year": "1954", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=33041"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": [
+                {
+                    "title": "Birnbaum, Allan", 
+                    "ref": "<t>Birnbaum, Allan.</t> <au>Lindley, D. V.</au>. <inc>booktitle:international-encyclopedia-of-statistics</inc>. pp.<pp>22-24</pp>", 
+                    "author": "Lindley, D. V.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:international-encyclopedia-of-statistics", 
+                    "year": "1978", 
+                    "howpublished": "pp.<pp>22-24</pp>", 
+                    "topline": "incollection birnbaum__allan:12", 
+                    "id": "birnbaum__allan:12"
+                }, 
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <inc>booktitle:encyclopedia-of-statistical-sciences</inc>. ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:encyclopedia-of-statistical-sciences", 
+                    "year": "2006", 
+                    "howpublished": "???", 
+                    "topline": "incollection birnbaum__allan:13", 
+                    "id": "birnbaum__allan:13"
+                }
+            ]
+        }
+    ], 
+    "books": [
+        {
+            "publisher": "Free Press", 
+            "title": "International Encyclopedia of Statistics", 
+            "url": "http://www.worldcat.org/title/international-encyclopedia-of-statistics/oclc/3966286", 
+            "booktitle": "International Encyclopedia of Statistics", 
+            "address": "New York", 
+            "editors": "W. H. Kruskal and J. M. Tanur", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:international-encyclopedia-of-statistics", 
+            "year": "1978", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>International Encyclopedia of Statistics.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:international-encyclopedia-of-statistics"
+        }, 
+        {
+            "publisher": "Wiley", 
+            "title": "Encyclopedia of Statistical Sciences", 
+            "url": "http://onlinelibrary.wiley.com/book/10.1002/0471667196", 
+            "booktitle": "Encyclopedia of Statistical Sciences", 
+            "address": "Hoboken, NJ", 
+            "editors": "S. Kotz and N. Balakrishnan and C. Read and B. Vidakovic", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:encyclopedia-of-statistical-sciences", 
+            "year": "2006", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }
+    ]
+}

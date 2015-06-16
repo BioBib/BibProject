@@ -1,0 +1,116 @@
+{
+    "records": [
+        {
+            "Autobiography": [], 
+            "Service": [], 
+            "Obituary": [], 
+            "DVD": [], 
+            "Collected_Works": [], 
+            "Member": [], 
+            "Symposium": [], 
+            "Memoir": [], 
+            "Degree": [], 
+            "complete_name": "Bookstein, Fred L.", 
+            "Oral_History": [], 
+            "Selected_Works": [], 
+            "In_Memoriam": [], 
+            "ims_id": "bookstein__fred_l", 
+            "public_record_txt": "", 
+            "Art_Exhibition": [], 
+            "link_ls": [
+                {
+                    "category": "homepage", 
+                    "href": "http://www.ishpssb.org/ocs/viewabstract.php?id=339", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "category": "homepage", 
+                    "href": "http://www.anthropology.at/people/fbookstein", 
+                    "rel": "homepage"
+                }, 
+                {
+                    "href": "http://www.ams.org/mathscinet/search/author.html?mrauthid=39380", 
+                    "anchor": "MathSciNet"
+                }, 
+                {
+                    "href": "http://zbmath.org/authors/?q=ai:bookstein.fred-l", 
+                    "anchor": "zbMATH"
+                }, 
+                {
+                    "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=42381", 
+                    "anchor": "Math. Genealogy"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/46931181", 
+                    "anchor": "Microsoft Academic: Fred L. Bookstein"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/42759543", 
+                    "anchor": "Microsoft Academic: Fred L. Bookstein"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/1259310", 
+                    "anchor": "Microsoft Academic: Fred L. Bookstein"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/42247428", 
+                    "anchor": "Microsoft Academic: F. L. Bookstein"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53928059", 
+                    "anchor": "Microsoft Academic: Fred L. Bookstein"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/53179890", 
+                    "anchor": "Microsoft Academic: Fred L. Bookstein"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/46971125", 
+                    "anchor": "Microsoft Academic: Fred L. Bookstein"
+                }, 
+                {
+                    "href": "http://academic.research.microsoft.com/Author/52640710", 
+                    "anchor": "Microsoft Academic: F. L. Bookstein"
+                }, 
+                {
+                    "href": "http://www.stat.washington.edu/personnel/people.php?id=15", 
+                    "anchor": "profile Dept. Statistics, University of Washington"
+                }, 
+                {
+                    "href": "http://www.anthropology.at/people/fbookstein", 
+                    "anchor": "profile Dept. Anthropology, University of Vienna"
+                }
+            ], 
+            "Position": [], 
+            "Honor": [
+                {
+                    "category": "honor", 
+                    "text": "IMS Fellow", 
+                    "year": "1998", 
+                    "link_ls": ""
+                }
+            ], 
+            "alt_ims_id": "bookstein__fred", 
+            "Festschrift": [], 
+            "Death_Notice": [], 
+            "Education": [
+                {
+                    "category": "degree", 
+                    "school": "University of Michigan", 
+                    "thesis_title": "The Measurement of Biological Shape and Shape Change", 
+                    "year": "1977", 
+                    "link_ls": [
+                        {
+                            "href": "http://genealogy.math.ndsu.nodak.edu/id.php?id=42381"
+                        }
+                    ], 
+                    "type": "Ph.D."
+                }
+            ], 
+            "Endowment": [], 
+            "Archive": [], 
+            "Biography": []
+        }
+    ], 
+    "books": []
+}
