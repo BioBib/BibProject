@@ -57,8 +57,8 @@
                     "id": "akaike__hirotugu:10"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Hirotugu Akaike memorial website", 
+                    "ref": "<t>Hirotugu Akaike memorial website.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2011", 
@@ -117,6 +117,12 @@
                 }
             ], 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/688531.jpg", 
+                    "href": "http://tswww.ism.ac.jp/kitagawa/HomePage/akaike-s.jpg"
+                }
+            ], 
             "Death_Notice": [], 
             "Education": [], 
             "Endowment": [], 

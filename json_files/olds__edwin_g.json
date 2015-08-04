@@ -5,8 +5,8 @@
             "Service": [], 
             "Obituary": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Prof. Edwin G. Olds", 
+                    "ref": "<t>Prof. Edwin G. Olds.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "1961", 
@@ -65,6 +65,7 @@
             ], 
             "alt_ims_id": "olds__edwin", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [
                 {
                     "title": "Untitled", 

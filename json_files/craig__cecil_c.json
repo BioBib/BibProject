@@ -1,7 +1,18 @@
 {
     "records": [
         {
-            "Autobiography": [], 
+            "Autobiography": [
+                {
+                    "title": "Early days in statistics at Michigan", 
+                    "ref": "<t>Early days in statistics at Michigan.</t> <au>Craig, C. C.</au>. <j>Statist. Sci.</j>, Vol. <v>1</v>, pp.<pp>292-293</pp>", 
+                    "author": "Craig, C. C.", 
+                    "bibtype": "article", 
+                    "year": "1986", 
+                    "howpublished": "<j>Statist. Sci.</j>, Vol. <v>1</v>, pp.<pp>292-293</pp>", 
+                    "topline": "article craig__cecil_c:8", 
+                    "id": "craig__cecil_c:8"
+                }
+            ], 
             "Service": [], 
             "Obituary": [], 
             "DOB": "1898-04-14", 
@@ -17,9 +28,9 @@
             "Selected_Works": [], 
             "In_Memoriam": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Cecil Calvert Craig 1898-1985", 
+                    "ref": "<t>Cecil Calvert Craig 1898-1985.</t> <au>Hay, G. E.</au>. ???", 
+                    "author": "Hay, G. E.", 
                     "bibtype": "misc", 
                     "year": "1985", 
                     "howpublished": "???", 
@@ -65,6 +76,7 @@
             ], 
             "alt_ims_id": "craig__cecil", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [
                 {
                     "title": "Untitled", 

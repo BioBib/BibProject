@@ -55,6 +55,12 @@
             ], 
             "alt_ims_id": "van_der_waerden__bartel", 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/18675629.jpg", 
+                    "href": "http://www-history.mcs.st-andrews.ac.uk/Thumbnails/Van_der_Waerden.jpg"
+                }
+            ], 
             "Death_Notice": [], 
             "Education": [
                 {
@@ -74,9 +80,9 @@
             "Archive": [], 
             "Biography": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Bartel Leendert van der Waerden, 2 februari 1903-12 januari 1996.", 
+                    "ref": "<t>Bartel Leendert van der Waerden, 2 februari 1903-12 januari 1996.</t> <au>Springer, T. A.</au>. ???", 
+                    "author": "Springer, T. A.", 
                     "bibtype": "misc", 
                     "year": "1997", 
                     "howpublished": "???", 

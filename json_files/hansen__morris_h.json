@@ -81,6 +81,7 @@
             ], 
             "alt_ims_id": "hansen__morris", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [], 
             "Endowment": [], 
@@ -116,16 +117,6 @@
                     "howpublished": "<j>Amstat News</j>, Vol. <v>Sep. 2009</v>, pp.<pp>15-17</pp>", 
                     "topline": "article hansen__morris_h:14", 
                     "id": "hansen__morris_h:14"
-                }, 
-                {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
-                    "bibtype": "misc", 
-                    "year": "2009", 
-                    "howpublished": "???", 
-                    "topline": "misc hansen__morris_h:964679", 
-                    "id": "hansen__morris_h:964679"
                 }
             ]
         }

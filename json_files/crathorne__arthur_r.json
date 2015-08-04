@@ -48,6 +48,7 @@
             ], 
             "alt_ims_id": "crathorne__arthur", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [
                 {
                     "title": "Untitled", 
@@ -78,8 +79,8 @@
             "Archive": [
                 {
                     "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "ref": "<t>Untitled.</t> <au>Crathorne, Arthur R.</au>. ???", 
+                    "author": "Crathorne, Arthur R.", 
                     "bibtype": "misc", 
                     "year": "year?", 
                     "howpublished": "???", 

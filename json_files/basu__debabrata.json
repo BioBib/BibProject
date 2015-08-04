@@ -1,7 +1,18 @@
 {
     "records": [
         {
-            "Autobiography": [], 
+            "Autobiography": [
+                {
+                    "title": "Learning from counterexamples: At the Indian Statistical Institute in the early fifties", 
+                    "ref": "<t>Learning from counterexamples: At the Indian Statistical Institute in the early fifties.</t> <au>Basu, D.</au>. ???", 
+                    "author": "Basu, D.", 
+                    "bibtype": "incollection", 
+                    "year": "<rel>In </rel><inc>booktitle:glimpses-of-indias-statistical-heritage</inc>, pp.<pp>13-22</pp>. Eastern", 
+                    "howpublished": "???", 
+                    "topline": "incollection basu__debabrata:7", 
+                    "id": "basu__debabrata:7"
+                }
+            ], 
             "Service": [], 
             "Obituary": [
                 {
@@ -70,9 +81,9 @@
                     "id": "basu__debabrata:11"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Debabrata Basu 1925-2001", 
+                    "ref": "<t>Debabrata Basu 1925-2001.</t> <au>Sethuraman, J.</au>. ???", 
+                    "author": "Sethuraman, J.", 
                     "bibtype": "misc", 
                     "year": "2001", 
                     "howpublished": "???", 
@@ -140,6 +151,7 @@
                     "id": "basu__debabrata:8"
                 }
             ], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {

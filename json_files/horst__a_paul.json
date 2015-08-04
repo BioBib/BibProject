@@ -51,6 +51,7 @@
             ], 
             "alt_ims_id": "horst__a", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [
                 {
                     "title": "Untitled", 
@@ -68,8 +69,8 @@
             "Archive": [
                 {
                     "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "ref": "<t>Untitled.</t> <au>Horst, Paul</au>. ???", 
+                    "author": "Horst, Paul", 
                     "bibtype": "misc", 
                     "year": "year?", 
                     "howpublished": "???", 

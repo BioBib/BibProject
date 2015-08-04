@@ -69,14 +69,20 @@
             ], 
             "Festschrift": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "A Festschrift for Herman Rubin", 
+                    "ref": "<t>A Festschrift for Herman Rubin.</t> <au>DasGupta, A.</au>. ???", 
+                    "author": "DasGupta, A.", 
                     "bibtype": "misc", 
                     "year": "2004", 
                     "howpublished": "???", 
                     "topline": "misc rubin__herman:2977", 
                     "id": "rubin__herman:2977"
+                }
+            ], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/18644235.jpg", 
+                    "href": "http://www.stat.purdue.edu/~hrubin/hrubin.jpg"
                 }
             ], 
             "Death_Notice": [], 
@@ -98,9 +104,9 @@
             "Archive": [], 
             "Biography": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Some reminiscences of my friendship with Herman Rubin", 
+                    "ref": "<t>Some reminiscences of my friendship with Herman Rubin.</t> <au>Chernoff, H.</au>. ???", 
+                    "author": "Chernoff, H.", 
                     "bibtype": "misc", 
                     "year": "2004", 
                     "howpublished": "???", 
@@ -108,9 +114,9 @@
                     "id": "rubin__herman:51858"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Conversations with Herman Rubin", 
+                    "ref": "<t>Conversations with Herman Rubin.</t> <au>Bock, M. E.</au>. ???", 
+                    "author": "Bock, M. E.", 
                     "bibtype": "misc", 
                     "year": "2004", 
                     "howpublished": "???", 

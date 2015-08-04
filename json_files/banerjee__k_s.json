@@ -27,9 +27,9 @@
                     "id": "banerjee__k_s:8"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Kali S. Banerjee (1914-2002)", 
+                    "ref": "<t>Kali S. Banerjee (1914-2002).</t> <au>Sinha, B. K.</au>. ???", 
+                    "author": "Sinha, B. K.", 
                     "bibtype": "misc", 
                     "year": "2002", 
                     "howpublished": "???", 
@@ -37,8 +37,8 @@
                     "id": "banerjee__k_s:304515"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Kali S. Banerjee.", 
+                    "ref": "<t>Kali S. Banerjee.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2002", 
@@ -47,9 +47,9 @@
                     "id": "banerjee__k_s:377417"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Kali Shankar Banerjee", 
+                    "ref": "<t>Kali Shankar Banerjee.</t> <au>Sinha, B. K.</au>. ???", 
+                    "author": "Sinha, B. K.", 
                     "bibtype": "misc", 
                     "year": "2002", 
                     "howpublished": "???", 
@@ -101,6 +101,7 @@
             ], 
             "alt_ims_id": "banerjee__k", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {

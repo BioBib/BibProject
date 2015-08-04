@@ -28,9 +28,9 @@
             "Selected_Works": [], 
             "In_Memoriam": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Donald L. Burkholder, 1927-2013", 
+                    "ref": "<t>Donald L. Burkholder, 1927-2013.</t> <au>Burkholder, P. and Burkholder, W. and Ba&ntilde;uelos, R. and Davis, B. and Song, R.</au>. ???", 
+                    "author": "Burkholder, P. and Burkholder, W. and Ba&ntilde;uelos, R. and Davis, B. and Song, R.", 
                     "bibtype": "article", 
                     "year": "2013", 
                     "howpublished": "???", 
@@ -109,6 +109,12 @@
             ], 
             "alt_ims_id": "burkholder__donald", 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/10717548.jpg", 
+                    "href": "http://www.math.uiuc.edu/~donburk/burkholder.jpeg"
+                }
+            ], 
             "Death_Notice": [], 
             "Education": [
                 {

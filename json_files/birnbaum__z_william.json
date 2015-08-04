@@ -1,7 +1,19 @@
 {
     "records": [
         {
-            "Autobiography": [], 
+            "Autobiography": [
+                {
+                    "title": "From pure mathematics to applied statistics", 
+                    "ref": "<t>From pure mathematics to applied statistics.</t> <au>Birnbaum, Z. W.</au>. <inc>booktitle:making-of-statisticians</inc>. pp.<pp>76-82</pp>", 
+                    "author": "Birnbaum, Z. W.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:making-of-statisticians", 
+                    "year": "1982", 
+                    "howpublished": "pp.<pp>76-82</pp>", 
+                    "topline": "incollection birnbaum__z_william:8", 
+                    "id": "birnbaum__z_william:8"
+                }
+            ], 
             "Service": [], 
             "Obituary": [
                 {
@@ -28,9 +40,9 @@
             "Selected_Works": [], 
             "In_Memoriam": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Z. W. Birnbaum (1903-2000)", 
+                    "ref": "<t>Z. W. Birnbaum (1903-2000).</t> <au>Marshall, A. W. and Pyke, R. and Saunders, S. C.</au>. ???", 
+                    "author": "Marshall, A. W. and Pyke, R. and Saunders, S. C.", 
                     "bibtype": "misc", 
                     "year": "2001", 
                     "howpublished": "???", 
@@ -86,6 +98,7 @@
             ], 
             "alt_ims_id": "birnbaum__z", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [
                 {
                     "title": "Untitled", 
@@ -115,8 +128,8 @@
             "Archive": [
                 {
                     "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "ref": "<t>Untitled.</t> <au>Birnbaum, William Z.</au>. ???", 
+                    "author": "Birnbaum, William Z.", 
                     "bibtype": "misc", 
                     "year": "year?", 
                     "howpublished": "???", 
@@ -125,8 +138,8 @@
                 }, 
                 {
                     "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "ref": "<t>Untitled.</t> <au>Birnbaum, William Z.</au>. ???", 
+                    "author": "Birnbaum, William Z.", 
                     "bibtype": "misc", 
                     "year": "year?", 
                     "howpublished": "???", 
@@ -178,5 +191,20 @@
             ]
         }
     ], 
-    "books": []
+    "books": [
+        {
+            "publisher": "Springer", 
+            "title": "The Making of Statisticians", 
+            "url": "http://www.worldcat.org/title/making-of-statisticians/oclc/8283885", 
+            "booktitle": "The Making of Statisticians", 
+            "address": "New York", 
+            "editors": "J. Gani", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:making-of-statisticians", 
+            "year": "1982", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>The Making of Statisticians.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:making-of-statisticians"
+        }
+    ]
 }

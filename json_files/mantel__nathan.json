@@ -17,9 +17,9 @@
             "Selected_Works": [], 
             "In_Memoriam": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Nathan Mantel", 
+                    "ref": "<t>Nathan Mantel.</t> <au>Hale, A. and Hale, L.</au>. ???", 
+                    "author": "Hale, A. and Hale, L.", 
                     "bibtype": "misc", 
                     "year": "2002", 
                     "howpublished": "???", 
@@ -59,6 +59,7 @@
                 }
             ], 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [], 
             "Endowment": [], 

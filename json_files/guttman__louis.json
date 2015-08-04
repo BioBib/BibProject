@@ -5,8 +5,8 @@
             "Service": [], 
             "Obituary": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Louis Guttman, a leader of social research in Israel", 
+                    "ref": "<t>Louis Guttman, a leader of social research in Israel.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "1987", 
@@ -117,6 +117,7 @@
                 }
             ], 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [], 
             "Endowment": [], 

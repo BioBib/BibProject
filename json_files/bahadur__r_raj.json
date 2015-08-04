@@ -1,12 +1,24 @@
 {
     "records": [
         {
-            "Autobiography": [], 
+            "Autobiography": [
+                {
+                    "title": "Remarks on transitive sufficiency", 
+                    "ref": "<t>Remarks on transitive sufficiency.</t> <au>Bahadur, R. R.</au>. <inc>booktitle:glimpses-of-indias-statistical-heritage</inc>. pp.<pp>3-7</pp>", 
+                    "author": "Bahadur, R. R.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:glimpses-of-indias-statistical-heritage", 
+                    "year": "1992", 
+                    "howpublished": "pp.<pp>3-7</pp>", 
+                    "topline": "incollection bahadur__r_r:8", 
+                    "id": "bahadur__r_r:8"
+                }
+            ], 
             "Service": [], 
             "Obituary": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "R. R. Bahadur, 73, created statistical concept", 
+                    "ref": "<t>R. R. Bahadur, 73, created statistical concept.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "1997", 
@@ -25,8 +37,8 @@
                     "id": "bahadur__r_r:11"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Raghu Raj Bahadur, statistician", 
+                    "ref": "<t>Raghu Raj Bahadur, statistician.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "1997", 
@@ -166,6 +178,7 @@
                     "id": "bahadur__r_r:9"
                 }
             ], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [], 
             "Endowment": [], 
@@ -199,6 +212,20 @@
             "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
             "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
             "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }, 
+        {
+            "publisher": "Wiley India", 
+            "title": "Glimpses of India's Statistical Heritage", 
+            "url": "http://www.worldcat.org/title/glimpses-of-indias-statistical-heritage/oclc/27187369", 
+            "booktitle": "Glimpses of India's Statistical Heritage", 
+            "address": "New Delhi", 
+            "editors": "J. K. Ghosh and S. K. Mitra and K. R. Parthasarathy", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:glimpses-of-indias-statistical-heritage", 
+            "year": "1992", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Glimpses of India's Statistical Heritage.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:glimpses-of-indias-statistical-heritage"
         }, 
         {
             "publisher": "Institute of Mathematical Statistics", 

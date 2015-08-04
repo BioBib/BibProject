@@ -28,9 +28,9 @@
             "Selected_Works": [], 
             "In_Memoriam": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Joseph L. Hodges, Jr., Statistics: BerkeleyUntitled", 
+                    "ref": "<t>Joseph L. Hodges, Jr., Statistics: BerkeleyUntitled.</t> <au>Blackwell, D. and Bowker, A. H. and Lehmann, E. L.</au>. ???", 
+                    "author": "Blackwell, D. and Bowker, A. H. and Lehmann, E. L.", 
                     "bibtype": "misc", 
                     "year": "2000", 
                     "howpublished": "???", 
@@ -74,6 +74,7 @@
             ], 
             "alt_ims_id": "hodges__joseph", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {

@@ -1,7 +1,19 @@
 {
     "records": [
         {
-            "Autobiography": [], 
+            "Autobiography": [
+                {
+                    "title": "Looking at life quantitatively", 
+                    "ref": "<t>Looking at life quantitatively.</t> <au>Solomon, H.</au>. <inc>booktitle:craft-of-probabilistic-modelling-a-collection-of-personal-accounts</inc>. pp.<pp>11-30</pp>", 
+                    "author": "Solomon, H.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:craft-of-probabilistic-modelling-a-collection-of-personal-accounts", 
+                    "year": "1986", 
+                    "howpublished": "pp.<pp>11-30</pp>", 
+                    "topline": "incollection solomon__herbert:7", 
+                    "id": "solomon__herbert:7"
+                }
+            ], 
             "Service": [], 
             "Obituary": [], 
             "DOB": "1919-03-13", 
@@ -63,6 +75,7 @@
                 }
             ], 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {
@@ -83,5 +96,20 @@
             "Biography": []
         }
     ], 
-    "books": []
+    "books": [
+        {
+            "publisher": "Springer", 
+            "title": "The Craft of Probabilistic Modelling", 
+            "url": "http://www.worldcat.org/title/craft-of-probabilistic-modelling-a-collection-of-personal-accounts/oclc/13063726", 
+            "booktitle": "The Craft of Probabilistic Modelling", 
+            "address": "New York", 
+            "editors": "J. Gani", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:craft-of-probabilistic-modelling-a-collection-of-personal-accounts", 
+            "year": "1986", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>The Craft of Probabilistic Modelling.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:craft-of-probabilistic-modelling-a-collection-of-personal-accounts"
+        }
+    ]
 }

@@ -27,9 +27,9 @@
                     "id": "graybill__franklin_a:8"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Franklin Arno Graybill (1921-2012)", 
+                    "ref": "<t>Franklin Arno Graybill (1921-2012).</t> <au>Boes, D. and Breidt, J. and Iyer, H.</au>. ???", 
+                    "author": "Boes, D. and Breidt, J. and Iyer, H.", 
                     "bibtype": "misc", 
                     "year": "2013", 
                     "howpublished": "???", 
@@ -69,6 +69,7 @@
             ], 
             "alt_ims_id": "graybill__franklin", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {

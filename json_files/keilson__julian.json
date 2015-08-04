@@ -1,7 +1,19 @@
 {
     "records": [
         {
-            "Autobiography": [], 
+            "Autobiography": [
+                {
+                    "title": "Return of the wanderer: A physicist becomes a probabilist", 
+                    "ref": "<t>Return of the wanderer: A physicist becomes a probabilist.</t> <au>Keilson, J.</au>. <inc>booktitle:craft-of-probabilistic-modelling-a-collection-of-personal-accounts</inc>. pp.<pp>167-185</pp>", 
+                    "author": "Keilson, J.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:craft-of-probabilistic-modelling-a-collection-of-personal-accounts", 
+                    "year": "1986", 
+                    "howpublished": "pp.<pp>167-185</pp>", 
+                    "topline": "incollection keilson__julian:7", 
+                    "id": "keilson__julian:7"
+                }
+            ], 
             "Service": [], 
             "Obituary": [], 
             "DOB": "1924-11-19", 
@@ -43,6 +55,7 @@
                 }
             ], 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [
                 {
                     "title": "Untitled", 
@@ -61,5 +74,20 @@
             "Biography": []
         }
     ], 
-    "books": []
+    "books": [
+        {
+            "publisher": "Springer", 
+            "title": "The Craft of Probabilistic Modelling", 
+            "url": "http://www.worldcat.org/title/craft-of-probabilistic-modelling-a-collection-of-personal-accounts/oclc/13063726", 
+            "booktitle": "The Craft of Probabilistic Modelling", 
+            "address": "New York", 
+            "editors": "J. Gani", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:craft-of-probabilistic-modelling-a-collection-of-personal-accounts", 
+            "year": "1986", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>The Craft of Probabilistic Modelling.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:craft-of-probabilistic-modelling-a-collection-of-personal-accounts"
+        }
+    ]
 }

@@ -62,14 +62,20 @@
             ], 
             "Festschrift": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "New Frontiers in Applied Probability: A Festschrift for S&oslash;ren Asmussen", 
+                    "ref": "<t>New Frontiers in Applied Probability: A Festschrift for S&oslash;ren Asmussen.</t> <au>Glynn, P. and Mikosch, T. and Rolski, T.</au>. ???", 
+                    "author": "Glynn, P. and Mikosch, T. and Rolski, T.", 
                     "bibtype": "misc", 
                     "year": "2011", 
                     "howpublished": "???", 
                     "topline": "misc asmussen__soren:462124", 
                     "id": "asmussen__soren:462124"
+                }
+            ], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/1584562.jpg", 
+                    "href": "http://home.imf.au.dk/asmus/SoerenASusanne-s.jpg"
                 }
             ], 
             "Death_Notice": [], 
@@ -90,9 +96,9 @@
             "Archive": [], 
             "Biography": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "S&oslash;ren Asmussen", 
+                    "ref": "<t>S&oslash;ren Asmussen.</t> <au>Glynn, P. and Mikosch, T. and Rolski, T. and Rubinstein, R.</au>. ???", 
+                    "author": "Glynn, P. and Mikosch, T. and Rolski, T. and Rubinstein, R.", 
                     "bibtype": "misc", 
                     "year": "2011", 
                     "howpublished": "???", 

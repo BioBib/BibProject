@@ -17,9 +17,9 @@
             "Selected_Works": [], 
             "In_Memoriam": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Evelyn Fix, Statistics: Berkeley", 
+                    "ref": "<t>Evelyn Fix, Statistics: Berkeley.</t> <au>Neyman, J. and Hodges, Jr., J. L. and Le Cam, L. and Lehmann, E. L. and Scott, E. L.</au>. ???", 
+                    "author": "Neyman, J. and Hodges, Jr., J. L. and Le Cam, L. and Lehmann, E. L. and Scott, E. L.", 
                     "bibtype": "misc", 
                     "year": "1967", 
                     "howpublished": "???", 
@@ -58,6 +58,7 @@
                 }
             ], 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {

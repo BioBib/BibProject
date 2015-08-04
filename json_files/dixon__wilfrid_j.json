@@ -84,6 +84,7 @@
             ], 
             "alt_ims_id": "dixon__wilfrid", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {
@@ -102,8 +103,8 @@
             "Archive": [], 
             "Biography": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Dixon Award", 
+                    "ref": "<t>Dixon Award.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2009", 

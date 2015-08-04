@@ -5,8 +5,8 @@
             "Service": [], 
             "Obituary": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Whittle, P. Henry Daniels", 
+                    "ref": "<t>Whittle, P. Henry Daniels.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2000", 
@@ -15,8 +15,8 @@
                     "id": "daniels__henry_e:715997"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Professor Henry Daniels", 
+                    "ref": "<t>Professor Henry Daniels.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2000", 
@@ -25,9 +25,9 @@
                     "id": "daniels__henry_e:976486"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Professor Henry Daniels", 
+                    "ref": "<t>Professor Henry Daniels.</t> <au>Barnard, G.</au>. ???", 
+                    "author": "Barnard, G.", 
                     "bibtype": "misc", 
                     "year": "2000", 
                     "howpublished": "???", 
@@ -135,6 +135,7 @@
             ], 
             "alt_ims_id": "daniels__henry", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {

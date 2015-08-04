@@ -106,6 +106,7 @@
                 }
             ], 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [
                 {
                     "title": "David Van Dantzig", 
@@ -146,9 +147,9 @@
                     "id": "van_dantzig__david:15"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Levensbericht van D. van Dantzig (23 september 1900-22 juli 1959)", 
+                    "ref": "<t>Levensbericht van D. van Dantzig (23 september 1900-22 juli 1959).</t> <au>Freudenthal, H.</au>. ???", 
+                    "author": "Freudenthal, H.", 
                     "bibtype": "misc", 
                     "year": "1960", 
                     "howpublished": "???", 

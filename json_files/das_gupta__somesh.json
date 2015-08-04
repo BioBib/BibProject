@@ -17,8 +17,8 @@
             "Selected_Works": [], 
             "In_Memoriam": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Professor Somesh Dasgupta", 
+                    "ref": "<t>Professor Somesh Dasgupta.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "year?", 
@@ -76,13 +76,14 @@
                 }
             ], 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Passing of Prof. Somesh Das Gupta", 
+                    "ref": "<t>Passing of Prof. Somesh Das Gupta.</t> <au>Kundu, Subrata</au>. ???", 
+                    "author": "Kundu, Subrata", 
                     "bibtype": "misc", 
-                    "year": "year?", 
+                    "year": "http://groups.yahoo.com/group/isical89/message/55", 
                     "howpublished": "???", 
                     "topline": "misc das_gupta__somesh:867850", 
                     "id": "das_gupta__somesh:867850"

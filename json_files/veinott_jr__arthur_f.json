@@ -17,9 +17,9 @@
             "Selected_Works": [], 
             "In_Memoriam": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Stanford operations research expert Arthur Veinott dies at 78", 
+                    "ref": "<t>Stanford operations research expert Arthur Veinott dies at 78.</t> <au>Myers, A.</au>. ???", 
+                    "author": "Myers, A.", 
                     "bibtype": "misc", 
                     "year": "2012", 
                     "howpublished": "???", 
@@ -81,6 +81,12 @@
             ], 
             "alt_ims_id": "veinott__arthur", 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/10794738.jpg", 
+                    "href": "http://www.stanford.edu/dept/MSandE/people/faculty/veinott/veinott.png"
+                }
+            ], 
             "Death_Notice": [], 
             "Education": [], 
             "Endowment": [], 

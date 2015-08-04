@@ -56,9 +56,9 @@
             "alt_ims_id": "greenberg__bernard", 
             "Festschrift": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Biostatistics: Statistics in Biomedical, Public Health and Environmental Sciences", 
+                    "ref": "<t>Biostatistics: Statistics in Biomedical, Public Health and Environmental Sciences.</t> <au>Sen, P. K.</au>. ???", 
+                    "author": "Sen, P. K.", 
                     "bibtype": "misc", 
                     "year": "1985", 
                     "howpublished": "???", 
@@ -66,6 +66,7 @@
                     "id": "greenberg__bernard_g:8"
                 }
             ], 
+            "Image": [], 
             "Death_Notice": [
                 {
                     "title": "Untitled", 
@@ -83,8 +84,8 @@
             "Archive": [
                 {
                     "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "ref": "<t>Untitled.</t> <au>Greenberg, Bernard G.</au>. ???", 
+                    "author": "Greenberg, Bernard G.", 
                     "bibtype": "misc", 
                     "year": "year?", 
                     "howpublished": "???", 

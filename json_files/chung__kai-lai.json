@@ -5,8 +5,8 @@
             "Service": [], 
             "Obituary": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Kai Lai Chung, emeritus math. professor, to be remembered at Nov. 6 gathering", 
+                    "ref": "<t>Kai Lai Chung, emeritus math. professor, to be remembered at Nov. 6 gathering.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2009", 
@@ -106,6 +106,12 @@
                 }
             ], 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://celebratio.org/cmmedia/honoree/Chung_3/cover_KAI%20LAI%20CHUNG-cover1.jpg.85x0_q85.jpg", 
+                    "href": "http://celebratio.org/Chung_KL"
+                }
+            ], 
             "Death_Notice": [], 
             "Education": [
                 {

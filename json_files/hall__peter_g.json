@@ -130,6 +130,16 @@
             ], 
             "alt_ims_id": "hall__peter", 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/128303.jpg", 
+                    "href": "http://research.science.unimelb.edu.au/template-assets-custom/07/images/fellows/Hall.jpg"
+                }, 
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/18768824.jpg", 
+                    "href": "http://www.ms.unimelb.edu.au/Personnel/Media/thm_P_Hall.jpg"
+                }
+            ], 
             "Death_Notice": [], 
             "Education": [
                 {

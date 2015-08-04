@@ -88,9 +88,9 @@
             "alt_ims_id": "brown__lawrence", 
             "Festschrift": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Borrowing Strength: Theory Powering Applications---a Festschrift for Lawrence D. Brown", 
+                    "ref": "<t>Borrowing Strength: Theory Powering Applications---a Festschrift for Lawrence D. Brown.</t> <au>Berger, J. O and Cai, T. T. and Johnstone, I. M.</au>. ???", 
+                    "author": "Berger, J. O and Cai, T. T. and Johnstone, I. M.", 
                     "bibtype": "misc", 
                     "year": "2010", 
                     "howpublished": "???", 
@@ -98,6 +98,7 @@
                     "id": "brown__lawrence_d:539805"
                 }
             ], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {
@@ -117,9 +118,9 @@
             "Archive": [], 
             "Biography": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Biography of Lawrence D. Brown", 
+                    "ref": "<t>Biography of Lawrence D. Brown.</t> <au>J. O. Berger and T. T. Cai and I. M. Johnstone</au>. ???", 
+                    "author": "J. O. Berger and T. T. Cai and I. M. Johnstone", 
                     "bibtype": "misc", 
                     "year": "2010", 
                     "howpublished": "???", 

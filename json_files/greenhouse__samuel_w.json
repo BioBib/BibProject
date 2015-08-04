@@ -28,9 +28,9 @@
             "Selected_Works": [], 
             "In_Memoriam": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Samuel W. Greenhouse (1918-2000)", 
+                    "ref": "<t>Samuel W. Greenhouse (1918-2000).</t> <au>Lachin, J. M. and Greenhouse, J. B.</au>. ???", 
+                    "author": "Lachin, J. M. and Greenhouse, J. B.", 
                     "bibtype": "misc", 
                     "year": "2001", 
                     "howpublished": "???", 
@@ -70,6 +70,7 @@
             ], 
             "alt_ims_id": "greenhouse__samuel", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {

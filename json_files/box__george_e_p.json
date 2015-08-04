@@ -1,13 +1,24 @@
 {
     "records": [
         {
-            "Autobiography": [], 
+            "Autobiography": [
+                {
+                    "title": "An Accidental Statistician: The Life and Memories of George E. P. Box", 
+                    "ref": "<t>An Accidental Statistician: The Life and Memories of George E. P. Box.</t> <au>Box, G. E. P.</au>. ???", 
+                    "author": "Box, G. E. P.", 
+                    "bibtype": "misc", 
+                    "year": "2013", 
+                    "howpublished": "???", 
+                    "topline": "misc box__george_e_p:6433", 
+                    "id": "box__george_e_p:6433"
+                }
+            ], 
             "Service": [], 
             "Obituary": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "George Box, (1919-2013): A wit, a kind man and a statistician", 
+                    "ref": "<t>George Box, (1919-2013): A wit, a kind man and a statistician.</t> <au>Champkin, J.</au>. ???", 
+                    "author": "Champkin, J.", 
                     "bibtype": "misc", 
                     "year": "2013", 
                     "howpublished": "???", 
@@ -28,9 +39,9 @@
             "Selected_Works": [], 
             "In_Memoriam": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Renowned statistician George Box dies at 93", 
+                    "ref": "<t>Renowned statistician George Box dies at 93.</t> <au>Sakai, J.</au>. ???", 
+                    "author": "Sakai, J.", 
                     "bibtype": "misc", 
                     "year": "2013", 
                     "howpublished": "???", 
@@ -38,9 +49,9 @@
                     "id": "box__george_e_p:36812"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "George Edward Pelham (G. E. P.) Box -- 1919-2013", 
+                    "ref": "<t>George Edward Pelham (G. E. P.) Box -- 1919-2013.</t> <au>Abraham, B.</au>. ???", 
+                    "author": "Abraham, B.", 
                     "bibtype": "misc", 
                     "year": "2013", 
                     "howpublished": "???", 
@@ -48,9 +59,9 @@
                     "id": "box__george_e_p:652764"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "George E. P. Box, 1919-2013", 
+                    "ref": "<t>George E. P. Box, 1919-2013.</t> <au>Yandell, B. and Draper, N. and Abraham, B. and Fung, C.</au>. ???", 
+                    "author": "Yandell, B. and Draper, N. and Abraham, B. and Fung, C.", 
                     "bibtype": "misc", 
                     "year": "2013", 
                     "howpublished": "???", 
@@ -151,6 +162,12 @@
             ], 
             "alt_ims_id": "box__george", 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/238911.jpg", 
+                    "href": "http://www.engr.wisc.edu/graphics/portraits/b/box_george.gif"
+                }
+            ], 
             "Death_Notice": [], 
             "Education": [
                 {

@@ -96,9 +96,9 @@
             "alt_ims_id": "van_zwet__willem", 
             "Festschrift": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "State of the Art in Probability and Statistics: Festschrift for Willem R. van Zwet", 
+                    "ref": "<t>State of the Art in Probability and Statistics: Festschrift for Willem R. van Zwet.</t> <au>de Gunst, M. and Klaassen, C. and van der Vaart, A.</au>. ???", 
+                    "author": "de Gunst, M. and Klaassen, C. and van der Vaart, A.", 
                     "bibtype": "misc", 
                     "year": "2001", 
                     "howpublished": "???", 
@@ -106,6 +106,7 @@
                     "id": "van_zwet__willem_r:444153"
                 }
             ], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {
@@ -135,8 +136,8 @@
                     "id": "van_zwet__willem_r:9"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Curriculum vitae Willem Rutger van Zwet", 
+                    "ref": "<t>Curriculum vitae Willem Rutger van Zwet.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2001", 
@@ -145,9 +146,9 @@
                     "id": "van_zwet__willem_r:93972"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "The scientific family tree of Willem R. van Zwet", 
+                    "ref": "<t>The scientific family tree of Willem R. van Zwet.</t> <au>van Eeden, C.</au>. ???", 
+                    "author": "van Eeden, C.", 
                     "bibtype": "misc", 
                     "year": "2001", 
                     "howpublished": "???", 

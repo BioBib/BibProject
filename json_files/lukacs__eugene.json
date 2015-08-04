@@ -1,7 +1,19 @@
 {
     "records": [
         {
-            "Autobiography": [], 
+            "Autobiography": [
+                {
+                    "title": "From Riemannian spaces to characteristic functions: The evolution of a statistician", 
+                    "ref": "<t>From Riemannian spaces to characteristic functions: The evolution of a statistician.</t> <au>Lukacs, E.</au>. <inc>booktitle:making-of-statisticians</inc>. pp.<pp>14-20</pp>", 
+                    "author": "Lukacs, E.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:making-of-statisticians", 
+                    "year": "1982", 
+                    "howpublished": "pp.<pp>14-20</pp>", 
+                    "topline": "incollection lukacs__eugene:7", 
+                    "id": "lukacs__eugene:7"
+                }
+            ], 
             "Service": [], 
             "Obituary": [
                 {
@@ -72,6 +84,7 @@
                 }
             ], 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [], 
             "Endowment": [], 
@@ -90,5 +103,20 @@
             ]
         }
     ], 
-    "books": []
+    "books": [
+        {
+            "publisher": "Springer", 
+            "title": "The Making of Statisticians", 
+            "url": "http://www.worldcat.org/title/making-of-statisticians/oclc/8283885", 
+            "booktitle": "The Making of Statisticians", 
+            "address": "New York", 
+            "editors": "J. Gani", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:making-of-statisticians", 
+            "year": "1982", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>The Making of Statisticians.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:making-of-statisticians"
+        }
+    ]
 }

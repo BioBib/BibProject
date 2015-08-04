@@ -101,8 +101,8 @@
             "Festschrift": [
                 {
                     "title": "Probability and Statistics: Essays in Honor of David A. Freedman", 
-                    "ref": "<t>Probability and Statistics: Essays in Honor of David A. Freedman.</t> Institute of Mathematical Statistics, Vol. <v>2</v>", 
-                    "author": "Anonymous", 
+                    "ref": "<t>Probability and Statistics: Essays in Honor of David A. Freedman.</t> <au>Nolan, D. and Speed, T.</au>. Institute of Mathematical Statistics, Vol. <v>2</v>", 
+                    "author": "Nolan, D. and Speed, T.", 
                     "bibtype": "book", 
                     "year": "2007", 
                     "howpublished": "Institute of Mathematical Statistics, Vol. <v>2</v>", 
@@ -110,14 +110,24 @@
                     "id": "freedman__david_a:8"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
-                    "bibtype": "misc", 
-                    "year": "2008", 
-                    "howpublished": "???", 
-                    "topline": "misc freedman__david_a:258239", 
-                    "id": "freedman__david_a:258239"
+                    "title": "Probability and Statistics: Essays in Honor of David A. Freedman", 
+                    "ref": "<t>Probability and Statistics: Essays in Honor of David A. Freedman.</t> <au>Nolan, D. and Speed, T.</au>. Institute of Mathematical Statistics, Vol. <v>2</v>", 
+                    "author": "Nolan, D. and Speed, T.", 
+                    "bibtype": "book", 
+                    "year": "2007", 
+                    "howpublished": "Institute of Mathematical Statistics, Vol. <v>2</v>", 
+                    "topline": "book freedman__david_a:8a", 
+                    "id": "freedman__david_a:8a"
+                }
+            ], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/12756967.jpg", 
+                    "href": "http://berkeley.edu/news/media/releases/2008/10/images/freedman.jpg"
+                }, 
+                {
+                    "src": "http://www.berkeley.edu/news/media/releases/2008/10/images/freedman.jpg", 
+                    "href": "http://www.berkeley.edu/news/media/releases/2008/10/images/freedman.jpg"
                 }
             ], 
             "Death_Notice": [], 
@@ -139,9 +149,9 @@
             "Archive": [], 
             "Biography": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Preface", 
+                    "ref": "<t>Preface.</t> <au>Nolan, D. and Speed, T.</au>. ???", 
+                    "author": "Nolan, D. and Speed, T.", 
                     "bibtype": "misc", 
                     "year": "2008", 
                     "howpublished": "???", 

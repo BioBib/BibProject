@@ -1,7 +1,19 @@
 {
     "records": [
         {
-            "Autobiography": [], 
+            "Autobiography": [
+                {
+                    "title": "Probability and my life", 
+                    "ref": "<t>Probability and my life.</t> <au>de Finetti, B.</au>. <inc>booktitle:making-of-statisticians</inc>. pp.<pp>4-12</pp>", 
+                    "author": "de Finetti, B.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:making-of-statisticians", 
+                    "year": "1982", 
+                    "howpublished": "pp.<pp>4-12</pp>", 
+                    "topline": "incollection de_finetti__bruno:7", 
+                    "id": "de_finetti__bruno:7"
+                }
+            ], 
             "Service": [], 
             "Obituary": [], 
             "DOB": "1906-06-13", 
@@ -57,8 +69,8 @@
                     "id": "de_finetti__bruno:12"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Bruno de Finetti memorial website", 
+                    "ref": "<t>Bruno de Finetti memorial website.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "year?", 
@@ -127,6 +139,7 @@
                     "id": "de_finetti__bruno:8"
                 }
             ], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [], 
             "Endowment": [], 
@@ -134,11 +147,11 @@
             "Biography": [
                 {
                     "title": "Salute to Bruno de Finetti", 
-                    "ref": "<t>Salute to Bruno de Finetti.</t> <au>Scardovi, I.</au>. <j>Statistica,</j>, Vol. <v>45</v>, pp.<pp>149-152</pp>", 
+                    "ref": "<t>Salute to Bruno de Finetti.</t> <au>Scardovi, I.</au>. <j>Statistica</j>, Vol. <v>45</v>, pp.<pp>149-152</pp>", 
                     "author": "Scardovi, I.", 
                     "bibtype": "article", 
                     "year": "1985", 
-                    "howpublished": "<j>Statistica,</j>, Vol. <v>45</v>, pp.<pp>149-152</pp>", 
+                    "howpublished": "<j>Statistica</j>, Vol. <v>45</v>, pp.<pp>149-152</pp>", 
                     "topline": "article de_finetti__bruno:15", 
                     "id": "de_finetti__bruno:15"
                 }, 
@@ -321,6 +334,20 @@
             "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
             "ref": "<t>Mathematical Lives: Protagonists of the Twentieth Century from Hilbert to Wiles.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
             "id": "booktitle:mathematical-lives-protagonists-of-the-twentieth-century-from-hilbert-to-wiles"
+        }, 
+        {
+            "publisher": "Springer", 
+            "title": "The Making of Statisticians", 
+            "url": "http://www.worldcat.org/title/making-of-statisticians/oclc/8283885", 
+            "booktitle": "The Making of Statisticians", 
+            "address": "New York", 
+            "editors": "J. Gani", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:making-of-statisticians", 
+            "year": "1982", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>The Making of Statisticians.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:making-of-statisticians"
         }
     ]
 }

@@ -1,23 +1,24 @@
 {
     "records": [
         {
-            "Autobiography": [], 
+            "Autobiography": [
+                {
+                    "title": "The Fractilist: Memoir of a Scientific Maverick", 
+                    "ref": "<t>The Fractilist: Memoir of a Scientific Maverick.</t> <au>Mandelbrot, B. B.</au>. ???", 
+                    "author": "Mandelbrot, B. B.", 
+                    "bibtype": "misc", 
+                    "year": "2012", 
+                    "howpublished": "???", 
+                    "topline": "misc mandelbrot__benoit_b:307975", 
+                    "id": "mandelbrot__benoit_b:307975"
+                }
+            ], 
             "Service": [], 
             "Obituary": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
-                    "bibtype": "misc", 
-                    "year": "1924-2010", 
-                    "howpublished": "???", 
-                    "topline": "misc mandelbrot__benoit_b:847819", 
-                    "id": "mandelbrot__benoit_b:847819"
-                }, 
-                {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Beno&icirc;t Mandelbrot, novel mathematician, dies at 85", 
+                    "ref": "<t>Beno&icirc;t Mandelbrot, novel mathematician, dies at 85.</t> <au>Hoffman, J.</au>. ???", 
+                    "author": "Hoffman, J.", 
                     "bibtype": "misc", 
                     "year": "2010", 
                     "howpublished": "???", 
@@ -25,8 +26,8 @@
                     "id": "mandelbrot__benoit_b:984925"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "D&eacute;c&egrave;s du math&eacute;maticien Mandelbrot", 
+                    "ref": "<t>D&eacute;c&egrave;s du math&eacute;maticien Mandelbrot.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2010", 
@@ -35,9 +36,9 @@
                     "id": "mandelbrot__benoit_b:927573"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Benoit Mandelbrot the maverick, 1924-2010", 
+                    "ref": "<t>Benoit Mandelbrot the maverick, 1924-2010.</t> <au>Tenner, E.</au>. ???", 
+                    "author": "Tenner, E.", 
                     "bibtype": "misc", 
                     "year": "2010", 
                     "howpublished": "???", 
@@ -45,9 +46,9 @@
                     "id": "mandelbrot__benoit_b:213475"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Beno&icirc;t Mandelbrot obituary", 
+                    "ref": "<t>Beno&icirc;t Mandelbrot obituary.</t> <au>Lesmoir-Gordon, N.</au>. ???", 
+                    "author": "Lesmoir-Gordon, N.", 
                     "bibtype": "misc", 
                     "year": "2010", 
                     "howpublished": "???", 
@@ -55,9 +56,9 @@
                     "id": "mandelbrot__benoit_b:361264"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Scientist gave order to chaos theory", 
+                    "ref": "<t>Scientist gave order to chaos theory.</t> <au>Weil, M.</au>. ???", 
+                    "author": "Weil, M.", 
                     "bibtype": "misc", 
                     "year": "2010", 
                     "howpublished": "???", 
@@ -65,8 +66,18 @@
                     "id": "mandelbrot__benoit_b:79112"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Beno&icirc;t Mandelbrot; visionary mathematician who developed a fractal geometry as a way of understanding and measuring the infinite complexity of nature.", 
+                    "ref": "<t>Beno&icirc;t Mandelbrot; visionary mathematician who developed a fractal geometry as a way of understanding and measuring the infinite complexity of nature.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc mandelbrot__benoit_b:79112a", 
+                    "id": "mandelbrot__benoit_b:79112a"
+                }, 
+                {
+                    "title": "Benoit Mandelbrot; mathematician and father of fractal theory who developed a new way of looking at the world", 
+                    "ref": "<t>Benoit Mandelbrot; mathematician and father of fractal theory who developed a new way of looking at the world.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2010", 
@@ -75,8 +86,8 @@
                     "id": "mandelbrot__benoit_b:887211"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Math&eacute;maticien; Beno&icirc;t Mandelbrot", 
+                    "ref": "<t>Math&eacute;maticien; Beno&icirc;t Mandelbrot.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2010", 
@@ -85,8 +96,18 @@
                     "id": "mandelbrot__benoit_b:975537"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Beno&icirc;t Mandelbrot (1924-2010) und sein ``Apfelm&auml;nnchen''", 
+                    "ref": "<t>Beno&icirc;t Mandelbrot (1924-2010) und sein ``Apfelm&auml;nnchen''.</t> ???", 
+                    "author": "Anonymous", 
+                    "bibtype": "misc", 
+                    "year": "2010", 
+                    "howpublished": "???", 
+                    "topline": "misc mandelbrot__benoit_b:847819", 
+                    "id": "mandelbrot__benoit_b:847819"
+                }, 
+                {
+                    "title": "Beno&icirc;t Mandelbrot, father of fractal geometry, died on October 14th, aged 85", 
+                    "ref": "<t>Beno&icirc;t Mandelbrot, father of fractal geometry, died on October 14th, aged 85.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2010", 
@@ -106,9 +127,9 @@
             "complete_name": "Mandelbrot, Benoit B.", 
             "Oral_History": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Beno&icirc;t Mandelbrot", 
+                    "ref": "<t>Beno&icirc;t Mandelbrot.</t> <au>Mandelbrot, B.</au>. ???", 
+                    "author": "Mandelbrot, B.", 
                     "bibtype": "misc", 
                     "year": "1998", 
                     "howpublished": "???", 
@@ -119,8 +140,8 @@
             "Selected_Works": [], 
             "In_Memoriam": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Sarkozy rend homage &agrave; Mandelbrot", 
+                    "ref": "<t>Sarkozy rend homage &agrave; Mandelbrot.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2010", 
@@ -129,8 +150,8 @@
                     "id": "mandelbrot__benoit_b:879195"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "From cauliflowers to cosmic secrets; Ian Stewart pays tribute to Benoit Mandelbrot, who discovered a formula to explain the beauty of the world around us", 
+                    "ref": "<t>From cauliflowers to cosmic secrets; Ian Stewart pays tribute to Benoit Mandelbrot, who discovered a formula to explain the beauty of the world around us.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2010", 
@@ -139,9 +160,9 @@
                     "id": "mandelbrot__benoit_b:391186"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Fractal vision", 
+                    "ref": "<t>Fractal vision.</t> <au>Gleick, J.</au>. ???", 
+                    "author": "Gleick, J.", 
                     "bibtype": "misc", 
                     "year": "2010", 
                     "howpublished": "???", 
@@ -149,9 +170,9 @@
                     "id": "mandelbrot__benoit_b:99505"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Beno&icirc;t Mandelbrot (1924-2010)", 
+                    "ref": "<t>Beno&icirc;t Mandelbrot (1924-2010).</t> <au>Gomory, R.</au>. ???", 
+                    "author": "Gomory, R.", 
                     "bibtype": "misc", 
                     "year": "2010", 
                     "howpublished": "???", 
@@ -169,9 +190,9 @@
                     "id": "mandelbrot__benoit_b:8"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Benoit B. Mandelbrot: A father of Quantitative Finance", 
+                    "ref": "<t>Benoit B. Mandelbrot: A father of Quantitative Finance.</t> <au>Dempster, M. H. A.</au>. ???", 
+                    "author": "Dempster, M. H. A.", 
                     "bibtype": "misc", 
                     "year": "2011", 
                     "howpublished": "???", 
@@ -179,9 +200,9 @@
                     "id": "mandelbrot__benoit_b:146057"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "The unsmooth trajectory of Benoit Mandelbrot", 
+                    "ref": "<t>The unsmooth trajectory of Benoit Mandelbrot.</t> <au>Farmer, J. D.</au>. ???", 
+                    "author": "Farmer, J. D.", 
                     "bibtype": "misc", 
                     "year": "2011", 
                     "howpublished": "???", 
@@ -189,9 +210,9 @@
                     "id": "mandelbrot__benoit_b:394878"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Mandelbrot and vindication of his ideas", 
+                    "ref": "<t>Mandelbrot and vindication of his ideas.</t> <au>Kirman, A.</au>. ???", 
+                    "author": "Kirman, A.", 
                     "bibtype": "misc", 
                     "year": "2011", 
                     "howpublished": "???", 
@@ -199,9 +220,9 @@
                     "id": "mandelbrot__benoit_b:889319"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Benoit Mandelbrot: A personal tribute", 
+                    "ref": "<t>Benoit Mandelbrot: A personal tribute.</t> <au>Bouchaud, J.-P.</au>. ???", 
+                    "author": "Bouchaud, J.-P.", 
                     "bibtype": "misc", 
                     "year": "2011", 
                     "howpublished": "???", 
@@ -209,9 +230,9 @@
                     "id": "mandelbrot__benoit_b:722522"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Beno&icirc;t Mandelbrot---in memoriam (1924-2010)", 
+                    "ref": "<t>Beno&icirc;t Mandelbrot---in memoriam (1924-2010).</t> <au>Jaffard, S.</au>. ???", 
+                    "author": "Jaffard, S.", 
                     "bibtype": "misc", 
                     "year": "2011", 
                     "howpublished": "???", 
@@ -219,9 +240,9 @@
                     "id": "mandelbrot__benoit_b:9779"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Benoit B. Mandelbrot (1924-2010): The founder of fractal geometry", 
+                    "ref": "<t>Benoit B. Mandelbrot (1924-2010): The founder of fractal geometry.</t> <au>Klir, G. J.</au>. ???", 
+                    "author": "Klir, G. J.", 
                     "bibtype": "misc", 
                     "year": "2011", 
                     "howpublished": "???", 
@@ -229,9 +250,9 @@
                     "id": "mandelbrot__benoit_b:498643"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Beno&icirc;t B. Mandelbrot, scientist and mathematician", 
+                    "ref": "<t>Beno&icirc;t B. Mandelbrot, scientist and mathematician.</t> <au>Jarque, X. and Fagella, N.</au>. ???", 
+                    "author": "Jarque, X. and Fagella, N.", 
                     "bibtype": "misc", 
                     "year": "2011", 
                     "howpublished": "???", 
@@ -239,9 +260,9 @@
                     "id": "mandelbrot__benoit_b:976355"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Benoit Mandelbrot", 
+                    "ref": "<t>Benoit Mandelbrot.</t> <au>Taylor, R.</au>. ???", 
+                    "author": "Taylor, R.", 
                     "bibtype": "misc", 
                     "year": "2011", 
                     "howpublished": "???", 
@@ -249,9 +270,9 @@
                     "id": "mandelbrot__benoit_b:62104"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Glimpses of Beno&icirc;t B. Mandelbrot (1924-2010)", 
+                    "ref": "<t>Glimpses of Beno&icirc;t B. Mandelbrot (1924-2010).</t> <au>Barnsley, M. F. and Frame, M.</au>. ???", 
+                    "author": "Barnsley, M. F. and Frame, M.", 
                     "bibtype": "misc", 
                     "year": "2012", 
                     "howpublished": "???", 
@@ -259,9 +280,9 @@
                     "id": "mandelbrot__benoit_b:431916"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "The influence of Beno&icirc;t B. Mandelbrot on mathematics", 
+                    "ref": "<t>The influence of Beno&icirc;t B. Mandelbrot on mathematics.</t> <au>Barnsley, M. F. and Frame, M.</au>. ???", 
+                    "author": "Barnsley, M. F. and Frame, M.", 
                     "bibtype": "misc", 
                     "year": "2012", 
                     "howpublished": "???", 
@@ -273,9 +294,9 @@
             "public_record_txt": "", 
             "Art_Exhibition": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "`The Islands of Beno&icirc;t Mandelbrot': Fractals, Chaos and the Materiality of Thinking.", 
+                    "ref": "<t>`The Islands of Beno&icirc;t Mandelbrot': Fractals, Chaos and the Materiality of Thinking.</t> <au>Johnson, K.</au>. ???", 
+                    "author": "Johnson, K.", 
                     "bibtype": "misc", 
                     "year": "2012", 
                     "howpublished": "???", 
@@ -381,6 +402,12 @@
             ], 
             "alt_ims_id": "mandelbrot__benoit", 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/703403.jpg", 
+                    "href": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Benoit_Mandelbrot_mg_1804-d.jpg/600px-Benoit_Mandelbrot_mg_1804-d.jpg"
+                }
+            ], 
             "Death_Notice": [], 
             "Education": [
                 {
@@ -400,8 +427,8 @@
             "Archive": [], 
             "Biography": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Gleick, J. The man who reshaped geometry", 
+                    "ref": "<t>Gleick, J. The man who reshaped geometry.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "1985", 
@@ -420,9 +447,9 @@
                     "id": "mandelbrot__benoit_b:13"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "The genius of the unpredictable", 
+                    "ref": "<t>The genius of the unpredictable.</t> <au>Olson, S.</au>. ???", 
+                    "author": "Olson, S.", 
                     "bibtype": "misc", 
                     "year": "2004", 
                     "howpublished": "???", 
@@ -430,9 +457,9 @@
                     "id": "mandelbrot__benoit_b:774891"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Beno&icirc;t Mandelbrot, explorateur du chaos", 
+                    "ref": "<t>Beno&icirc;t Mandelbrot, explorateur du chaos.</t> <au>Alberganti, M.</au>. ???", 
+                    "author": "Alberganti, M.", 
                     "bibtype": "misc", 
                     "year": "2005", 
                     "howpublished": "???", 
@@ -451,9 +478,9 @@
                     "id": "mandelbrot__benoit_b:12"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Wandering visionary in math's far realms", 
+                    "ref": "<t>Wandering visionary in math's far realms.</t> <au>Garner, D.</au>. ???", 
+                    "author": "Garner, D.", 
                     "bibtype": "misc", 
                     "year": "2012", 
                     "howpublished": "???", 
@@ -461,9 +488,9 @@
                     "id": "mandelbrot__benoit_b:22326"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "The father of fractals", 
+                    "ref": "<t>The father of fractals.</t> <au>Wolfram, S.</au>. ???", 
+                    "author": "Wolfram, S.", 
                     "bibtype": "misc", 
                     "year": "2012", 
                     "howpublished": "???", 

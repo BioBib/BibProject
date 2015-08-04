@@ -53,6 +53,7 @@
             ], 
             "alt_ims_id": "murphy__susan", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {
@@ -72,8 +73,8 @@
             "Archive": [], 
             "Biography": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Susan Murphy receives MacArthur Fellowship", 
+                    "ref": "<t>Susan Murphy receives MacArthur Fellowship.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2013", 

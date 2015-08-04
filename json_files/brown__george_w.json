@@ -15,9 +15,9 @@
             "complete_name": "Brown, George W.", 
             "Oral_History": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "George W. Brown and Alexander M. Mood", 
+                    "ref": "<t>George W. Brown and Alexander M. Mood.</t> <au>Department of Mathematics Oral History Project records, Box 2</au>. ???", 
+                    "author": "Department of Mathematics Oral History Project records, Box 2", 
                     "bibtype": "misc", 
                     "year": "1985", 
                     "howpublished": "???", 
@@ -28,9 +28,9 @@
             "Selected_Works": [], 
             "In_Memoriam": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "George W. Brown", 
+                    "ref": "<t>George W. Brown.</t> <au>Mood, A. M. and Porter, L.</au>. ???", 
+                    "author": "Mood, A. M. and Porter, L.", 
                     "bibtype": "misc", 
                     "year": "year?", 
                     "howpublished": "???", 
@@ -74,6 +74,7 @@
             ], 
             "alt_ims_id": "brown__george", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {

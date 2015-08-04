@@ -5,8 +5,8 @@
             "Service": [], 
             "Obituary": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Professor Julian Besag", 
+                    "ref": "<t>Professor Julian Besag.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2010", 
@@ -141,6 +141,12 @@
             ], 
             "alt_ims_id": "besag__julian", 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/12532064.jpg", 
+                    "href": "http://www.stat.washington.edu/history/besag/besag.jpg"
+                }
+            ], 
             "Death_Notice": [], 
             "Education": [
                 {

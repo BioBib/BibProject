@@ -1,12 +1,23 @@
 {
     "records": [
         {
-            "Autobiography": [], 
+            "Autobiography": [
+                {
+                    "title": "Untitled", 
+                    "ref": "<t>Untitled.</t> <au>Snell, J. Laurie</au>. ???", 
+                    "author": "Snell, J. Laurie", 
+                    "bibtype": "misc", 
+                    "year": "2008", 
+                    "howpublished": "???", 
+                    "topline": "misc snell__j_laurie:307701", 
+                    "id": "snell__j_laurie:307701"
+                }
+            ], 
             "Service": [], 
             "Obituary": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "James Laurie Snell, March 19, 2011", 
+                    "ref": "<t>James Laurie Snell, March 19, 2011.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2011", 
@@ -28,8 +39,8 @@
             "Selected_Works": [], 
             "In_Memoriam": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "In memory of J. Laurie Snell (1925-2011)", 
+                    "ref": "<t>In memory of J. Laurie Snell (1925-2011).</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2011", 
@@ -48,9 +59,9 @@
                     "id": "snell__j_laurie:870392"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "One in a million---remembrances of Laurie Snell (1925-2011)", 
+                    "ref": "<t>One in a million---remembrances of Laurie Snell (1925-2011).</t> <au>Rockmore, D.</au>. ???", 
+                    "author": "Rockmore, D.", 
                     "bibtype": "misc", 
                     "year": "2012", 
                     "howpublished": "???", 
@@ -103,6 +114,7 @@
             ], 
             "alt_ims_id": "snell__j", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [
                 {
                     "title": "Untitled", 

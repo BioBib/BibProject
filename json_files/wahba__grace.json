@@ -100,6 +100,12 @@
                 }
             ], 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/774256.jpg", 
+                    "href": "http://www.biostat.wisc.edu/Graphics/FacultyPics/GraceW.jpg"
+                }
+            ], 
             "Death_Notice": [], 
             "Education": [
                 {
@@ -119,8 +125,8 @@
             "Archive": [], 
             "Biography": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Grace Wahba", 
+                    "ref": "<t>Grace Wahba.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2010", 

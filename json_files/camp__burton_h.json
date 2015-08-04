@@ -54,6 +54,7 @@
             ], 
             "alt_ims_id": "camp__burton", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {
@@ -73,9 +74,9 @@
             "Archive": [], 
             "Biography": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Science at Wesleyan, 1831-1942: Mathematics", 
+                    "ref": "<t>Science at Wesleyan, 1831-1942: Mathematics.</t> <au>Camp, B. H.</au>. ???", 
+                    "author": "Camp, B. H.", 
                     "bibtype": "misc", 
                     "year": "1967", 
                     "howpublished": "???", 

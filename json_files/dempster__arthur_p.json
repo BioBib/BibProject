@@ -69,6 +69,12 @@
             ], 
             "alt_ims_id": "dempster__arthur", 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/252673.jpg", 
+                    "href": "http://www.stat.harvard.edu/Dempster_Symposium/Arthur_Pentland_Dempster_1.jpg"
+                }
+            ], 
             "Death_Notice": [], 
             "Education": [
                 {
@@ -88,9 +94,9 @@
             "Archive": [], 
             "Biography": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Harvard Statistics Department presents first Dempster Prize", 
+                    "ref": "<t>Harvard Statistics Department presents first Dempster Prize.</t> <au>McClellan, M.</au>. ???", 
+                    "author": "McClellan, M.", 
                     "bibtype": "misc", 
                     "year": "2012", 
                     "howpublished": "???", 

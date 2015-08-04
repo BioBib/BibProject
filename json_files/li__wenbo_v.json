@@ -5,8 +5,8 @@
             "Service": [], 
             "Obituary": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Long-time UD math professor Wenbo V. Li dies", 
+                    "ref": "<t>Long-time UD math professor Wenbo V. Li dies.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2013", 
@@ -28,9 +28,9 @@
             "Selected_Works": [], 
             "In_Memoriam": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Wenbo Li, 1963-2013", 
+                    "ref": "<t>Wenbo Li, 1963-2013.</t> <au>Hsu, E. P.</au>. ???", 
+                    "author": "Hsu, E. P.", 
                     "bibtype": "misc", 
                     "year": "2013", 
                     "howpublished": "???", 
@@ -38,8 +38,8 @@
                     "id": "li__wenbo_v:833211"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "In memoriam: Professor Wenbo V. Li passed away", 
+                    "ref": "<t>In memoriam: Professor Wenbo V. Li passed away.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "year?", 
@@ -87,10 +87,11 @@
             ], 
             "alt_ims_id": "li__wenbo", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Wenbo Li, 1963-2013", 
+                    "ref": "<t>Wenbo Li, 1963-2013.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2013", 

@@ -72,9 +72,9 @@
             "alt_ims_id": "kurtz__thomas", 
             "Festschrift": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Markov Processes and Related Topics: A Festschrift for Thomas G. Kurtz", 
+                    "ref": "<t>Markov Processes and Related Topics: A Festschrift for Thomas G. Kurtz.</t> <au>Ethier, S. N. and Feng, J. and Stockbridge, R. H.</au>. ???", 
+                    "author": "Ethier, S. N. and Feng, J. and Stockbridge, R. H.", 
                     "bibtype": "misc", 
                     "year": "2008", 
                     "howpublished": "???", 
@@ -82,15 +82,16 @@
                     "id": "kurtz__thomas_g:956547"
                 }
             ], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [], 
             "Endowment": [], 
             "Archive": [], 
             "Biography": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Preface", 
+                    "ref": "<t>Preface.</t> <au>Ethier, S. N. and Feng, J. and Stockbridge, R. H.</au>. ???", 
+                    "author": "Ethier, S. N. and Feng, J. and Stockbridge, R. H.", 
                     "bibtype": "misc", 
                     "year": "2008", 
                     "howpublished": "???", 

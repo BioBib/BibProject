@@ -5,8 +5,8 @@
             "Service": [], 
             "Obituary": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "MIT professor Gian-Carlo Rota, mathematician and philosopher, is dead at 66", 
+                    "ref": "<t>MIT professor Gian-Carlo Rota, mathematician and philosopher, is dead at 66.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "1999", 
@@ -15,8 +15,8 @@
                     "id": "rota__gian-carlo:137503"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Gian-Carlo Rota, 66, professor of mathematics and philosophy", 
+                    "ref": "<t>Gian-Carlo Rota, 66, professor of mathematics and philosophy.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "1999", 
@@ -35,8 +35,8 @@
                     "id": "rota__gian-carlo:11"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Gian-Carlo Rota", 
+                    "ref": "<t>Gian-Carlo Rota.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "21", 
@@ -139,6 +139,7 @@
                 }
             ], 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [
                 {
                     "title": "Untitled", 

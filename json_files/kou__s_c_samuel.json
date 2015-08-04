@@ -62,14 +62,20 @@
             ], 
             "alt_ims_id": "kou__samuel", 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/2853373.jpg", 
+                    "href": "http://www.stat.harvard.edu/Faculty_Content/kou.jpg"
+                }
+            ], 
             "Death_Notice": [], 
             "Education": [], 
             "Endowment": [], 
             "Archive": [], 
             "Biography": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Samuel Kou appointed Professor of Statistics", 
+                    "ref": "<t>Samuel Kou appointed Professor of Statistics.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2008", 
@@ -88,9 +94,9 @@
                     "id": "kou__s_c_samuel:7"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Kou is shaking up the world of statistics", 
+                    "ref": "<t>Kou is shaking up the world of statistics.</t> <au>Ireland, C.</au>. ???", 
+                    "author": "Ireland, C.", 
                     "bibtype": "misc", 
                     "year": "2009", 
                     "howpublished": "???", 
@@ -98,8 +104,8 @@
                     "id": "kou__s_c_samuel:653762"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Samuel Kou", 
+                    "ref": "<t>Samuel Kou.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2009", 
@@ -108,9 +114,9 @@
                     "id": "kou__s_c_samuel:75090"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "COPSS Presidents' Award: Samuel Kou", 
+                    "ref": "<t>COPSS Presidents' Award: Samuel Kou.</t> <au>Mukherjee, B.</au>. ???", 
+                    "author": "Mukherjee, B.", 
                     "bibtype": "misc", 
                     "year": "2012", 
                     "howpublished": "???", 

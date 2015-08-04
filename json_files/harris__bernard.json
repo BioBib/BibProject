@@ -5,8 +5,8 @@
             "Service": [], 
             "Obituary": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Bernard's obituary", 
+                    "ref": "<t>Bernard's obituary.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2011", 
@@ -15,8 +15,8 @@
                     "id": "harris__bernard:472702"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Bernard Harris", 
+                    "ref": "<t>Bernard Harris.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2011", 
@@ -79,6 +79,7 @@
                 }
             ], 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {

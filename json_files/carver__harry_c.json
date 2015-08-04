@@ -59,6 +59,7 @@
             ], 
             "alt_ims_id": "carver__harry", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [
                 {
                     "title": "Untitled", 
@@ -140,8 +141,8 @@
                     "id": "carver__harry_c:13"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "IMS awards, Harry C. Carver Medal", 
+                    "ref": "<t>IMS awards, Harry C. Carver Medal.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "year?", 

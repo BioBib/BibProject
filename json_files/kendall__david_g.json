@@ -1,13 +1,25 @@
 {
     "records": [
         {
-            "Autobiography": [], 
+            "Autobiography": [
+                {
+                    "title": "Crafty modeling", 
+                    "ref": "<t>Crafty modeling.</t> <au>Kendall, D. G.</au>. <inc>booktitle:craft-of-probabilistic-modelling-a-collection-of-personal-accounts</inc>. pp.<pp>3-9</pp>", 
+                    "author": "Kendall, D. G.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:craft-of-probabilistic-modelling-a-collection-of-personal-accounts", 
+                    "year": "1986", 
+                    "howpublished": "pp.<pp>3-9</pp>", 
+                    "topline": "incollection kendall__david_g:7", 
+                    "id": "kendall__david_g:7"
+                }
+            ], 
             "Service": [], 
             "Obituary": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Professor David Kendall, father of British probability", 
+                    "ref": "<t>Professor David Kendall, father of British probability.</t> <au>Bingham, N. H.</au>. ???", 
+                    "author": "Bingham, N. H.", 
                     "bibtype": "misc", 
                     "year": "2007", 
                     "howpublished": "???", 
@@ -15,8 +27,8 @@
                     "id": "kendall__david_g:352060"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Professor David Kendall", 
+                    "ref": "<t>Professor David Kendall.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2007", 
@@ -58,9 +70,9 @@
                     "id": "kendall__david_g:11"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Professor D. G. Kendall (1918-2007)", 
+                    "ref": "<t>Professor D. G. Kendall (1918-2007).</t> <au>Bingham, N. H.</au>. ???", 
+                    "author": "Bingham, N. H.", 
                     "bibtype": "misc", 
                     "year": "2008", 
                     "howpublished": "???", 
@@ -131,6 +143,7 @@
             ], 
             "alt_ims_id": "kendall__david", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {
@@ -194,6 +207,20 @@
             "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
             "ref": "<t>Oxford Dictionary of National Biography.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
             "id": "booktitle:oxford-dictionary-of-national-biography-in-association-with-the-british-academy-from-the-earliest-times-to-the-year-2000"
+        }, 
+        {
+            "publisher": "Springer", 
+            "title": "The Craft of Probabilistic Modelling", 
+            "url": "http://www.worldcat.org/title/craft-of-probabilistic-modelling-a-collection-of-personal-accounts/oclc/13063726", 
+            "booktitle": "The Craft of Probabilistic Modelling", 
+            "address": "New York", 
+            "editors": "J. Gani", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:craft-of-probabilistic-modelling-a-collection-of-personal-accounts", 
+            "year": "1986", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>The Craft of Probabilistic Modelling.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:craft-of-probabilistic-modelling-a-collection-of-personal-accounts"
         }
     ]
 }

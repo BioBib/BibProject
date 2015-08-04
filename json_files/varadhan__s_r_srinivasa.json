@@ -159,6 +159,16 @@
             ], 
             "alt_ims_id": "varadhan__s_r", 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://celebratio.org/cmmedia/honoree/Varadhan_8/cover_varadhan-Cook.jpg.85x0_q85.jpg", 
+                    "href": "http://celebratio.org/Varadhan_SRS"
+                }, 
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/658207.jpg", 
+                    "href": "http://www.math.utah.edu/~firas/Images/varadhan.jpg"
+                }
+            ], 
             "Death_Notice": [], 
             "Education": [
                 {
@@ -198,9 +208,9 @@
                     "id": "varadhan__s_r_srinivasa:22"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Srinivasa S. R. Varadhan to receive Abel Prize", 
+                    "ref": "<t>Srinivasa S. R. Varadhan to receive Abel Prize.</t> <au>Waldman, H.</au>. ???", 
+                    "author": "Waldman, H.", 
                     "bibtype": "misc", 
                     "year": "2007", 
                     "howpublished": "???", 

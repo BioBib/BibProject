@@ -17,9 +17,9 @@
             "Selected_Works": [], 
             "In_Memoriam": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Edward William Barankin, Statistics: Berkeley", 
+                    "ref": "<t>Edward William Barankin, Statistics: Berkeley.</t> <au>Blackwell, D. and Bellah, R. N. and Bickel, P. J. and Borah, W. W. and Lehmann, E. L.</au>. ???", 
+                    "author": "Blackwell, D. and Bellah, R. N. and Bickel, P. J. and Borah, W. W. and Lehmann, E. L.", 
                     "bibtype": "misc", 
                     "year": "1986", 
                     "howpublished": "???", 
@@ -59,6 +59,7 @@
             ], 
             "alt_ims_id": "barankin__edward", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [
                 {
                     "title": "Untitled", 

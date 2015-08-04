@@ -27,9 +27,9 @@
                     "id": "blum__julius_r:9"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Julius R. Blum, Statistics: Davis", 
+                    "ref": "<t>Julius R. Blum, Statistics: Davis.</t> <au>Bhattacharya, P. K. and Blum, A. H. and Hanson, D. L. and Samaniego, F. J. and Wegge, L. L.</au>. ???", 
+                    "author": "Bhattacharya, P. K. and Blum, A. H. and Hanson, D. L. and Samaniego, F. J. and Wegge, L. L.", 
                     "bibtype": "misc", 
                     "year": "1985", 
                     "howpublished": "???", 
@@ -73,6 +73,7 @@
             ], 
             "alt_ims_id": "blum__julius", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [
                 {
                     "title": "Untitled", 

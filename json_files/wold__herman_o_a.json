@@ -1,7 +1,19 @@
 {
     "records": [
         {
-            "Autobiography": [], 
+            "Autobiography": [
+                {
+                    "title": "Models for knowledge", 
+                    "ref": "<t>Models for knowledge.</t> <au>Wold, H.</au>. <inc>booktitle:making-of-statisticians</inc>. pp.<pp>190-212</pp>", 
+                    "author": "Wold, H.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:making-of-statisticians", 
+                    "year": "1982", 
+                    "howpublished": "pp.<pp>190-212</pp>", 
+                    "topline": "incollection wold__herman_o_a:8", 
+                    "id": "wold__herman_o_a:8"
+                }
+            ], 
             "Service": [], 
             "Obituary": [
                 {
@@ -74,6 +86,7 @@
             ], 
             "alt_ims_id": "wold__herman", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {
@@ -120,6 +133,20 @@
             "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
             "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
             "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }, 
+        {
+            "publisher": "Springer", 
+            "title": "The Making of Statisticians", 
+            "url": "http://www.worldcat.org/title/making-of-statisticians/oclc/8283885", 
+            "booktitle": "The Making of Statisticians", 
+            "address": "New York", 
+            "editors": "J. Gani", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:making-of-statisticians", 
+            "year": "1982", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>The Making of Statisticians.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:making-of-statisticians"
         }
     ]
 }

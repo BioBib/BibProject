@@ -17,9 +17,9 @@
             "Selected_Works": [], 
             "In_Memoriam": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Bishnoedath Leo Raktoe (1932-2009)", 
+                    "ref": "<t>Bishnoedath Leo Raktoe (1932-2009).</t> <au>Pesotan, H. and Singh, R. S.</au>. ???", 
+                    "author": "Pesotan, H. and Singh, R. S.", 
                     "bibtype": "misc", 
                     "year": "2010", 
                     "howpublished": "???", 
@@ -65,6 +65,7 @@
             ], 
             "alt_ims_id": "raktoe__b", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [], 
             "Endowment": [], 

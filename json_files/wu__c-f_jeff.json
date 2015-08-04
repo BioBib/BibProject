@@ -92,6 +92,7 @@
             ], 
             "alt_ims_id": "wu__c-f", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {
@@ -131,8 +132,8 @@
                     "id": "wu__c-f_jeff:10"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "C. F. Jeff Wu", 
+                    "ref": "<t>C. F. Jeff Wu.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2013", 

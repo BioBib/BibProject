@@ -5,8 +5,8 @@
             "Service": [], 
             "Obituary": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Florence Nightingale David", 
+                    "ref": "<t>Florence Nightingale David.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "1993", 
@@ -15,8 +15,8 @@
                     "id": "david__florence_n:115183"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Dr. Florence N. David, Statistician, dies at 83", 
+                    "ref": "<t>Dr. Florence N. David, Statistician, dies at 83.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "1993", 
@@ -78,9 +78,9 @@
                     "id": "david__florence_n:13"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Florence Nightingale David, Statistics: Riverside", 
+                    "ref": "<t>Florence Nightingale David, Statistics: Riverside.</t> <au>Garber, M. J. and Gokhale, D. V. and Utts, J. M. and Beaver, R. J.</au>. ???", 
+                    "author": "Garber, M. J. and Gokhale, D. V. and Utts, J. M. and Beaver, R. J.", 
                     "bibtype": "misc", 
                     "year": "1995", 
                     "howpublished": "???", 
@@ -153,6 +153,7 @@
             ], 
             "alt_ims_id": "david__florence", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {

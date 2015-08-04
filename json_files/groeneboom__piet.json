@@ -69,14 +69,20 @@
             ], 
             "Festschrift": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Asymptotics: Particles, Processes and Inverse Problems: Festschrift for Piet Groeneboom.", 
+                    "ref": "<t>Asymptotics: Particles, Processes and Inverse Problems: Festschrift for Piet Groeneboom.</t> <au>Cator, E. A. and Jongbloed, G. and Kraaikamp, C. and Lopuha&auml;, H. P. and Wellner, J. A.</au>. ???", 
+                    "author": "Cator, E. A. and Jongbloed, G. and Kraaikamp, C. and Lopuha&auml;, H. P. and Wellner, J. A.", 
                     "bibtype": "misc", 
                     "year": "2007", 
                     "howpublished": "???", 
                     "topline": "misc groeneboom__piet:275256", 
                     "id": "groeneboom__piet:275256"
+                }
+            ], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/871977.jpg", 
+                    "href": "http://dutiosc.twi.tudelft.nl/~pietg/PIET2.jpg"
                 }
             ], 
             "Death_Notice": [], 

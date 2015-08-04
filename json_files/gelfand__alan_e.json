@@ -1,7 +1,18 @@
 {
     "records": [
         {
-            "Autobiography": [], 
+            "Autobiography": [
+                {
+                    "title": "Life as a stochastic modeler", 
+                    "ref": "<t>Life as a stochastic modeler.</t> <au>Gelfand, A.</au>. <j>Amstat News</j>, Vol. <v>Sep. 2008</v>, pp.<pp>21-23</pp>", 
+                    "author": "Gelfand, A.", 
+                    "bibtype": "article", 
+                    "year": "2008", 
+                    "howpublished": "<j>Amstat News</j>, Vol. <v>Sep. 2008</v>, pp.<pp>21-23</pp>", 
+                    "topline": "article gelfand__alan_e:6", 
+                    "id": "gelfand__alan_e:6"
+                }
+            ], 
             "Service": [], 
             "Obituary": [], 
             "DVD": [], 
@@ -57,6 +68,12 @@
             ], 
             "alt_ims_id": "gelfand__alan", 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/2065466.jpg", 
+                    "href": "http://www.isds.duke.edu/~alan/Gelfand.Alan.jpg"
+                }
+            ], 
             "Death_Notice": [], 
             "Education": [
                 {

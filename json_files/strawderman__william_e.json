@@ -58,14 +58,20 @@
             "alt_ims_id": "strawderman__william", 
             "Festschrift": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Contemporary Developments in Bayesian Analysis and Statistical Decision Theory: A Festschrift for William E. Strawderman", 
+                    "ref": "<t>Contemporary Developments in Bayesian Analysis and Statistical Decision Theory: A Festschrift for William E. Strawderman.</t> <au>Fourdrinier, D. and Marchand, E. and Rukhin, A. L.</au>. ???", 
+                    "author": "Fourdrinier, D. and Marchand, E. and Rukhin, A. L.", 
                     "bibtype": "misc", 
                     "year": "2012", 
                     "howpublished": "???", 
                     "topline": "misc strawderman__william_e:206071", 
                     "id": "strawderman__william_e:206071"
+                }
+            ], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/8200469.jpg", 
+                    "href": "http://stat.rutgers.edu/people/faculty/photo/strawderman.JPG"
                 }
             ], 
             "Death_Notice": [], 
@@ -87,9 +93,9 @@
             "Archive": [], 
             "Biography": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Biography of William E. Strawderman", 
+                    "ref": "<t>Biography of William E. Strawderman.</t> <au>D. Fourdrinier and E. Marchand and A. L. Rukhin</au>. ???", 
+                    "author": "D. Fourdrinier and E. Marchand and A. L. Rukhin", 
                     "bibtype": "misc", 
                     "year": "2012", 
                     "howpublished": "???", 

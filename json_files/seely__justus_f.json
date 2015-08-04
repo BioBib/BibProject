@@ -17,9 +17,9 @@
             "Selected_Works": [], 
             "In_Memoriam": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Justus F. Seeley", 
+                    "ref": "<t>Justus F. Seeley.</t> <au>Birkes, D. and Butler, D.</au>. ???", 
+                    "author": "Birkes, D. and Butler, D.", 
                     "bibtype": "misc", 
                     "year": "2002", 
                     "howpublished": "???", 
@@ -27,9 +27,9 @@
                     "id": "seely__justus_f:689794"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Justus Frandsen Seely (1941-2002)", 
+                    "ref": "<t>Justus Frandsen Seely (1941-2002).</t> <au>Butler, D.</au>. ???", 
+                    "author": "Butler, D.", 
                     "bibtype": "misc", 
                     "year": "2002", 
                     "howpublished": "???", 
@@ -52,6 +52,7 @@
             ], 
             "alt_ims_id": "seeley__justus", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [], 
             "Endowment": [], 

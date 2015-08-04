@@ -1,7 +1,19 @@
 {
     "records": [
         {
-            "Autobiography": [], 
+            "Autobiography": [
+                {
+                    "title": "A numerate life", 
+                    "ref": "<t>A numerate life.</t> <au>Finney, D. J.</au>. <inc>booktitle:making-of-statisticians</inc>. pp.<pp>150-164</pp>", 
+                    "author": "Finney, D. J.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:making-of-statisticians", 
+                    "year": "1982", 
+                    "howpublished": "pp.<pp>150-164</pp>", 
+                    "topline": "incollection finney__david_j:5", 
+                    "id": "finney__david_j:5"
+                }
+            ], 
             "Service": [], 
             "Obituary": [], 
             "DVD": [], 
@@ -69,6 +81,7 @@
             ], 
             "alt_ims_id": "finney__david", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [], 
             "Endowment": [], 
@@ -87,5 +100,20 @@
             ]
         }
     ], 
-    "books": []
+    "books": [
+        {
+            "publisher": "Springer", 
+            "title": "The Making of Statisticians", 
+            "url": "http://www.worldcat.org/title/making-of-statisticians/oclc/8283885", 
+            "booktitle": "The Making of Statisticians", 
+            "address": "New York", 
+            "editors": "J. Gani", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:making-of-statisticians", 
+            "year": "1982", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>The Making of Statisticians.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:making-of-statisticians"
+        }
+    ]
 }

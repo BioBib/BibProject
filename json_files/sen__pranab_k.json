@@ -75,14 +75,20 @@
             "alt_ims_id": "sen__pranab", 
             "Festschrift": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Beyond Parametrics in Interdisciplinary Research: Festschrift in Honor of Pranab K. Sen", 
+                    "ref": "<t>Beyond Parametrics in Interdisciplinary Research: Festschrift in Honor of Pranab K. Sen.</t> <au>Balakrishnan, N. and Pe&ntilde;a, E. A. and Silvapulle, M. J.</au>. ???", 
+                    "author": "Balakrishnan, N. and Pe&ntilde;a, E. A. and Silvapulle, M. J.", 
                     "bibtype": "misc", 
                     "year": "2008", 
                     "howpublished": "???", 
                     "topline": "misc sen__pranab_k:369354", 
                     "id": "sen__pranab_k:369354"
+                }
+            ], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/1063050.jpg", 
+                    "href": "http://orion.uwaterloo.ca/~hwolkowi/henry/reports/talks.d/t05talks.d/05windsor.d/3B0D911A601586CF8525701F005458D5_files/18.jpg"
                 }
             ], 
             "Death_Notice": [], 
@@ -104,9 +110,9 @@
             "Archive": [], 
             "Biography": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Pranab Kumar Sen: Life and works", 
+                    "ref": "<t>Pranab Kumar Sen: Life and works.</t> <au>Balakrishnan, N. and Pe&ntilde;a, E. A. and M. J. Silvapulle</au>. ???", 
+                    "author": "Balakrishnan, N. and Pe&ntilde;a, E. A. and M. J. Silvapulle", 
                     "bibtype": "misc", 
                     "year": "2008", 
                     "howpublished": "???", 

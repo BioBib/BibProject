@@ -38,8 +38,8 @@
                     "id": "cambanis__stamatis:9"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Stamatis Cambanis '69", 
+                    "ref": "<t>Stamatis Cambanis '69.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "1996", 
@@ -83,10 +83,11 @@
                 }
             ], 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Former statistics chairman Stamatis Cambanis dies", 
+                    "ref": "<t>Former statistics chairman Stamatis Cambanis dies.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "1995", 
@@ -113,8 +114,8 @@
             "Archive": [], 
             "Biography": [
                 {
-                    "title": "Stamatis Cambanis---A glimpse of his life and work", 
-                    "ref": "<t>Stamatis Cambanis---A glimpse of his life and work.</t> <au>Kallianpur, G. and Leadbetter, R.</au>. <inc>booktitle:stochastic-processes-and-related-topics-in-memory-of-stamatis-cambanis-1943-1995</inc>. pp.<pp>xi-xvi</pp>", 
+                    "title": "Stamatis Cambanis--A glimpse of his life and work", 
+                    "ref": "<t>Stamatis Cambanis--A glimpse of his life and work.</t> <au>Kallianpur, G. and Leadbetter, R.</au>. <inc>booktitle:stochastic-processes-and-related-topics-in-memory-of-stamatis-cambanis-1943-1995</inc>. pp.<pp>xi-xvi</pp>", 
                     "author": "Kallianpur, G. and Leadbetter, R.", 
                     "bibtype": "incollection", 
                     "editor": "booktitle:stochastic-processes-and-related-topics-in-memory-of-stamatis-cambanis-1943-1995", 

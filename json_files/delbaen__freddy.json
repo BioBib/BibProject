@@ -69,6 +69,20 @@
                 }
             ], 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/9203828.jpg", 
+                    "href": "http://www.math.ethz.ch/~delbaen/Freddy_Delbaen.gif"
+                }, 
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/10718589.jpg", 
+                    "href": "http://www.math.ethz.ch/~delbaen/Freddy_Delbaen.gif"
+                }, 
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/1247181.jpg", 
+                    "href": "http://www.math.ethz.ch/~delbaen/Freddy_Delbaen.gif"
+                }
+            ], 
             "Death_Notice": [], 
             "Education": [], 
             "Endowment": [], 

@@ -28,9 +28,9 @@
             "Selected_Works": [], 
             "In_Memoriam": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Oscar Kempthorne (January 31, 1919-November 15, 2000)", 
+                    "ref": "<t>Oscar Kempthorne (January 31, 1919-November 15, 2000).</t> <au>Weiser, B.</au>. ???", 
+                    "author": "Weiser, B.", 
                     "bibtype": "misc", 
                     "year": "2001", 
                     "howpublished": "???", 
@@ -86,6 +86,7 @@
                 }
             ], 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {

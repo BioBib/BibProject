@@ -51,14 +51,20 @@
             ], 
             "Festschrift": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Nonparametrics and Robustness in Modern Statistical Inference and Time Series Analysis: A Festschrift for Jana Jure&ccaron;kov\\'a", 
+                    "ref": "<t>Nonparametrics and Robustness in Modern Statistical Inference and Time Series Analysis: A Festschrift for Jana Jure&ccaron;kov\\'a.</t> <au>Antoch, J. and Hu&scaron;kov&aacute;, M. and Sen, P. K.</au>. ???", 
+                    "author": "Antoch, J. and Hu&scaron;kov&aacute;, M. and Sen, P. K.", 
                     "bibtype": "misc", 
                     "year": "2010", 
                     "howpublished": "???", 
                     "topline": "misc jureckova__jana:348733", 
                     "id": "jureckova__jana:348733"
+                }
+            ], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/12782370.jpg", 
+                    "href": "http://www.karlin.mff.cuni.cz/~jurecko/jana6xl.jpg"
                 }
             ], 
             "Death_Notice": [], 
@@ -67,9 +73,9 @@
             "Archive": [], 
             "Biography": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Life and work of Jana Jure&ccaron;kov\\'a", 
+                    "ref": "<t>Life and work of Jana Jure&ccaron;kov\\'a.</t> <au>Antoch, J. and Hu&scaron;kov&aacute;, M. and Sen, P. K.</au>. ???", 
+                    "author": "Antoch, J. and Hu&scaron;kov&aacute;, M. and Sen, P. K.", 
                     "bibtype": "misc", 
                     "year": "2010", 
                     "howpublished": "???", 

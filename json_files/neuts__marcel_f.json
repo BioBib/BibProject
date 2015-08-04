@@ -1,7 +1,19 @@
 {
     "records": [
         {
-            "Autobiography": [], 
+            "Autobiography": [
+                {
+                    "title": "An algorithmic probabilist's apology", 
+                    "ref": "<t>An algorithmic probabilist's apology.</t> <au>Neuts, M. F.</au>. <inc>booktitle:craft-of-probabilistic-modelling-a-collection-of-personal-accounts</inc>. pp.<pp>214-221</pp>", 
+                    "author": "Neuts, M. F.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:craft-of-probabilistic-modelling-a-collection-of-personal-accounts", 
+                    "year": "1986", 
+                    "howpublished": "pp.<pp>214-221</pp>", 
+                    "topline": "incollection neuts__marcel_f:6", 
+                    "id": "neuts__marcel_f:6"
+                }
+            ], 
             "Service": [], 
             "Obituary": [], 
             "DVD": [], 
@@ -55,6 +67,7 @@
             ], 
             "alt_ims_id": "neuts__marcel", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {
@@ -75,5 +88,20 @@
             "Biography": []
         }
     ], 
-    "books": []
+    "books": [
+        {
+            "publisher": "Springer", 
+            "title": "The Craft of Probabilistic Modelling", 
+            "url": "http://www.worldcat.org/title/craft-of-probabilistic-modelling-a-collection-of-personal-accounts/oclc/13063726", 
+            "booktitle": "The Craft of Probabilistic Modelling", 
+            "address": "New York", 
+            "editors": "J. Gani", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:craft-of-probabilistic-modelling-a-collection-of-personal-accounts", 
+            "year": "1986", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>The Craft of Probabilistic Modelling.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:craft-of-probabilistic-modelling-a-collection-of-personal-accounts"
+        }
+    ]
 }

@@ -17,9 +17,9 @@
             "Selected_Works": [], 
             "In_Memoriam": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Fox mourns the passing of longtime Statistics Professor Damaraju Raghavarao", 
+                    "ref": "<t>Fox mourns the passing of longtime Statistics Professor Damaraju Raghavarao.</t> <au>Lausch, B.</au>. ???", 
+                    "author": "Lausch, B.", 
                     "bibtype": "misc", 
                     "year": "2013", 
                     "howpublished": "???", 
@@ -27,9 +27,9 @@
                     "id": "raghavarao__damaraju:247254"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Damaraju Raghavarao, 1938-2013", 
+                    "ref": "<t>Damaraju Raghavarao, 1938-2013.</t> <au>Singh, J. and Altan, S.</au>. ???", 
+                    "author": "Singh, J. and Altan, S.", 
                     "bibtype": "misc", 
                     "year": "2013", 
                     "howpublished": "???", 
@@ -73,9 +73,9 @@
             ], 
             "Festschrift": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Recent Advances in Experimental Design and Related Topics", 
+                    "ref": "<t>Recent Advances in Experimental Design and Related Topics.</t> <au>Altan, S. and Singh, J.</au>. ???", 
+                    "author": "Altan, S. and Singh, J.", 
                     "bibtype": "misc", 
                     "year": "2001", 
                     "howpublished": "???", 
@@ -83,6 +83,7 @@
                     "id": "raghavarao__damaraju:497301"
                 }
             ], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {

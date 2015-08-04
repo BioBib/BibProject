@@ -15,9 +15,9 @@
             "complete_name": "Wright, Sewall G.", 
             "Oral_History": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Interviews with Will Provine", 
+                    "ref": "<t>Interviews with Will Provine.</t> <au>Wright, S.</au>. ???", 
+                    "author": "Wright, S.", 
                     "bibtype": "misc", 
                     "year": "1988", 
                     "howpublished": "???", 
@@ -151,6 +151,7 @@
             ], 
             "alt_ims_id": "wright__sewall", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {

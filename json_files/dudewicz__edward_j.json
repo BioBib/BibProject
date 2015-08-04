@@ -17,9 +17,9 @@
             "Selected_Works": [], 
             "In_Memoriam": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Professor Edward J. Dudewicz", 
+                    "ref": "<t>Professor Edward J. Dudewicz.</t> <au>Karian, Z. A. and van der Meulen, E. C.</au>. ???", 
+                    "author": "Karian, Z. A. and van der Meulen, E. C.", 
                     "bibtype": "misc", 
                     "year": "2010", 
                     "howpublished": "???", 
@@ -74,6 +74,12 @@
             ], 
             "alt_ims_id": "dudewicz__edward", 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/18635548.jpg", 
+                    "href": "http://math.syr.edu/images/dudewicz07.jpg"
+                }
+            ], 
             "Death_Notice": [], 
             "Education": [], 
             "Endowment": [], 

@@ -5,8 +5,8 @@
             "Service": [], 
             "Obituary": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Elizabeth Scott; Professor and feminist", 
+                    "ref": "<t>Elizabeth Scott; Professor and feminist.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "1988", 
@@ -46,9 +46,9 @@
             "complete_name": "Scott, Elizabeth L.", 
             "Oral_History": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "An oral history with Elizabeth Scott", 
+                    "ref": "<t>An oral history with Elizabeth Scott.</t> <au>Scott, E.</au>. ???", 
+                    "author": "Scott, E.", 
                     "bibtype": "misc", 
                     "year": "1983", 
                     "howpublished": "???", 
@@ -69,9 +69,9 @@
                     "id": "scott__elizabeth_l:11"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Elizabeth Leonard Scott, Statistics: Berkeley", 
+                    "ref": "<t>Elizabeth Leonard Scott, Statistics: Berkeley.</t> <au>Blackwell, D. and Colson, E. and Ervin-Tripp, S. and Le Cam, L. and Lehmann, E. and Nader, L.</au>. ???", 
+                    "author": "Blackwell, D. and Colson, E. and Ervin-Tripp, S. and Le Cam, L. and Lehmann, E. and Nader, L.", 
                     "bibtype": "misc", 
                     "year": "1989", 
                     "howpublished": "???", 
@@ -151,6 +151,7 @@
             ], 
             "alt_ims_id": "scott__elizabeth", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {

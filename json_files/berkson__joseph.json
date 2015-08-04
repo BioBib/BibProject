@@ -78,6 +78,7 @@
                 }
             ], 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {
@@ -96,8 +97,8 @@
             "Endowment": [], 
             "Archive": [
                 {
-                    "title": "Joseph Berkson Papers,", 
-                    "ref": "<t>Joseph Berkson Papers,.</t> ???", 
+                    "title": "Joseph Berkson Papers", 
+                    "ref": "<t>Joseph Berkson Papers.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "year?", 

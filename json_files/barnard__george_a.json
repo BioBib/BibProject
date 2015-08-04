@@ -5,9 +5,9 @@
             "Service": [], 
             "Obituary": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "George Barnard, anti-establishment statistician concerned with quality control", 
+                    "ref": "<t>George Barnard, anti-establishment statistician concerned with quality control.</t> <au>Lindley, D.</au>. ???", 
+                    "author": "Lindley, D.", 
                     "bibtype": "misc", 
                     "year": "2002", 
                     "howpublished": "???", 
@@ -15,8 +15,8 @@
                     "id": "barnard__george_a:169312"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Professor George Barnard", 
+                    "ref": "<t>Professor George Barnard.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2002", 
@@ -120,6 +120,7 @@
             ], 
             "alt_ims_id": "barnard__george", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {

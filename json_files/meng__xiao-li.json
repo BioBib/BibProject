@@ -53,6 +53,7 @@
                 }
             ], 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {
@@ -82,8 +83,8 @@
                     "id": "meng__xiao-li:659689"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Xiao-Li Meng Biography", 
+                    "ref": "<t>Xiao-Li Meng Biography.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "year?", 

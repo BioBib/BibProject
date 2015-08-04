@@ -103,9 +103,9 @@
             "alt_ims_id": "speed__terence", 
             "Festschrift": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Statistics and Science: A Festschrift for Terry Speed", 
+                    "ref": "<t>Statistics and Science: A Festschrift for Terry Speed.</t> <au>Goldstein, D. R.</au>. ???", 
+                    "author": "Goldstein, D. R.", 
                     "bibtype": "misc", 
                     "year": "2003", 
                     "howpublished": "???", 
@@ -113,6 +113,7 @@
                     "id": "speed__terence_p:895299"
                 }
             ], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {
@@ -132,9 +133,9 @@
             "Archive": [], 
             "Biography": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Preface", 
+                    "ref": "<t>Preface.</t> <au>D. R. Goldstein</au>. ???", 
+                    "author": "D. R. Goldstein", 
                     "bibtype": "misc", 
                     "year": "2003", 
                     "howpublished": "???", 

@@ -60,14 +60,20 @@
             ], 
             "Festschrift": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Moore, M., Froda, S., and L&eacute;ger, C.", 
+                    "ref": "<t>Moore, M., Froda, S., and L&eacute;ger, C.</t> <au>Mathematical Statistics and Applications: Festschrift for Constance van Eeden</au>. ???", 
+                    "author": "Mathematical Statistics and Applications: Festschrift for Constance van Eeden", 
                     "bibtype": "misc", 
                     "year": "2003", 
                     "howpublished": "???", 
                     "topline": "misc van_eeden__constance:331682", 
                     "id": "van_eeden__constance:331682"
+                }
+            ], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/12547554.jpg", 
+                    "href": "http://www.stat.ubc.ca/~vaneeden/cve.gif"
                 }
             ], 
             "Death_Notice": [], 
@@ -89,9 +95,9 @@
             "Archive": [], 
             "Biography": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Biography", 
+                    "ref": "<t>Biography.</t> <au>M. Moore, S. Froda and C. L&eacute;ger</au>. ???", 
+                    "author": "M. Moore, S. Froda and C. L&eacute;ger", 
                     "bibtype": "misc", 
                     "year": "2003", 
                     "howpublished": "???", 
@@ -99,9 +105,9 @@
                     "id": "van_eeden__constance:844145"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "The scientific family tree of Constance van Eeden", 
+                    "ref": "<t>The scientific family tree of Constance van Eeden.</t> <au>M. Moore, S. Froda and C. L&eacute;ger</au>. ???", 
+                    "author": "M. Moore, S. Froda and C. L&eacute;ger", 
                     "bibtype": "misc", 
                     "year": "2003", 
                     "howpublished": "???", 

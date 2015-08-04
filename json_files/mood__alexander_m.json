@@ -94,6 +94,7 @@
             ], 
             "alt_ims_id": "mood__alexander", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {
@@ -113,8 +114,8 @@
             "Archive": [
                 {
                     "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "ref": "<t>Untitled.</t> <au>Mood, Alexander McFarlane</au>. ???", 
+                    "author": "Mood, Alexander McFarlane", 
                     "bibtype": "misc", 
                     "year": "year?", 
                     "howpublished": "???", 
@@ -132,16 +133,6 @@
                     "howpublished": "<j>Amstat News</j>, Vol. <v>Mar. 2008</v>, pp.<pp>24</pp>", 
                     "topline": "article mood__alexander_m:11", 
                     "id": "mood__alexander_m:11"
-                }, 
-                {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
-                    "bibtype": "misc", 
-                    "year": "2008", 
-                    "howpublished": "???", 
-                    "topline": "misc mood__alexander_m:873742", 
-                    "id": "mood__alexander_m:873742"
                 }
             ]
         }

@@ -58,14 +58,20 @@
             "alt_ims_id": "wellner__jon", 
             "Festschrift": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "From Probability to Statistics and Back: High-Dimensional Models and Processes---A Festschrift for Jon A. Wellner", 
+                    "ref": "<t>From Probability to Statistics and Back: High-Dimensional Models and Processes---A Festschrift for Jon A. Wellner.</t> <au>Banerjee, M. and Bunea, F. and Huang, J. and Koltchinskii, V. and Maathuis, M. H.</au>. ???", 
+                    "author": "Banerjee, M. and Bunea, F. and Huang, J. and Koltchinskii, V. and Maathuis, M. H.", 
                     "bibtype": "misc", 
                     "year": "2013", 
                     "howpublished": "???", 
                     "topline": "misc wellner__jon_a:257175", 
                     "id": "wellner__jon_a:257175"
+                }
+            ], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/702040.jpg", 
+                    "href": "http://www.stat.washington.edu/people/pics/jaw.jpg"
                 }
             ], 
             "Death_Notice": [], 
@@ -87,9 +93,9 @@
             "Archive": [], 
             "Biography": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Biography", 
+                    "ref": "<t>Biography.</t> <au>Banerjee, M. and Bunea, F. and Huang, J. and Koltchinskii, V. and Maathuis, M. H.</au>. ???", 
+                    "author": "Banerjee, M. and Bunea, F. and Huang, J. and Koltchinskii, V. and Maathuis, M. H.", 
                     "bibtype": "misc", 
                     "year": "2013", 
                     "howpublished": "???", 

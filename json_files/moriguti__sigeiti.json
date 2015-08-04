@@ -17,9 +17,9 @@
             "Selected_Works": [], 
             "In_Memoriam": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Sigeiti Moriguti (1916-2002)", 
+                    "ref": "<t>Sigeiti Moriguti (1916-2002).</t> <au>Takeuchi, K.</au>. ???", 
+                    "author": "Takeuchi, K.", 
                     "bibtype": "misc", 
                     "year": "2003", 
                     "howpublished": "???", 
@@ -54,6 +54,7 @@
                 }
             ], 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [], 
             "Endowment": [], 

@@ -5,8 +5,8 @@
             "Service": [], 
             "Obituary": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Francis John Anscombe, 83, mathematician and professor", 
+                    "ref": "<t>Francis John Anscombe, 83, mathematician and professor.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2001", 
@@ -15,8 +15,8 @@
                     "id": "anscombe__francis_j:517314"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "In Memoriam: Professor Francis John Anscombe", 
+                    "ref": "<t>In Memoriam: Professor Francis John Anscombe.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2001", 
@@ -108,6 +108,12 @@
             ], 
             "alt_ims_id": "anscombe__francis", 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://upload.wikimedia.org/wikipedia/en/d/d5/Francis_Anscombe.jpeg", 
+                    "href": "http://upload.wikimedia.org/wikipedia/en/d/d5/Francis_Anscombe.jpeg"
+                }
+            ], 
             "Death_Notice": [], 
             "Education": [
                 {

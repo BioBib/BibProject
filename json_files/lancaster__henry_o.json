@@ -1,13 +1,25 @@
 {
     "records": [
         {
-            "Autobiography": [], 
+            "Autobiography": [
+                {
+                    "title": "From medicine, through medical to mathematical statistics: Some autobiographical notes", 
+                    "ref": "<t>From medicine, through medical to mathematical statistics: Some autobiographical notes.</t> <au>Lancaster, H. O.</au>. <inc>booktitle:making-of-statisticians</inc>. pp.<pp>236-252</pp>", 
+                    "author": "Lancaster, H. O.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:making-of-statisticians", 
+                    "year": "1982", 
+                    "howpublished": "pp.<pp>236-252</pp>", 
+                    "topline": "incollection lancaster__henry_o:8", 
+                    "id": "lancaster__henry_o:8"
+                }
+            ], 
             "Service": [], 
             "Obituary": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Professor Henry Oliver Lancaster, AO FAA, 1 February 1913-2 December 2001", 
+                    "ref": "<t>Professor Henry Oliver Lancaster, AO FAA, 1 February 1913-2 December 2001.</t> <au>Seneta, E.</au>. ???", 
+                    "author": "Seneta, E.", 
                     "bibtype": "misc", 
                     "year": "2001", 
                     "howpublished": "???", 
@@ -56,8 +68,8 @@
             "complete_name": "Lancaster, Henry O.", 
             "Oral_History": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Henry Oliver Lancaster-Records, 1933-1974", 
+                    "ref": "<t>Henry Oliver Lancaster-Records, 1933-1974.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "1974", 
@@ -99,9 +111,9 @@
                     "id": "lancaster__henry_o:15"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Henry Oliver Lancaster (1 February 1913-2 December 2001)", 
+                    "ref": "<t>Henry Oliver Lancaster (1 February 1913-2 December 2001).</t> <au>Seneta, E.</au>. ???", 
+                    "author": "Seneta, E.", 
                     "bibtype": "misc", 
                     "year": "2002", 
                     "howpublished": "???", 
@@ -109,9 +121,9 @@
                     "id": "lancaster__henry_o:506918"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Lancaster, Henry Oliver", 
+                    "ref": "<t>Lancaster, Henry Oliver.</t> <au>Mellor, L.</au>. ???", 
+                    "author": "Mellor, L.", 
                     "bibtype": "misc", 
                     "year": "2008", 
                     "howpublished": "???", 
@@ -176,13 +188,14 @@
             ], 
             "alt_ims_id": "lancaster__henry", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [], 
             "Endowment": [], 
             "Archive": [
                 {
-                    "title": "Henry Oliver Lancaster-Records, 1934-1947,", 
-                    "ref": "<t>Henry Oliver Lancaster-Records, 1934-1947,.</t> ???", 
+                    "title": "Henry Oliver Lancaster-Records, 1934-1947", 
+                    "ref": "<t>Henry Oliver Lancaster-Records, 1934-1947.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "1947", 
@@ -192,16 +205,6 @@
                 }
             ], 
             "Biography": [
-                {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
-                    "bibtype": "misc", 
-                    "year": "1913-2001", 
-                    "howpublished": "???", 
-                    "topline": "misc lancaster__henry_o:22", 
-                    "id": "lancaster__henry_o:22"
-                }, 
                 {
                     "title": "Henry Oliver Lancaster 1913-2001", 
                     "ref": "<t>Henry Oliver Lancaster 1913-2001.</t> <au>Seneta, E. and Eagleson, G. K.</au>. <j>Historical Records of Australian Science</j>, Vol. <v>15</v>, pp.<pp>223-250</pp>", 
@@ -222,6 +225,16 @@
                     "howpublished": "???", 
                     "topline": "incollection lancaster__henry_o:21", 
                     "id": "lancaster__henry_o:21"
+                }, 
+                {
+                    "title": "Lancaster, Henry Oliver (1913-2001)", 
+                    "ref": "<t>Lancaster, Henry Oliver (1913-2001).</t> <au>McCarthy, G. J.</au>. ???", 
+                    "author": "McCarthy, G. J.", 
+                    "bibtype": "misc", 
+                    "year": "2012", 
+                    "howpublished": "???", 
+                    "topline": "misc lancaster__henry_o:22", 
+                    "id": "lancaster__henry_o:22"
                 }
             ]
         }
@@ -241,6 +254,20 @@
             "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
             "ref": "<t>Encyclopedia of Biostatistics.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
             "id": "booktitle:encyclopedia-of-biostatistics"
+        }, 
+        {
+            "publisher": "Springer", 
+            "title": "The Making of Statisticians", 
+            "url": "http://www.worldcat.org/title/making-of-statisticians/oclc/8283885", 
+            "booktitle": "The Making of Statisticians", 
+            "address": "New York", 
+            "editors": "J. Gani", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:making-of-statisticians", 
+            "year": "1982", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>The Making of Statisticians.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:making-of-statisticians"
         }
     ]
 }

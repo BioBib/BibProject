@@ -5,8 +5,8 @@
             "Service": [], 
             "Obituary": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Leo Breiman, professor emeritus of statistics, has died at 77", 
+                    "ref": "<t>Leo Breiman, professor emeritus of statistics, has died at 77.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2005", 
@@ -15,8 +15,8 @@
                     "id": "breiman__leo:472325"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Leo Breiman---statistics professor", 
+                    "ref": "<t>Leo Breiman---statistics professor.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2005", 
@@ -138,9 +138,9 @@
                     "id": "breiman__leo:19"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Leo Breiman", 
+                    "ref": "<t>Leo Breiman.</t> <au>Bickel, P. and Jordan, M. and Rice, J.</au>. ???", 
+                    "author": "Bickel, P. and Jordan, M. and Rice, J.", 
                     "bibtype": "misc", 
                     "year": "year?", 
                     "howpublished": "???", 
@@ -210,6 +210,12 @@
                 }
             ], 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/211125.jpg", 
+                    "href": "http://oz.berkeley.edu/users/breiman/leo.jpg"
+                }
+            ], 
             "Death_Notice": [], 
             "Education": [
                 {

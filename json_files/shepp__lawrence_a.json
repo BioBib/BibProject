@@ -28,11 +28,11 @@
                 }, 
                 {
                     "title": "Larry Shepp (Sept. 9, 1936- April 23, 2013) A very LOUD (yet NOT Obnoxious) Mathematical Giant", 
-                    "ref": "<t>Larry Shepp (Sept. 9, 1936- April 23, 2013) A very LOUD (yet NOT Obnoxious) Mathematical Giant.</t> <au>Doron Zeilberger</au>. <j>Dr. Z's Opinions,</j>", 
+                    "ref": "<t>Larry Shepp (Sept. 9, 1936- April 23, 2013) A very LOUD (yet NOT Obnoxious) Mathematical Giant.</t> <au>Doron Zeilberger</au>. <j>Dr. Z's Opinions</j>", 
                     "author": "Doron Zeilberger", 
                     "bibtype": "misc", 
                     "year": "2013", 
-                    "howpublished": "<j>Dr. Z's Opinions,</j>", 
+                    "howpublished": "<j>Dr. Z's Opinions</j>", 
                     "topline": "misc shepp__lawrence_a:321021", 
                     "id": "shepp__lawrence_a:321021"
                 }
@@ -131,13 +131,19 @@
             ], 
             "alt_ims_id": "shepp__lawrence", 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/12763654.jpg", 
+                    "href": "http://stat.wharton.upenn.edu/~shepp/pict/Larryshepp.JPG"
+                }
+            ], 
             "Death_Notice": [
                 {
                     "title": "Larry Shepp, 1936-2013", 
                     "ref": "<t>Larry Shepp, 1936-2013.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
-                    "year": "IMS Bulletin, Vol. 42(4), p. 2", 
+                    "year": "2013", 
                     "howpublished": "???", 
                     "topline": "misc shepp__lawrence_a:661225", 
                     "id": "shepp__lawrence_a:661225"

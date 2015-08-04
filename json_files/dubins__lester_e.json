@@ -27,9 +27,9 @@
                     "id": "dubins__lester_e:9"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Lester Eli Dubins, 1920-2010", 
+                    "ref": "<t>Lester Eli Dubins, 1920-2010.</t> <au>Gilat, D. and Hill, T. and Sudderth, B.</au>. ???", 
+                    "author": "Gilat, D. and Hill, T. and Sudderth, B.", 
                     "bibtype": "misc", 
                     "year": "2010", 
                     "howpublished": "???", 
@@ -73,6 +73,7 @@
             ], 
             "alt_ims_id": "dubins__lester", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [
                 {
                     "title": "Untitled", 

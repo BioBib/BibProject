@@ -38,9 +38,9 @@
                     "id": "esseen__carl-gustav:8"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Carl-Gustav Esseen (September 18, 1918-November 10, 2001)", 
+                    "ref": "<t>Carl-Gustav Esseen (September 18, 1918-November 10, 2001).</t> <au>Gut, Allan and Holst, L.</au>. ???", 
+                    "author": "Gut, Allan and Holst, L.", 
                     "bibtype": "misc", 
                     "year": "2002", 
                     "howpublished": "???", 
@@ -84,6 +84,7 @@
                 }
             ], 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {

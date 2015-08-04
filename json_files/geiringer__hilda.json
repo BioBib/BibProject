@@ -70,6 +70,7 @@
                 }
             ], 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [
                 {
                     "title": "Untitled", 
@@ -172,8 +173,8 @@
                     "id": "geiringer__hilda:15"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Geiringer-Mises, Hilda von, verh. Mises, verh. Pollaczek: Mathematikerin", 
+                    "ref": "<t>Geiringer-Mises, Hilda von, verh. Mises, verh. Pollaczek: Mathematikerin.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "year?", 

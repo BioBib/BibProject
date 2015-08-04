@@ -5,8 +5,8 @@
             "Service": [], 
             "Obituary": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "George Casella", 
+                    "ref": "<t>George Casella.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2012", 
@@ -28,9 +28,9 @@
             "Selected_Works": [], 
             "In_Memoriam": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "George Casella, 1951-2012", 
+                    "ref": "<t>George Casella, 1951-2012.</t> <au>George, E. and Robert, C.</au>. ???", 
+                    "author": "George, E. and Robert, C.", 
                     "bibtype": "misc", 
                     "year": "2013", 
                     "howpublished": "???", 
@@ -38,9 +38,9 @@
                     "id": "casella__george_c:871077"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "George Casella, 1951-2012", 
+                    "ref": "<t>George Casella, 1951-2012.</t> <au>George, E. and Robert, C.</au>. ???", 
+                    "author": "George, E. and Robert, C.", 
                     "bibtype": "misc", 
                     "year": "2013", 
                     "howpublished": "???", 
@@ -48,8 +48,8 @@
                     "id": "casella__george_c:7088"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "In Memory of George Casella", 
+                    "ref": "<t>In Memory of George Casella.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "year?", 
@@ -115,6 +115,12 @@
             ], 
             "alt_ims_id": "casella__george", 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/2317395.jpg", 
+                    "href": "http://www.stat.ufl.edu/personnel/usrpages/casella.jpg"
+                }
+            ], 
             "Death_Notice": [
                 {
                     "title": "Untitled", 

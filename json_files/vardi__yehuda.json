@@ -27,9 +27,9 @@
                     "id": "vardi__yehuda:7"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Complex Datasets and Inverse Problems: Tomography, Networks and Beyond", 
+                    "ref": "<t>Complex Datasets and Inverse Problems: Tomography, Networks and Beyond.</t> <au>Liu, R. and Strawderman, W. and Zhang, C.-H.</au>. ???", 
+                    "author": "Liu, R. and Strawderman, W. and Zhang, C.-H.", 
                     "bibtype": "misc", 
                     "year": "2007", 
                     "howpublished": "???", 
@@ -37,9 +37,9 @@
                     "id": "vardi__yehuda:839612"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Dedication", 
+                    "ref": "<t>Dedication.</t> <au>Liu, R. and Strawderman, W. and Zhang, C.-H.</au>. ???", 
+                    "author": "Liu, R. and Strawderman, W. and Zhang, C.-H.", 
                     "bibtype": "misc", 
                     "year": "2007", 
                     "howpublished": "???", 
@@ -83,6 +83,7 @@
                 }
             ], 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {

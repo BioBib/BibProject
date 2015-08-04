@@ -5,8 +5,8 @@
             "Service": [], 
             "Obituary": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Churchill Eisenhart, statistics expert, 82", 
+                    "ref": "<t>Churchill Eisenhart, statistics expert, 82.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "1994", 
@@ -36,9 +36,9 @@
             "complete_name": "Eisenhart, Churchill", 
             "Oral_History": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Joseph Daly and Churchill Eisenhart", 
+                    "ref": "<t>Joseph Daly and Churchill Eisenhart.</t> <au>Aspray, W.</au>. ???", 
+                    "author": "Aspray, W.", 
                     "bibtype": "misc", 
                     "year": "1985", 
                     "howpublished": "???", 
@@ -46,9 +46,9 @@
                     "id": "eisenhart__churchill:9"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Churchill Eisenhart", 
+                    "ref": "<t>Churchill Eisenhart.</t> <au>Aspray, W.</au>. ???", 
+                    "author": "Aspray, W.", 
                     "bibtype": "misc", 
                     "year": "1985", 
                     "howpublished": "???", 
@@ -95,6 +95,7 @@
                 }
             ], 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [], 
             "Endowment": [], 

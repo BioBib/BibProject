@@ -5,8 +5,8 @@
             "Service": [], 
             "Obituary": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Zakkula Govindarajulu", 
+                    "ref": "<t>Zakkula Govindarajulu.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2011", 
@@ -67,6 +67,7 @@
                 }
             ], 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {

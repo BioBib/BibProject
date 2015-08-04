@@ -27,9 +27,9 @@
                     "id": "johnson__norman_l:8"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "In memoriam", 
+                    "ref": "<t>In memoriam.</t> <au>Jasso, G. and Kotz, S.</au>. ???", 
+                    "author": "Jasso, G. and Kotz, S.", 
                     "bibtype": "misc", 
                     "year": "2005", 
                     "howpublished": "???", 
@@ -85,9 +85,9 @@
             "alt_ims_id": "johnson__norman", 
             "Festschrift": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Contributions to Statistics: Essays in Honor of Norman Lloyd Johnson", 
+                    "ref": "<t>Contributions to Statistics: Essays in Honor of Norman Lloyd Johnson.</t> <au>Sen, P. K.</au>. ???", 
+                    "author": "Sen, P. K.", 
                     "bibtype": "misc", 
                     "year": "1983", 
                     "howpublished": "???", 
@@ -95,6 +95,7 @@
                     "id": "johnson__norman_l:25343"
                 }
             ], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {

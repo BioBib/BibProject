@@ -1,7 +1,19 @@
 {
     "records": [
         {
-            "Autobiography": [], 
+            "Autobiography": [
+                {
+                    "title": "In and out of applied probability in Australia.", 
+                    "ref": "<t>In and out of applied probability in Australia.</t> <au>Tweedie, R. L.</au>. <inc>booktitle:craft-of-probabilistic-modelling-a-collection-of-personal-accounts</inc>. pp.<pp>292-308</pp>", 
+                    "author": "Tweedie, R. L.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:craft-of-probabilistic-modelling-a-collection-of-personal-accounts", 
+                    "year": "1986", 
+                    "howpublished": "pp.<pp>292-308</pp>", 
+                    "topline": "incollection tweedie__richard_l:8", 
+                    "id": "tweedie__richard_l:8"
+                }
+            ], 
             "Service": [], 
             "Obituary": [], 
             "DOB": "1947-08-22", 
@@ -78,6 +90,12 @@
             ], 
             "alt_ims_id": "tweedie__richard", 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://www.meyn.ece.ufl.edu/archive/spm_files/tweedie2.jpg", 
+                    "href": "http://www.meyn.ece.ufl.edu/archive/spm_files/tweedie2.jpg"
+                }
+            ], 
             "Death_Notice": [
                 {
                     "title": "Untitled", 
@@ -108,8 +126,8 @@
             "Archive": [], 
             "Biography": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Richard L. Tweedie Memorial Fund launched", 
+                    "ref": "<t>Richard L. Tweedie Memorial Fund launched.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2002", 
@@ -120,5 +138,20 @@
             ]
         }
     ], 
-    "books": []
+    "books": [
+        {
+            "publisher": "Springer", 
+            "title": "The Craft of Probabilistic Modelling", 
+            "url": "http://www.worldcat.org/title/craft-of-probabilistic-modelling-a-collection-of-personal-accounts/oclc/13063726", 
+            "booktitle": "The Craft of Probabilistic Modelling", 
+            "address": "New York", 
+            "editors": "J. Gani", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:craft-of-probabilistic-modelling-a-collection-of-personal-accounts", 
+            "year": "1986", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>The Craft of Probabilistic Modelling.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:craft-of-probabilistic-modelling-a-collection-of-personal-accounts"
+        }
+    ]
 }

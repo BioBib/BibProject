@@ -26,9 +26,9 @@
             "complete_name": "Tukey, John W.", 
             "Oral_History": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "John Tukey", 
+                    "ref": "<t>John Tukey.</t> <au>Aspray, W. and Tucker, A.</au>. ???", 
+                    "author": "Aspray, W. and Tucker, A.", 
                     "bibtype": "misc", 
                     "year": "1985", 
                     "howpublished": "???", 
@@ -143,6 +143,12 @@
             ], 
             "alt_ims_id": "tukey__john", 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/39015.jpg", 
+                    "href": "http://upload.wikimedia.org/wikipedia/en/thumb/e/e9/John_Tukey.jpg/225px-John_Tukey.jpg"
+                }
+            ], 
             "Death_Notice": [], 
             "Education": [
                 {

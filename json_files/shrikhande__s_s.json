@@ -1,7 +1,19 @@
 {
     "records": [
         {
-            "Autobiography": [], 
+            "Autobiography": [
+                {
+                    "title": "Combinatorics and I", 
+                    "ref": "<t>Combinatorics and I.</t> <au>Shrikhande, S. S.</au>. <inc>booktitle:glimpses-of-indias-statistical-heritage</inc>. pp.<pp>217-229</pp>", 
+                    "author": "Shrikhande, S. S.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:glimpses-of-indias-statistical-heritage", 
+                    "year": "1992", 
+                    "howpublished": "pp.<pp>217-229</pp>", 
+                    "topline": "incollection shrikhande__s_s:5", 
+                    "id": "shrikhande__s_s:5"
+                }
+            ], 
             "Service": [], 
             "Obituary": [], 
             "DVD": [], 
@@ -67,6 +79,7 @@
             ], 
             "alt_ims_id": "shrikhande__s", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {
@@ -86,9 +99,9 @@
             "Archive": [], 
             "Biography": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Major mathematical conjecture propounded 177 years ago is disproved; 3 mathematicians solve old puzzle", 
+                    "ref": "<t>Major mathematical conjecture propounded 177 years ago is disproved; 3 mathematicians solve old puzzle.</t> <au>Osmundsen, J. A.</au>. ???", 
+                    "author": "Osmundsen, J. A.", 
                     "bibtype": "misc", 
                     "year": "1959", 
                     "howpublished": "???", 
@@ -98,5 +111,20 @@
             ]
         }
     ], 
-    "books": []
+    "books": [
+        {
+            "publisher": "Wiley India", 
+            "title": "Glimpses of India's Statistical Heritage", 
+            "url": "http://www.worldcat.org/title/glimpses-of-indias-statistical-heritage/oclc/27187369", 
+            "booktitle": "Glimpses of India's Statistical Heritage", 
+            "address": "New Delhi", 
+            "editors": "J. K. Ghosh and S. K. Mitra and K. R. Parthasarathy", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:glimpses-of-indias-statistical-heritage", 
+            "year": "1992", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Glimpses of India's Statistical Heritage.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:glimpses-of-indias-statistical-heritage"
+        }
+    ]
 }

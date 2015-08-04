@@ -27,9 +27,9 @@
                     "id": "wei__ching-zong:7"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Time Series and Related Topics: In Memory of Ching-Zong Wei", 
+                    "ref": "<t>Time Series and Related Topics: In Memory of Ching-Zong Wei.</t> <au>Ho, H.-C. and Ing, C.-K. and Lai, T. L.</au>. ???", 
+                    "author": "Ho, H.-C. and Ing, C.-K. and Lai, T. L.", 
                     "bibtype": "misc", 
                     "year": "2006", 
                     "howpublished": "???", 
@@ -77,6 +77,7 @@
                 }
             ], 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {
@@ -96,9 +97,9 @@
             "Archive": [], 
             "Biography": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Biographical sketch", 
+                    "ref": "<t>Biographical sketch.</t> <au>H.-C. Ho, C.-K. Ing and T. L. Lai</au>. ???", 
+                    "author": "H.-C. Ho, C.-K. Ing and T. L. Lai", 
                     "bibtype": "misc", 
                     "year": "2006", 
                     "howpublished": "???", 

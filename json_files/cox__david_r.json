@@ -135,6 +135,12 @@
             ], 
             "alt_ims_id": "cox__david", 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/393500.jpg", 
+                    "href": "http://www.stats.ox.ac.uk/people/associate_staff/?a=1051"
+                }
+            ], 
             "Death_Notice": [], 
             "Education": [
                 {
@@ -153,8 +159,8 @@
             "Archive": [], 
             "Biography": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Royal Society recognises excellence in science", 
+                    "ref": "<t>Royal Society recognises excellence in science.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2010", 

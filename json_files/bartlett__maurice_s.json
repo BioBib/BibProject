@@ -1,13 +1,25 @@
 {
     "records": [
         {
-            "Autobiography": [], 
+            "Autobiography": [
+                {
+                    "title": "Chance and change", 
+                    "ref": "<t>Chance and change.</t> <au>Bartlett, M. S.</au>. <inc>booktitle:making-of-statisticians</inc>. pp.<pp>42-60</pp>", 
+                    "author": "Bartlett, M. S.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:making-of-statisticians", 
+                    "year": "1982", 
+                    "howpublished": "pp.<pp>42-60</pp>", 
+                    "topline": "incollection bartlett__maurice_s:9", 
+                    "id": "bartlett__maurice_s:9"
+                }
+            ], 
             "Service": [], 
             "Obituary": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Maurice Bartlett", 
+                    "ref": "<t>Maurice Bartlett.</t> <au>Whittle, P.</au>. ???", 
+                    "author": "Whittle, P.", 
                     "bibtype": "misc", 
                     "year": "2002", 
                     "howpublished": "???", 
@@ -58,9 +70,9 @@
                     "id": "bartlett__maurice_s:13"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Maurice S. Bartlett (1910-2002)", 
+                    "ref": "<t>Maurice S. Bartlett (1910-2002).</t> <au>Cox, D. R.</au>. ???", 
+                    "author": "Cox, D. R.", 
                     "bibtype": "misc", 
                     "year": "2002", 
                     "howpublished": "???", 
@@ -68,9 +80,9 @@
                     "id": "bartlett__maurice_s:686220"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Maurice S. Bartlett", 
+                    "ref": "<t>Maurice S. Bartlett.</t> <au>Besag, J. and Clifford, P.</au>. ???", 
+                    "author": "Besag, J. and Clifford, P.", 
                     "bibtype": "misc", 
                     "year": "2002", 
                     "howpublished": "???", 
@@ -155,6 +167,7 @@
                     "id": "bartlett__maurice_s:8"
                 }
             ], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {
@@ -289,6 +302,20 @@
             "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
             "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
             "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }, 
+        {
+            "publisher": "Springer", 
+            "title": "The Making of Statisticians", 
+            "url": "http://www.worldcat.org/title/making-of-statisticians/oclc/8283885", 
+            "booktitle": "The Making of Statisticians", 
+            "address": "New York", 
+            "editors": "J. Gani", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:making-of-statisticians", 
+            "year": "1982", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>The Making of Statisticians.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:making-of-statisticians"
         }
     ]
 }

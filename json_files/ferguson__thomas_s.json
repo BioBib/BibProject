@@ -53,8 +53,8 @@
             "Festschrift": [
                 {
                     "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "ref": "<t>Untitled.</t> <au>Bruss, F. T. and Le Cam, L.</au>. ???", 
+                    "author": "Bruss, F. T. and Le Cam, L.", 
                     "bibtype": "misc", 
                     "year": "2000", 
                     "howpublished": "???", 
@@ -62,6 +62,7 @@
                     "id": "ferguson__thomas_s:923941"
                 }
             ], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {
@@ -81,9 +82,9 @@
             "Archive": [], 
             "Biography": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Biography, Thomas S. Ferguson", 
+                    "ref": "<t>Biography, Thomas S. Ferguson.</t> <au>F. T. Bruss and L. Le Cam</au>. ???", 
+                    "author": "F. T. Bruss and L. Le Cam", 
                     "bibtype": "misc", 
                     "year": "2000", 
                     "howpublished": "???", 
@@ -91,9 +92,9 @@
                     "id": "ferguson__thomas_s:296587"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "My contacts with Tom Ferguson", 
+                    "ref": "<t>My contacts with Tom Ferguson.</t> <au>Le Cam, L.</au>. ???", 
+                    "author": "Le Cam, L.", 
                     "bibtype": "misc", 
                     "year": "2000", 
                     "howpublished": "???", 

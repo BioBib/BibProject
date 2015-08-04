@@ -28,9 +28,9 @@
             "Selected_Works": [], 
             "In_Memoriam": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Anders Hald (1913-2007)", 
+                    "ref": "<t>Anders Hald (1913-2007).</t> <au>Keiding, N.</au>. ???", 
+                    "author": "Keiding, N.", 
                     "bibtype": "misc", 
                     "year": "2008", 
                     "howpublished": "???", 
@@ -76,6 +76,7 @@
             ], 
             "alt_ims_id": "hald__anders", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [], 
             "Endowment": [], 

@@ -24,8 +24,8 @@
             ], 
             "Obituary": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Patrick Billingsley, probability theorist and actor, 1925-2011", 
+                    "ref": "<t>Patrick Billingsley, probability theorist and actor, 1925-2011.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2011", 
@@ -34,8 +34,8 @@
                     "id": "billingsley__patrick:372828"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Patrick Billingsley, 1925-2011", 
+                    "ref": "<t>Patrick Billingsley, 1925-2011.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2011", 
@@ -182,6 +182,12 @@
                 }
             ], 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/10560419.jpg", 
+                    "href": "http://www.stat.uchicago.edu/graphics/emeriti/billingsley_patrick192x246.jpg"
+                }
+            ], 
             "Death_Notice": [
                 {
                     "title": "Untitled", 

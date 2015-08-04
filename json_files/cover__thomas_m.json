@@ -5,9 +5,9 @@
             "Service": [], 
             "Obituary": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Thomas Cover, acclaimed information theorist and electrical engineer, dies at 73", 
+                    "ref": "<t>Thomas Cover, acclaimed information theorist and electrical engineer, dies at 73.</t> <au>Myers, A.</au>. ???", 
+                    "author": "Myers, A.", 
                     "bibtype": "misc", 
                     "year": "2012", 
                     "howpublished": "???", 
@@ -15,8 +15,8 @@
                     "id": "cover__thomas_m:396088"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Cover, Thomas", 
+                    "ref": "<t>Cover, Thomas.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2012", 
@@ -48,8 +48,8 @@
                     "id": "cover__thomas_m:10"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Thomas M. Cover, In Memoriam, 1938-2012", 
+                    "ref": "<t>Thomas M. Cover, In Memoriam, 1938-2012.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2012", 
@@ -58,8 +58,8 @@
                     "id": "cover__thomas_m:920316"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Thomas M. Cover in memoriam, 1938-2012", 
+                    "ref": "<t>Thomas M. Cover in memoriam, 1938-2012.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2012", 
@@ -127,6 +127,12 @@
             ], 
             "alt_ims_id": "cover__thomas", 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/226555.jpg", 
+                    "href": "http://upload.wikimedia.org/wikipedia/en/8/87/ThomasMCover.jpg"
+                }
+            ], 
             "Death_Notice": [], 
             "Education": [
                 {

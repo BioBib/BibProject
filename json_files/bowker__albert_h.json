@@ -5,8 +5,8 @@
             "Service": [], 
             "Obituary": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Albert Bowker, 88, dies; ex-CUNY head", 
+                    "ref": "<t>Albert Bowker, 88, dies; ex-CUNY head.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2008", 
@@ -15,8 +15,8 @@
                     "id": "bowker__albert_h:475699"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "UC Berkeley chancellor got tough on protestors", 
+                    "ref": "<t>UC Berkeley chancellor got tough on protestors.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2008", 
@@ -25,8 +25,8 @@
                     "id": "bowker__albert_h:104622"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Albert Bowker, innovative UC Berkeley chancellor during 1970s, dies at age 88", 
+                    "ref": "<t>Albert Bowker, innovative UC Berkeley chancellor during 1970s, dies at age 88.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2008", 
@@ -46,9 +46,9 @@
             "complete_name": "Bowker, Albert H.", 
             "Oral_History": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Sixth chancellor, University of California, Berkeley, 1971-1980; statistician and national leader in the policies and politics of higher education", 
+                    "ref": "<t>Sixth chancellor, University of California, Berkeley, 1971-1980; statistician and national leader in the policies and politics of higher education.</t> <au>Bowker, A.</au>. ???", 
+                    "author": "Bowker, A.", 
                     "bibtype": "misc", 
                     "year": "1995", 
                     "howpublished": "???", 
@@ -59,8 +59,8 @@
             "Selected_Works": [], 
             "In_Memoriam": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Chancellor Emeritus Albert Bowker, 1919-2008", 
+                    "ref": "<t>Chancellor Emeritus Albert Bowker, 1919-2008.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2008", 
@@ -117,6 +117,7 @@
             ], 
             "alt_ims_id": "bowker__albert", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {

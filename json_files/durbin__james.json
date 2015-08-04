@@ -5,8 +5,8 @@
             "Service": [], 
             "Obituary": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Renowned statistician and former RSS President, Professor James Durbin, dies", 
+                    "ref": "<t>Renowned statistician and former RSS President, Professor James Durbin, dies.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2012", 
@@ -28,9 +28,9 @@
             "Selected_Works": [], 
             "In_Memoriam": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Professor James Durbin", 
+                    "ref": "<t>Professor James Durbin.</t> <au>Koopman, S. J.</au>. ???", 
+                    "author": "Koopman, S. J.", 
                     "bibtype": "misc", 
                     "year": "2012", 
                     "howpublished": "???", 
@@ -38,9 +38,9 @@
                     "id": "durbin__james:857497"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "James Durbin, 1923-2012", 
+                    "ref": "<t>James Durbin, 1923-2012.</t> <au>van Zwet, W.</au>. ???", 
+                    "author": "van Zwet, W.", 
                     "bibtype": "misc", 
                     "year": "2012", 
                     "howpublished": "???", 
@@ -107,6 +107,7 @@
                 }
             ], 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [], 
             "Endowment": [], 

@@ -102,6 +102,12 @@
             ], 
             "alt_ims_id": "berger__james", 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/2249572.jpg", 
+                    "href": "http://news.uns.purdue.edu/images/+2004/hondocs04/berger-jLO.jpg"
+                }
+            ], 
             "Death_Notice": [], 
             "Education": [
                 {
@@ -121,8 +127,8 @@
             "Archive": [], 
             "Biography": [
                 {
-                    "title": "James O. Berger elected to National Academy of Sciences,", 
-                    "ref": "<t>James O. Berger elected to National Academy of Sciences,.</t> <j>IMS Bulletin</j>, Vol. <v>32(4)</v>, pp.<pp>3</pp>", 
+                    "title": "James O. Berger elected to National Academy of Sciences", 
+                    "ref": "<t>James O. Berger elected to National Academy of Sciences.</t> <j>IMS Bulletin</j>, Vol. <v>32(4)</v>, pp.<pp>3</pp>", 
                     "author": "Anonymous", 
                     "bibtype": "article", 
                     "year": "2003", 

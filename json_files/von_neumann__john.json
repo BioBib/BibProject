@@ -185,12 +185,13 @@
                 }
             ], 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {
                     "category": "degree", 
                     "school": "E&ouml;tv&ouml;s Lor&aacute;nd University", 
-                    "thesis_title": "Az &aacute;ltal&aacute;nos halmazelm&eacute;let axiomatikus fel&eacute;p&iacute;t&eacute;se [Die Axiomatisierung der Mengenlehre, Mathematische Zeitschrift 27, 669-752 (1928)]", 
+                    "thesis_title": "Az &aacute;ltal&aacute;nos halmazelm&eacute;let axiomatikus fel&eacute;p&iacute;t&eacute;se (published as Die Axiomatisierung der Mengenlehre, Mathematische Zeitschrift 27, 669-752 (1928))", 
                     "year": "1926", 
                     "link_ls": [
                         {
@@ -214,9 +215,9 @@
                     "id": "von_neumann__john:21"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Levensbericht van John von Neumann (28 december 1903-8 februari 1957)", 
+                    "ref": "<t>Levensbericht van John von Neumann (28 december 1903-8 februari 1957).</t> <au>Freudenthal, H.</au>. ???", 
+                    "author": "Freudenthal, H.", 
                     "bibtype": "misc", 
                     "year": "1958", 
                     "howpublished": "???", 
@@ -249,19 +250,19 @@
                     "title": "John von Neumann", 
                     "ref": "<t>John von Neumann.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
                     "author": "O'Connor, J. J. and Robertson, E. F.", 
-                    "bibtype": "inwebcollection", 
+                    "bibtype": "incollection", 
                     "year": "2003", 
                     "howpublished": "???", 
-                    "topline": "inwebcollection von_neumann__john:29", 
+                    "topline": "incollection von_neumann__john:29", 
                     "id": "von_neumann__john:29"
                 }, 
                 {
                     "title": "On John von Neumann and his role in the development of the computer", 
-                    "ref": "<t>On John von Neumann and his role in the development of the computer.</t> <au>Aspray, W.</au>. <j>SIAM News</j>, Vol. <v>Mar. 1,</v>", 
+                    "ref": "<t>On John von Neumann and his role in the development of the computer.</t> <au>Aspray, W.</au>. <j>SIAM News</j>, Vol. <v>Mar. 1</v>", 
                     "author": "Aspray, W.", 
                     "bibtype": "article", 
                     "year": "2005", 
-                    "howpublished": "<j>SIAM News</j>, Vol. <v>Mar. 1,</v>", 
+                    "howpublished": "<j>SIAM News</j>, Vol. <v>Mar. 1</v>", 
                     "topline": "article von_neumann__john:25", 
                     "id": "von_neumann__john:25"
                 }, 

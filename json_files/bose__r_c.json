@@ -1,7 +1,19 @@
 {
     "records": [
         {
-            "Autobiography": [], 
+            "Autobiography": [
+                {
+                    "title": "Autobiography of a mathematical statistician", 
+                    "ref": "<t>Autobiography of a mathematical statistician.</t> <au>Bose, R. C.</au>. <inc>booktitle:making-of-statisticians</inc>. pp.<pp>84-97</pp>", 
+                    "author": "Bose, R. C.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:making-of-statisticians", 
+                    "year": "1982", 
+                    "howpublished": "pp.<pp>84-97</pp>", 
+                    "topline": "incollection bose__r_c:8", 
+                    "id": "bose__r_c:8"
+                }
+            ], 
             "Service": [], 
             "Obituary": [
                 {
@@ -192,6 +204,7 @@
             ], 
             "alt_ims_id": "bose__raj", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {
@@ -210,9 +223,9 @@
             "Archive": [], 
             "Biography": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Major mathematical conjecture propounded 177 years ago is disproved; 3 mathematicians solve old puzzle", 
+                    "ref": "<t>Major mathematical conjecture propounded 177 years ago is disproved; 3 mathematicians solve old puzzle.</t> <au>Osmundsen, J. A.</au>. ???", 
+                    "author": "Osmundsen, J. A.", 
                     "bibtype": "misc", 
                     "year": "1959", 
                     "howpublished": "???", 
@@ -312,6 +325,20 @@
             "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
             "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
             "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }, 
+        {
+            "publisher": "Springer", 
+            "title": "The Making of Statisticians", 
+            "url": "http://www.worldcat.org/title/making-of-statisticians/oclc/8283885", 
+            "booktitle": "The Making of Statisticians", 
+            "address": "New York", 
+            "editors": "J. Gani", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:making-of-statisticians", 
+            "year": "1982", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>The Making of Statisticians.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:making-of-statisticians"
         }
     ]
 }

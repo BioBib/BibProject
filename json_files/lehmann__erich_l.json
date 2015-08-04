@@ -1,7 +1,38 @@
 {
     "records": [
         {
-            "Autobiography": [], 
+            "Autobiography": [
+                {
+                    "title": "Mentors and early collaborators: Reminiscences from the years 1940-1956, with an epilogue", 
+                    "ref": "<t>Mentors and early collaborators: Reminiscences from the years 1940-1956, with an epilogue.</t> <au>Lehmann, E. L.</au>. ???", 
+                    "author": "Lehmann, E. L.", 
+                    "bibtype": "article", 
+                    "year": "1993", 
+                    "howpublished": "???", 
+                    "topline": "article lehmann__erich_l:326352", 
+                    "id": "lehmann__erich_l:326352"
+                }, 
+                {
+                    "title": "Testing Statistical Hypotheses: The story of a book", 
+                    "ref": "<t>Testing Statistical Hypotheses: The story of a book.</t> <au>Lehmann, E. L.</au>. ???", 
+                    "author": "Lehmann, E. L.", 
+                    "bibtype": "article", 
+                    "year": "1997", 
+                    "howpublished": "???", 
+                    "topline": "article lehmann__erich_l:326352a", 
+                    "id": "lehmann__erich_l:326352a"
+                }, 
+                {
+                    "title": "Reminiscences of a Statistician. The Company I Kept", 
+                    "ref": "<t>Reminiscences of a Statistician. The Company I Kept.</t> <au>Lehmann, E. L.</au>. ???", 
+                    "author": "Lehmann, E. L.", 
+                    "bibtype": "misc", 
+                    "year": "2008", 
+                    "howpublished": "???", 
+                    "topline": "misc lehmann__erich_l:519434", 
+                    "id": "lehmann__erich_l:519434"
+                }
+            ], 
             "Service": [], 
             "Obituary": [], 
             "DOB": "1917-11-20", 
@@ -37,8 +68,8 @@
                     "id": "lehmann__erich_l:10"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Erich Lehmann", 
+                    "ref": "<t>Erich Lehmann.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2010", 
@@ -115,6 +146,12 @@
             ], 
             "alt_ims_id": "lehmann__erich", 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/17955845.jpg", 
+                    "href": "http://www.stat.berkeley.edu/images/stories/LehmannAtSymposium.jpg"
+                }
+            ], 
             "Death_Notice": [
                 {
                     "title": "Untitled", 
@@ -145,9 +182,9 @@
             "Archive": [], 
             "Biography": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "A conversation with Erich L. Lehmann", 
+                    "ref": "<t>A conversation with Erich L. Lehmann.</t> <au>DeGroot, M. H.</au>. ???", 
+                    "author": "DeGroot, M. H.", 
                     "bibtype": "misc", 
                     "year": "1986", 
                     "howpublished": "???", 
@@ -155,9 +192,9 @@
                     "id": "lehmann__erich_l:206275"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Erich L. Lehmann, the Lehmann Symposia, and November 20th, 1917", 
+                    "ref": "<t>Erich L. Lehmann, the Lehmann Symposia, and November 20th, 1917.</t> <au>Rojo, J.</au>. ???", 
+                    "author": "Rojo, J.", 
                     "bibtype": "misc", 
                     "year": "2009", 
                     "howpublished": "???", 
@@ -165,9 +202,9 @@
                     "id": "lehmann__erich_l:104568"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "The Honorable Erich L. Lehmann", 
+                    "ref": "<t>The Honorable Erich L. Lehmann.</t> <au>Stigler, S.</au>. ???", 
+                    "author": "Stigler, S.", 
                     "bibtype": "misc", 
                     "year": "2009", 
                     "howpublished": "???", 

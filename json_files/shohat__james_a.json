@@ -5,8 +5,8 @@
             "Service": [], 
             "Obituary": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Dr. James A. Shohat.", 
+                    "ref": "<t>Dr. James A. Shohat.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "1944", 
@@ -70,6 +70,7 @@
             ], 
             "alt_ims_id": "shohat__james", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [
                 {
                     "title": "Untitled", 

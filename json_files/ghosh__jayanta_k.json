@@ -73,14 +73,20 @@
             "alt_ims_id": "ghosh__jayanta", 
             "Festschrift": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Pushing the Limits of Contemporary Statistics: Contributions in Honor of Jayanta K. Ghosh", 
+                    "ref": "<t>Pushing the Limits of Contemporary Statistics: Contributions in Honor of Jayanta K. Ghosh.</t> <au>Clarke, B. and Ghosal, S.</au>. ???", 
+                    "author": "Clarke, B. and Ghosal, S.", 
                     "bibtype": "misc", 
                     "year": "2008", 
                     "howpublished": "???", 
                     "topline": "misc ghosh__jayanta_k:386360", 
                     "id": "ghosh__jayanta_k:386360"
+                }
+            ], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/12549703.jpg", 
+                    "href": "http://www.stat.purdue.edu/~ghosh/ghosh-sm.jpg"
                 }
             ], 
             "Death_Notice": [], 

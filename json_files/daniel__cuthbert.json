@@ -7,9 +7,9 @@
             "DOB": "1904-08-27", 
             "DVD": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "An interview with Cuthbert Daniel, parts I and II", 
+                    "ref": "<t>An interview with Cuthbert Daniel, parts I and II.</t> <au>Hunter, J. S.</au>. ???", 
+                    "author": "Hunter, J. S.", 
                     "bibtype": "misc", 
                     "year": "1988", 
                     "howpublished": "???", 
@@ -107,6 +107,7 @@
                     "id": "daniel__cuthbert:7"
                 }
             ], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [], 
             "Endowment": [], 

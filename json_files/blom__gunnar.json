@@ -59,9 +59,9 @@
             ], 
             "Festschrift": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Contributions to Probability and Statistics in Honour of Gunnar Blom", 
+                    "ref": "<t>Contributions to Probability and Statistics in Honour of Gunnar Blom.</t> <au>Lanke, J. and Lindgren, G.</au>. ???", 
+                    "author": "Lanke, J. and Lindgren, G.", 
                     "bibtype": "book", 
                     "year": "1985", 
                     "howpublished": "???", 
@@ -69,6 +69,7 @@
                     "id": "blom__gunnar:7"
                 }
             ], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {

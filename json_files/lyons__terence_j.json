@@ -68,15 +68,21 @@
             ], 
             "alt_ims_id": "lyons__terence", 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/272539.jpg", 
+                    "href": "http://sag.maths.ox.ac.uk/tlyons/terry99s.jpg"
+                }
+            ], 
             "Death_Notice": [], 
             "Education": [], 
             "Endowment": [], 
             "Archive": [], 
             "Biography": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Terry Lyons elected FRS", 
+                    "ref": "<t>Terry Lyons elected FRS.</t> <au>Hall, P.</au>. ???", 
+                    "author": "Hall, P.", 
                     "bibtype": "misc", 
                     "year": "2002", 
                     "howpublished": "???", 

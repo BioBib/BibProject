@@ -17,9 +17,9 @@
             "Selected_Works": [], 
             "In_Memoriam": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Harold Ruben: 1923-2001", 
+                    "ref": "<t>Harold Ruben: 1923-2001.</t> <au>Styan, G.</au>. ???", 
+                    "author": "Styan, G.", 
                     "bibtype": "misc", 
                     "year": "2002", 
                     "howpublished": "???", 
@@ -27,9 +27,9 @@
                     "id": "ruben__harold:992970"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Harold Ruben (April 3, 1923-November 30, 2001)", 
+                    "ref": "<t>Harold Ruben (April 3, 1923-November 30, 2001).</t> <au>Styan, G. P. H.</au>. ???", 
+                    "author": "Styan, G. P. H.", 
                     "bibtype": "misc", 
                     "year": "2002", 
                     "howpublished": "???", 
@@ -72,6 +72,7 @@
                 }
             ], 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {

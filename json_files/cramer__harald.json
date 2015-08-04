@@ -1,7 +1,18 @@
 {
     "records": [
         {
-            "Autobiography": [], 
+            "Autobiography": [
+                {
+                    "title": "Half a century with probability theory: Some personal recollections", 
+                    "ref": "<t>Half a century with probability theory: Some personal recollections.</t> <au>Cram&eacute;r, H.</au>. <j>Ann. Probab.</j>, Vol. <v>4</v>, pp.<pp>509-546</pp>", 
+                    "author": "Cram&eacute;r, H.", 
+                    "bibtype": "article", 
+                    "year": "1976", 
+                    "howpublished": "<j>Ann. Probab.</j>, Vol. <v>4</v>, pp.<pp>509-546</pp>", 
+                    "topline": "article cramer__harald:8", 
+                    "id": "cramer__harald:8"
+                }
+            ], 
             "Service": [], 
             "Obituary": [], 
             "DOB": "1893-09-25", 
@@ -186,6 +197,7 @@
                     "id": "cramer__harald:9"
                 }
             ], 
+            "Image": [], 
             "Death_Notice": [
                 {
                     "title": "Untitled", 

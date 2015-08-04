@@ -28,9 +28,9 @@
             "Selected_Works": [], 
             "In_Memoriam": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Alan Stuart (1922-1998)", 
+                    "ref": "<t>Alan Stuart (1922-1998).</t> <au>Jarge, C.</au>. ???", 
+                    "author": "Jarge, C.", 
                     "bibtype": "misc", 
                     "year": "1999", 
                     "howpublished": "???", 
@@ -65,6 +65,7 @@
                 }
             ], 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [], 
             "Endowment": [], 

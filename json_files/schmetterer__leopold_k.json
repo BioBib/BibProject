@@ -28,9 +28,9 @@
             "Selected_Works": [], 
             "In_Memoriam": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Professor Leopold K. Schmetterer (1919-2004)", 
+                    "ref": "<t>Professor Leopold K. Schmetterer (1919-2004).</t> <au>Pflug, G.</au>. ???", 
+                    "author": "Pflug, G.", 
                     "bibtype": "misc", 
                     "year": "2004", 
                     "howpublished": "???", 
@@ -91,6 +91,12 @@
             ], 
             "alt_ims_id": "schmetterer__leopold", 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/23716036.jpg", 
+                    "href": "http://www.zbp.univie.ac.at/bilder/ausstellung/zbp/schmetterer/schmettererp.jpg"
+                }
+            ], 
             "Death_Notice": [], 
             "Education": [
                 {
@@ -113,10 +119,10 @@
                     "title": "Leopold Schmetterer", 
                     "ref": "<t>Leopold Schmetterer.</t> <au>O'Connor, J. J. and Robertson, E. F.</au>. ???", 
                     "author": "O'Connor, J. J. and Robertson, E. F.", 
-                    "bibtype": "inwebcollection", 
+                    "bibtype": "incollection", 
                     "year": "2008", 
                     "howpublished": "???", 
-                    "topline": "inwebcollection schmetterer__leopold_k:9", 
+                    "topline": "incollection schmetterer__leopold_k:9", 
                     "id": "schmetterer__leopold_k:9"
                 }
             ]

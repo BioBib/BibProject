@@ -54,6 +54,12 @@
                 }
             ], 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/12923807.jpg", 
+                    "href": "http://www.math.binghamton.edu/dept/faculty/images/shelly.jpg"
+                }
+            ], 
             "Death_Notice": [], 
             "Education": [
                 {
@@ -83,9 +89,9 @@
                     "id": "zacks__shelemyahu:5"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Shelemyahu Zacks", 
+                    "ref": "<t>Shelemyahu Zacks.</t> <au>Mukhopadhyay, N.</au>. ???", 
+                    "author": "Mukhopadhyay, N.", 
                     "bibtype": "misc", 
                     "year": "2010", 
                     "howpublished": "???", 

@@ -5,8 +5,8 @@
             "Service": [], 
             "Obituary": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Dr. Alfred Lotka, statistician, dies", 
+                    "ref": "<t>Dr. Alfred Lotka, statistician, dies.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "1949", 
@@ -91,6 +91,7 @@
             ], 
             "alt_ims_id": "lotka__alfred", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [], 
             "Endowment": [], 

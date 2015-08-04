@@ -36,16 +36,6 @@
                     "howpublished": "<j>IMS Bulletin</j>, Vol. <v>38(5)</v>, pp.<pp>11-12</pp>", 
                     "topline": "article good__irving_j:10", 
                     "id": "good__irving_j:10"
-                }, 
-                {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
-                    "bibtype": "misc", 
-                    "year": "2009", 
-                    "howpublished": "???", 
-                    "topline": "misc good__irving_j:504128", 
-                    "id": "good__irving_j:504128"
                 }
             ], 
             "ims_id": "good__irving_j", 
@@ -90,6 +80,12 @@
             ], 
             "alt_ims_id": "good__irving", 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/34150085.jpg", 
+                    "href": "http://www2.wsls.com/mgmedia/image/294/0/78600/virginia_tech_professor_wwii_code-breaker_irving_g/"
+                }
+            ], 
             "Death_Notice": [
                 {
                     "title": "Untitled", 

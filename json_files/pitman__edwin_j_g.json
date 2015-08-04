@@ -1,7 +1,19 @@
 {
     "records": [
         {
-            "Autobiography": [], 
+            "Autobiography": [
+                {
+                    "title": "Reminiscences of a mathematician who strayed into statistics", 
+                    "ref": "<t>Reminiscences of a mathematician who strayed into statistics.</t> <au>Pitman, E. J. G.</au>. <inc>booktitle:making-of-statisticians</inc>. pp.<pp>112-125</pp>", 
+                    "author": "Pitman, E. J. G.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:making-of-statisticians", 
+                    "year": "1982", 
+                    "howpublished": "pp.<pp>112-125</pp>", 
+                    "topline": "incollection pitman__edwin_j_g:8", 
+                    "id": "pitman__edwin_j_g:8"
+                }
+            ], 
             "Service": [], 
             "Obituary": [
                 {
@@ -18,9 +30,9 @@
             "DOB": "1897-10-29", 
             "DVD": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Reminiscences of a mathematician who strayed into statistics", 
+                    "ref": "<t>Reminiscences of a mathematician who strayed into statistics.</t> <au>Pitman, E. J. G.</au>. ???", 
+                    "author": "Pitman, E. J. G.", 
                     "bibtype": "misc", 
                     "year": "1981", 
                     "howpublished": "???", 
@@ -115,13 +127,14 @@
             ], 
             "alt_ims_id": "pitman__edwin", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [], 
             "Endowment": [], 
             "Archive": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Edwin James George Pitman -- Records, 1922-1993", 
+                    "ref": "<t>Edwin James George Pitman -- Records, 1922-1993.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "1993", 
@@ -142,8 +155,8 @@
                     "id": "pitman__edwin_j_g:14"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Pitman, Edwin James George (1897-1993)", 
+                    "ref": "<t>Pitman, Edwin James George (1897-1993).</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "1993", 
@@ -224,6 +237,20 @@
             "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
             "ref": "<t>Encyclopedia of Statistical Sciences.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
             "id": "booktitle:encyclopedia-of-statistical-sciences"
+        }, 
+        {
+            "publisher": "Springer", 
+            "title": "The Making of Statisticians", 
+            "url": "http://www.worldcat.org/title/making-of-statisticians/oclc/8283885", 
+            "booktitle": "The Making of Statisticians", 
+            "address": "New York", 
+            "editors": "J. Gani", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:making-of-statisticians", 
+            "year": "1982", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>The Making of Statisticians.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:making-of-statisticians"
         }
     ]
 }

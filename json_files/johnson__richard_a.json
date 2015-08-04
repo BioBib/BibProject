@@ -57,6 +57,7 @@
             ], 
             "alt_ims_id": "johnson__richard", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {
@@ -86,8 +87,8 @@
                     "id": "johnson__richard_a:7"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Richard A. Johnson", 
+                    "ref": "<t>Richard A. Johnson.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2009", 

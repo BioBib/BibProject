@@ -5,9 +5,9 @@
             "Service": [], 
             "Obituary": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "John Hammersley: Founder of the mathematical theory of percolation", 
+                    "ref": "<t>John Hammersley: Founder of the mathematical theory of percolation.</t> <au>Grimmett, G.</au>. ???", 
+                    "author": "Grimmett, G.", 
                     "bibtype": "misc", 
                     "year": "2004", 
                     "howpublished": "???", 
@@ -15,8 +15,8 @@
                     "id": "hammersley__j_m:656447"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "John Hammersley", 
+                    "ref": "<t>John Hammersley.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2004", 
@@ -91,6 +91,7 @@
                     "id": "hammersley__j_m:8"
                 }
             ], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {

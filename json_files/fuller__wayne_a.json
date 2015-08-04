@@ -60,6 +60,12 @@
             ], 
             "alt_ims_id": "fuller__wayne", 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/1297796.jpg", 
+                    "href": "http://cssm.iastate.edu/pix/people/waf.jpg"
+                }
+            ], 
             "Death_Notice": [], 
             "Education": [
                 {
@@ -79,8 +85,8 @@
             "Archive": [], 
             "Biography": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Wayne A. Fuller", 
+                    "ref": "<t>Wayne A. Fuller.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2009", 

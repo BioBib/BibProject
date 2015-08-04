@@ -65,6 +65,16 @@
                 }
             ], 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/2597640.jpg", 
+                    "href": "http://www.stat.tamu.edu/~eparzen/parzen1.gif"
+                }, 
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/12795167.jpg", 
+                    "href": "http://www.stat.tamu.edu/~eparzen/parzen1.gif"
+                }
+            ], 
             "Death_Notice": [], 
             "Education": [
                 {
@@ -84,8 +94,8 @@
             "Archive": [], 
             "Biography": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Emanuel Parzen", 
+                    "ref": "<t>Emanuel Parzen.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2009", 
@@ -94,8 +104,8 @@
                     "id": "parzen__emanuel:244531"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Emanuel Parzen retires", 
+                    "ref": "<t>Emanuel Parzen retires.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2010", 

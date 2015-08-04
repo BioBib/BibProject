@@ -127,6 +127,12 @@
             ], 
             "alt_ims_id": "donoho__david", 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/848706.jpg", 
+                    "href": "http://www-stat.stanford.edu/~donoho/img/donoho.jpg"
+                }
+            ], 
             "Death_Notice": [], 
             "Education": [
                 {
@@ -156,8 +162,8 @@
                     "id": "donoho__david_l:16"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "David L. Donoho receives honorary degree", 
+                    "ref": "<t>David L. Donoho receives honorary degree.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2009", 
@@ -176,11 +182,11 @@
                     "id": "donoho__david_l:17"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "2013 Shaw Prize laureate", 
+                    "ref": "<t>2013 Shaw Prize laureate.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
-                    "year": "5", 
+                    "year": "2013", 
                     "howpublished": "???", 
                     "topline": "misc donoho__david_l:924299", 
                     "id": "donoho__david_l:924299"

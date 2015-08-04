@@ -17,9 +17,9 @@
             "Selected_Works": [], 
             "In_Memoriam": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Herbert E. Robbins (12 January 1915-12 February 2001)", 
+                    "ref": "<t>Herbert E. Robbins (12 January 1915-12 February 2001).</t> <au>Siegmund, D. and Levin, B.</au>. ???", 
+                    "author": "Siegmund, D. and Levin, B.", 
                     "bibtype": "misc", 
                     "year": "2001", 
                     "howpublished": "???", 
@@ -123,6 +123,7 @@
             ], 
             "alt_ims_id": "robbins__herbert", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {

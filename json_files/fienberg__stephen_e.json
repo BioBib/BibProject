@@ -87,6 +87,12 @@
             ], 
             "alt_ims_id": "fienberg__stephen", 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/320510.jpg", 
+                    "href": "http://lib.stat.cmu.edu/~fienberg/fienberg.JPG"
+                }
+            ], 
             "Death_Notice": [], 
             "Education": [
                 {
@@ -106,9 +112,9 @@
             "Archive": [], 
             "Biography": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Stephen Fienberg: Applying statistics to make a difference", 
+                    "ref": "<t>Stephen Fienberg: Applying statistics to make a difference.</t> <au>Biele, J.</au>. ???", 
+                    "author": "Biele, J.", 
                     "bibtype": "misc", 
                     "year": "2012", 
                     "howpublished": "???", 
@@ -116,9 +122,9 @@
                     "id": "fienberg__stephen_e:413531"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "A conversation with Stephen E. Fienberg", 
+                    "ref": "<t>A conversation with Stephen E. Fienberg.</t> <au>Straf, M. L. and Tanur, J. M.</au>. ???", 
+                    "author": "Straf, M. L. and Tanur, J. M.", 
                     "bibtype": "misc", 
                     "year": "2013", 
                     "howpublished": "???", 

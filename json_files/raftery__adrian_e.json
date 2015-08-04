@@ -15,9 +15,9 @@
             "Selected_Works": [], 
             "In_Memoriam": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Bishnoedath Leo Raktoe", 
+                    "ref": "<t>Bishnoedath Leo Raktoe.</t> <au>Pesotan, H. and Singh, R. S.</au>. ???", 
+                    "author": "Pesotan, H. and Singh, R. S.", 
                     "bibtype": "misc", 
                     "year": "2010", 
                     "howpublished": "???", 
@@ -79,6 +79,12 @@
             ], 
             "alt_ims_id": "raftery__adrian", 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/743892.jpg", 
+                    "href": "http://www.stat.washington.edu/raftery/Raftery_crop2.jpg"
+                }
+            ], 
             "Death_Notice": [], 
             "Education": [], 
             "Endowment": [], 

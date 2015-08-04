@@ -59,6 +59,7 @@
                 }
             ], 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {
@@ -78,9 +79,9 @@
             "Archive": [], 
             "Biography": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Mathematics is a game of life", 
+                    "ref": "<t>Mathematics is a game of life.</t> <au>Cromie, W. J.</au>. ???", 
+                    "author": "Cromie, W. J.", 
                     "bibtype": "misc", 
                     "year": "2001", 
                     "howpublished": "???", 
@@ -88,8 +89,8 @@
                     "id": "liu__jun:679137"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Jun Liu, COPSS Presidents' awardee", 
+                    "ref": "<t>Jun Liu, COPSS Presidents' awardee.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2002", 

@@ -48,8 +48,8 @@
             ], 
             "Obituary": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Prominent statistician broke color barriers", 
+                    "ref": "<t>Prominent statistician broke color barriers.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2010", 
@@ -58,8 +58,8 @@
                     "id": "blackwell__david_h:212647"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "David Blackwell, scholar of probability, dies at 91", 
+                    "ref": "<t>David Blackwell, scholar of probability, dies at 91.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2010", 
@@ -504,6 +504,12 @@
                     "id": "blackwell__david_h:9"
                 }
             ], 
+            "Image": [
+                {
+                    "src": "http://celebratio.org/cmmedia/honoree/Blackwell_1/cover_Blackwell-chop.jpeg.85x0_q85.jpg", 
+                    "href": "http://celebratio.org/Blackwell_DH"
+                }
+            ], 
             "Death_Notice": [
                 {
                     "title": "David Blackwell: 1919-2010", 
@@ -597,9 +603,9 @@
                     "id": "blackwell__david_h:33"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Preface (biography of David Blackwell)", 
+                    "ref": "<t>Preface (biography of David Blackwell).</t> <au>Ferguson, T. S. and Shapley, L. S. and MacQueen, J. B.</au>. ???", 
+                    "author": "Ferguson, T. S. and Shapley, L. S. and MacQueen, J. B.", 
                     "bibtype": "misc", 
                     "year": "1996", 
                     "howpublished": "???", 

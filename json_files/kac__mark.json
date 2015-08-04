@@ -1,7 +1,29 @@
 {
     "records": [
         {
-            "Autobiography": [], 
+            "Autobiography": [
+                {
+                    "title": "The search for the meaning of independence", 
+                    "ref": "<t>The search for the meaning of independence.</t> <au>Kac, M.</au>. <inc>booktitle:making-of-statisticians</inc>. pp.<pp>62-72</pp>", 
+                    "author": "Kac, M.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:making-of-statisticians", 
+                    "year": "1982", 
+                    "howpublished": "pp.<pp>62-72</pp>", 
+                    "topline": "incollection kac__mark:7", 
+                    "id": "kac__mark:7"
+                }, 
+                {
+                    "title": "Enigmas of Chance", 
+                    "ref": "<t>Enigmas of Chance.</t> <au>Kac, M.</au>. Harper and Row", 
+                    "author": "Kac, M.", 
+                    "bibtype": "book", 
+                    "year": "1985", 
+                    "howpublished": "Harper and Row", 
+                    "topline": "book kac__mark:8", 
+                    "id": "kac__mark:8"
+                }
+            ], 
             "Service": [], 
             "Obituary": [], 
             "DOB": "1914-08-16", 
@@ -106,6 +128,7 @@
                 }
             ], 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [
                 {
                     "title": "Untitled", 
@@ -135,9 +158,9 @@
             "Archive": [], 
             "Biography": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Levensbericht van Mark Kac (3 augustus 1914-25 oktober 1984).", 
+                    "ref": "<t>Levensbericht van Mark Kac (3 augustus 1914-25 oktober 1984).</t> <au>Kasteleyn, P. W.</au>. ???", 
+                    "author": "Kasteleyn, P. W.", 
                     "bibtype": "misc", 
                     "year": "1985", 
                     "howpublished": "???", 
@@ -167,5 +190,20 @@
             ]
         }
     ], 
-    "books": []
+    "books": [
+        {
+            "publisher": "Springer", 
+            "title": "The Making of Statisticians", 
+            "url": "http://www.worldcat.org/title/making-of-statisticians/oclc/8283885", 
+            "booktitle": "The Making of Statisticians", 
+            "address": "New York", 
+            "editors": "J. Gani", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:making-of-statisticians", 
+            "year": "1982", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>The Making of Statisticians.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:making-of-statisticians"
+        }
+    ]
 }

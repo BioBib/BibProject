@@ -1,7 +1,19 @@
 {
     "records": [
         {
-            "Autobiography": [], 
+            "Autobiography": [
+                {
+                    "title": "The Pleasures of Statistics: The autobiography of Frederick Mosteller", 
+                    "ref": "<t>The Pleasures of Statistics: The autobiography of Frederick Mosteller.</t> <au>Mosteller, F.</au>. <ed>S. E. Fienberg, D. C. Hoaglin and J. M. Tanur</ed>. S. E. Fienberg, D. C. Hoaglin and J. M. Tanur, Springer", 
+                    "author": "Mosteller, F.", 
+                    "bibtype": "book", 
+                    "editor": "S. E. Fienberg, D. C. Hoaglin and J. M. Tanur", 
+                    "year": "2010", 
+                    "howpublished": "S. E. Fienberg, D. C. Hoaglin and J. M. Tanur, Springer", 
+                    "topline": "book mosteller__frederick:7", 
+                    "id": "mosteller__frederick:7"
+                }
+            ], 
             "Service": [], 
             "Obituary": [], 
             "DOB": "1916-12-24", 
@@ -38,9 +50,9 @@
                     "id": "mosteller__frederick:9"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Professor Emeritus Frederick Mosteller", 
+                    "ref": "<t>Professor Emeritus Frederick Mosteller.</t> <au>Stigler, S.</au>. ???", 
+                    "author": "Stigler, S.", 
                     "bibtype": "misc", 
                     "year": "2006", 
                     "howpublished": "???", 
@@ -132,8 +144,8 @@
             "Festschrift": [
                 {
                     "title": "A Statistical Model: Frederick Mosteller's Contributions to Statistics, Science, and Public Policy", 
-                    "ref": "<t>A Statistical Model: Frederick Mosteller's Contributions to Statistics, Science, and Public Policy.</t> Springer", 
-                    "author": "Anonymous", 
+                    "ref": "<t>A Statistical Model: Frederick Mosteller's Contributions to Statistics, Science, and Public Policy.</t> <au>Fienberg, S. E. and Hoaglin, D. C. and Kruskal, W. H. and Tanur, J. M.</au>. Springer", 
+                    "author": "Fienberg, S. E. and Hoaglin, D. C. and Kruskal, W. H. and Tanur, J. M.", 
                     "bibtype": "book", 
                     "year": "1990", 
                     "howpublished": "Springer", 
@@ -141,6 +153,7 @@
                     "id": "mosteller__frederick:8"
                 }
             ], 
+            "Image": [], 
             "Death_Notice": [], 
             "Education": [
                 {
@@ -213,9 +226,9 @@
                     "id": "mosteller__frederick:21"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Frederick Mosteller, December 24, 1916-July 23, 2006", 
+                    "ref": "<t>Frederick Mosteller, December 24, 1916-July 23, 2006.</t> <au>Fienberg, S. E. and Hoaglin, D. C. and Tanur, J. M.</au>. ???", 
+                    "author": "Fienberg, S. E. and Hoaglin, D. C. and Tanur, J. M.", 
                     "bibtype": "misc", 
                     "year": "2013", 
                     "howpublished": "???", 

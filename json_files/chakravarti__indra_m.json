@@ -5,8 +5,8 @@
             "Service": [], 
             "Obituary": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Indra M. Chakravarti, professor of statistics, dies at 74", 
+                    "ref": "<t>Indra M. Chakravarti, professor of statistics, dies at 74.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2002", 
@@ -38,9 +38,9 @@
                     "id": "chakravarti__indra_m:9"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Indra Mohan Chakravarti (1928-2002)", 
+                    "ref": "<t>Indra Mohan Chakravarti (1928-2002).</t> <au>Sen, P. K. and Kallianpur, G.</au>. ???", 
+                    "author": "Sen, P. K. and Kallianpur, G.", 
                     "bibtype": "misc", 
                     "year": "2002", 
                     "howpublished": "???", 
@@ -89,6 +89,12 @@
             ], 
             "alt_ims_id": "chakravarti__indra", 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/1200283.jpg", 
+                    "href": "http://www.stat.unc.edu/faculty/gif/imc.gif"
+                }
+            ], 
             "Death_Notice": [], 
             "Education": [
                 {

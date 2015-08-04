@@ -1,13 +1,46 @@
 {
     "records": [
         {
-            "Autobiography": [], 
+            "Autobiography": [
+                {
+                    "title": "Reminiscences about the origins of linear programming", 
+                    "ref": "<t>Reminiscences about the origins of linear programming.</t> <au>Dantzig, G. B.</au>. <j>Oper. Res.</j>, Vol. <v>1</v>, pp.<pp>43-48</pp>", 
+                    "author": "Dantzig, G. B.", 
+                    "bibtype": "article", 
+                    "year": "1982", 
+                    "howpublished": "<j>Oper. Res.</j>, Vol. <v>1</v>, pp.<pp>43-48</pp>", 
+                    "topline": "article dantzig__george_b:8", 
+                    "id": "dantzig__george_b:8"
+                }, 
+                {
+                    "title": "Reminiscences about the origins of linear programming", 
+                    "ref": "<t>Reminiscences about the origins of linear programming.</t> <au>Dantzig, G. B.</au>. <inc>booktitle:mathematical-programming-the-state-of-the-art-bonn-1982</inc>. ???", 
+                    "author": "Dantzig, G. B.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:mathematical-programming-the-state-of-the-art-bonn-1982", 
+                    "year": "1982", 
+                    "howpublished": "???", 
+                    "topline": "incollection dantzig__george_b:9", 
+                    "id": "dantzig__george_b:9"
+                }, 
+                {
+                    "title": "Reminiscences about the origins of linear programming", 
+                    "ref": "<t>Reminiscences about the origins of linear programming.</t> <au>Dantzig, G. B.</au>. <inc>booktitle:mathematical-programming</inc>. ???", 
+                    "author": "Dantzig, G. B.", 
+                    "bibtype": "incollection", 
+                    "editor": "booktitle:mathematical-programming", 
+                    "year": "1982", 
+                    "howpublished": "???", 
+                    "topline": "incollection dantzig__george_b:10", 
+                    "id": "dantzig__george_b:10"
+                }
+            ], 
             "Service": [], 
             "Obituary": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "George B. Dantzig, operations research professor, dies at 90", 
+                    "ref": "<t>George B. Dantzig, operations research professor, dies at 90.</t> <au>Levy, D.</au>. ???", 
+                    "author": "Levy, D.", 
                     "bibtype": "misc", 
                     "year": "2005", 
                     "howpublished": "???", 
@@ -15,8 +48,8 @@
                     "id": "dantzig__george_b:627513"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "George Bernard Dantzig -- Stanford math professor", 
+                    "ref": "<t>George Bernard Dantzig -- Stanford math professor.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2005", 
@@ -25,9 +58,9 @@
                     "id": "dantzig__george_b:216354"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "Vanguard mathematician George Dantzig dies", 
+                    "ref": "<t>Vanguard mathematician George Dantzig dies.</t> <au>Holley, J.</au>. ???", 
+                    "author": "Holley, J.", 
                     "bibtype": "misc", 
                     "year": "2005", 
                     "howpublished": "???", 
@@ -35,9 +68,9 @@
                     "id": "dantzig__george_b:530111"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "George B. Dantzig, 90; devised math solution to broad problems", 
+                    "ref": "<t>George B. Dantzig, 90; devised math solution to broad problems.</t> <au>Pearce, J.</au>. ???", 
+                    "author": "Pearce, J.", 
                     "bibtype": "misc", 
                     "year": "2005", 
                     "howpublished": "???", 
@@ -130,11 +163,11 @@
                 }, 
                 {
                     "title": "Remembering George Dantzig", 
-                    "ref": "<t>Remembering George Dantzig.</t> <au>Cottle, R. W. and Wright, M. H.</au>. <j>SIAM News</j>, Vol. <v>Apr. 12,</v>", 
+                    "ref": "<t>Remembering George Dantzig.</t> <au>Cottle, R. W. and Wright, M. H.</au>. <j>SIAM News</j>, Vol. <v>Apr. 12</v>", 
                     "author": "Cottle, R. W. and Wright, M. H.", 
                     "bibtype": "article", 
                     "year": "2006", 
-                    "howpublished": "<j>SIAM News</j>, Vol. <v>Apr. 12,</v>", 
+                    "howpublished": "<j>SIAM News</j>, Vol. <v>Apr. 12</v>", 
                     "topline": "article dantzig__george_b:22", 
                     "id": "dantzig__george_b:22"
                 }, 
@@ -266,14 +299,20 @@
             ], 
             "alt_ims_id": "dantzig__george", 
             "Festschrift": [], 
+            "Image": [
+                {
+                    "src": "http://academic.research.microsoft.com/Photo/904139.jpg", 
+                    "href": "http://upload.wikimedia.org/wikipedia/en/thumb/2/2c/George_Dantzig.jpg/210px-George_Dantzig.jpg"
+                }
+            ], 
             "Death_Notice": [
                 {
                     "title": "Optimization community mourns loss of two linear programming giants", 
-                    "ref": "<t>Optimization community mourns loss of two linear programming giants.</t> <j>SIAM News</j>, Vol. <v>Jun. 10,</v>", 
+                    "ref": "<t>Optimization community mourns loss of two linear programming giants.</t> <j>SIAM News</j>, Vol. <v>Jun. 10</v>", 
                     "author": "Anonymous", 
                     "bibtype": "article", 
                     "year": "2005", 
-                    "howpublished": "<j>SIAM News</j>, Vol. <v>Jun. 10,</v>", 
+                    "howpublished": "<j>SIAM News</j>, Vol. <v>Jun. 10</v>", 
                     "topline": "article dantzig__george_b:15", 
                     "id": "dantzig__george_b:15"
                 }
@@ -393,6 +432,34 @@
             "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
             "ref": "<t>More Mathematical People: Contemporary Conversations.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
             "id": "booktitle:more-mathematical-people-contemporary-conversations"
+        }, 
+        {
+            "publisher": "Springer", 
+            "title": "Mathematical Programming: The State of the Art", 
+            "url": "http://www.worldcat.org/title/mathematical-programming-the-state-of-the-art-bonn-1982/oclc/9556834", 
+            "booktitle": "Mathematical Programming: The State of the Art", 
+            "address": "Berlin", 
+            "editors": "A. Bachem and M. Gr&ouml;tschel and B. Korte", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:mathematical-programming-the-state-of-the-art-bonn-1982", 
+            "year": "1983", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Mathematical Programming: The State of the Art.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:mathematical-programming-the-state-of-the-art-bonn-1982"
+        }, 
+        {
+            "publisher": "North-Holland", 
+            "title": "Mathematical Programming", 
+            "url": "http://www.worldcat.org/title/mathematical-programming/oclc/753297876", 
+            "booktitle": "Mathematical Programming", 
+            "address": "Amsterdam", 
+            "editors": "R. W. Cottle and M. L. Kelmanson and B. Korte", 
+            "bibtype": "reference", 
+            "top_line": "reference booktitle:mathematical-programming", 
+            "year": "1983", 
+            "howpublished": "In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "ref": "<t>Mathematical Programming.</t> In: <bt>A Century of Mathematics in America, Part III</bt>, American Mathematical Society", 
+            "id": "booktitle:mathematical-programming"
         }
     ]
 }

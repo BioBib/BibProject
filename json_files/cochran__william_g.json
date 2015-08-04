@@ -7,9 +7,9 @@
             "DOB": "1909-07-15", 
             "DVD": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "title": "The status of Statistics in 1940 as viewed from Iowa State College and the early years of the Ph.D. program at Ames", 
+                    "ref": "<t>The status of Statistics in 1940 as viewed from Iowa State College and the early years of the Ph.D. program at Ames.</t> <au>Cochran, W.</au>. ???", 
+                    "author": "Cochran, W.", 
                     "bibtype": "misc", 
                     "year": "1978", 
                     "howpublished": "???", 
@@ -227,6 +227,7 @@
             ], 
             "alt_ims_id": "cochran__william", 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [
                 {
                     "title": "Untitled", 

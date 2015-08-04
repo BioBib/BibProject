@@ -178,6 +178,7 @@
                 }
             ], 
             "Festschrift": [], 
+            "Image": [], 
             "Death_Notice": [
                 {
                     "title": "Untitled", 
@@ -207,8 +208,8 @@
             "Archive": [
                 {
                     "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
-                    "author": "Anonymous", 
+                    "ref": "<t>Untitled.</t> <au>Cornfield, Jerome</au>. ???", 
+                    "author": "Cornfield, Jerome", 
                     "bibtype": "misc", 
                     "year": "year?", 
                     "howpublished": "???", 
@@ -218,8 +219,8 @@
             ], 
             "Biography": [
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Jerome Cornfield, Chair: 1958-1960", 
+                    "ref": "<t>Jerome Cornfield, Chair: 1958-1960.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "1960", 
@@ -239,8 +240,8 @@
                     "id": "cornfield__jerome:22"
                 }, 
                 {
-                    "title": "Untitled", 
-                    "ref": "<t>Untitled.</t> ???", 
+                    "title": "Tribute to Jerome Cornfield", 
+                    "ref": "<t>Tribute to Jerome Cornfield.</t> ???", 
                     "author": "Anonymous", 
                     "bibtype": "misc", 
                     "year": "2013", 
