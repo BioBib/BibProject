@@ -16,6 +16,11 @@ import re
 p = subprocess.Popen(["git", "pull"],cwd="/bibserver/ims_legacy/BibProject/")
 p.wait()
 
+# After checking out the material from Github, we can see whether any of those files changed.
+# This will include material that has been modified by the IMS editor by hand
+# (As well as anything from the distributed update that has been pulled in.)
+changed_tex_files = subprocess.Popen(["git", "diff-index", "--name-only", "HEAD~1"],cwd="/bibserver/ims_legacy/BibProject/",stdout=subprocess.PIPE).communicate()[0].splitlines()
+
 # A checked out version of miniBibServer
 lib_path = os.path.abspath('/bibserver/ims_legacy/miniBibServer/')
 sys.path.append(lib_path)
@@ -40,12 +45,12 @@ from pprint import pprint
 # import ims_sources
 ## and instead we run this:
 
+# Double check (debugging code)
+print "Changed tex files:"
+pprint(changed_tex_files)
+
 import read_member_index
 urllist = read_member_index.read_member_index()
-
-def check_local (source):
-    """We may eventually do something interesting but for now, this does nothing."""
-    return True
 
 ## Now go through this script, which works as follows:
 
@@ -53,19 +58,26 @@ def check_local (source):
 
 ## Step 2: compare downloaded files to local copies
 
+local_commit_flag = False
+
 for item in urllist:
     member_id=item[0]
     # print "person name: " + member_id
     source=item[1]
-    # Maybe the only thing to do in this case is produce some new HTML,
-    # assuming we keep "staged" and "working" copies separate.  But as
-    # a first step, let's assume there's nothing to do in this case, and
-    # we just need to process the upstream files.
-    # print source[:11]
+    # The only thing to do when the member's information is stored in the Git repository is to produce some new HTML
     if (source[:11] == "./tex_files"):
-        upstream_filename = urllib2.unquote(source.rsplit("/",1)[1])
-        # at the moment this does nothing
-        check_local(source)
+        relative_path = source[2:]
+        # check that the path is correct; we might want 'source' here.
+        if (relative_path not in changed_tex_files):
+            print relative_path + " is not in list of changed tex files."
+            break
+        else:
+            local_filename = "/bibserver/ims_legacy/BibProject/tex_files/" + member_id + ".tex"
+            htmlcontent = ims_legacy.make_one(local_filename)
+            distributed_update.make_commit("master","new_html_files",member_id + ".html",htmlcontent)
+            with open("/bibserver/ims_legacy/WorkingDirectory/"+member_id+".json", "r") as f:
+                jsonstring = f.read()
+                distributed_update.make_commit("master","json_files",member_id + ".json",jsonstring)
     else:
         upstream_filename = urllib2.unquote(source.rsplit("/",1)[1])
 
@@ -130,5 +142,9 @@ for item in urllist:
                     distributed_update.make_pull_request(member_id,basename)
                 else:
                     sys.stdout.write('.')
+
+# If we've prepared any commits changing HTML files, then we should
+# push them... Oh wait, actually the commits are just made directly
+# without need to push.  Let's see if this works.
 
 print "done."
