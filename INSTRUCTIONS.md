@@ -37,6 +37,8 @@ the same in either case.)
 
 # The automated component
 
+(This section can safely be ignored for the first read: it summarizes how the index is processed automatically.)
+
 A script runs every day at 1AM UK time, via the following crontab
 entry in joe's directory on li311-58.members.linode.com:
 
