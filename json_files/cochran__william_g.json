@@ -20,11 +20,11 @@
             "Collected_Works": [
                 {
                     "title": "Contributions to Statistics", 
-                    "ref": "<t>Contributions to Statistics.</t> <au>Cochran, W. G.</au>. Wiley, pp.<pp>vii-xiii</pp>", 
+                    "ref": "<t>Contributions to Statistics.</t> <au>Cochran, W. G.</au>. Wiley", 
                     "author": "Cochran, W. G.", 
                     "bibtype": "book", 
                     "year": "1982", 
-                    "howpublished": "Wiley, pp.<pp>vii-xiii</pp>", 
+                    "howpublished": "Wiley", 
                     "topline": "book cochran__william_g:32", 
                     "id": "cochran__william_g:32"
                 }
@@ -227,7 +227,6 @@
             ], 
             "alt_ims_id": "cochran__william", 
             "Festschrift": [], 
-            "Image": [], 
             "Death_Notice": [
                 {
                     "title": "Untitled", 
@@ -318,6 +317,16 @@
                     "howpublished": "Vol. <v>17</v>, pp.<pp>171-173</pp>", 
                     "topline": "incollection cochran__william_g:28", 
                     "id": "cochran__william_g:28"
+                }, 
+                {
+                    "title": "Forward", 
+                    "ref": "<t>Forward.</t> <au>F. Mosteller</au>. In: <bt>Contributions to Statistics</bt>, Wiley, pp.<pp>vii-xiii</pp>", 
+                    "author": "F. Mosteller", 
+                    "bibtype": "incollection", 
+                    "year": "1982", 
+                    "howpublished": "In: <bt>Contributions to Statistics</bt>, Wiley, pp.<pp>vii-xiii</pp>", 
+                    "topline": "incollection cochran__william_g:32a", 
+                    "id": "cochran__william_g:32a"
                 }
             ]
         }
